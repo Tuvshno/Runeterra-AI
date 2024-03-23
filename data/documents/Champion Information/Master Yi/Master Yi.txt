@@ -1,0 +1,71 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Master Yi
+      * Release date: 2009-02-21
+      * Last changed: V14.2
+      * Class(es): Skirmisher, Legacy, Assassin, Fighter
+      * Position(s): Jungle
+      * Resource: Mana
+      * Range type: Melee
+      * Adaptive type: Physical
+      * Store price: 450 (260 after crafting)
+      * Ratings: Damage: 3, Toughness: 1, Control: 1, Mobility: 2, Utility: 1
+      * Style: Difficulty: Champion
+
+**Master Yi**
+
+| Base statistics |
+| --- |
+| Health: 669 (+100) |
+| Mana: 251 (+42) |
+| Health regen. (per 5s): 7.5 (+0.65) |
+| Mana regen. (per 5s): 7.25 (+0.45) |
+| Armor: 33 (+4.2) |
+| Attack damage: 65 (+2.2) |
+| Magic resist.: 32 (+2.05) |
+| Crit. damage: 175% |
+| Move. speed: 355 |
+| Attack range: 175 |
+| Attack speed: Base AS: 0.679, Attack windup: 24.375%, AS ratio: N/A, Bonus AS: +2% |
+| Unit radius: Gameplay radius: 65, Selection radius: 125, Pathing radius: 35, Acq. radius: 600 |
+
+**Special statistics**
+
+* ARAM: Damage Dealt: +0%, Damage Received: -3%
+* Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+* One For All: Damage Dealt: +0%, Damage Received: +0%
+* URF: Damage Dealt: -10%, Damage Received: +0%
+* Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+* Arena: Damage Dealt: +0%, Damage Received: +5%
+
+**Abilities**
+
+[Double Strike]
+
+* Passive: Master Yi's basic attacks on-hit generate a stack of Double Strike for 4 seconds, refreshing on subsequent hits and stacking up to 3 times. At 3 stacks, Master Yi's next basic attack on-attack is empowered to consume the stacks to strike twice, the second strike dealing 50% AD physical damage.
+* The second strike applies on-hit and on-attack effects at 100% effectiveness and is affected by critical strike modifiers.
+* If Master Yi's primary target is killed before the second strike, he automatically attacks another enemy within 300 range.
+* The second strike can critically strike structures.
+
+[Alpha Strike]
+
+* COST: 50 / 55 / 60 / 65 / 70 Mana
+* COOLDOWN: 20 / 19.5 / 19 / 18.5 / 18 seconds
+* CAST TIME: none
+* TARGET RANGE: 600
+* EFFECT RADIUS: 600
+* Active: Master Yi vanishes and becomes unable to act for 0.231 seconds. After that, he marks the target enemy and then proceeds to mark the nearest visible un-marked enemy within 600 units, recurring every 0.231 seconds (up to 3 times), or until there are no more un-marked targets. During Alpha Strike, Master Yi can select a direction from the primary target.
+* Upon finishing marking, Master Yi reappears 75 units in the targeted direction, or in front of the target otherwise, and then becomes able to act again 0.165 seconds later (1.087 seconds total after the start of the cast with 4 bounces).
+* If the primary target dies or is too far away during the delay, Master Yi will reappear at the initial cast location instead.
+* Master Yi then detonates the marks, dealing physical damage and applying on-hit effects at 75% effectiveness. Marks after the first on the same target instantly deal 25% damage and apply on-hit effects at 18.75% effectiveness.
+* Physical Damage: 30 / 60 / 90 / 120 / 150 (+ 50% AD), Reduced Damage per hit: 7.5 / 15 / 22.5 / 30 / 37.5 (+ 12.5% AD), Maximum Single-Target Damage: 52.5 / 105 / 157.5 / 210 / 262.5 (+ 87.5% AD), Monster Bonus Damage: 75 / 100 / 125 / 150 / 175, Monster Total Damage: 105 / 160 / 215 / 270 / 325 (+ 50% AD), Reduced Monster Damage per hit: 26.25 / 23.5 / 40 / 53.75 / 67.5 (+ 12.5% AD), Max Monster Single-Target Damage: 183.75 / 280 / 376.25 / 472.5 / 568.75 (+ 87.5% AD)
+* Alpha Strike's primary and lesser damage can critically strike for bonus physical damage equal to (17.5% + 8.75%) AD and (4.375% + 2.1875%) AD, respectively.
+* Basic attacks on-hit reduce Alpha Strike's current cooldown by 1 second.
+
+**Map-Specific Differences**
+
+* Ultra Rapid Fire differences: Cooldown begins after the blink.
+* Arena differences: Base damage changed to 20 / 45 / 70 / 95 / 120, AD ratio changed to 40% AD.
+* Meditate differences: Channel duration reduced to 4 seconds, minimum heal per tick: 15 / 25 / 35 / 45 / 55, maximum heal per tick: 30 / 50 / 70 / 90 / 110, minimum total heal: 120 / 200 / 280 / 360 / 440, maximum total heal: 240 / 400 / 560 / 720 / 880.

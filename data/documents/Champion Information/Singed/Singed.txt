@@ -1,0 +1,416 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champion: Singed
+      * Image
+        * Singed
+      * Gameplay
+        * Cosmetics
+        * Audio
+        * Development
+        * Patch History
+        * History
+        * Trivia
+      * Base Statistics
+        * Health: 650 (+99)
+        * Mana: 330 (+45)
+        * Health regeneration (per 5s): 9.5 (+0.55)
+        * Mana regeneration (per 5s): 7.5 (+0.55)
+        * Armor: 34 (+4.7)
+        * Attack damage: 63 (+3.4)
+        * Magic resist.: 32 (+2.05)
+        * Crit. damage: 175%
+        * Move. speed: 345
+        * Attack range: 125
+        * Attack speed: 0.625
+        * Attack windup: 20%
+        * AS ratio: N/A
+        * Bonus AS: +1.9%
+        * Unit radius: 65
+        * Selection radius: 135
+        * Pathing radius: 35
+        * Acq. radius: 300
+      * Special Statistics
+        * ARAM: Nexus Blitz: Damage Dealt: -10%
+          Damage Received: +10%
+        * One For All: Poison Trail stacks with one another
+        * URF: Damage Dealt: +0%
+          Damage Received: +0%
+        * URF: Damage Dealt: -10%
+          Damage Received: +0%
+        * URF: Damage Dealt: +0%
+          Damage Received: +5%
+        * URF: Damage Dealt: +0%
+          Damage Received: +0%
+        * URF: Damage Dealt: +0%
+          Damage Received: +0%
+        * URF: Damage Dealt: +0%
+          Damage Received: -10%
+        * URF: Damage Dealt: +0%
+          Damage Received: +0%
+        * URF: Damage Dealt: +0%
+          Damage Received: +0%
+      * Abilities
+        * Noxious Slipstream
+          * Passive:
+            * When Singed moves near a champion, he gains a stack of Noxious Slipstream for 2 seconds, refreshing on subsequent passes and stacking up to 25 times.
+            * For each stack, Singed gains 25% bonus movement speed, up to a maximum of 625%.
+        * Poison Trail
+          * Toggle:
+            * Singed continually creates a toxic cloud in his wake that lingers for 3.25 seconds.
+            * The cloud inflicts poison to enemies within, and resets the duration every 0.25 seconds while they remain.
+            * Poison:
+              * The target takes magic damage every 0.25 seconds over 2 seconds.
+              * Subsequent inflictions refresh the duration.
+              * Magic Damage per Tick: 5 / 7.5 / 10 / 12.5 / 15 (+ 10% AP)
+              * Total Magic Damage: 40 / 60 / 80 / 100 / 120 (+ 80% AP)
+      * Map-Specific Differences
+        * One for All: Poison Trail stacks with one another
+      * Skins
+        * Original
+        * Riot Squad
+        * Hextech
+        * Surfer
+        * Mad Scientist
+        * Augmented
+        * Silver Age
+        * Snow Day
+        * SSW
+        * Beekeeper
+        * Resistance
+        * New SFX/VFX
+        * Chromas: Astronaut Singed
+          * Amethyst
+          * Catseye
+          * Emerald
+          * Obsidian
+          * Pearl
+          * Ruby
+          * Sapphire
+          * Turquoise
+      * Voice filter
+      * New SFX/VFX
+      * Chromas: Astronaut Singed Chromas
+        * Amethyst
+        * Catseye
+        * Emerald
+        * Obsidian
+        * Pearl
+        * Ruby
+        * Sapphire
+        * Turquoise
+    * Patch history
+      * V14.1: January 12th Hotfix
+        * Poison Trail: AP ratio per tick reduced to 10% AP from 11.25% AP
+      * V13.22: Stats
+        * Base attack speed increased to 0.625 from 0.613
+        * Attack speed ratio increased to 0.625 from 0.613
+        * Attack windup reduced to 20% from 23.618%
+      * V13.21: Poison Trail
+        * Bug Fix: Damage instances now consistently stack Conqueror when the buff was about to run out at the same time as the damage would happen
+      * V13.15: Poison Trail
+        * Bug Fix: Now properly targets and deals damage to the Baron Nashor
+      * V13.3: Insanity Potion
+        * Undocumented: Poison Trail Grievous Wounds strength increased to 40% from 25%
+      * V12.23: General
+        * Bug Fix: Basic attack hit VFX are now properly visible
+      * V12.22: Stats
+        * Attack damage growth increased to 3.4 from 3.38
+      * V12.15: Noxious Slipstream
+        * Bonus movement speed increased to 25% from 20%
+        * Cooldown reduced to 8 seconds from 10
+      * Insanity Potion
+        * Bonus stats increased to 30 / 65 / 100 from 20 / 60 / 100
+      * V12.14: Insanity Potion
+        * Bug Fix: VFX are now properly shown
+      * V12.12: Mega Adhesive
+        * Slow strength changed to 50 / 55 / 60 / 65 / 70% from 60% at all ranks
+      * Insanity Potion
+        * Bonus stats changed to 20 / 60 / 100 from 30 / 60 / 90
+      * V12.11: Insanity Potion
+        * Poison Trail Grievous Wounds strength reduced to 25% from 30%
+      * V12.10: Insanity Potion
+        * Stats
+          * Base health increased to 650 from 580
+          * Health growth increased to 99 from 85
+          * Armor growth increased to 4.7 from 3.5
+          * Magic resistance growth increased to 2.05 from 1.25
+          * Poison Trail Grievous Wounds strength reduced to 30% from 40%
+      * V11.21: General
+        * Base voice lines have been remastered to sound clearer and cleaner
+      * V11.20: Fling
+        * Base damage reduced to 50 / 60 / 70 / 80 / 90 from 50 / 65 / 80 / 95 / 110
+        * AP ratio reduced to 60% AP from 75% AP
+      * V11.18: Mega Adhesive
+        * Bug Fix: Updated the tooltip to include its slow percentage
+      * V11.14: Mega Adhesive
+        * Bug Fix: Slow no longer sometimes lingers longer than intended
+      * Mega Adhesive
+        * Undocumented/Bug fix: Grounded debuff can once again be cleansed by Olaf's Ragnarok
+      * V11.13: Mega Adhesive
+        * Bug Fix: Grounded debuff is now non-dispellable
+      * V11.11: Fling
+        * Cooldown reduced to 10 / 9.5 / 9 / 8.5 / 8 seconds from 10 at all ranks
+      * V11.3: Poison Trail
+        * AP ratio increased to 90% AP from 80% AP
+      * V11.1: Stats
+        * Base magic resistance reduced to 32 from 32.1
+      * Attack damage growth increased to 3.38 from 3.37
+      * V10.18: Beekeeper Singed
+        * Poison Trail Bug Fix: VFX is now distinguishable in colorblind mode
+      * V10.16: Riot Squad Singed
+        * Bug Fix: Recolored Poison Trail restored
+      * V10.14: Poison Trail
+        * Bug Fix: Properly turns blue when in colorblind mode
+      * V10.13: General
+        * Updated visual effects
+      * Surfer Singed
+        * Updated visual effects
+      * V10.11: Fling
+        * Bug Fix: No longer flings Warwick while suppressed by Infinite Duress after the cast time
+      * V10.4: Stats
+        * Base health reduced to 580 from 610
+        * Base armor reduced to 34 from 37
+      * V9.16: Beekeeper Singed
+        * Poison Trail Bug Fix: VFX is now more gameplay friendly, regardless of if Colorblind Mode is activated or not
+      * Poison Trail Bug Fix: VFX have been adjusted to be more opaque
+      * V9.15: Noxious Slipstream
+        * Bug Fix: Singed's corpse no longer triggers his passive
+        * Bug Fix: Multiple Singed's in a game no longer reset each other's cooldown on their passive
+      * Poison Trail
+        * Opacity has been adjusted for colorblind mode and various skins
+      * Insanity Potion
+        * Bug Fix: Now correctly receives stats instantly, as opposed to sometimes having up to 0.25 seconds delay
+      * Riot Squad Singed
+        * Poison Trail Visuals now properly change color when colorblind mode is activated
+      * V7.14: July 13th Hotfix
+        * Stats
+          * Base health reduced to 580 from 610
+          * Health growth reduced to 85 from 90
+      * Insanity Potion
+        * Cooldown increased to 120 / 110 / 100 seconds from 100 at all ranks
+      * V7.14: Stats
+        * Base health increased to 610 from 542
+        * Health growth increased to 90 from 82
+      * Noxious Slipstream
+        * (New Innate)
+          * Renamed to Noxious Slipstream from Empowered Bulwark
+          * Innate: Moving near to an enemy or allied champion grants Singed a stacking 20% bonus movement speed for 2 seconds (10 second per-target cooldown) (225 range)
+      * Poison Trail
+        * Base damage reduced to 40 / 60 / 80 / 100 / 120 from 44 / 68 / 92 / 116 / 140
+        * AP ratio increased to 80% AP from 60% AP
+        * New Effect: Particle size increased to more clearly represent the poison's area of effect
+        * Bug Fix: The trail no longer disappears when Singed leaves enemy vision
+      * Mega Adhesive
+        * Adhesive duration reduced to 3 seconds from 5
+      * New Effect: Applies ground
+      * Slow changed to 40% at all ranks from 35 / 45 / 55 / 65 / 75%
+      * Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110
+      * Cooldown changed to 17 / 16 / 15 / 14 / 13 seconds from 14 at all ranks
+      * Fling
+        * Mana cost reduced to 80 / 95 / 110 / 125 / 140 from 100 / 110 / 120 / 130 / 140
+      * Insanity Potion
+        * Mana cost reduced to 100 from 150
+        * Stat bonus increased to 35 / 60 / 85 from 35 / 50 / 80
+      * V7.9: Poison Trail
+        * Bug Fix: Damage now increases as soon as he puts another skill point in it, rather than waiting until he toggles it off and on again
+      * V6.19: Poison Trail
+        * Damage now ticks 4 times a second from 1 time a second
+        * Damage unchanged
+      * Mega Adhesive
+        * Bug Fix: Fixed a bug where Mega-Adhesive lasted 0.5 seconds longer than intended
+      * V5.13: Stats
+        * Base magic resist increased to 32.1 from 30
+      * Fling / Mega Adhesive Root duration increased to 1 / 1.25 / 1.5 / 1.75 / 2 seconds from 1 at all ranks
+      * New Effect: Laugh sound effect added
+      * V5.6: Fling
+        * Base damage reduced to 50 / 65 / 80 / 95 / 110 from 80 / 125 / 170 / 215 / 260
+        * Now deals bonus damage equal to (+ 6 / 6.5 / 7 / 7.5 / 8% of target's max. health)
+          (Max. 300 bonus damage against minions and monsters)
+      * V5.5: Fling
+        * Fixed several cases where Flinging an enemy into Mega-Adhesive would not immediately root them
+      * V4.19: General
+        * Geometry and texture update to all skins, except Snow Day Singed
+      * New splash artwork for Original Singed
+      * New ability icons
+      * Fling
+        * Flinging an enemy champion into an area of Mega-Adhesive will root them for 1 second
+      * Fixed a bug where Singed would occasionally Fling his targets in completely wrong directions
+      * Insanity Potion
+        * Bonus stats increased to 35 / 50 / 70 from 35 / 50 / 65
+      * V4.13: General
+        * Splash artwork for Hextech Singed updated to the Chinese art
+      * V4.5: Stats
+        * Base armor increased to 22 from 18
+      * V3.14: General
+        * Improved Singed's running animation
+      * V3.11: Fling
+        * Fixed a bug where Fling was dealing more damage than the tooltip values indicated
+      * V3.9: Twisted Treeline only
+        * Stats
+          * Armor per level reduced to 2 from 3.5
+      * Insanity Potion
+        * Cooldown increased to 120 seconds from 100
+      * Mega Adhesive
+        * Slow refresh rate reduced to 0.25 seconds
+      * V3.04: Fling
+        * Base damage reduced to 80 / 125 / 170 / 215 / 260 from 100 / 150 / 200 / 250 / 300
+        * Ability power ratio reduced to (+75% AP) from (+100% AP)
+      * Insanity Potion
+        * No longer reduces the duration of disables
+      * V1.0.0.152: Stats
+        * Movement speed increased 345 from 320
+      * V1.0.0.142: General
+        * New spell effects for all skins, with the exception of Riot Squad Singed
+          * which retains its unique Poison Trail spell effect
+      * V1.0.0.139: Stats
+        * Base health increased to 487 from 448
+      * Insanity Potion
+        * Fixed a bug where it was reducing the duration of blinds and silences by more than intended
+      * V1.0.0.129: Insanity Potion
+        * Now additionally reduces silences and blinds
+        * No longer ignores persistent slow fields such as Kog'Maw's Void Ooze when stacked with other disable duration reductions (ex. Tenacity)
+      * V1.0.0.126: Poison Trail
+        * Linger time reduced to 3.25 seconds from 3.5
+      * Insanity Potion
+        * Crowd control reduction reduced to 10 / 15 / 20% from 10 / 20 / 30%
+      * V1.0.0.125: Stats
+        * Basic attack range increased to 125 from 100
+        * Fling
+          * Range increased to 125 from 100
+      * V1.0.0.115: Insanity Potion
+        * No longer grants bonus attack speed or attack damage
+        * Now grants bonus magic resist and +10 / 20 / 30% crowd control reduction
+        * Fixed a bug where the particle lasted longer than the buff
+      * V1.0.0.113: Stats
+        * Armor per level reduced to 3.5 from 4.2
+      * V1.0.0.112: Poison Trail
+        * Fixed a bug that was producing a 1 second cooldown upon activation
+      * V1.0.0.111: General
+        * Updated tooltips
+      * V1.0.0.105: Insanity Potion
+        * Tooltip updated
+      * V1.0.0.103: Stats
+        * Base health increased to 448 from 429
+        * Health per level increased to 82 from 78
+        * Base magic resistance reduced to 30 from 35
+      * Mega Adhesive
+        * Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120
+      * Fling
+        * Cooldown reduced to 10 seconds from 11.5
+      * Insanity Potion
+        * Cooldown reduced to 100 seconds from 120
+        * No longer has a cast time or animation
+      * V1.0.0.101: Fling
+        * Now deals damage at the start of the spell from when the target hits the ground
+      * V1.0.0.96: Fling
+        * Can now be cast more easily on any unit, especially larger units like Dragon, Lizard Elder, or a well-fed Cho'Gath
+      * V1.0.0.74: Mega Adhesive
+        * Cooldown reduced to 14 seconds from 15
+      * Fling
+        * Cooldown reduced to 11.5 seconds from 12
+      * V1.0.0.70: Poison Trail
+        * Fixed a bug where the poison duration was being reduced by crowd control reduction effects
+      * Insanity Potion
+        * Now applies an additive attack speed boost rather than multiplicative
+      * V1.0.0.32: General
+        * Added new alternate attack animations
+      * Fling
+        * Tooltip now shows mana cost per level
+      * Mega Adhesive
+        * Tooltip now shows mana cost per level
+      * V0.9.25.24: Empowered Bulwark
+        * Mana to health ratio reduced to 25% from 30%
+      * Poison Trail
+        * Base damage increased to 22 / 34 / 46 / 58 / 70 from 20 / 30 / 40 / 50 / 60
+      * Insanity Potion
+        * Missing tooltip replaced
+      * V0.9.22.16: Insanity Potion
+        * Bonus stats modified from 30 / 50 / 70 to 35 / 50 / 65
+      * V0.9.22.15: Stats
+        * Movement speed increased to 320 from 315
+      * Mega Adhesive
+        * Slow increased to 35 / 45 / 55 / 65 / 78% from 30 / 42 / 54 / 66 / 78%
+        * Mana cost modified to 80 / 90 / 100 / 110 / 120 from 120
+      * V0.9.22.7: Poison Trail
+        * Is no longer subject to global cooldown
+      * July 10, 2009 Patch
+        * Empowered Bulwark
+          * Fixed a bug which caused it to not work
+      * June 26, 2009 Patch
+        * Poison Trail
+          * Mana cost per second increased to 13 from 10
+          * Fixed a bug where it was leaving dots on the minimap
+          * It will now apply slightly in front of him while not moving
+      * Insanity Potion
+        * Bonus stats reduced to 30 / 50 / 70 from 30 / 55 / 80
+        * Duration reduced to 25 seconds from 30
+      * June 6, 2009 Patch
+        * Renamed to Singed from Singe
+      * Poison Trail
+        * Ability power ratio increased to (+30% AP) from (+20% AP)
+      * Insanity Potion
+        * Bonus stats reduced to 30 / 55 / 80 from 30 / 60 / 90
+      * May 15, 2009 Patch
+        * Stats
+          * Movement speed increased to 315 from 310
+          * Base armor increased to 18 from 14
+          * Armor gain per level increased to 3 from 2.25
+        * Poison Trail
+          * Base damage increased to 20 / 30 / 40 / 50 / 60 from 18 / 27 / 36 / 45 / 54
+      * May 9, 2009 Patch
+        * Stats
+          * Base armor increased to 14 from 7
+          * Armor per level increased to 3 from 2
+        * May 1, 2009 Patch
+          * Stats
+            * Base health reduced to 465 from 565
+            * Poison Trail
+              * Damage per second reduced to 18 / 27 / 36 / 45 / 54 from 20 / 30 / 40 / 50 / 60
+          * Mega Adhesive
+            * Casting time reduced
+      * April 25, 2009 Patch
+        * Recommended items updated
+      * Mega Adhesive
+        * Slow modified to 30 / 42 / 54 / 66 / 78% from 20 / 35 / 50 / 65 / 80%
+      * April 18, 2009 Patch
+        * Added
+    * Trivia
+      * Singed was one of the first six champions designed, together with Annie, Lee Sin, Sion, Sivir, and Twisted Fate.
+      * Singed is an anagram for the word 'design,' befitting his history of being one of the earliest designed champions.
+      * Singed was one of the champions chosen for the Noxian pool available during the Ionia vs. Noxus match. He was one of the selected champions.
+      * Singed's dance references Will Smith's 'Jump on It' dance from The Fresh Prince of Bel-Air.
+      * A side-by-side comparison of Singed's dance with Kayle's can be seen here.
+      * Singed shares this dance with Kayle before her rework, though hers includes the beginning of the dance.
+      * Even though Poison Trail's cloud appears to expand as it fades, the area affected by the poison does not actually increase.
+      * Singed is one of the few champions with a special interaction between his emotes and his ability set, as Fling automatically causes him to laugh.
+      * Although Singed holds his shield in his left hand in the default splash art, every other skin shows it in his right hand; Singed holds his shield in his right hand in all the in-game models.
+      * A bottle of Singed's poison can be seen leaking in the Mac Launch preview video.
+      * Singed's bald figure, red and green color motifs, and his large boots make him resemble Sigma from the Mega Man/Rockman X series.
+      * See also
+        * League of Legends Wiki
+          * Champions
+          * Cancelled Champions
+            * Ao Shin
+            * Avasha
+            * Averdrian
+            * CeeCee
+            * Cyborg Cowboy
+            * Eagle Rider
+            * Gavid
+            * Husk
+            * Iron Engineer
+            * Ivan
+            * Omen
+            * Priscilla
+            * Rob Blackblade
+            * Seth
+            * Tabu
+            * Tiki
+            * Urf
+            * Well
+        * References
+          * Singed's profile page at LeagueOfLegends.com
+          * @Riot, the first champion EVER made
+          * Guinsoo expanding first roster to six champions

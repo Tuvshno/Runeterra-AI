@@ -1,0 +1,167 @@
+**Games**
+
+* Universe
+  + League of Legends
+  + Teamfight Tactics
+  + Legends of Runeterra
+  + Wild Rift
+
+**Image**
+
+* Vladimir
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+* Patch history
+* Past versions
+
+**Vladimir**
+
+* Release date: 2010-07-27
+* Last changed: V13.13
+* Class(es): Battlemage, Legacy, Mage
+* Position(s): Middle, Top
+* Resource: Bloodthirst
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 3150 (790 crafting cost)
+
+| Ratings |
+| --- |
+| Damage: 3 |
+| Toughness: 2 |
+| Control: 1 |
+| Mobility: 1 |
+| Utility: 1 |
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Base statistics**
+
+|  |
+| --- |
+| Health: 607 (+110) |
+| Resource: N/A |
+| Health regen. (per 5s): 7 (+0.6) |
+| Secondary Bar: Bloodthirst |
+| Armor: 27 (+4.5) |
+| Attack damage: 55 (+3) |
+| Magic resist.: 30 (+1.3) |
+| Crit. damage: 175% |
+| Move. speed: 330 |
+| Attack range: 450 |
+| Attack speed: Base AS 0.658, Attack windup 19.737% |
+| Bonus AS: +2% |
+| Missile speed: 1600 |
+| Unit radius: Gameplay radius 65, Selection radius 120, Pathing radius 35, Acq. radius 600 |
+
+**Special statistics**
+
+| ARAM | Nexus Blitz | One For All | URF | Ult Spellbook | Arena | Damage Dealt |
+| --- | --- | --- | --- | --- | --- | --- |
+| -5% | +0% | +0% | +0% | +0% | -5% | -5% |
+| -5% | +0% | +0% | +0% | +0% | +0% | +0% |
+| -8% | +5% | +0% | +0% | +0% | +0% | +0% |
+| +20% | +0% | +0% | +0% | +0% | +0% | +0% |
+| -8% | +5% | +0% | +0% | +0% | +0% | +0% |
+| -8% | +5% | +0% | +0% | +0% | +0% | +0% |
+| -5% | +0% | +0% | +0% | +0% | +0% | +0% |
+
+**Abilities**
+
+* Crimson Pact
+  + Passive: Vladimir gains (3.3% bonus health) as ability power and (160% AP) as bonus health. These two bonuses do not stack with each other.
+* Transfusion
+  + Cooldown: 9 / 7.9 / 6.8 / 5.8 / 4.8 seconds
+  + Cast time: 0.25 seconds
+  + Target range: 600
+  + Active: Vladimir drains blood from the target enemy, dealing magic damage and healing himself. He then generates a stack of Bloodthirst over the cooldown, which is displayed in his secondary resource bar.
+  + Magic Damage: 80 / 100 / 120 / 140 / 160 (+60% AP)
+  + Heal: 20 / 25 / 30 / 35 / 40 (+35% AP)
+  + At 2 stacks, Vladimir gains 10% / 20% / 30% / 40% (based on level) bonus movement speed for 0.5 seconds and enters Crimson Rush while the Bloodthirst depletes over 2.5 seconds.
+  + The Bloodthirst depletes 75% slower during Sanguine Pool, Tides of Blood, or stasis.
+  + Crimson Rush Bonus: Transfusion consumes all Bloodthirst to deal 85% increased damage and heal Vladimir for an additional 30 - 200 (based on level) (+5% (+4% per 100 AP) of his missing health), reduced to 35% against minions.
+  + Increased Damage: 148 / 185 / 222 / 259 / 296 (+111% AP)
+
+**Notes**
+
+* Each stack of Bloodthirst generates over time (Transfusion's cooldown).
+* Vladimir can cast Sanguine Pool and Hemoplague during Transfusion's cast time.
+* The Bloodthirst depletes normally while under resurrection effects.
+* Vladimir can still use summoner spells and item actives during Sanguine Pool.
+* While unable to attack, Vladimir can still input attack commands - causing him to follow his attack target.
+* Vladimir's attack range is reduced to 0 by Sanguine Pool.
+
+**Vladimir**
+
+* Vladimir is a champion in League of Legends.
+* Original: Released 27.07.2010
+* Storybook: Released 27.07.2010
+* Marquis: Released 27.07.2010
+* High Society: Released 19.10.2010
+* Nosferatu: Released 24.01.2011
+* Blood Lord: Released 21.11.2011
+* Soulstealer: Released 09.07.2014
+* Academy: Released 26.08.2015
+* Dark Waters: Released 31.05.2018
+* Voice filter: New
+* New SFX/VFX: New
+* New Animations/Recall: New
+* Cosmic Devourer: Released 24.11.2020
+* Cafe Cuties: Released 02.12.2021
+* Broken Covenant: Released 09.03.2023
+
+**Patch history**
+
+* V13.13: Hemoplague Bug Fix: Range indicator size is no longer different before and after leveling up the ability.
+* V13.9: Transfusion Bug Fix: No longer damages through untargetability.
+* V13.7: Transfusion New Effect: Now completes the cast even if the target dies during the cast time.
+* V12.13: Transfusion Bug Fix: No longer is shown in the HUD as a temporary buff.
+* V12.10: Transfusion May 25th Hotfix: Heal AP ratio increased to 35% AP from 30%, Empowered heal ratio increased to 4% per 100 AP from 3% per 100 AP, Empowered healing against minions increased to 35% from 30%.
+* V12.10: Stats Base health increased to 607 from 537, Health growth increased to 110 from 96, Armor growth increased to 4.5 from 3.3, Transfusion Heal AP ratio reduced to 30% AP from 35% AP, Empowered heal AP ratio reduced to 3.5% per 100 AP from 4% per 100 AP, Empowered healing against minions reduced to 30% from 35%, Undocumented/Bug Fix: Crimson Rush's bonus movement speed increased from 10% to 10% / 20% / 30% / 40% (based on level).
+* V12.8: Stats Base armor increased to 27 from 23.
+* V11.22: Tides of Blood Bug Fix: Charging SFX has now been restored for all skins.
+* V11.16: Crimson Pact Bonus AP increased to 3.3% bonus health from 2.5%, Bonus health increased to 160% AP from 140%.
+* V11.10: Sanguine Pool Bug Fix: No longer becomes targetable prematurely if another untargetability effect (e.g. Dash) ends during the ability.
+* V11.9: Transfusion Cooldown increased to 9 / 7.9 / 6.8 / 5.8 / 4.8 seconds from 9 / 8 / 7 / 6 / 5 seconds.
+* V11.8: Transfusion Cooldown reduced to 9 / 7.9 / 6.8 / 5.8 / 4.8 seconds from 9 / 8 / 7 / 6 / 5.5 / 5 seconds.
+* V11.5: Undocumented/Bug Fix: Blood Orb particle restored.
+* V11.3: Hemoplague Cooldown reduced to 120 seconds at all ranks from 150 / 135 / 120.
+* V10.25: Cosmic Devourer Vladimir Bug Fix: Orb now properly reappears upon revival.
+* V10.23: Tides of Blood Bug Fix: Cooldown now properly starts on cast, rather than on release.
+* V10.23: Hemoplague Bug Fix: Incoming heal indicator now properly appears even when non-champion targets are hit.
+* V10.22: Hemoplague Now has an "incoming health" UX added to the health bar, so the player can see how much health they will receive from Hemoplague's delayed heal.
+* V10.20: Transfusion Bug Fix: Corrected the tooltip to include information about his healing reduction versus minions.
+* V8.13: Tides of Blood Maximum AP ratio reduced to 80% AP from 100% AP.
+* V8.7: Blood Lord Vladimir Bug Fix: Idle blood orb VFX have been restored.
+* V8.3: Stats Base health regeneration reduced to 7 from 7.08.
+* V8.2: Transfusion New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+* V7.22: Stats Base health increased to 537 from 525, Health growth increased to 96 from 84.
+* V7.9: Stats Magic resistance growth increased to 0.5 from 0.
+* V7.6: Tides of Blood Bug Fix: Attack-moving during it no longer causes it to immediately release.
+* V7.4: Blood Lord Vladimir Bug Fix: Now correctly gets audio quotes when he attacks.
+* V7.3: Stats Base attack damage increased to 55 from 52, Basic attack projectile speed increased to 1600 from 1400.
+* V6.21: New splash artwork for Count Vladimir and Marquis Vladimir.
+* V6.20: Transfusion Heal AP ratio increased to 35% AP from 15% AP, Crimson rush healing bonus reduced to 30 - 200 (based on level) from 40 - 240 (based on level), Tides of Blood Maximum health cost/bonus damage reduced to 8% of maximum health from 10%, Cooldown increased to 13 / 11 / 9 / 7 / 5 seconds from 9 / 8 / 7 / 6 / 5 seconds.
+* V6.18: Stats Base health reduced to 525 from 550, Crimson Pact's bonus AP reduced to 2.5% bonus health from 4%, Bonus health reduced to 100% AP from 140%, Transfusion's Base damage reduced to 80 / 100 / 120 / 140 / 160 from 90 / 125 / 160 / 195 / 230, Damage AP ratio reduced to 45% AP from 60%, Base heal changed to 20 / 25 / 30 / 35 / 40 from 15 / 25 / 35 / 45 / 55, Heal AP ratio reduced to 15% AP from 25%.
+* V6.15: Stats Base movement speed reduced to 330 from 335.
+* V6.14: Blood Lord Vladimir Hemoplague Bug Fix: Slight flickering in cast visuals.
+* V6.13: Crimson Pact Bonus AP reduced to 2.5% bonus health from 4%, Bonus health increased to 140% AP from 100%.
+* V6.11: Transfusion Bug Fix: Related voice-over lines not playing.
+* V6.10: Tides of Blood New Effect: Particle delays until just before Transfusion becomes available, Second cast canceling Sanguine Pool early removed, Hemoplague Base heal increased to 150 / 250 / 350 from 75 / 125 / 175, Heal AP ratio increased to 70% AP from 35%, Additional heal changed to 50% for each champion hit beyond the first, instead of 100% additively, Maximum heal increased to 450 / 750 / 1050 (+175% AP) from 375 / 625 / 875 (+175% AP).
+* V6.9: Gameplay Update New ability icons, Stats Base health increased to 550 from 543, Health growth reduced to 84 from 85, Base attack damage increased to 52 from 48, Base rmor increased to 23 from 21, 88, Armor growth reduced to 3.3 from 3.5, Crimson Pact Bonus AP increased to 4% bonus health from {{as2.5%|health}}, Bonus health reduced to 100% AP from 140%, Transfusion Base damage reduced to 80 / 100 / 120 / 140 / 160 from 90 / 125 / 160 / 195 / 230, Damage AP ratio reduced to 45% AP from 60%, Base heal changed to 20 / 25 / 30 / 35 / 40 from 15 / 25 / 35 / 45 / 55, New Effect: After two casts, and for the next one, Vladimir gains Crimson Rush for 2.5 seconds. If used before it expires, Vladimir gains bonus movement speed and the empowered cast will deal 100% increased damage as well as heal for an additional 60 - 315 (based on level) (+5% (+2.5% per 100 AP) missing health) but this healing is reduced to 50% against minions. The empowered cast will also count as the first stack toward the next Crimson Rush. Cooldown changed to 9 / 8 / 7 / 6 / 5 seconds from 10 / 8.5 / 7.5 / 7 / 6.5 seconds, Range: 600, Hemoplague Duration reduced to 4 seconds from 5, Damage amplification reduced to 10% from 12%. New Effect: Vladimir heals for 75 / 125 / 175 (+35% AP) per champion damaged by the plague's detonation.
+
+**Trivia**
+
+* Vladimir was the second champion released in Season One (the first being Xin Zhao).
+* He was also the only champion labeled as Mage / Tank for his legacy champion classes.
+* Vladimir is one of seven champions, including Dr. Mundo, Ivern, K'Sante, Olaf, Soraka, and Zac, who have at least one ability that can reduce their health either as a cost or self-inflicted damage.
+* The old icon for Tides of Blood is similar to the old one for Ravenous Flock.
+* His name (Russian: Влади́мир) comes from Old Church Slavonic Владимѣръ Vladimirĕ, meaning 'great ruler'.
+* The name is either native Slavonic or loaned from Germanic Waldemar.

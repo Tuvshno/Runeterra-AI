@@ -1,0 +1,225 @@
+**Games**
+
+* **Universe**
+  * League of Legends
+    * **•**
+    * **Image**
+      * Udyr
+    * **Gameplay**
+      * Collection
+      * Audio
+      * Patch history
+      * Past versions
+    * **Udyr**
+      * **Release date:** 2009-12-02
+      * **Last changed:** V14.3
+      * **Class(es):** Juggernaut, Legacy, Fighter, Tank
+      * **Position(s):** Top, Jungle
+      * **Resource:** Mana
+      * **Range type:** Melee
+      * **Adaptive type:** Physical
+      * **Store price:** 1350
+      |
+      | 585
+      | Crafting + 810
+      * **Ratings**
+        * Damage: 2
+        * Toughness: 3
+        * Control: 2
+        * Mobility: 2
+        * Utility: 1
+      * **Style:** Difficulty: N/A
+
+**•**
+
+---
+
+**Base statistics**
+
+* Health: 664 + 92
+* Mana: 271 + 50
+* Health regen. (per 5s): 6
+* Mana regen. (per 5s): 7.5
+* Armor: 31 + 4.7
+* Attack damage: 62 + 4
+* Magic resist.: 32 + 2.05
+* Crit. damage: 175%
+* Move. speed: 350
+* Attack range: 125
+* Attack speed: Base AS: 0.65, Attack windup: 19.8%%, AS ratio: N/A, Bonus AS: +3%
+* Unit radius: Gameplay radius: 65, Selection radius: 125, Pathing radius: 35, Acq. radius: 400
+
+**Special statistics**
+
+* ARAM
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Tenacity & Slow Resist: +20%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Damage Dealt: +10%
+* Damage Received: -8%
+* Damage Dealt: +0%
+* Damage Received: +0%
+
+---
+
+**Abilities**
+
+[ ]
+
+* **Bridge Between**
+  * **Innate - Awakened Spirit:** Udyr has no ultimate ability and instead has 4 basic abilities that each incur a 1.5-second global cooldown when cast. Each ability grants a Stance that empowers his next two basic attacks, and switching Stances replaces the empowered attacks from the previous Stance. Periodically, after Udyr enters a Stance, he can recast the ability after 0.25 seconds to enter an Awakened Stance, refreshing the cooldown and the Stance with bonus effects. Awaken is placed on cooldown at the start of the game.
+* **Innate - Monk Training:** After casting an ability, Udyr empowers his next two basic attacks within 4 seconds to gain 30% bonus attack speed and refund 5% of Awaken's total cooldown, though not if the remaining cooldown is less than 1 second.
+
+**Static Cooldown:** 50 / 40 / 30 / 20 (based on level) seconds.
+
+---
+
+* **Wilding Claw (Q)**
+  * **Active - Stance:** Udyr enters Claw Stance, empowering his next two basic attacks to maul the target, dealing 3 / 4.2 / 5.4 / 6.6 / 7.8 / 9% (+ 4% per 100 bonus AD) of target's maximum health bonus physical damage. Additionally, Udyr gains 20 / 30 / 40 / 50 / 60 / 70% bonus attack speed and deals 5 / 9 / 13 / 17 / 21 / 25 (+ 10% bonus AD) bonus physical damage on-hit for 4 seconds.
+  * **Recast - Awaken:** Udyr gains an additional 20% - 70% (based on level) bonus attack speed and causes the empowered attacks to strike with lightning 6 times, dealing magic damage equal to 1.5% - 3% (based on level) (+ 0.6% per 100 AP) of the target's maximum health per hit, chaining to up to 3 nearby visible enemies and being able to hit the same target multiple times. This is capped at 20 (+ 100% bonus AD) (+ 50% AP) against monsters.
+  * **Mana Cost:** 45 - 28 (based on level).
+  * **Cooldown:** 6 seconds.
+  * **Effect Radius:** 450, Cast Time: None.
+
+---
+
+* **Iron Mantle (W)**
+  * **Active - Stance:** Udyr enters Mantle Stance, empowering his next two basic attacks to gain 15% life steal and heal him for 1.2 / 1.32 / 1.44 / 1.56 / 1.68 / 1.8% maximum health (+ 8% AP) each. Additionally, Udyr gains a shield for 45 / 60 / 75 / 90 / 105 / 120 (+ 40% AP) (+ 2 / 2.6 / 3.2 / 3.8 / 4.4 / 5% maximum health) for 4 seconds.
+  * **Recast - Awaken:** Udyr increases the shield's strength to 20 - 150 (based on level) (+ 45 / 60 / 75 / 90 / 105 / 120) (+ 65% AP) (+ 8% maximum health) (stacking with the remaining shield from the first cast), and heals every 0.25 seconds over the next 4 seconds, for a total of 10 - 75 (based on level) (+ 22.5 / 30 / 37.5 / 45 / 52.5 / 60) (+ 32.5% AP) (+ 4% maximum health) , as well as causes the empowered attacks to instead gain 30% life steal and grant doubled healing. Healing on-hit is reduced to 50% against minions.
+  * **Mana Cost:** 45 - 28 (based on level).
+  * **Cooldown:** 6 seconds.
+  * **Cast Time:** None.
+
+---
+
+* **Blazing Stampede (E)**
+  * **Active - Stance:** Udyr enters Stampede Stance, empowering his basic attacks to have an uncancellable windup and pounce on the target to stun them for 0.75 seconds. This cannot affect the same target more than once every few seconds. Additionally, Udyr becomes ghosted and gains 30 / 34 / 38 / 42 / 46 / 50% bonus movement speed for 4 seconds, which decays to 30% effectiveness over 1.5 seconds.
+  * **Recast - Awaken:** Udyr gains an additional 30% - 40% (based on level) bonus movement speed and immunity to crowd control for 1.5 seconds.
+  * **Mana Cost:** 45 - 28 (based on level).
+  * **Cooldown:** 6 seconds.
+  * **Target Immunity:** 6 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5 seconds (unaffected by ability haste).
+  * **Cast Time:** None.
+
+---
+
+* **Wingborne Storm (R)**
+  * **Active - Stance:** Udyr enters Storm Stance, empowering his next two basic attacks to deal 10 - 30 (based on level) (+ 30% AP) bonus magic damage to nearby enemies. Additionally, Udyr summons a blizzard around himself for 4 seconds that deals 10 / 19 / 28 / 37 / 46 / 55 (+ 20% AP) magic damage every 0.5 seconds to nearby enemies and slows them. Minions take 50 / 60 / 70 / 80% (based on level) damage.
+  * **Recast - Awaken:** Udyr ends the blizzard if it is active and unleashes a glacial storm for 4 seconds that is able to move on its own. The storm follows the closest nearby visible target and applies the same effects but deals bonus magic damage equal to 1% - 2% (based on level) (+ 0.4375% per 100 AP) of the target's maximum health per tick, capped at 10 - 50 (based on level) (+ 100% bonus AD) (+ 50% AP) against monsters. The storm also slows by an additional 10%. The unleashed storm grants sight of its surroundings and prioritizes following the last enemy Udyr has attacked while he is nearby, then enemy champions, then non-champions, then Udyr.
+  * **Mana Cost:** 45 - 28 (based on level).
+  * **Cooldown:** 6 seconds.
+  * **Effect Radius:** 370 / 1300, Cast Time: None.
+
+---
+
+**Map-Specific Differences**
+
+**Ultra Rapid Fire differences:**
+
+* Cooldown reduced by 50%.
+* Cooldown refund changed to 10%.
+
+**Arena differences:**
+
+* Can't Touch This augment can be triggered by casting an Awakened ability.
+* Awaken bonus AD ratio changed to 5% per 100 bonus AD.
+
+---
+
+**Champion skins**
+
+[ ]
+
+* Original
+* Black Belt
+* Primal
+* Definitely Not
+* Dragon Oracle
+
+---
+
+**Patch history**
+
+[ ]
+
+* For the expanded patch notes, see here.
+* V14.3
+  * New Effect: Bridge Between cooldown is now affected by Ultimate haste.
+  * New Effect: Awakened Spirit casts are now special-cased to trigger Experimental Hexplate's Overdrive.
+  * New Effect: Awakened Wilding Claw and Wingborne Storm are now special-cased to trigger Malignance's Hatefog.
+* V13.18
+  * Bug Fix: Spell shield no longer blocks the application of the on-target cooldown marker for the empowered attack.
+* V13.14
+  * Bug Fix: Hail of Blades now properly triggers from the empowered attack.
+* V13.4
+  * Health growth reduced to 92 from 98.
+  * Base armor reduced to 31 from 34.
+  * Wilding Claw On-hit bonus AD ratio reduced to 25% bonus AD from 30%.
+  * Wingborne Storm Empowered slow reduced to 20 / 23 / 26 / 29 / 32 / 35% from 25 / 28 / 31 / 34 / 37 / 40%.
+  * Wingborne Storm Base damage per tick reduced to 10 / 18 / 26 / 34 / 42 / 50 from 10 / 19 / 28 / 37 / 46 / 55.
+  * Total base damage reduced to 80 / 152 / 224 / 296 / 368 / 440 from 80 / 160 / 240 / 320 / 400 / 480.
+* V12.23
+  * December 14th Hotfix
+    * Wilding Claw Base damage reduced to 3 / 4.2 / 5.4 / 6.6 / 7.8 / 9% maximum health from 3 / 4.4 / 5.8 / 7.2 / 8.6 / 10%.
+    * Bonus AD ratio reduced to 5% per 100 bonus AD from 6%.
+    * Awaken base damage reduced to 2% - 4% (based on level) maximum health from 2% - 5% (based on level).
+    * Awaken bonus AD ratio reduced to 2% per 100 bonus AD from 3%.
+    * On-hit base damage reduced to 5 / 9 / 13 / 17 / 21 / 25 from 5 / 9 / 13 / 17 / 21 / 25.
+    * On-hit bonus AD ratio increased to 20% bonus AD from 10%.
+    * Iron Mantle Mana cost reduced to 40 - 23 (based on level) from 45 - 28 (based on level).
+    * Blazing Stampede Mana cost reduced to 40 - 23 (based on level) from 45 - 28 (based on level).
+    * Wingborne Storm Mana cost reduced to 40 - 23 (based on level) from 45 - 28 (based on level).
+    * Base damage per tick increased to 10 / 20 / 30 / 40 / 50 / 60 from 10 / 18 / 26 / 34 / 42 / 50.
+    * Total base damage increased to 80 / 160 / 240 / 320 / 400 / 480 from 80 / 144 / 208 / 272 / 336 / 400.
+* V12.19
+  * Wilding Claw New Effect: Awakened cast lightning strikes now each deal a minimum of 40 - 160 (based on level) against minions.
+  * Iron Mantle On-hit heal against minions increased to 60% from 50%.
+  * Wingborne Storm Damage against minions changed to 50 / 60 / 70 / 80% (based on level) from 40 / 55 / 70 / 85% (based on level).
+* V12.18
+  * Stats Armor growth reduced to 4.7 from 5.2.
+  * Health growth reduced to 98 from 106.
+  * Wilding Claw Mana cost reduced to 20 at all levels from 45 - 28 (based on level).
+  * New Effect: Next two empowered attacks always gain 50 bonus range, rather than only during the Awakened cast.
+  * New Effect: Next two empowered attacks during an Awakened cast deal an additional 2% - 5% (based on level) (+ 3% per 100 bonus AD) of target's maximum health bonus physical damage.
+  * Awaken AP ratio increased to 0.8% per 100% AP from 0.6%.
+  * Iron Mantle On-hit base heal reduced to 1.2 / 1.32 / 1.44 / 1.56 / 1.68 / 1.8% maximum health at all ranks from 1.2 / 1.32 / 1.44 / 1.56 / 1.68 / 1.8% maximum health.
+  * Awakened on-hit base heal reduced to 2.4 / 2.52 / 2.64 / 2.76 / 2.88 / 3% maximum health from 2.4 / 2.52 / 2.64 / 2.76 / 2.88 / 3% maximum health.
+  * Shield health ratio reduced to 2 / 2.4 / 2.8 / 3.2 / 3.6 / 4% maximum health from 2 / 2.6 / 3.2 / 3.8 / 4.4 / 5% maximum health.
+  * Life steal increased to 15 / 16 / 17 / 18 / 19 / 20% from 15% at all ranks.
+  * Wingborne Storm Base damage per tick reduced to 10 / 18 / 26 / 34 / 42 / 50 from 10 / 19 / 28 / 37 / 46 / 55.
+  * Maximum base damage reduced to 80 / 144 / 208 / 272 / 336 / 400 from 80 / 152 / 224 / 296 / 368 / 440.
+  * AP ratio per tick reduced to 17.5% AP from 20%.
+  * Maximum AP ratio reduced to 140% AP from 160%.
+  * Damage against minions changed to 40 / 55 / 70 / 80% (based on level) from 50 / 60 / 70 / 80% (based on level).
+* V12.16
+  * August 26th Hotfix
+    * Wilding Claw Base damage increased to 3 / 4.2 / 5.4 / 6.6 / 7.8 / 9% of target's maximum health from 3 / 4.2 / 5.4 / 6.6 / 7.8 / 9% of target's maximum health.
+    * Bonus AD ratio increased to 6% per 100 bonus AD from 4%.
+    * On-hit base damage increased to 5 / 9 / 13 / 17 / 21 / 25 from 5 / 9 / 13 / 17 / 21 / 25.
+    * On-hit bonus AD ratio increased to 20% bonus AD from 10%.
+  * Iron Mantle Shield health ratio reduced to 2 / 2.6 / 3.2 / 3.8 / 4.4 / 5% maximum health from 2 / 3.2 / 4.2 / 5.2 / 6.2 / 7% maximum health.
+    * On-hit base heal reduced to 1.2 / 1.32 / 1.44 / 1.56 / 1.68 / 1.8% maximum health at all ranks from 1.2 / 1.32 / 1.44 / 1.56 / 1.68 / 1.8% maximum health.
+  * Blazing Stampede Bonus movement speed increased to 30 / 37 / 44 / 51 / 58 / 65% from 30 / 34 / 38 / 42 / 46 / 50%.
+    * On-target cooldown reduced to 6 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5 seconds from 6 / 5.7 / 5.4 / 5.1 / 4.8 / 4.5 seconds.
+  * V12.16
+    * General New splash artwork for Original Udyr, Black Belt Udyr, Primal Udyr, and Spirit Guard Udyr.
+    * Adjusted splash artwork for Definitely Not Udyr and Dragon Oracle Udyr.
+    * Stats Base attack damage reduced to 62 from 64.
+    * Attack damage growth reduced to 4 from 5.
+    * Base attack speed reduced to 0.658 from 0.658.
+    * Attack speed ratio reduced to 0.658 from 0.658.
+    * Attack speed growth increased to 3% from 2.67%.
+    * Bridge Between (Innate) New Effect: Udyr has no ultimate ability and instead has 4 basic abilities. Each ability grants a Stance that empowers his next two basic attacks and grants an additional effect. Switching Stances will replace the empowered attacks from the previous Stance, and incurs a 1.5-second global cooldown on his other abilities. Periodically, after Udyr enters a Stance, he can recast the ability after 0.25 seconds to enter an Awakened Stance, refreshing the cooldown and the Stance with bonus effects. Awaken is placed on cooldown at the start of the game.
+    * Wilding Claw (Q) Active - Stance: New Effect: Udyr enters Claw Stance, empowering his next two basic attacks to maul the target, dealing 3 / 4.2 / 5.4 / 6.6 / 7.8 / 9% (+ 4% per 100 bonus AD) of target's maximum health bonus physical damage. Additionally, Udyr gains 20 / 30 / 40 / 50 / 60 / 70% bonus attack speed and deals 5 / 9 / 13 / 17 / 21 / 25 (+ 10% bonus AD) bonus physical damage on-hit for 4 seconds.
+    * Iron Mantle (W) Active - Stance: New Effect: Udyr enters Mantle Stance, empowering his next two basic attacks to gain 15% life steal and heal him for 1.2 / 1.32 / 1.44 / 1.56 / 1.68 / 1.8% maximum health (+ 8% AP) each. Additionally, Udyr gains a shield for 45 / 60 / 75 / 90 / 105 / 120 (+ 40% AP) (+ 2 / 2.6 / 3.2 / 3.8 / 4.4 / 5% maximum health) for 4 seconds.
+    * Blazing Stampede (E) Active - Stance: New Effect: Udyr enters Stampede Stance, empowering his basic attacks to have an uncancellable windup and pounce on the target to stun them for 0.75 seconds. This cannot affect the same target more than once every few seconds. Additionally, Udyr becomes ghosted and gains 30 / 34 / 38 / 42 / 46 / 50% bonus movement speed for 4 seconds, which decays to 30% effectiveness over 1.5 seconds.
+    * Wingborne Storm (R) Active - Stance: New Effect: Udyr enters Storm Stance, empowering his next two basic attacks to deal 10 - 30 (based on level) (+ 30% AP) bonus magic damage to nearby enemies. Additionally, Udyr summons a blizzard around himself for 4 seconds that deals 10 / 19 / 28 / 37 / 46 / 55 (+ 20% AP) magic damage every 0.5 seconds to nearby enemies and slows them. Minions take 50 / 60 / 70 / 80% (based on level) damage.
+    * New Effect: Recast - Awaken: Udyr ends the blizzard if it is active and unleashes a glacial storm for 4 seconds that is able to move on its own. The storm follows the closest nearby visible target and applies the same effects but deals bonus magic damage equal to 1% - 2% (based on level) (+ 0.4375% per 100 AP) of the target's maximum health per tick, capped at 10 - 50 (based on level) (+ 100% bonus AD) (+ 50% AP) against monsters. The storm also slows by an additional 10%. The unleashed storm grants sight of its surroundings and prioritizes following the last enemy Udyr has attacked while he is nearby, then enemy champions, then non-champions, then Udyr.

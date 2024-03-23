@@ -1,0 +1,184 @@
+**Games**
+
+* Universe
+  * League of Legends
+    - Ryze
+      **Image**
+      **Gameplay**
+      - Collection
+      - Audio
+      - Patch history
+      - Past versions
+      **Ryze**
+        * Release date: 2009-02-21
+        * Last changed: V13.22
+        * Class(es): Battlemage, Legacy, Mage, Fighter
+        * Position(s): Middle
+        * Resource: Mana
+        * Range type: Ranged
+        * Adaptive type: Magic
+        * Store price: 4800
+        - Base statistics
+          * Health: 645 (+124)
+          * Mana: 300 (+70)
+          * Health regen. (per 5s): 8 (+0.8)
+          * Mana regen. (per 5s): 8 (+1)
+          * Armor: 22 (+4.2)
+          * Attack damage: 58 (+3)
+          * Magic resist.: 32 (+1.3)
+          * Crit. damage: 175%
+          * Move. speed: 340
+          * Attack range: 550
+          * Attack speed
+            * Base AS: 0.658
+            * Attack windup: 20%
+            * AS ratio: 0.625
+            * Bonus AS: +2.11%
+          * Missile speed: 2400
+          * Unit radius: Gameplay radius - 65
+          * Selection radius: 120
+          * Pathing radius: 35
+          * Acq. radius: 575
+        * Special statistics
+          * ARAM: +5% Damage Dealt, -5% Damage Received
+          * Nexus Blitz: +0% Damage Dealt, +0% Damage Received
+          * One For All: +0% Damage Dealt, +0% Damage Received
+          * URF: +0% Damage Dealt, +0% Damage Received
+          * Ult Spellbook: +3% Damage Dealt, +0% Damage Received
+          * Arena: +0% Damage Dealt, +0% Damage Received
+      * Abilities
+        - **Arcane Mastery**
+          * Innate: Ryze increases his maximum mana by (10% per 100 AP)
+        - **Overload**
+          * Cost: 40 / 38 / 36 / 34 / 32 Mana
+          * Cooldown: 5
+          * Cast time: 0.25s
+          * Target range: 1000
+          * Width: 110
+          * Speed: 1700
+          * Passive: Ryze's other basic ability casts reset Overload's cooldown and charge a Rune stack for 4 seconds, refreshing on subsequent casts and stacking up to 2 times
+          * Active: Ryze unleashes a runic blast in the target direction that deals magic damage to the first enemy hit and consumes all Rune stacks
+            * Magic Damage: 70 / 90 / 110 / 130 / 150 (+ 55% AP) (+ 2% bonus mana)
+            * If Ryze consumed 2 stacks, he gains bonus movement speed for 2 seconds
+              * Bonus Movement Speed: 28 / 32 / 36 / 40 / 44%
+              * Flux Bonus: Overload deals 10 / 40 / 70 / 100% (based on Realm Warp's Rank) in increased damage and spreads to surrounding Fluxed enemies
+        - **Rune Prison**
+          * Cost: 40 / 55 / 70 / 85 / 100 Mana
+          * Cooldown: 13 / 12 / 11 / 10 / 9
+          * Cast time: 0.25s
+          * Target range: 550
+          * Active: Ryze seizes the target enemy, dealing magic damage and slowing them by 35% for 1.5 seconds
+            * Magic Damage: 80 / 110 / 140 / 170 / 200 (+ 70% AP) (+ 4% bonus mana)
+            * Flux Bonus: The target is rooted instead of slowed
+        - **Spell Flux**
+          * Cost: 35 / 45 / 55 / 65 / 75 Mana
+          * Cooldown: 3.5 / 3.25 / 3 / 2.75 / 2.5s
+          * Cast time: 0.25s
+          * Target range: 550
+          * Effec[t] radius: 350 / 450 / 550 / 650 / 750
+          * Speed: 4000 / 1500
+          * Active: Ryze projects an orb upon the target enemy that deals magic damage and marks them with Flux for 4 seconds
+            * Magic Damage: 60 / 90 / 120 / 150 / 180 (+ 50% AP) (+ 2% bonus mana)
+            * Flux Bonus: Spell Flux spreads farther
+        - **Realm Warp**
+          * Cost: 100 Mana
+          * Cooldown: 210 / 180 / 150s
+          * Cast time: None
+          * Target range: 3000 / 1000
+          * Effect radius: 365 / 465 / 515
+          * Passive: Overload's Flux empowered damage is increased
+            * Bonus Overload Damage: 40 / 70 / 100%
+          * Active: Ryze channels for 2 seconds to open a portal beneath him, marking the target location as its destination and granting sight of the area
+            * Upon completion, Ryze and allied units within blink to the location and become rooted, disarmed, silenced, and untargetable for 0.75s.
+            * Realm Warp will cast at max range if cast beyond that.
+
+**Ryze**
+
+* is a champion in League of Legends.
+* Release date: February 21, 2009.
+* Last changed: V13.22.
+* Class(es): Battlemage, Legacy, Mage, Fighter.
+* Position(s): Middle.
+* Resource: Mana.
+* Range type: Ranged.
+* Adaptive type: Magic.
+* Store price: 4800.
+
+**Base statistics**
+
+* Health: 645 (+124).
+* Mana: 300 (+70).
+* Health regen. (per 5s): 8 (+0.8).
+* Mana regen. (per 5s): 8 (+1).
+* Armor: 22 (+4.2).
+* Attack damage: 58 (+3).
+* Magic resist.: 32 (+1.3).
+* Crit. damage: 175%.
+* Move. speed: 340.
+* Attack range: 550.
+* Attack speed
+  * Base AS: 0.658.
+  * Attack windup: 20%.
+  * AS ratio: 0.625.
+  * Bonus AS: +2.11%.
+* Missile speed: 2400.
+* Unit radius: Gameplay radius - 65.
+* Selection radius: 120.
+* Pathing radius: 35.
+* Acq. radius: 575.
+
+**Special statistics**
+
+* ARAM: +5% Damage Dealt, -5% Damage Received.
+* Nexus Blitz: +0% Damage Dealt, +0% Damage Received.
+* One For All: +0% Damage Dealt, +0% Damage Received.
+* URF: +0% Damage Dealt, +0% Damage Received.
+* Ult Spellbook: +3% Damage Dealt, +0% Damage Received.
+* Arena: +0% Damage Dealt, +0% Damage Received.
+
+**Abilities**
+
+* **Arcane Mastery**
+  * Innate: Ryze increases his maximum mana by (10% per 100 AP).
+* **Overload**
+  * Cost: 40 / 38 / 36 / 34 / 32 Mana.
+  * Cooldown: 5s.
+  * Cast time: 0.25s.
+  * Target range: 1000.
+  * Width: 110.
+  * Speed: 1700.
+  * Passive: Ryze's other basic ability casts reset Overload's cooldown and charge a Rune stack for 4 seconds, refreshing on subsequent casts and stacking up to 2 times.
+  * Active: Ryze unleashes a runic blast in the target direction that deals magic damage to the first enemy hit and consumes all Rune stacks.
+    * Magic Damage: 70 / 90 / 110 / 130 / 150 (+ 55% AP) (+ 2% bonus mana).
+    * If Ryze consumed 2 stacks, he gains bonus movement speed for 2 seconds.
+      * Bonus Movement Speed: 28 / 32 / 36 / 40 / 44%.
+      * Flux Bonus: Overload deals 10 / 40 / 70 / 100% (based on Realm Warp's Rank) in increased damage and spreads to surrounding Fluxed enemies.
+* **Rune Prison**
+  * Cost: 40 / 55 / 70 / 85 / 100 Mana.
+  * Cooldown: 13 / 12 / 11 / 10 / 9s.
+  * Cast time: 0.25s.
+  * Target range: 550.
+  * Active: Ryze seizes the target enemy, dealing magic damage and slowing them by 35% for 1.5 seconds.
+    * Magic Damage: 80 / 110 / 140 / 170 / 200 (+ 70% AP) (+ 4% bonus mana).
+    * Flux Bonus: The target is rooted instead of slowed.
+* **Spell Flux**
+  * Cost: 35 / 45 / 55 / 65 / 75 Mana.
+  * Cooldown: 3.5 / 3.25 / 3 / 2.75 / 2.5s.
+  * Cast time: 0.25s.
+  * Target range: 550.
+  * Effec[t] radius: 350 / 450 / 550 / 650 / 750.
+  * Speed: 4000 / 1500.
+  * Active: Ryze projects an orb upon the target enemy that deals magic damage and marks them with Flux for 4 seconds.
+    * Magic Damage: 60 / 90 / 120 / 150 / 180 (+ 50% AP) (+ 2% bonus mana).
+    * Flux Bonus: Spell Flux spreads farther.
+* **Realm Warp**
+  * Cost: 100 Mana.
+  * Cooldown: 210 / 180 / 150s.
+  * Cast time: None.
+  * Target range: 3000 / 1000.
+  * Effect radius: 365 / 465 / 515.
+  * Passive: Overload's Flux empowered damage is increased.
+    * Bonus Overload Damage: 40 / 70 / 100%.
+  * Active: Ryze channels for 2 seconds to open a portal beneath him, marking the target location as its destination and granting sight of the area.
+    * Upon completion, Ryze and allied units within blink to the location and become rooted, disarmed, silenced, and untargetable for 0.75s.
+    * Realm Warp will cast at max range if cast beyond that.

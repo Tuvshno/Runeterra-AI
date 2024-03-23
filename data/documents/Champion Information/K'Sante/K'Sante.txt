@@ -1,0 +1,386 @@
+**Games**
+
+**Universe**
+
+-
+-
+
+**League of Legends**
+
+**•**
+
+**- League of Legends**
+
+**•**
+
+**Teamfight Tactics**
+
+**Image**
+
+**K'Sante**
+
+**Gameplay**
+
+-
+-
+-
+
+**Collection**
+
+-
+-
+
+**Audio**
+
+-
+-
+
+**Patch history**
+
+-
+-
+
+**Past versions**
+
+**K'Sante**
+
+**the Pride of Nazumah**
+
+**Release date**
+
+2022-11-02
+
+**Last changed**
+
+V14.4
+
+**Class(es)**
+
+Warden, Skirmisher, Tank, Fighter
+
+**Position(s)**
+
+Top
+
+**Resource**
+
+Mana
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Physical
+
+**Store price**
+
+4800
+
+| 880
+
+**Crafting**
+
++ 2880
+
+**Ratings**
+
+| Damage: 2 | Toughness: 3 | Control: 3 | Mobility: 2 | Utility: 2 |
+| --- | --- | --- | --- | --- |
+| Style: Difficulty: | | | | |
+| K'Sante is a champion in League of Legends. |
+
+[1] **Gameplay**
+
+- **Cosmetics**
+- **Audio**
+- **Development**
+- **Patch History**
+- **History**
+- **Trivia**
+
+**Base statistics**
+
+| K'Sante | Edit |
+| --- | --- |
+| Health: 625 + 115 |
+| Mana: 320 + 60 |
+| Health regen. (per 5s): 9.5 + 0.85 |
+| Mana regen. (per 5s): 7 + 1 |
+| Armor: 33 + 5.2 |
+| Attack damage: 64 + 3.5 |
+| Magic resist.: 30 + 2.1 |
+| Crit. damage: 175% |
+| Move. speed: 330 |
+| Attack range: 175 |
+| Attack speed: Base AS 0.625, Attack windup 19.531%, AS ratio N/A, Bonus AS +2.5% |
+| Unit radius: Gameplay radius 65, Selection radius 103, Pathing radius 35, Acq. radius 400 |
+
+**Special statistics**
+
+| ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena | Damage Dealt: +0%, Damage Received: +0% |
+| --- | --- |
+| Damage Dealt: +0%, Damage Received: +0% |
+| Damage Dealt: +0%, Damage Received: +0% |
+| Damage Dealt: +5%, Damage Received: +0% |
+| Damage Dealt: +0%, Damage Received: +0% |
+| Damage Dealt: +0%, Damage Received: +0% |
+| Damage Dealt: +0%, Damage Received: +0% |
+| Damage Dealt: +0%, Damage Received: +0% |
+| Damage Dealt: +0%, Damage Received: +0% |
+
+**Abilities**
+
+[ ] **Edit**
+
+**Dauntless Instinct**
+
+- **Innate:** K'Sante's abilities mark enemies hit for 4 seconds. His basic attacks against marked enemies are empowered to gain 25 bonus range and consume the mark on-hit, dealing 5 - 20 (based on level) (1 / 1.33 / 1.66 / 1.99 / 2.32% of target's maximum health) bonus physical damage. The health-based portion deals a minimum of 15 - 100 (based on level) damage against minions and 20 - 105 (based on level) against monsters.
+- **All Out:** Both the attack's damage and the mark damage are increased by 30% - 78% (based on level). The bonus damage dealt by consuming a mark is converted to true damage.
+
+**Hide**
+
+**Details**
+
+**Map-Specific Differences**
+
+**Info**
+
+**Targeting input:** Passive, Damage type: Type: Sub-type: Proc damage: Physical / True
+
+**Counters:** Spell shield, Parries, See Notes
+
+**Spell shield** will block the mark's application, but not the mark's consumption from an attack. The empowered attack can be dodged, blocked, and missed while blinded but the mark will not be consumed. Starting the empowered attack while the mark is about to time out will not extend the mark duration, but still complete the attack and apply the bonus damage.
+
+**Map-Specific Differences**
+
+**Ultra Rapid Fire differences:** Health ratio changed to 1% - 2.66% (based on level) maximum health. All Out health ratio changed to 1.8 / 2.4 / 2.9 / 3.5 / 4.1% (based on level) maximum health.
+
+**Ntofo Strikes**
+
+- **Cost:** 28 / 26 / 24 / 22 / 20 mana
+- **Cast time:** 0.45 - 0.25 (based on bonus health) seconds
+- **Static cooldown:** 3.5 - 1.75 (based on bonus resistances) seconds
+- **Range:** 465 / 930
+- **Width:** 150 / 140
+- **Active:** K'Sante slams his ntofo down in the target direction that deals physical damage to enemies hit and slows them by 80% for 0.5 seconds. If this hits at least one enemy, K'Sante generates a stack for 6 seconds, stacking up to 2 times and refreshing on subsequent hits. At 2 stacks, the next Ntofo Strikes consumes them all to become empowered with a new effect.
+- **Empowered Active:** K'Sante fires a shockwave in the target direction that applies the same effects to enemies hit, but also pulls them towards him over 0.65 seconds and then stuns them for 0.25 seconds.
+- **All Out Bonus:** Ntofo Strikes no longer applies its slow, but its cooldown is reduced by 25%, with a minimum total cooldown of 1.33 seconds, and its cast time is reduced by 0.08 seconds. Upon entering All Out, Ntofo Strikes' stacks are reset and its cooldown is refreshed. Ntofo Strikes resets K'Sante's basic attack timer.
+
+**Hide**
+
+**Details**
+
+**Tips & Tricks**
+
+**Map-Specific Differences**
+
+**Info**
+
+**Targeting input:** Direction, Damage type: Type: Sub-type: Area damage: Physical
+
+**Counters:** Spell shield, Grounded, Knockdown, Disabled
+
+**This ability will cast from wherever the caster is at the end of the cast time. If Ntofo Strikes hits no more than one enemy champion, K'Sante will be ordered an attack command against them. The basic attack reset is not considered one for Hail of Blades. Temporary increases/decreases in bonus resistances will count for reducing/increasing Ntofo Strikes' cooldown. Only the empowered active is a projectile. The following table refers for interactions while K'Sante is in the cast time of the third cast: Type: Cast time: Attacking: Disabled: Abilities: Disabled: Movement: Disabled: Items: Usable: Shurelya's Battlesong, Youmuu's Ghostblade, Randuin's Omen: Disabled: All the other item-actives are disabled: Interrupted by: N/A: Consumables: Usable: Spells: Usable: Barrier, Clarity, Cleanse, Exhaust, Ghost, Heal, Ignite, Smite: Disabled: Flash, Teleport, Recall, Hexflash: Interrupted by: N/A: Interrupted by: Death, unless protected by Resurrection: Tips & Tricks: Using Footwork on top of an enemy immediately followed by an empowered Ntofo Strikes allows K'Sante to fling enemies behind him, including through walls.**
+
+**Map-Specific Differences**
+
+**Arena differences:** Base damage changed to 40 / 80 / 120 / 160 / 200. Base cooldown changed to 2.75 / 2.4 / 2.05 / 1.7 / 1.35 seconds.
+
+**Path Maker**
+
+- **Cost:** 40 / 45 / 50 / 55 / 60 mana
+- **COOLDOWN:** 24 / 22 / 20 / 18 / 16 seconds
+- **Cast time:** None
+- **Range:** 450 / 1300 / 1800
+- **Speed:** 1300 / 1500 / 1800
+- **Active:** K'Sante charges for a minimum of 0.66 seconds and up to 1.5 seconds, during which he increases Path Maker's range, damage, and stun duration over the first 0.75 seconds of the channel and gains displacement immunity and 40% - 65% (based on level) damage reduction. Path Maker can be recast within the duration and does so automatically afterwards. Path Maker's charge cannot be interrupted by crowd control.
+- **Recast:** K'Sante dashes in the target direction, though not through terrain, dealing physical damage to enemies he passes through, carrying them alongside him, and stunning them for 0.35 / 0.45 / 0.55 / 0.65 / 0.75 seconds. When charged, the damage goes up to 8.25 / 8.5 / 8.75 / 9 / 9.25% of target's maximum health and the stun goes up to 0.85 / 0.95 / 1.05 / 1.15 / 1.25 seconds. This damage is capped at 50 - 475 (based on level) against monsters.
+- **All Out Bonus:** Path Maker no longer applies its knock back and stun, but its damage reduction is increased to 57.35% - 75% (based on level), and the dash speed is increased by 20%. Upon entering All Out, Path Maker's cooldown is refreshed. When charged, this bonus damage goes up to 110 / 170 / 230 / 290 / 350% of target's maximum health. Ntofo Strikes and All Out can be cast during the dash. Path Maker's recast can be used while affected by cast-inhibiting crowd control.
+
+**Hide**
+
+**Details**
+
+**Info**
+
+**Targeting input:** Direction, Damage type: Type: Sub-type: Proc damage: Physical, Grounded
+
+**Counters:** Spell shield, Knockdown, Disabled
+
+**Interrupted:** Disruption
+
+**Path Maker cancels any existing movement or attack commands. However, new inputs given during the charge will be retained once the dash ends, except when the dash hits only one enemy champion. If Path Maker hits only one enemy champion, K'Sante will be ordered to basic attack them afterwards. K'Sante cannot use Flash during Path Maker's dash. Path Maker's dam age is not capped against monsters while empowered by All Out. (bug) Path Maker's recast can be used even while grounded or rooted, but the initial cast cannot. Path Maker can be recast by issuing an attack move command (or LMB) but not a targeted attack command. The following table refers for interactions while K'Sante is channeling: If the charge is cancelled, he will not automatically use the recast. Attacking: Disabled: Abilities: Disabled: Movement: Disabled: Items: Usable: Shurelya's Battlesong, Youmuu's Ghostblade, Randuin's Omen: Disabled: All the other item-actives are disabled: Interrupted by: N/A: Consumables: Usable: Spells: Usable: Barrier, Clarity, Cleanse, Exhaust, Ghost, Heal, Ignite, Smite: Disabled: Flash, Teleport, Recall, Hexflash: Interrupted by: Death: Map-Specific Differences: Ultra Rapid Fire differences: Health ratio changed to 1% - 2.66% (based on level) maximum health. All Out Bonus: Path Maker no longer applies its knock back and stun, but its damage reduction is increased to 57.35% - 75% (based on level), and the dash speed is increased by 20%. Upon entering All Out, Path Maker's cooldown is refreshed. When charged, this bonus damage goes up to 110 / 170 / 230 / 290 / 350% of target's maximum health. Ntofo Strikes and All Out can be cast during the dash. Path Maker's recast can be used while affected by cast-inhibiting crowd control.
+
+**Footwork**
+
+- **Cost:** 45 / 50 / 55 / 60 / 65 mana
+- **COOLDOWN:** 10.5 / 10 / 9.5 / 9 / 8.5 seconds
+- **Cast time:** None
+- **Range:** 250 / 400 / 550
+- **Speed:** 900 / 1100 / 1450
+- **Active:** K'Sante dashes to the target location, though not through terrain, and grants himself a shield for 50 / 90 / 130 / 170 / 210 ( + 10% bonus health) for 2 seconds. Footwork can be cast on allies to dash to them at an increased range. If the ally is a champion upon arrival, they receive the shield as well.
+- **All Out Bonus:** Footwork's dash speed and location range are increased, and it can dash through terrain. K'Sante can cast any of his abilities during the dash. Footwork will cast at max range if cast beyond that.
+
+**Hide**
+
+**Details**
+
+**Map-Specific Differences**
+
+**Info**
+
+**Targeting input:** Location, Counters: Grounded, Knockdown, Disabled
+
+**The basic attack reset is not considered one for Hail of Blades. Dashing to the side or behind will cancel current move or attack orders. Exception when attack order was given at melee range from target. Temporary increases/decreases in bonus resistances will count for reducing/increasing Ntofo Strikes' cooldown. Only the empowered active is a projectile. The following table refers for interactions while K'Sante is in the cast time of the third cast: Type: Cast time: Attacking: Disabled: Abilities: Disabled: Movement: Disabled: Items: Usable: Shurelya's Battlesong, Youmuu's Ghostblade, Randuin's Omen: Disabled: All the other item-actives are disabled: Interrupted by: N/A: Consumables: Usable: Spells: Usable: Barrier, Clarity, Cleanse, Exhaust, Ghost, Heal, Ignite, Smite: Disabled: Flash, Teleport, Recall, Hexflash: Interrupted by: N/A: Interrupted by: Death: Map-Specific Differences: Arena differences: Cooldown changed to 9 / 8.5 / 8 / 7.5 / 7 seconds.
+
+**Champion skins**
+
+[ ] This article section only contains champion skins. For all associated collection items, see K'Sante (Collection).
+
+**Original**
+
+View in 3D, 975 RP, 03.11.2022
+
+Defiant and courageous, K'Sante battles colossal beasts and ruthless Ascended to protect his home of Nazumah, a coveted oasis amid the sands of Shurima. But after a falling-out with his former partner, K'Sante realizes that in order to become a warrior worthy of leading his city, he must temper his single-minded drive for success. Only then can he avoid falling prey to his own pride and find the wisdom he needs to defeat the vicious monsters threatening his people.
+
+**DeObia Oparei**
+
+Bo 'chenbowow' Chen, Loot eligible, Empyrean, View in 3D, 1350 RP, 03.11.2022
+
+K'Sante prides himself on leading under adversity, but this is a challenge unlike any other. His realm is gone, he's living on borrowed time, and the other Empyreans don't realize that something released the Foreglow. Something bad. He knows only they can fix it, but they need their eyes opened. They need a leader.
+
+**DeObia Oparei**
+
+Francis Tneh, West Studio, Empyrean, Loot eligible, New SFX/VFX, New Animations/Recall, Chromas
+
+Empyrean K'Sante Chromas: Emerald, Neon Flare, Pearl, Ruby, Turquoise, Prestige Empyrean
+
+**HEARTSTEEL**
+
+View in 3D, 1350 RP, 08.11.2023
+
+An awe-inspiring presence—physically, emotionally, vocally—K'Sante is always focused on the bigger picture, determined for HEARTSTEEL to make its mark on the music industry. Though in his solo career his ambition often outpaced what one man can do alone, now that he's found friends and collaborators he believes in, K'Sante knows nothing can stop them.
+
+**DeObia Oparei**
+
+Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling, HEARTSTEEL, Loot eligible, New SFX/VFX, New Animations/Recall, Chromas
+
+HEARTSTEEL K'Sante Chromas: Citrine, Emerald, Pearl, Rockstar, Rose Quartz, Ruby, Sapphire, Tanzanite, Turquoise
+
+**Patch history**
+
+[ ] For the expanded patch notes, see here.
+
+V14.4
+
+**Stats**
+
+Base health increased to 625 from 570.
+Base mana increased to 320 from 290.
+
+**Ntofo Strikes**
+
+- Removed: No longer slows enemies while All Out.
+- Path Maker bonus armor ratio increased to 85% bonus armor from 50%.
+- Bonus magic resistance ratio increased to 85% bonus magic resistance from 50%.
+- Removed: Cooldown is no longer reduced to 18 / 16.5 / 15 / 13.5 / 12 seconds during All Out.
+- Removed: All Out no longer reduces the minimum channel to 0.55 seconds.
+- Footwork location-targeted dash speed reduced to 900 from 1700.
+- Ally-targeted dash speed reduced to 1100 from 1800.
+- New effect: Ally-targeted dash speed now scales with 100% movement speed.
+- All Out dash speed reduced to 1450 from 2100.
+
+**V13.24**
+
+Path Maker mana cost reduced to 40 / 45 / 50 / 55 / 60 from 60 / 65 / 70 / 75 / 80.
+Armor ratio increased to 50% bonus armor from 30%.
+Magic resistance ratio increased to 50% bonus magic resistance from 30%.
+
+**V13.23**
+
+Dauntless Instinct All Out bonus mark damage changed to 30% - 78% (based on level) from 45 / 60 / 75% (based on level).
+Ntofo Strikes base damage reduced to 30 / 55 / 80 / 105 / 130 from 30 / 60 / 90 / 120 / 150.
+Path Maker maximum range charge duration reduced to 0.66 seconds from 0.75.
+All Out maximum range charge duration reduced to 0.425 seconds from 0.5.
+Removed: No longer automatically recasts the ability if the charge is cancelled.
+Bug Fix: Charge is no longer cancelled if the recast was used at the same time as Hexflash.
+Footwork base shield increased to 50 / 90 / 130 / 170 / 210 from 45 / 65 / 85 / 105 / 125.
+Shield health ratio reduced to 10% bonus health from 15%.
+All Out bonus attack damage reduced to 10 / 25 / 40 from 15 / 30 / 45.
+Bug Fix: No longer appears to behave improperly after performing certain ability combos during the buff.
+
+**V13.21**
+
+- October 26th Hotfix
+- Ntofo Strikes cast time increased to 0.45 - 0.25 (based on bonus health) seconds from 0.45 - 0.25 (based on bonus health) seconds.
+- Formula changed.
+- Dauntless Instinct All Out bonus mark damage increased to 35% all levels from 30% all levels.
+- Ntofo Strikes cast time reduced to 0.45 - 0.25 (based on bonus health) seconds from 0.45 - 0.25 (based on bonus health) seconds.
+- Tooltip now always shows resists and health needed for cooldown and cast time reductions.
+- All Out tooltip has been simplified and updated.
+- Bug Fix: Flash is now properly locked out during the third cast at all times.
+- Bug Fix: No longer interrupts Footwork's dash upon cast.
+- Bug Fix: Forced action effects no longer improperly interrupt the channel.
+- Bug Fix: Channel during All Out is no longer cancelable by left click.
+- Bug Fix: Can no longer be cast twice under certain conditions.
+- New Effect: Healing based on damage to champions now affects magic damage dealt.
+- New Effect: Now resets his basic attack timer instantly after Ntofo Strikes or Footwork is cast instead of only after 0.1 seconds.
+- Bug Fix: Attack damage and resistances scaling now properly update dynamically during the buff.
+- Bug Fix: Healing based on damage dealt now properly applies even if the damage was mitigated by shields.
+
+**V13.20**
+
+- Stats
+- Base health reduced to 570 from 610.
+- Health growth increased to 115 from 108.
+- Armor growth increased to 5.2 from 4.7.
+- Dauntless Instinct
+- Removed: Mark damage during All Out is no longer increased by 20% per 100 bonus armor and 20% per 100 bonus magic resistance.
+- Ntofo Strikes
+- Base damage reduced to 30 / 60 / 90 / 120 / 150 from 50 / 75 / 100 / 125 / 150.
+- New effect: Extended tooltip now shows its current and maximum cast time and cooldown.
+- New effect: Now also applies its slow during All Out.
+- New effect: Stacks are now reset after All Out is cast.
+- New effect: Cooldown is now refreshed after All Out is cast if he had two stacks.
+- Removed: Can no longer cast Flash during the cast time of the third cast.
+- Removed: Casting it during All Out no longer fully resets the basic attack timer.
+- Undocumented: Cooldown reduction during All Out changed to 25% from 1 second.
+- Undocumented: Cast time is now reduced by 0.08 seconds during All Out.
+
+**Path Maker**
+
+- Damage health ratio increased to 6 / 7 / 8 / 9 / 10% of target's maximum health from 2 / 2.25 / 2.5 / 2.75 / 3% maximum health.
+- Damage reduction increased to 40% - 65% (based on level) from 25% at all levels.
+- All Out damage reduction increased to 50% - 75% (based on level) from 30% at all levels.
+- Stun duration increased to 1.25 seconds at all ranks from 0.35 / 0.4 / 0.45 / 0.5 / 0.55 seconds.
+- Maximum damage health ratio reduced to 7 / 7.25 / 7.5 / 7.75 / 8% maximum health from 8 / 8.25 / 8.5 / 8.75 / 9% maximum health.
+- Maximum damage health ratio reduced to 8 / 8.25 / 8.5 / 8.75 / 9% maximum health from 9 / 9.25 / 9.5 / 9.75 / 10% maximum health.
+- Charge time for maximum dash range reduced to 0.65 seconds from 0.85 seconds.
+- Charge time for maximum dash range during All Out increased to 0.5 seconds from 0.425 seconds.
+- Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 75 / 80 / 85 / 90 / 95.
+- New effect: Now has a base damage of 20 / 40 / 60 / 80 / 100.
+- New effect: Damage now scales with 50% AD, 30% bonus armor, and 30% bonus magic resistance.
+- New effect: Channel now has a minimum charge time of 0.65 seconds, reduced to 0.5 seconds during All Out.
+- New effect: All Out now reduces the total cooldown of the ability to 18 / 16.5 / 15 / 13.5 / 12 seconds from 24 / 22 / 20 / 18 / 16 at all times.
+- Removed: Damage health ratio no longer increases to up to 7 / 7.25 / 7.5 / 7.75 / 8% of the target's maximum health based on charge time.
+- Removed: No longer deals 25 / 35 / 45 / 55 / 65 ( + 50% AD) to 110 / 170 / 230 / 290 / 350 ( + 50% AD) bonus damage based on charge time during All Out.
+- Removed: Damage reduction no longer scales with 10% per 100 bonus armor, 10% per 100 bonus magic resistance, and 1% per 100 bonus health, increased to 12% per 100 bonus armor, 12% per 100 bonus magic resistance, and 1.2% per 100 bonus health during All Out.
+- Removed: Stun duration no longer increases to up to 0.85 / 0.95 / 1.05 / 1.15 / 1.25 seconds based on charge time.
+- Footwork
+- Removed: Casting it during All Out no longer fully resets the basic attack timer.
+- All Out damage type changed to magic from physical.
+- Base damage increased to 70 / 110 / 150 from 35 / 70 / 105.
+- Wall base damage reduced to 70 / 110 / 150 from 150 / 250 / 350.
+- Total base damage reduced to 140 / 220 / 300 from 185 / 320 / 455.
+- Health threshold increased to 65% maximum health from 55% maximum health.
+- Bonus attack damage increased to 15 / 30 / 45 from 5 at all ranks.
+- Bonus attack damage armor ratio reduced to 25% from 32.5%.
+- Bonus attack damage magic resistance ratio reduced to 25% from 32.5%.
+- Minimum knock back distance reduced to 300 units from 350.
+- New effect: Initial damage and wall damage now scale with 65% AP.
+- New effect: Now grants 25 / 35 / 45% bonus attack speed throughout its duration.
+- New effect: Now grants healing based on 10 / 15 / 20% of damage dealt to enemy champions during the effect.
+- Removed: Initial damage and wall damage no longer scale with 20% AD.
+- Removed: No longer grants 10% ( + 0.75% per 100 bonus health) omnivamp.

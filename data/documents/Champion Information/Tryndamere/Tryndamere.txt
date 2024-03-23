@@ -1,0 +1,386 @@
+# Games
+
+## Universe
+
+- League of Legends
+  - **Tryndamere**
+  - League of Legends (Collection)
+  - **Teamfight Tactics**
+  - **Legends of Runeterra**
+  - Wild Rift
+
+## Image
+
+![Tryndamere](tryndamere.jpg)
+
+## Tryndamere
+
+### Gameplay
+
+- Cosmetics
+- Audio
+- Development
+- Patch History
+- History
+- Trivia
+
+### Base statistics
+
+| **Tryndamere** | |
+| --- | --- |
+| **Release date** | 2009-05-01 |
+| **Last changed** | V13.21 |
+| **Class(es)** | Skirmisher, Legacy, Fighter, Assassin |
+| **Position(s)** | Top |
+| **Resource** | Fury |
+| **Range type** | Melee |
+| **Adaptive type** | Physical |
+| **Store price** | 1350 |
+| **|** |
+| **Resource** | N/A |
+| **Health regen. (per 5s)** | 8.5 + 0.9 |
+| **Secondary Bar** | Fury (100) |
+| **Armor** | 33 + 4.3 |
+| **Attack damage** | 66 + 4 |
+| **Magic resist.** | 32 + 2.05 |
+| **Crit. damage** | 175% |
+| **Move. speed** | 345 |
+| **Attack range** | 175 |
+| **Attack speed** | Base AS 0.67, Attack windup 19%, AS ratio N/A, Bonus AS +3.4% |
+| **Unit radius** | Gameplay radius 65, Selection radius 135, Pathing radius 35, Acq. radius 400 |
+
+### Special statistics
+
+| **ARAM** | Damage Dealt +10%, Damage Received -10%, Healing +35% |
+| **Nexus Blitz** | N/A |
+| **One For All** | N/A |
+| **URF** | Damage Dealt +0%, Damage Received +0%, Healing +0% |
+| **Ult Spellbook** | N/A |
+| **Arena** | Damage Dealt +10%, Damage Received -10%, Healing +35% |
+
+### Abilities
+
+[ **Battle Fury** ]
+[ **Bloodlust** ]
+[ **Mocking Shout** ]
+[ **Spinning Slash** ]
+[ **Undying Rage** ]
+
+#### Battle Fury
+
+- **Innate**: Tryndamere generates 5 Fury on his basic attacks, and 10 Fury on critical strikes and each time he kills an enemy. After 8 seconds without dealing or taking damage, Tryndamere loses 5 Fury per second. Tryndamere gains 0% − 40% (based on Fury) critical strike chance.
+- **Details**: Fury generation stacks additively: if the given action triggers multiple ways of generating Fury, all of them apply. Killing an enemy with a basic attack generates 15 Fury (5 Fury from the basic attack + 10 Fury from the kill). Killing an enemy with a critical strike generates 20 Fury (10 Fury from the critical strike + 10 Fury from the kill). The Fury gain for killing an enemy also stacks with Spinning Slash's Fury generation per enemy hit. Attacks against structures will not grant bonus Fury, but will still reset the timer on Fury decay. Attacks against wards behave like attacks on normal enemies, generating 5 Fury and resetting the decay timer. Attacks against wards can critically strike, generating 10 Fury. Attacks against jungle plants will generate 5 Fury and reset the decay timer. Attacking an Honeyfruit and collecting the pods generates 30 Fury, or 35 Fury if the plant was hit by a critical strike. Fury is only granted if the basic attack hits and will not be granted if Tryndamere cancels his basic attack windup.
+
+#### Bloodlust
+
+- **Cost**: 100% Current Fury, Cooldown: 12 seconds, Cast Time: none
+- **Passive**: Tryndamere gains bonus attack damage, plus an additional amount based on his missing health.
+- **Details**: Map-Specific Differences: Arena differences: Fury generation changed to 150%, Base heal changed to 60 / 80 / 100 / 120 / 140, Heal AP ratio changed to 50% AP, Heal per 1 Fury changed to 1 / 1.75 / 2.5 / 3.25 / 4, Heal per 1 Fury AP ratio changed to 2% AP.
+
+#### Mocking Shout
+
+- **Cost**: 14 seconds, Cast Time: 0.3 seconds, Effect Radius: 850
+- **Passive**: Tryndamere reduces the attack damage of nearby enemy champions for 4 seconds. Targets facing in the opposite direction of Tryndamere are also slowed for the duration.
+- **Details**: Map-Specific Differences: Targeting input: Auto, Counters: Spell shield (blocked), Mocking Shout very briefly reveals Tryndamere if he uses it while in the fog of war to enemies. Map-Specific Differences: Arena differences: Slow strength changed to 50 / 57.5 / 65 / 72.5 / 80%, Attack damage reduction changed to 30 / 52.5 / 75 / 97.5 / 120, Slow: 30 / 37.5 / 45 / 52.5 / 60%.
+
+#### Spinning Slash
+
+- **Cost**: 12 / 11 / 10 / 9 / 8 seconds, Cast Time: none, Target Range: 660, Effect Radius: 225
+- **Active**: Tryndamere dashes to the target location, dealing physical damage to enemies hit and generating 2 Fury per enemy hit, increased to 5 Fury against champions. Physical Damage: 80 / 110 / 140 / 170 / 200 (+ 130% bonus AD) (+ 80% AP). Critical strikes reduce Spinning Slash's current cooldown by 0.75 seconds, doubled to 1.5 seconds against champions. Bloodlust and Undying Rage can be cast during the dash. Spinning Slash will cast at max range if cast beyond that.
+- **Details**: Map-Specific Differences: Fury generation stacks additively with Battle Fury's Fury generation on kill, Killing a minion with Spinning Slash grants 12 Fury (2 Fury from enemy hit + 10 Fury from the kill), Killing a champion with Spinning Slash grants 15 Fury (5 Fury from champion hit + 10 Fury from the kill), There is no cooldown on Fury generation on kill with Spinning Slash, Spinning Slash has no minimum dash range, Flash will interrupt the dash but Spinning Slash will deal damage to enemies at the new location instantly, Enemies already hit by Spinning Slash cannot be damaged more than once, To ensure Spinning Slash deals damage when dashing away from an enemy champion, Tryndamere needs to move r-35 units towards the enemy beyond the distance he can basic attack at, where r represents the enemy's radius and 35 is the distance in units beyond Tryndamere's basic attack range that Spinning Slash can reach, The cooldown reduction upon critically striking triggers on wards and jungle plants, The cooldown reduction upon critically striking triggers even if the attack is blocked, Pending for Test: Cooldown reduction on critical strike interaction with parrying effects (dodge, blind).
+
+#### Undying Rage
+
+- **Cost**: 120 / 100 / 80 seconds, Cast Time: none
+- **Active**: Tryndamere becomes enraged, instantly gaining Fury and a minimum health threshold for 5 seconds.
+- **Details**: Map-Specific Differences: No additional notes.
+
+### Champion skins
+
+- Original
+- Highland
+- Legacy: King
+- Viking
+- Wonders of the World: Demonblade
+- Otherroads
+- New voiceover
+- New SFX/VFX: Sultan
+- Warring Kingdoms
+- Nightmare
+- Blood Moon
+- Victorious
+
+### Patch history
+
+V13.21
+- Spinning Slash: Bug Fix: Hit radius is no longer smaller than intended. (Hotfixed during the previous patch)
+
+V13.20
+- October 11th Hotfix: Spinning Slash: Bug Fix: Now has the correct hit radius of 225 on every rank.
+- Undocumented/Bug Fix: Spinning Slash: Now lists the proper Fury gain values on hitting champions and non-champions in the tooltip.
+- Hitbox radiuses reduced to 80 − 200 (based on ability rank) from 225.
+
+V13.18
+- Stats: Base attack damage reduced to 66 from 68.
+- Health growth reduced to 108 from 115.
+
+V13.17
+- Stats: Attack range increased to 175 units from 125.
+- Base attack damage reduced to 68 from 72.
+- 7.
+
+V13.5
+- Stats: Health growth increased to 115 from 112.
+- Attack damage growth increased to 4 from 3.7.
+
+V12.11
+- Bloodlust: Base heal increased to 30 / 40 / 50 / 60 / 70 from 25 / 33 / 41 / 49 / 57.
+- Base heal per fury 0.5 / 0.95 / 1.4 / 1.9 / 2.4 from 0.45 / 0.9 / 1.35 / 1.8 / 2.25.
+- Maximum total bonus attack damage increased to 25 / 40 / 55 / 70 / 85 from 20 / 30 / 40 / 50 / 60.
+- Undying Rage: Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90.
+
+V12.10
+- Stats: Base health increased to 696 from 626.
+- Health growth increased to 112 from 98.
+- Armor growth increased to 4.3 from 3.1.
+- Magic resistance growth increased to 2.05 from 1.2.
+- Bloodlust: Base heal reduced to 25 / 33 / 41 / 49 / 57 from 30 / 38 / 46 / 54 / 62.
+- Base heal per fury reduced to 0.45 / 0.7 / 0.95 / 1.2 / 1.45 from 0.5 / 0.75 / 1 / 1.25 / 1.5.
+- Maximum total bonus attack damage reduced to 20 / 30 / 40 / 50 / 60 from 25 / 35 / 45 / 55 / 65.
+- Spinning Slash: Cooldown increased to 13 / 11.5 / 10.5 / 9.5 / 8.5 seconds from 13 / 12 / 11 / 10 / 9.
+- Cooldown reduction against champions reduced to 1.5 seconds from 2 seconds.
+
+V12.6
+- Spinning Slash: Cooldown reduction reduced to 1.5 seconds from 2 seconds.
+- Undying Rage: Cooldown increased to 130 / 115 / 100 seconds from 110 / 100 / 90.
+
+V11.23
+- Undying Rage: Bug Fix: Casting it as soon as Lamb's Respite buff expires will no longer allow the caster to be executed while under the effect.
+
+V11.16
+- Mocking Shout: Bug Fix: Attack damage reduction now properly counts toward stacking Eclipse's Ever Rising Moon.
+
+V11.5
+- Undying Rage: Bug Fix: Now properly ignores damage dealt in excess of the health threshold from an ability that would apply Horizon Focus' Hypershot.
+
+V11.4
+- Stats: Base attack damage increased to 72 from 69.
+
+V11.1
+- Stats: Base magic resistance reduced to 32 from 32.1.
+- Base health increased to 626 from 625.64.
+
+V10.24
+- Bloodlust: Base bonus attack damage increased to 5 / 10 / 15 / 20 / 25 from 5 / 8 / 11 / 14 / 17.
+- Bonus attack damage per missing health increased to 0.15 / 0.2 / 0.25 / 0.3 / 0.35 from 0.1 / 0.15 / 0.2 / 0.25 / 0.3.
+- Maximum total bonus attack damage increased to 20 / 30 / 40 / 50 / 60 from 20 / 25 / 30 / 35 / 40.
+
+V10.23
+- Battle Fury: Critical strike chance per Fury changed to 0.35% at all levels from 0.35% − 0.5% (based on level).
+
+V10.18
+- Spinning Slash: Bug Fix: Can no longer hit the same target multiple times.
+- Undying Rage: New Effect: Ability icon HUD now shows the remaining duration of the ability.
+
+V9.13
+- Spinning Slash: Bug Fix: Now has the proper range.
+- Spinning Slash: Now more quickly and reliably applies its effects to enemies they hit.
+
+V9.12
+- General: New visual effects.
+- New basic attack hit effects and adjusted weapon trails.
+- All skins cleaned up to match the new effects on the base skin.
+- Battle Fury: New rage indicator effect.
+- Bloodlust: More visible heal effect with reduced noise.
+- Mocking Shout: Added a cast effect that shows range.
+- Spinning Slash: New effect that shows the actual width of the AoE.
+- Undying Rage: New activation and buff effects.
+- Demonblade Tryndamere: New fiery effects.
+
+V9.10
+- Spinning Slash: Cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 13 / 12 / 11 / 10 / 9.
+- AP ratio reduced to 80% AP from 100% AP.
+
+V9.5
+- Battle Fury: Critical strike chance per Fury increased to 0.35% − 0.5% (based on level) from 0.35% at all levels.
+
+V9.4
+- General: Recommended items no longer recommend Spear of Shojin, but instead Ravenous Hydra.
+
+V9.1
+- Undying Rage: New Effect: Ability icon HUD now shows the remaining duration of the ability.
+
+V8.16
+- Spinning Slash: Cooldown increased to 13 / 12 / 11 / 10 / 9 seconds from 13 / 11.5 / 10.5 / 9.5 / 8.5.
+- AP ratio reduced to 80% AP from 100% AP.
+
+V8.13
+- Spinning Slash: Cooldown reduced to 13 / 11.5 / 10.5 / 9.5 / 8.5 seconds from 13 / 12 / 11 / 10 / 9.
+- Movement speed increased to 345 from 340.
+
+V7.22
+- Stats: Base attack damage increased to 69 from 61.
+- Base armor increased to 33 from 24.
+- Spinning Slash: Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+- Bonus attack damage ratio increased to (+ 120% Bonus AD) from (+ 100% Bonus AD).
+
+V6.20
+- Spinning Slash: Bug Fix: Fixed an edge case where Spinning Slash could damage allies he spins through if they were directly on top of an enemy unit.
+
+V6.10
+- Undying Rage: Minimum health increased to 30 / 50 / 70 from 1.
+- Healing Tryndamere: Removed: Healing Tryndamere to 3% of his maximum health (if he was below that) when Undying Rage ends.
+
+V6.8
+- General: Splash artwork for Highland Tryndamere and King Tryndamere updated to the Chinese art.
+
+V5.12
+- General: Fixed a bug where Tryndamere's critical strikes were taking longer to resolve than standard basic attacks.
+
+V4.20
+- Spinning Slash: Fixed a bug where it would occasionally deal double damage.
+
+V4.10
+- General: New ability icons added.
+
+V4.5
+- Stats: Base armor increased to 18.9 from 14.
+- Spinning Slash: On-crit cooldown reduction reduced to 1 second from 2. The effect is now doubled against champions.
+
+V3.13
+- Spinning Slash: On-crit cooldown reduction reduced to 1 second from 2. The effect is now doubled against champions.
+
+V3.12
+- Twisted Treeline only: Spinning Slash: Cooldown increased to 15 / 14 / 13 / 12 / 11 seconds from 13 / 12 / 11 / 10 / 9.
+- Undying Rage: Cooldown increased to 120 / 110 / 100 seconds from 110 / 100 / 90.
+
+V3.03
+- Bloodlust: Ability power ratio adjusted to (+ 30% AP + 1.2% AP per Fury consumed) (total 150% AP) from (+ 150% AP).
+
+V3.01
+- Stats: Base attack speed increased to 0.67 from 0.644.
+- Fury decay now begins after 8 seconds from after 5.
+
+V1.0.0.152
+- Stats: Movement speed increased to 345 from 320.
+
+V1.0.0.147
+- General: New splash artwork for Original Tryndamere.
+
+V1.0.0.132
+- Fury decay now begins after 5 seconds from after 8.
+
+V1.0.0.131
+- Bloodlust: Heal per fury reduced to 0.5 / 0.9 / 1.3 / 1.8 / 2.3 from 0.65 / 1.3 / 1.95 / 2.6 / 3.25.
+- Spinning Slash: Base damage increased to 70 / 100 / 130 / 160 / 190 from 60 / 90 / 120 / 150 / 180.
+- Bonus attack damage ratio increased to (+ 100% Bonus AD) from (+ 50% total AD).
+- Fixed a bug where Tryndamere was not gaining the proper Fury upon using Spinning Slash.
+
+V1.0.0.122
+- rework: General: New model and animations.
+- Model/hitbox increased in size by 20%.
+- Tryndamere now uses Fury, gaining 5 Fury per hit, 10 per crit, and 10 extra per kill.
+- Fury decays at 5 Fury per second after being out of combat for 10 seconds.
+- Battle Fury: Now grants up to 35% critical strike chance, depending on his Fury.
+- Bloodlust: Now activates on critical strikes as well as kills.
+- Now provides 4 attack damage and 1.5 / 2.25 / 3 / 3.75 / 4.5% critical damage per stack.
+- Cooldown changed to 12 seconds from 30 / 25 / 20 / 15 / 10.
+- Heal reduced to 10 / 20 / 30 / 40 / 50 per stack from 90 + 30 / 45 / 60 / 75 / 90 per stack.
+- Each time you gain Bloodlust for the first time, you gain 2 stacks instead of 1.
+- Heal ability power ratio increased to (+ 150% AP) from (+ 100% AP).
+- Mocking Shout: Health cost changed to 25 from 20 / 25 / 30 / 35 / 40.
+- Fixed a bug that caused the tooltip to show no health cost.
+- Spinning Slash: Range reduced to 660 from 1150.
+- Damage changed to 60 / 105 / 150 / 195 / 240 + (+ 50% of total AD) from 110 / 165 / 210 / 270 / 330.
+- Health cost reduced to 40 / 50 / 60 / 70 / 80 from 30 / 60 / 90 / 120 / 150.
+- Cooldown is now reduced by 2 seconds each time you critically strike.
+- It will fire directionally even if targeting a point outside of the cast range.
+- Undying Rage: Duration reduced to 6 seconds from 7.
+- Cooldown reduced to 120 / 100 / 80 seconds from 160 / 120 / 80.
+- Reduced number of Bloodlust stacks gained on activation to 4 / 6 / 8 from 3 / 6 / 9.
+- If Tryndamere is below 5% health when Undying Rage ends, it will heal him to 5%.
+
+V1.0.0.32
+- Bloodlust: Stacks applied from casting Undying Rage should properly increase Tryndamere's stats.
+
+V0.9.25.34
+- Mocking Shout: Slow increased to 30 / 37 / 45 / 52 / 60% from 20 / 30 / 40 / 50 / 60%.
+
+V0.9.25.24
+- Spinning Slash: Fixed issue with it not working when out of range.
+
+V0.9.25.21
+- Battle Fury: Fixed an issue causing the bonus critical strike chance to be at half power.
+- Spinning Slash: Targeting out of range will cause Spinning Slash to immediately cast in that direction rather than moving into range first (flash functionality).
+- Now has a minimum movement speed regardless of slows.
+
+V0.9.22.16
+- Mocking Shout: Slow reduced to 20 / 30 / 40 / 50 / 60% from 30 / 40 / 50 / 60 / 70%.
+
+V0.9.22.15
+- Stats: Increased movement speed to 320 from 310.
+- Increased base health regen to 2 from 1.62.
+- Reduced health regen per level to 0.18 from 0.2.
+- Bloodlust: Duration increased to 15 seconds from 10.
+
+V0.8.21.110
+- Bloodlust: Reduced cooldown to 30 / 26 / 22 / 18 / 14 seconds from 30 at all ranks.
+- Attack speed per stack increased to 8% from 7%.
+- Spinning Slash: Renamed from Slash.
+
+July 10, 2009 Patch
+- Slash: Damage changed to 90 / 150 / 210 / 270 / 330 from 75 / 140 / 205 / 270 / 335.
+- Bloodlust: Heal increased to 65 per stack from 50 per stack.
+- Ability power ratio increased to (+ 20% AP) from (+ 15% AP).
+- Cooldown reduced to 30 seconds from 35.
+
+June 6, 2009 Patch
+- Bloodlust: Duration reduced to 10 seconds from 12.
+- Stack duration reduced to 4 seconds from 5.
+- Attack speed per stack reduced to 7 from 8.
+
+May 29, 2009 Patch
+- Battle Fury: Maximum crit damage bonus reduced to 50% from 70%.
+- Slash: Cast range reduced to 1000 from 1150.
+- Fixed a bug with Slash's animation not transitioning correctly, causing Tryndamere to keep spinning after the slash was completed.
+- Mocking Shout: Cooldown increased to 14 seconds from 12.
+
+May 23, 2009 Patch
+- Undying Rage: Duration reduced to 7 seconds from 8.
+- Battle Fury: Modified the potential crit strike modifier to .7 at all levels from 0.5 / 0.7 / 0.9 / 1 (he only achieves .7 when at 1% life).
+
+May 9, 2009 Patch
+- General: Tweaked Tryndamere's attack animation.
+- Updated selection size and pathfinding radius.
+- Stats: Base health increased to 585 from 550.
+- Health gain per level increased to 95 from 80.
+- Fixed a bug where Tryndamere was not having his health regen increased per level. Now his health regen increases by 0.2 per level.
+- Battle Fury: Fixed a performance issue.
+- Bloodlust: Now properly stacks 2 / 4 / 6 / 8 / 10 times.
+- Now instant cast.
+- Changed hit particle.
+- Spinning Slash: Cooldown changed to 10 seconds at all ranks from 8 / 10 / 12 / 14 / 16.
+- Speed now increases with Tryndamere's movement speed.
+- Mocking Shout: Cooldown increased to 14 seconds from 11.
+- Casting radius increased.
+- Fixed a bug where the spell used Tryndamere's facing instead of the targets'.
+- Undying Rage: Fixed a bug that caused 1 too many stacks of Bloodlust.
+
+May 1, 2009 Patch
+- Added.
+
+### Trivia
+
+- Tryndamere holds his sword in a similar fashion Pyramid Head from Silent Hill holds his knife.
+- Tryndamere's dance references the Hopak, the traditional Cossack dance.
+- His pre-V1.0.0.122 dance references Bye Bye Bye by NSYNC.
+- He used to share this dance with Garen before they both got reworked.
+- Tryndamere was the first manaless champion released.
+- He was also: The first champion to utilize a form of the Fury resource.
+- The first with 100 points in Attack Rating.
+- With Spinning Slash, Tryndamere is one of the only four champions in the game to have a single damaging ability, the others being Zilean with Time Bomb, reworked Taric with Dazzle, and Bard with Cosmic Binding.
+- Master Yi and reworked Shen may also count with Alpha Strike and Shadow Dash respectively, as Wuju Style and Twilight Assault are on-hit damaging abilities and not normal damaging abilities.
+- He is often seen wearing his horned helmet, but in real life, such horns are considered impractical for combat use.
+- See also [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Tryndamere)
+- Cancelled Champions: Ao Shin, Avasha, Averdrian, CeeCee, Cyborg Cowboy, Eagle Rider, Gavid, Husk, Ivan, Omen, Priscilla, Rob Blackblade, Seth, Tabu, Tiki, Urf, Well
+- References: [Tryndamere's profile page](https://www.leagueoflegends.com/en-us/champions/tryndamere/)

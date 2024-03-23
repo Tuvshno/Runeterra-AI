@@ -1,0 +1,150 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - •
+    - Kled
+      * Gameplay
+      * Collection
+      * Audio
+      * Patch history
+      * Past versions
+        - Gameplay
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        - Kled & Skaarl
+          + Kled (Dismounted)
+          + Release date: 2016-08-10
+          + Last changed: V12.10
+          + Class(es): Skirmisher, Legacy, Fighter, Tank
+          + Position(s): Top
+          + Resource: Courage
+          + Range type: Melee
+          + Adaptive type: Physical
+          + Store price: 6300
+          | 975
+          | 3780 (Crafting)
+          + Ratings
+            * Damage: 3
+            * Toughness: 2
+            * Control: 1
+            * Mobility: 3
+            * Utility: 1
+          + Style: Difficulty
+
+      * **Kled & Skaarl**
+        * is a champion in League of Legends.
+
+[1]
+
+      * **Base statistics** (Kled1)
+        * Health: 810 + 151.64705882353
+        * Resource: N/A
+        * Health regen. (per 5s): 6 + 0.75
+        * Secondary Bar: Courage (100)
+        * Armor: 35 + 5.2
+        * Attack damage: 65 + 3.5
+        * Magic resist.: 28 + 2.05
+        * Crit. damage: 175%
+        * Move. speed: 345
+        * Attack range: 125
+        * Attack speed: Base AS 0.625, Attack windup 17.5%, AS ratio N/A, Bonus AS +3.5%
+        * Unit radius: Gameplay radius 65, Selection radius 140, Pathing radius 35, Acq. radius 750
+
+      * **Special statistics**
+        * ARAM: +5% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +5% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received
+        * Nexus Blitz: N/A
+        * One For All: N/A
+        * URF: N/A
+        * Ult Spellbook: N/A
+        * Arena: +5% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received
+        * Damage Dealt: +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%
+        * Damage Received: -10%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, -10%
+
+[2]
+
+      * **Kled** (Kled2)
+        * Release date: 2016-08-10
+        * Last changed: V14.4
+        * Class(es): Skirmisher, Legacy, Fighter, Tank
+        * Position(s): Top
+        * Resource: Courage
+        * Range type: Melee
+        * Adaptive type: Physical
+        * Store price: 4800
+        | 880
+        | 2880 (Crafting)
+        + Ratings
+          * Damage: 3
+          * Toughness: 2
+          * Control: 1
+          * Mobility: 2
+          * Utility: 1
+        * Style: Difficulty
+
+      * **Champion Spotlight**
+        * Kled
+        * is a champion in League of Legends.
+
+[2]
+
+      * **Base statistics** (Kled2)
+        * Health: 410 + 84
+        * Resource: N/A
+        * Health regen. (per 5s): 6 + 0.75
+        * Secondary Bar: Courage (100)
+        * Armor: 35 + 5.2
+        * Attack damage: 65 + 3.5
+        * Magic resist.: 28 + 2.05
+        * Crit. damage: 175%
+        * Move. speed: 285
+        * Attack range: 250
+        * Attack speed: Base AS 0.625, Attack windup 17.5%, AS ratio N/A, Bonus AS +3.5%
+        * Unit radius: Gameplay radius 65, Selection radius 140, Pathing radius 35, Acq. radius 750
+
+      * **Special statistics**
+        * ARAM: +5% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +5% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received
+        * Nexus Blitz: N/A
+        * One For All: N/A
+        * URF: N/A
+        * Ult Spellbook: N/A
+        * Arena: +5% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received, +0% Damage Dealt, +0% Damage Received
+        * Damage Dealt: +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%
+        * Damage Received: +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%, +0%
+
+---
+
+**Abilities**
+
+[ ]
+
+* **Skaarl, the Cowardly Lizard**
+  + Innate: Kled rides his semi-trusty mount, Skaarl. While Mounted, all damage dealt to the duo is suffered by Skaarl, who has 400 − 1550 (based on level) (+ 100% bonus health) base health. Effects based on percentage health consider Kled and Skaarl's combined maximum health. Being reduced to 0 health causes Skaarl to flee, forcing Kled to be Dismounted, with all damage in excess of Skaarl's health being ignored. Upon dismounting, Kled dashes in the direction of the allied Nexus, cleanses himself of all crowd control and becomes unable to act, untargetable, and immune to crowd control for 0.5 seconds, during which he also reduces all incoming damage received by 100%. While Dismounted, his base health and base movement speed are reduced, his base attack range is increased, Bear Trap on a Rope is replaced with Pocket Pistol, and Jousting and Chaaaaaaaarge!!! become unusable.
+
+---
+
+**Bear Trap on a Rope**
+
+* COOLDOWN: 11 / 10 / 9 / 8 / 7
+* CAST TIME: 0.25s
+* TETHER RADIUS: 800 − 650 (based on time active)
+* Active: Kled throws a bear trap in the target direction that deals physical damage to enemies hit, increased by 50% against minions and small monsters. The bear trap collides against the first enemy champion or large monster hit, forming a tether between Kled and the target for 1.75 seconds, during which they are revealed. Physical Damage: 30 / 55 / 80 / 105 / 130 (+ 65% bonus AD), Minion and Small Monster Damage: 45 / 82.5 / 120 / 157.5 / 195 (+ 90% bonus AD). The tether's radius shrinks over its duration, and if it is not broken before then, Kled pulls the target 100 units toward him, deals physical damage, inflicts Grievous Wounds for 5 seconds, and slows them for 1.5 seconds. Physical Damage: 60 / 110 / 160 / 210 / 260 (+ 130% bonus AD). Bear Trap on a Rope can be cast while Jousting.
+
+---
+
+**Violent Tendencies**
+
+* Passive: Kled periodically gains Violent Tendencies, which starts expiring upon his next basic attack. Violent Tendencies: Kled gains 150% bonus attack speed on his next 4 basic attacks within 4 seconds. The fourth attack deals bonus physical damage, capped against monsters. Bonus Physical Damage: 20 / 30 / 40 / 50 / 60 (+ 4.5 / 5 / 5.5 / 6 / 6.5% (+ 5% per 100 bonus AD)), Capped Monster Damage: 220 / 230 / 240 / 250 / 260. Turrets are only affected by the base damage.
+
+---
+
+**Jousting**
+
+* COOLDOWN: 13 / 12 / 11 / 10 / 9
+* CAST TIME: none
+* TARGET RANGE: 550 / 700
+* Active: Skaarl dashes in the target direction, though not through terrain, dealing physical damage to enemies he passes through and pulling minions and small monsters hit towards them. Physical Damage: 35 / 60 / 85 / 110 / 135 (+ 65% bonus AD). Upon hitting an enemy champion or large monster, Skaarl dashes a fixed 200 units through them, marking them for 3 seconds, during which they are revealed. After the dash ends, the duo gain 50% bonus movement speed for 1 second. Jousting can be recast after 0.5 seconds of the first dash ending while the target is marked. Recast: Skaarl consumes the mark to dash through the marked target, applying the same effects as the first cast. Total Physical Damage: 70 / 120 / 170 / 220 / 270 (+ 130% bonus AD). The mark will remain even if the target dies, and ends prematurely if the duo are too far away or Kled dismounts. Bear Trap on a Rope and Chaaaaaaaarge!!! can be cast during either of the dashes.

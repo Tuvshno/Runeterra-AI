@@ -1,0 +1,105 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - • Kog'Maw
+      - Gameplay
+      - Collection
+      - Audio
+      - Patch history
+      - Past versions
+    - • Teamfight Tactics
+  + Image
+    - Kog'Maw
+
+**Kog'Maw**
+
+* Release date: 2010-06-24
+* Last changed: V14.5
+* Class(es): Marksman, Legacy, Mage
+* Position(s): Bottom
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Physical
+* Store price: 4800
+| 880
+* Crafting: + 2880
+
+**Base statistics**
+
+| Statistic | Value |
+| --- | --- |
+| Health | 635 + 99 |
+| Mana | 325 + 40 |
+| Health regen. (per 5s) | 3.75 + 0.55 |
+| Mana regen. (per 5s) | 8.75 + 0.7 |
+| Armor | 24 + 4.45 |
+| Attack damage | 61 + 3.1 |
+| Magic resist. | 30 + 1.3 |
+| Crit. damage | 175% |
+| Move. speed | 330 |
+| Attack range | 500 |
+| Attack speed | Base AS: 0.665, Bonus AS: +2.65% |
+| Missile speed | 1800 |
+| Unit radius | Gameplay radius: 65, Selection radius: 130, Pathing radius: 30, Acq. radius: 900 |
+
+**Special statistics**
+
+| Statistic | Value |
+| --- | --- |
+| ARAM | Damage Dealt: -12%, Damage Received: +10% |
+| Nexus Blitz | Damage Dealt: -10%, Damage Received: +5% |
+| One For All | Damage Dealt: -3%, Damage Received: +3% |
+| URF | Damage Dealt: -5%, Damage Received: +0% |
+| Ult Spellbook | Damage Dealt: +0%, Damage Received: +0% |
+| Arena | Damage Dealt: -12%, Damage Received: +10% |
+
+**Abilities**
+
+* Icathian Surprise
+  + Effect radius: 400
+  + Passive: Upon taking fatal damage, Kog'Maw enters a zombie state for 4 seconds, becoming ghosted and gaining 10% bonus movement speed that increases up to 50% over the duration. At the end of the duration, he explodes to deal 140 − 650 (based on level) true damage to nearby enemies.
+    * While under this state, Kog'Maw is invulnerable, untargetable, and immune to crowd control, but is also rendered unable to declare basic attacks, cast abilities, use summoner spells, and activate items.
+  + Details: Kog'Maw's usable summoner spells are placed on a 5-second cooldown upon becoming a zombie. During Icathian Surprise, Kog'Maw's attack range is reduced to 0 by 500, making him automatically path near enemies he is trying to target. Zombie states trigger upon taking lethal damage. Raw damage effects will not prevent zombie states from triggering. All resurrection effects take precedence over effects that reanimate as a zombie. A champion that enters a zombie state will start their death timer upon triggering the effect. Most buffs and debuffs will be lost upon transitioning into a zombie state. Undisplayed marker buffs, such as those imposed by Veigar's Event Horizon and Viktor's Gravity Field to prevent being affected multiple times by the same effect, are lost.
+* Caustic Spittle
+  + Cost: 40 Mana
+  + Cooldown: 7 seconds
+  + Cast time: Basic attack timer
+  + Range: 1200
+  + Width: 140
+  + Speed: 1650
+  + Passive: Kog'Maw gains bonus attack speed.
+  + Bonus Attack Speed: 10 / 15 / 20 / 25 / 30%
+  + Active: Kog'Maw ejects a wad of spittle in the target direction that deals magic damage to the first enemy hit and reduces their armor and magic resistance for 4 seconds.
+    * Magic Damage: 90 / 140 / 190 / 240 / 290 (+ 70% AP)
+    * Resistances reduction: 23 / 25 / 27 / 29 / 31%
+* Bio-Arcane Barrage
+  + Cost: 40 Mana
+  + Cooldown: 17 seconds
+  + Cast time: None
+  + Active: Kog'Maw empowers his basic attacks for the next 8 seconds to gain bonus attack range and deal bonus magic damage on-hit, capped at 100 against minions and monsters.
+    * Bonus Attack Range: 130 / 150 / 170 / 190 / 210
+    * Bonus Magic Damage: 3 / 3.75 / 4.5 / 5.25 / 6% of target's maximum health
+* Void Ooze
+  + Cost: 40 / 55 / 70 / 85 / 100 Mana
+  + Cooldown: 12 seconds
+  + Cast time: 0.25 seconds
+  + Range: 1360
+  + Width: 240
+  + Speed: 1400
+  + Active: Kog'Maw spews a gob of ooze in the target direction that deals magic damage to enemies hit.
+    * Magic Damage: 75 / 120 / 165 / 210 / 255 (+ 70% AP)
+    * A field of ooze is created in its wake for 4 seconds, slowing enemies every 0.25 seconds.
+    * Slow: 40 / 45 / 50 / 55 / 60%
+* Living Artillery
+  + Cost: 40 − 400 (based on stacks) Mana
+  + Cooldown: 2 / 1.5 / 1 seconds
+  + Cast time: 0.25 seconds
+  + Target range: 1300 / 1550 / 1800
+  + Effect radius: 240
+  + Active: Kog'Maw spits a globule of acid into the air that drops to the target location after 0.6 seconds, granting sight of the area before dealing magic damage to enemies hit and revealing them for 2 seconds.
+    * Living Artillery's damage is increased by 0% − 50% (based on target's missing health) or instead by 100% if the target is below 40% maximum health.
+    * Minimum Magic Damage: 100 / 140 / 180 (+ 75 bonus AD) (+ 35% AP)
+    * Maximum Magic Damage: 200 / 280 / 360 (+ 150 bonus AD) (+ 70% AP)
+    * Kog'Maw then gains a stack of Living Artillery for 8 seconds, refreshing on subsequent casts and stacking up to 9 times.
+    * Living Artillery: For each stack, Living Artillery's mana cost is increased by 40.

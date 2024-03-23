@@ -1,0 +1,214 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * **Champions**
+      - Kennen
+
+**Kennen**
+
+* Release date: 2010-04-08
+* Last changed: V14.2
+* Class(es): Specialist, Legacy, Mage, Marksman
+* Position(s): Top
+* Resource: Energy
+* Range type: Ranged
+* Adaptive type: Magical
+* Store price: 4800 (880 after crafting)
+* Ratings
+  * Damage: 3
+  * Toughness: 1
+  * Control: 3
+  * Mobility: 1
+  * Utility: 1
+
+**Image**
+
+* Kennen
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+**Patch history**
+
+**Past versions**
+
+**Kennen**
+
+* **Name:** Kennen
+* **Class:** Specialist, Legacy, Mage, Marksman
+* **Role:** Top
+* **Resource:** Energy
+* **Range:** Ranged
+* **Adaptive:** Magical
+* **Price:** 4800 (880 after crafting)
+
+**Base statistics**
+
+| Statistic   | Value           |
+| ------------ | --------------- |
+| Health       | 611 (+98)      |
+| Energy       | 200 (+0)        |
+| Health regeneration (per 5s) | 5.5 (+0.65)   |
+| Energy regeneration (per 5s) | 50             |
+| Armor        | 29 (+4.95)      |
+| Attack damage | 48 (+3.75)      |
+| Magic resist. | 30 (+1.3)       |
+| Crit. damage  | 175%            |
+| Move. speed  | 335             |
+| Attack range | 550            |
+| Attack speed | Base AS 0.625, AS ratio 0.69, Bonus AS +3.4% |
+| Missile speed| 1700           |
+| Unit radius  | Gameplay radius 55, Selection radius 100, Pathing radius 30, Acq. radius 550 |
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, URF Ult Spellbook, Arena
+* Damage Dealt: +5%
+* Damage Received: +0%
+* Energy Regen: +20%
+* Damage Dealt (vs. minions): -2%
+* Damage Received (vs. minions): +2%
+
+**Abilities**
+
+[Mark of the Storm]
+
+* Passive
+* Kennen's abilities apply a stack of Mark of the Storm to enemies hit for 6 seconds, refreshing on subsequent applications and stacking up to 3 times. The third stack against a target consumes them all to stun the target for 1.25 seconds and restore 25 energy. The stun duration is reduced to 0.5 seconds if this occurs on the same target again within 6 seconds.
+* Slicing Maelstrom can apply only up to 3 stacks on a target.
+
+[Thundering Shuriken]
+
+* Cost: 60 / 55 / 50 / 45 / 40 Energy
+* Cooldown: 7 / 6.25 / 5.5 / 5 / 4.5 seconds
+* Cast time: 0.175 seconds
+* Target range: 1050
+* Width: 100
+* Speed: 1700
+* Active
+* Kennen throws a shuriken in the target direction that deals magic damage to the first enemy hit.
+* Magic Damage: 75 / 125 / 175 / 225 / 275 (+85% AP)
+
+[Electrical Surge]
+
+* Passive
+* Kennen's basic attacks on-attack generate a stack of Electrical Surge, stacking up to 4 times. At 4 stacks, his next basic attack is empowered to consume them all to deal bonus magic damage and apply a stack of Mark of the Storm.
+* Kennen gains maximum stacks of Electrical Surge upon respawning.
+* Bonus Magic Damage: 35 / 45 / 55 / 65 / 75 (+80% bonus AD, +35% AP)
+* Active
+* Kennen sends out a surge of electricity that deals magic damage to all nearby enemies afflicted by Mark of the Storm or within Slicing Maelstrom.
+* Magic Damage: 70 / 95 / 120 / 145 / 170 (+80% AP)
+* An enemy within 775 units with Mark of the Storm or inside Slicing Maelstrom is required to cast this ability. The target does not have to be visible to be targeted by this ability.
+
+[Lightning Rush]
+
+* Cost: 80 Energy
+* Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+* Cast time: None
+* Active
+* Kennen turns into lightning for 2 seconds, becoming unable to declare basic attacks but gaining ghosting and 100% bonus movement speed. He deals magic damage to enemies he passes through, reduced to 65% against non-champions, and restores 40 energy upon damaging at least one enemy.
+* Magic Damage: 80 / 120 / 160 / 200 / 240 (+80% AP)
+* Non-Champion Damage: 52 / 78 / 104 / 130 / 156 (+52% AP)
+* Lightning Rush can be recast after 0.5 seconds, and does so automatically after the duration.
+* Recast: Kennen ends Lightning Rush to gain bonus attack speed and be allowed to exceed the attack speed cap for 4 seconds.
+* Bonus Attack Speed: 40 / 50 / 60 / 70 / 80%
+* Lightning Rush's recast can be used while affected by cast-inhibiting crowd control.
+
+[Slicing Maelstrom]
+
+* Cooldown: 120 / 100 / 80 seconds
+* Cast time: 0.25 seconds
+* Effect radius: 550
+* Passive:
+* Kennen's basic attacks on-attack generate a stack of Electrical Surge, stacking up to 4 times. At 4 stacks, his next basic attack is empowered to consume them all to deal bonus magic damage and apply a stack of Mark of the Storm.
+* Kennen gains maximum stacks of Electrical Surge upon respawning.
+* Active:
+* Kennen summons a storm around himself for 3 seconds, gaining bonus armor and bonus magic resistance for the duration.
+* Bonus Resistances: 20 / 40 / 60
+* The storm strikes lightning bolts down on nearby enemies every 0.5 seconds, each one dealing magic damage.
+* Magic Damage Per Bolt: 40 / 75 / 110 (+22.5% AP)
+* Slicing Maelstrom gains 10% additional damage for each subsequent strike a target has received up to a combined total of 150% of the damage of the initial strike.
+* Total Single-Target Damage: 300 / 562.5 / 825 (+168.75% AP)
+
+**Map-Specific Differences**
+
+* In Arena, base damage changed to 70 / 90 / 110 / 130 / 150, AP ratio changed to 60% AP, and bonus resistances changed to 20 / 30 / 40.
+* Base damage per bolt changed to 30 / 55 / 80, and AP ratio per bolt changed to 18% AP.
+
+**Champion skins**
+
+* Original
+* Philece Sampler: Pan Chengwei, Loot eligible, Deadly
+* Philece Sampler: Swamp Master, Legacy, Loot eligible
+* Philece Sampler: Karate, Legacy, Loot eligible
+* Philece Sampler: Kennen M.D., Rift Hospital, Loot eligible
+* Why run with scissors when you can throw scalpels? - Philece Sampler, Rift Hospital, Loot eligible
+* Philece Sampler: Arctic Ops, Loot eligible, New SFX/VFX
+* Blood Moon - Philece Sampler, Arctic Ops, Loot eligible, New SFX/VFX
+* Super - Philece Sampler, Astronauts, Loot eligible, New SFX/VFX, New Animations/Recall
+* Honoring Nuguri's winning performance as Kennen during the 2020 World Championship - Philece Sampler, World Champions: 2020, Loot eligible, Legacy
+* Lieutenant Kennen - Philece Sampler, Astronauts, Loot eligible, Voice filter, New SFX/VFX, New Animations/Recall
+* Astronaut Kennen Chromas: Amethyst, Aquamarine, Catseye, Emerald, Obsidian, Rose Quartz, Ruby, Turquoise
+
+**Patch history**
+
+* V14.2: Electrical Surge: New Effect: Now grants maximum passive stacks on respawn.
+* V13.18: Lightning Rush: Energy cost reduced to 80 at all ranks from 100 / 95 / 90 / 85 / 80, Slicing Maelstrom: Cooldown reduced to 120 / 100 / 80 seconds from 120 at all ranks.
+* V13.16: Infernal Kennen: Bug Fix: VFX no longer conflicts with his character model to the extent that he becomes indistinguishable.
+* V13.6: Lightning Rush: Bug Fix: Now properly deals 65% damage to jungle monsters.
+* V13.5: Thundering Shuriken: Base damage increased to 75 / 120 / 165 / 210 / 255 from 85 / 130 / 175 / 220 / 265, AP ratio increased to 80% AP from 75% AP, Cooldown reduced to 7 / 6.25 / 5.5 / 5 / 4.5 seconds from 8 / 7 / 6 / 5 / 4 seconds, Electrical Surge: New Effect: When an enemy champion becomes marked, now shows a range indicator to Kennen.
+* V13.1: Lightning Rush: Damage against non-champions increased to 65% from 50%, Non-champion base damage increased to 52 / 78 / 104 / 130 / 156 from 40 / 60 / 80 / 100 / 120, Non-champion AP ratio increased to 52% AP from 40% AP.
+* V12.19: Lightning Rush: Undocumented: Attack speed cap can now be exceeded during the attack speed buff.
+* V12.18: Lightning Rush: Bug Fix: VFX on the character model no longer overrides the VFX for Exhaust.
+* V12.15: Electrical Surge: Active base damage increased to 70 / 95 / 120 / 145 / 170 from 60 / 85 / 110 / 135 / 160, Cooldown reduced to 13 / 11.25 / 9.5 / 7.75 / 6 seconds from 14 / 12 / 10 / 8 / 6, Slicing Maelstrom: AP ratio per tick increased to 22.5% AP from 20% AP.
+* V12.10: Electrical Surge: On-hit base damage increased to 20 / 30 / 40 / 50 / 60 from 10 / 20 / 30 / 40 / 50, On-hit AP ratio increased to 25% AP from 20% AP, On-hit bonus AD ratio increased to 80 / 90 / 100 / 110 / 120% bonus AD from 60 / 70 / 80 / 90 / 100% bonus AD.
+* V11.19: Thundering Shuriken: Base damage reduced to 75 / 120 / 165 / 210 / 255 from 85 / 130 / 175 / 220 / 265, AP ratio reduced to 75% AP from 80% AP.
+* V11.15: Thundering Shuriken: Base damage increased to 85 / 130 / 175 / 220 / 265 from 75 / 115 / 155 / 195 / 235, AP ratio increased to 80% AP from 75% AP.
+* V11.10: Electrical Surge: On-hit base damage increased to 20 / 30 / 40 / 50 / 60 from 10 / 20 / 30 / 40 / 50, On-hit AP ratio increased to 25% AP from 20% AP, On-hit bonus AD ratio increased to 60 / 70 / 80 / 90 / 100% bonus AD from 60% at all ranks.
+* V11.8: Electrical Surge: Bug Fix: Fixed a bug where the SFX would continue to play after cast until his death.
+* V10.16: Lightning Rush: Bug Fix: Killing the clone from Shaco's Hallucinate and dying to the detonation no longer causes the ability to be permanently swapped to the recast.
+* V10.13: Kennen M.D.: Updated visual effects.
+* V9.14: Stats: Base attack damage reduced to 48 from 51.3, Attack damage growth increased to 3.75 from 3.3, Attack speed at level 1 reduced to 0.625 from 0.69, Lightning Rush: Bonus attack speed increased to 30 / 40 / 50 / 60 / 70% from 30 / 40 / 50 / 60 / 70%.
+* V9.13: Lightning Rush: New Effect: No longer grants 10 / 20 / 30 / 40 / 50 bonus armor and magic resistance while active, Slicing Maelstrom: New Effect: Now grants 20 / 40 / 60 bonus armor and magic resistance for the duration.
+* V9.6: Slicing Maelstrom: New Effect: Now triggers effects that are triggered by DoT AoE abilities.
+* V9.4: General: Updated visual effects.
+* V7.22: Stats: Base armor increased to 29 from 24, Base health increased to 541 from 535, Health growth increased to 84 from 79, Lightning Rush: Active base damage reduced to 80 / 120 / 160 / 200 / 240 from 85 / 125 / 165 / 205 / 245, Electrical Surge: Passive base damage changed to 10 / 20 / 30 / 40 / 50 from 15 / 20 / 25 / 30 / 35.
+* V7.13: Electrical Surge: New Effect: Passive now deals 15 / 20 / 25 / 30 / 35 base damage, New Effect: Passive now scales with 30% AP.
+* V7.9: Magnetic resistance growth increased to 0.5 from 0.
+* V7.7: Kennen M.D.: Bug Fix: Fixed some dark textures appearing on the scalpel in his basic attack.
+* V7.4: General: Adjusted splash artwork for Deadly Kennen, Swamp Master Kennen, Kennen M.D., and Arctic Ops Kennen.
+* V7.3: General: Bug Fix: Fixed a bug on most of Kennen's skins where the on-hit particles for his basic attack were not properly appearing.
+* V7.1: Slicing Maelstrom: Base damage reduced to 40 / 75 / 110 from 80 / 145 / 210, AP ratio reduced to 20% AP from 40% AP, Per target successive strike modifier increased to 100 / 110 / 120 / 130 / 140 / 150% from 100 / 75 / 50 / 50 / 50 / 50%, New Effect: Successive maelstrom hits against the same enemy deal an additional 10% damage for each hit they've already suffered from this storm.
+* V6.17: General: Kennen's basic attack animation has been updated to better match when the shuriken leaves his hand.
+* V6.9: General: New ability icons.
+* Mark of the Storm: Mark duration reduced to 6 seconds from 6.25, Diminishing returns stun duration reduced to 6 seconds from 7, Additional stun duration reduced to 0.5 seconds from 0.6, Thundering Shuriken: Energy cost reduced to 60 / 55 / 50 / 45 / 40 from 65 / 60 / 55 / 50 / 45, Electrical Surge: Range reduced to 750 from 800, Energy cost reduced to 40 from 45, Slicing Maelstrom: Duration reduced to 3 seconds at all ranks from 3 / 4 / 5, Damage tick interval increased to 0.5 seconds from 0.25, New Effect: Targeting changed to all enemies within AoE from random.
+* V6.8: General: New splash artwork for Original Kennen.
+* V6.7: General: Splash artwork for Swamp Master Kennen updated to the Chinese art.
+* V5.13: Mark of the Storm: Bug Fix: Fixed a tooltip bug listing a 1 second stun duration instead of 1.25, Electrical Surge: Sometimes not applying Mark of the Storm to enemies within Slicing Maelstrom.
+* V5.3: Electrical Surge: New Effect: Now hits all enemies within Slicing Maelstrom, in addition to enemies afflicted by Mark of the Storm, Slicing Maelstrom: Bug Fix: Hitting the same target every 0.5 seconds instead of every 0.25 seconds.
+* V4.21: Electrical Surge: New Effect: Performs additional checks on-cast (besides after cast time), Slicing Maelstrom: Damage tick interval reduced to 0.5 seconds at all ranks from 0.25 / 0.2 / 0.175 / 0.15 / 0.125 seconds, New Effect: Cannot hit the same target more than once every 0.5 seconds.
+* V4.5: Stats: Base armor increased to 18 from 14.
+* V3.14: Electrical Surge: Bug Fix: Fixed a bug where Electrical Surge would not properly hit a target if Mark of the Storm wore off or was fully consumed before the casting time of Electrical Surge completed, Mark of the Storm: No longer wears off mid-cast, If cast just as Mark of the Storm is consumed by another ability, Kennen will still deal damage and add a stack as normal.
+* V3.9: Stats: Base attack damage reduced to 47.2 from 51.3, Mark of the Storm: Duration reduced to 8 seconds from 12, V3.02: Electrical Surge: Removed: Is no longer consumed when attacking wards.
+* V3.01: Slicing Maelstrom: Energy cost reduced to 0 from 40.
+* V1.0.0.154: General: Basic attack updated to be more responsive.
+* V1.0.0.152: Stats: Movement speed increased to 335 from 310.
+* V1.0.0.142: General: Basic attack animations updated to be more responsive.
+* V1.0.0.134: Thundering Shuriken: Cooldown increased to 8 / 7 / 6 / 5 / 4 seconds from 7 / 6 / 5 / 4 / 3, V1.0.0.123: Thundering Shuriken: AP ratio increased to 75% AP from 66% AP, Lightning Rush: AP ratio increased to 60% AP from 55% AP, Energy cost reduced to 100 / 95 / 90 / 85 / 80 from 100 at all ranks.
+* V1.0.0.118: Electrical Surge: New Effect: Buff icon is gray while charging.
+* V1.0.0.109: Mark of the Storm: Duration reduced to 8 seconds from 12, Electrical Surge: Range reduced to 800 from 825, V1.0.0.101: Lightning Rush: Removed: Casting while disabled, V1.0.0.99: Mark of the Storm: Stun duration reduced to 1 second from 1.25, New Effect: Stun has a diminished duration if applied to the same target more than once within 7 seconds.
+* V1.0.0.97: Electrical Surge: AP ratio increased to 55% AP from 45% AP, Lightning Rush: Energy cost reduced to 100 from 110, New Effect: Grants 10 / 20 / 30 / 40 / 50 bonus resistances for 4 seconds.
+* V1.0.0.86: General: New sound effects for basic attacks against different materials.
+* V1.0.0.82: Added Mark of the Storm (Innate), Electrical Surge (Q), Thundering Shuriken (W), Lightning Rush (E), and Slicing Maelstrom (Ultimate).
+* V1.0.0.75: Added Kennen to the game.
+
+**Trivia**
+
+* His dance references the Airflare, a breakdance move.
+* He shares this dance with Camille.
+* Her dance is very similar to PROJECT: Vayne's, whose dance is a similar breakdance move.
+* Kennen used to gain the 'Law of Inverse Ninja Strength' cosmetic Easter egg debuff (This unit is a flippin' ninja! - This unit is more effective when they work alone. For every Ninja on your team beyond yourself, you lose 1 health.) when he, Akali, Shen, and/or Zed found themselves on the same team. It was removed in V3.14 for unknown reasons.

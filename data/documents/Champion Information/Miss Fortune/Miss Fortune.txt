@@ -1,0 +1,357 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champion: Miss Fortune
+      * **[Miss Fortune](#miss-fortune)**
+        * Release date: 2010-09-08
+        * Last changed: V14.5
+        * Class(es): Marksman, Legacy
+        * Position(s): Bottom
+        * Resource: Mana
+        * Range type: Ranged
+        * Adaptive type: Physical
+        * Store price: 450
+          * Crafting cost: +270
+        * Ratings
+          * Damage: 3
+          * Toughness: 1
+          * Control: 1
+          * Mobility: 1
+          * Utility: 1
+        * Style: Difficulty: TBD
+        * **Base statistics**
+          * Health: 640 +103
+          * Mana: 300 +40
+          * Health regen. (per 5s): 3.75 +0.65
+          * Mana regen. (per 5s): 8 +0.8
+          * Armor: 28 +4.2
+          * Attack damage: 52 +2.4
+          * Magic resist.: 30 +1.3
+          * Crit. damage: 175%
+          * Move. speed: 325
+          * Attack range: 550
+          * Attack speed: Base AS: 0.656, Attack windup: 14.801%
+          * Missile speed: 2000
+          * Unit radius: Gameplay radius: 65, Selection radius: 100, Pathing radius: 35, Acq. radius: 800
+        * **Special statistics**
+          * ARAM: Damage Dealt: -10%, Damage Received: +15%
+          * Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+          * One For All: Damage Dealt: +5%, Damage Received: -5%
+          * URF: Damage Dealt: +0%, Damage Received: +0%
+          * Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+          * Arena: Damage Dealt: -10%, Damage Received: +15%
+        * **Abilities**
+          * **[Love Tap](#love-tap)**
+            * Innate: Miss Fortune's basic attacks are empowered to apply a mark that expires upon attacking a new enemy. If the enemy was unmarked, this also deals 50% − 100% (based on level) AD bonus physical damage, halved to 25% − 50% (based on level) AD against minions.
+            * Hide details: Targeting input: Passive, Damage type: Type: Physical, Sub-type: Proc damage, Counters: Parries (blocked), With: Runaan's Hurricane, The bonus damage applies life steal, The empowered attack will not trigger against buildings.
+          * **[Double Up](#double-up)**
+            * COST: 43 / 46 / 49 / 52 / 55 Mana, COOLDOWN: 7 / 6 / 5 / 4 / 3, CAST TIME: Basic Attack Timer
+            * Target range: Miss Fortune's attack range, Effect radius: 500, Angle: 160°, Speed: 1400
+            * Active: Miss Fortune fires a shot at the target enemy that deals physical damage, which then bounces to hit another enemy behind them. This applies on-attack effects to the first enemy hit, and on-hit effects to both enemies hit.
+            * Physical Damage: 20 / 45 / 70 / 95 / 120 (+ 100% AD) (+ 35% AP), Double Up's bounce is affected by critical strike modifiers. If Double Up kills the primary target, the bounce will critically strike.
+            * The bounce prioritizes units directly behind the primary target. A target does not have to be visible to be hit by the bounce.
+          * Map-Specific Differences: Arena differences, AP ratio changed to 55% AP.
+        * **Champion skins**
+          * Original
+          * Cowgirl
+          * Waterloo
+          * High Noon
+          * Secret Agent
+          * Legacy
+          * Cops and Robbers
+          * Candy Cane
+          * Road Warrior
+          * Bilgewater: Burning Tides
+          * Pool Party
+          * Star Guardian
+          * Arcade
+          * Gun Goddess
+          * Porcelain
+          * Star Guardian Season 2
+          * Bewitching
+          * Prestige Bewitching
+          * Ruined
+          * Battle Bunny
+          * Anima Squad
+          * Prestige Anima Squad
+          * Broken Covenant
+          * Porcelain
+
+**[Miss Fortune](#miss-fortune)**
+
+is a champion in **League of Legends**.
+
+[1]
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+| Statistic             | Value                             |
+|-----------------------|-----------------------------------|
+| Health                | 640 +103                          |
+| Mana                  | 300 +40                           |
+| Health regen. (per 5s) | 3.75 +0.65                         |
+| Mana regen. (per 5s)  | 8 +0.8                            |
+| Armor                | 28 +4.2                          |
+| Attack damage        | 52 +2.4                           |
+| Magic resist.         | 30 +1.3                           |
+| Crit. damage          | 175%                              |
+| Move. speed           | 325                               |
+| Attack range          | 550                              |
+| Attack speed          | Base AS: 0.656, Attack windup: 14.801% |
+| Missile speed         | 2000                              |
+| Unit radius           | Gameplay radius: 65, Selection radius: 100, Pathing radius: 35, Acq. radius: 800 |
+
+**Special statistics**
+
+| Game mode  | Damage Dealt: %                     | Damage Received: %          |
+|------------|-------------------------------------|------------------------------|
+| ARAM       | -10%                               | +15%                        |
+| Nexus Blitz | +0%                                | +0%                         |
+| One For All | +5%                                | -5%                         |
+| URF         | +0%                                | +0%                         |
+| Ult Spellbook | +0%                               | +0%                         |
+| Arena        | -10%                               | +15%                        |
+
+**Abilities**
+
+* **[Love Tap](#love-tap)**
+  * Innate: Miss Fortune's basic attacks are empowered to apply a mark that expires upon attacking a new enemy. If the enemy was unmarked, this also deals 50% − 100% (based on level) AD bonus physical damage, halved to 25% − 50% (based on level) AD against minions.
+  * Hide details: Targeting input: Passive, Damage type: Type: Physical, Sub-type: Proc damage, Counters: Parries (blocked), With: Runaan's Hurricane, The bonus damage applies life steal, The empowered attack will not trigger against buildings.
+* **[Double Up](#double-up)**
+  * COST: 43 / 46 / 49 / 52 / 55 Mana, COOLDOWN: 7 / 6 / 5 / 4 / 3, CAST TIME: Basic Attack Timer
+  * Target range: Miss Fortune's attack range, Effect radius: 500, Angle: 160°, Speed: 1400
+  * Active: Miss Fortune fires a shot at the target enemy that deals physical damage, which then bounces to hit another enemy behind them. This applies on-attack effects to the first enemy hit, and on-hit effects to both enemies hit.
+  * Physical Damage: 20 / 45 / 70 / 95 / 120 (+ 100% AD) (+ 35% AP), Double Up's bounce is affected by critical strike modifiers. If Double Up kills the primary target, the bounce will critically strike.
+  * The bounce prioritizes units directly behind the primary target. A target does not have to be visible to be hit by the bounce.
+* Map-Specific Differences: Arena differences, AP ratio changed to 55% AP.
+
+**[Love Tap](#love-tap)**
+
+Innate: Miss Fortune's basic attacks are empowered to apply a mark that expires upon attacking a new enemy. If the enemy was unmarked, this also deals 50% − 100% (based on level) AD bonus physical damage, halved to 25% − 50% (based on level) AD against minions.
+
+Hide details: Targeting input: Passive, Damage type: Type: Physical, Sub-type: Proc damage, Counters: Parries (blocked), With: Runaan's Hurricane, The bonus damage applies life steal, The empowered attack will not trigger against buildings.
+
+**[Double Up](#double-up)**
+
+COST: 43 / 46 / 49 / 52 / 55 Mana, COOLDOWN: 7 / 6 / 5 / 4 / 3, CAST TIME: Basic Attack Timer
+
+Target range: Miss Fortune's attack range, Effect radius: 500, Angle: 160°, Speed: 1400
+
+Active: Miss Fortune fires a shot at the target enemy that deals physical damage, which then bounces to hit another enemy behind them. This applies on-attack effects to the first enemy hit, and on-hit effects to both enemies hit.
+
+Physical Damage: 20 / 45 / 70 / 95 / 120 (+ 100% AD) (+ 35% AP), Double Up's bounce is affected by critical strike modifiers. If Double Up kills the primary target, the bounce will critically strike.
+
+The bounce prioritizes units directly behind the primary target. A target does not have to be visible to be hit by the bounce.
+
+Map-Specific Differences: Arena differences, AP ratio changed to 55% AP.
+
+**Patch history**
+
+[V14.5] Double Up: Bug Fix: No longer improperly cancels her current attack windup upon hitting the primary target if there was no secondary target to bounce towards.
+Gun Goddess Miss Fortune: Bug Fix: Right arm can no longer twist unnaturally during her Joke (Ctrl+1).
+[V13.3] Bullet Time: Bug Fix: The shape of the area of effect no longer changes if the caster is moved during the channel.
+Bullet Time: Bug Fix: Missile stream anchor points are no longer static and move corresponding to Miss Fortune's location and facing direction.
+Bullet Time: Missile waves will now always shoot in the direction Miss Fortune is facing towards if her facing direction changes during the channel, and with the proper angles between each stream.
+[V13.1b] Stats: Mana growth increased to 40 from 35.
+Base mana regeneration reduced to 8.05 from 8.
+[V12.22] Stats: Base mana regeneration increased to 8.05 from 8.04.
+[V12.21] Make It Rain: Damage AP ratio increased to 120% AP from 100% AP.
+Base slow reduced to 40% from 50%.
+Slow AP ratio increased to 6% per 100 AP from 4% per 100 AP.
+Bullet Time: AP ratio per wave increased to 25% AP from 20% AP.
+[V12.18] Stats: Attack speed growth reduced to 2.25% from 2.7%.
+Health growth reduced to 103 to 107.
+[V12.17] Double Up: Mana cost increased to 45 from 35.
+Bonus attack speed reduced to 40 / 55 / 70 / 85 / 100% from 50 / 65 / 80 / 95 / 110%.
+[V12.17] Double Up: Base damage increased to 20 / 45 / 70 / 95 / 120 from 20 / 40 / 60 / 80 / 100.
+New Effect: Cast time now matches basic attack time instead of being flat 0.25 seconds.
+Strut: Mana cost reduced to 35 from 45.
+Bonus attack speed increased to 50 / 65 / 80 / 95 / 110% from 40 / 55 / 70 / 85 / 100%.
+Make It Rain: Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 18 / 16 / 14 / 12 / 10.
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 80 / 115 / 150 / 185 / 220.
+Damage AP ratio increased to 100% AP from 80% AP.
+Slow changed to 40% at all ranks from 40 / 45 / 50 / 55 / 60%.
+New Effect: Slow now scales with 4% per 100 AP.
+[V12.10] Stats: Base health increased to 640 from 570.
+Health growth increased to 107 from 93.
+Armor growth increased to 4.2 from 3.
+Magic resistance growth increased to 1.3 from 0.5.
+[V12.5] Strut: New Effect: Now gains the increased bonus movement speed upon respawning.
+[V11.22] General: Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+[V11.21] Stats: Base mana reduced to 300 from 325.
+[V11.20] Love Tap: Bug Fix: Tooltip now includes the reduction on bonus damage against minions.
+[V11.18] Bullet Time: Number of waves increased to 14 / 16 / 18 from 12 / 14 / 16.
+[V10.25] - December 15th Hotfix: Strut: Bug Fix: Fixed a bug where the bonus attack speed would not scale with rank.
+Gun Goddess Miss Fortune: Bug Fix: Hand VFX glow now shows appropriately on her hand, as opposed to on the ground below her.
+[V10.24] Make It Rain: Bug Fix: No longer slows more than intended if she has Serylda's Grudge or Everfrost.
+[V10.18] Stats: Attack speed growth increased to 3% from 2.25%.
+Strut: Maximum bonus movement speed increased to 50 / 60 / 70 / 80 / 90 from 60 / 70 / 80 / 90 / 100.
+[V10.16] Stats: Base attack damage increased to 52 from 50.
+[V10.13] Double Up: Bug Fix: Now properly applies all on-hit effects like Press the Attack.
+Bug Fix: Now properly grants 2 stacks of Conqueror for her primary target and none for the secondary target regardless of whether Love Tap is applied or not.
+Crime City Miss Fortune: Skin renamed to Crime City Miss Fortune from Mafia Miss Fortune.
+[V10.11] Stats: Base health increased to 570 from 541.
+Health growth increased to 91 from 85.
+[V10.10] Strut: Maximum bonus movement speed reduced to 50 / 60 / 70 / 80 / 90 from 60 / 70 / 80 / 90 / 100.
+[V10.9] Love Tap: Bug Fix: Empowered basic attacks now properly stack Conqueror.
+[V10.7] Strut: Bug Fix: No longer cancels basic attack animation.
+Make It Rain: Bug Fix: Damage ring indicator is now properly visible in Howling Abyss.
+[V10.6] General: Recommended items updated.
+Make It Rain: Bug Fix: When attempting to cast it outside of its maximum range immediately after Flashing, the ability's position will now properly update and cast at its post-Flash max range.
+[V10.5] Make It Rain: Now casts at maximum range instead of casting in the targeted area.
+[V10.3] Stats: Attack damage growth reduced to 1 from 3.
+Double Up: Bug Fix: Now correctly applies on-attack effects when the shot hits the first enemy unit.
+[V10.2] Love Tap: Bug Fix: Basic attacks no longer continue to apply bonus damage from Nami's Tidecaller's Blessing after consuming three stacks of Love Tap.
+[V9.18] Make It Rain: Slow increased to 40 / 45 / 50 / 55 / 60% from 28 / 31 / 34 / 37 / 40%.
+[V9.15] Love Tap: Bug Fix: No longer grants an additional stack of Electrocute.
+[V9.13] General: Updated store assets for Arcade Miss Fortune's chroma set.
+[V9.8] Double Up: Bug Fix: Range/cast indicator now appears correctly.
+[V9.6] Bullet Time: New Effect: Now triggers effects that are triggered by DoT AoE abilities.
+[V9.4] Gun Goddess Miss Fortune: Bug Fix: Restored SFX on her death, homeguard, and recall animations.
+[V9.1] Strut: New Effect: Ability icon HUD now shows the remaining duration of the ability.
+[V8.13] Gun Goddess Miss Fortune: Bug Fix: Hand VFX glow now shows appropriately on her hand, as opposed to on the ground below her.
+[V8.11] Stats: Base health reduced to 541 from 577.
+Health growth reduced to 91 from 93.
+Base armor reduced to 28 from 33.
+Base health regeneration reduced to 3.75 from 6.
+Base attack damage reduced to 50 from 54.
+Attack damage growth increased to 2 from 1.
+Attack speed growth increased to 3% from 2.1%.
+[V8.9] Captain Fortune: Bug Fix: Shoulders no longer clip through her coat during her recall animation.
+[V8.8] Arcade Miss Fortune: Bug Fix: Seams have been minimized on her chromas when on lower graphics settings.
+[V8.7] Gun Goddess Miss Fortune: Bug Fix: Leg no longer stretches during several animations.
+Bug Fix: Arms are no longer weighted improperly during her dance animation.
+[V8.6] Stats: Attack damage growth increased to 2 from 1.
+[V8.3] Stats: Base health regeneration reduced to 6 from 6.192.
+[V8.2] General: New splash artwork for Cowgirl Miss Fortune, Waterloo Miss Fortune, Secret Agent Miss Fortune, and Road Warrior Miss Fortune.
+Star Guardian Miss Fortune: Bug Fix: Beam VFX have been restored during her Recall animation.
+[V7.24b] Make It Rain: Cooldown increased to 18 / 16 / 14 / 12 / 10 seconds from 14 / 13 / 12 / 11 / 10.
+[V7.22] Stats: Base attack damage increased to 54 from 46.
+Base armor increased to 33 from 24.
+[V7.21] Star Guardian Miss Fortune: Bug Fix: No longer misses a light beam particle during her recall.
+[V7.20] Arcade Miss Fortune: Love Tap: Bug Fix: Crit SFX no longer uses her base skin's crit SFX.
+[V7.9] Stats: Magic resistance growth increased to 0.5 from 0.
+[V7.7] Arcade Miss Fortune: Bug Fix: Fixed a bug where she was playing the wrong critical strike hit sound-effect.
+[V7.6] Double Up: Base damage increased to 20 / 40 / 60 / 80 / 100 from 20 / 35 / 50 / 65 / 80.
+AD ratio increased to 100% AD from 85% AD.
+New Effect: Cast range now adjusts based on Miss Fortune's attack range (ex. Rapid Firecannon).
+New Effect: No longer briefly pauses after casting Double Up.
+Make It Rain: New Effect: No longer briefly pauses after casting Make it Rain.
+[V7.5] Double Up: Second shot base damage reduced to 20 / 35 / 50 / 65 / 80 from 40 / 70 / 100 / 130 / 160.
+Second shot AD ratio reduced to 85% AD from 100% AD.
+Second shot AP ratio reduced to 35% AP from 50% AP.
+Removed: Second shot dealing 50% increased damage if the first one kills its target.
+New Effect: The second shot can now critically strike, dealing 100% increased damage, based on critical strike chance.
+New Effect: If the second shot is a critical strike, its bonus damage scales with bonus critical damage.
+New Effect: The second shot, after the first successfully kills its target, is a guaranteed critical strike.
+[V6.18] Love Tap: Removed: Reduced damage to turrets.
+Bug Fix: Fixed a bug where Miss Fortune's next basic attack would sometimes not activate Love Tap after casting Double Up (particularly at higher attack speeds).
+[V6.16] Make It Rain: Bug Fix: Pool Party Miss Fortune's Make It Rain no longer causes coconuts to visually hit people from weird directions in certain situations.
+[V6.15] General: Bug Fix: Pool Party Miss Fortune's level number no longer drifts out of the side of her health bar.
+[V6.13] Love Tap: Bug Fix: Applies extra The Black Cleaver armor shred stacks.
+[V6.8] Strut: Bonus attack speed duration increased to 4 seconds from 3.
+Cooldown increased to 12 seconds from 8.
+Removed: Love Tap extending the duration.
+New Effect: While on cooldown applying Love Tap reduces the timer by 2 - 1.1 seconds.
+[V6.7] General: Splash artwork for Cowgirl Miss Fortune, Waterloo Miss Fortune, Secret Agent Miss Fortune, and Road Warrior Miss Fortune updated to the Chinese art.
+[V6.1] Love Tap: Bonus damage reduced to 50 - 100% AD from 60 - 100% AD.
+Make It Rain: Base damage reduced to 900 / 1050 / 1200% Total AD (excluding bonus AD) from 400 / 600 / 1000 (excluding bonus AD) + 160% AP.
+[V5.24] Strut: Bonus attack speed reduced to 40 / 55 / 70 / 85 / 100% from 60 / 70 / 80 / 90 / 100.
+Make It Rain: Slow reduced to 28 / 36 / 44 / 52 / 60% from 40 / 45 / 50 / 55 / 60%.
+[V5.23] Stats: Health reduced to 530 from 577.8.
+Strut: Bonus attack speed reduced to 60 / 70 / 80 / 90 / 100% from 60 / 75 / 90 / 105 / 120.
+[V5.22] Stats: Attack damage reduced to 46 from 49.54.
+Attack damage growth reduced to 1 from 3.
+Attack speed growth reduced to 3% from 3.1.
+Mana increased to 325.84 from 275.
+Mana growth reduced to 35 from 38.
+[V5.21] Stats: Base attack damage increased to 49.54 from 46.
+Base armor increased to 24 from 23.
+Base magic resistance increased to 30 from 27.
+Base health regeneration increased to 6 from 5.5.
+[V5.20] Stats: Base attack damage increased to 46 from 44.
+Base health regeneration increased to 5.5 from 5.
+[V5.19] Stats: Base attack damage increased to 44 from 41.
+Base armor increased to 23 from 22.
+Base magic resistance increased to 27 from 26.
+[V5.18] Stats: Base attack damage increased to 41 from 39.
+Base armor increased to 22 from 21.
+Base magic resistance increased to 26 from 25.
+[V5.17] Stats: Base attack damage increased to 39 from 37.
+Base armor increased to 21 from 20.
+Base magic resistance increased to 25 from 24.
+[V5.16] Stats: Base attack damage increased to 37 from 36.
+Base armor increased to 20 from 19.
+Base magic resistance increased to 24 from 23.
+[V5.15] Stats: Base attack damage increased to 36 from 35.
+Base armor increased to 19 from 18.
+Base magic resistance increased to 23 from 22.
+[V5.14] Stats: Base attack damage increased to 35 from 34.
+Base armor increased to 18 from 17.
+Base magic resistance increased to 22 from 21.
+[V5.13] Stats: Base attack damage increased to 34 from 33.
+Base armor increased to 17 from 16.
+Base magic resistance increased to 21 from 20.
+[V5.12] Stats: Base attack damage increased to 33 from 32.
+Base armor increased to 16 from 15.
+Base magic resistance increased to 20 from 19.
+[V5.11] Stats: Base attack damage increased to 32 from 31.
+Base armor increased to 15 from 14.
+Base magic resistance increased to 19 from 18.
+[V5.10] Stats: Base attack damage increased to 31 from 30.
+Base armor increased to 14 from 13.
+Base magic resistance increased to 18 from 17.
+[V5.9] Stats: Base attack damage increased to 30 from 29.
+Base armor increased to 13 from 12.
+Base magic resistance increased to 17 from 16.
+[V5.8] Stats: Base attack damage increased to 29 from 28.
+Base armor increased to 12 from 11.
+Base magic resistance increased to 16 from 15.
+[V5.7] Stats: Base attack damage increased to 28 from 27.
+Base armor increased to 11 from 10.
+Base magic resistance increased to 15 from 14.
+[V5.6] Stats: Base attack damage increased to 27 from 26.
+Base armor increased to 10 from 9.
+Base magic resistance increased to 14 from 13.
+[V5.5] Stats: Base attack damage increased to 26 from 25.
+Base armor increased to 9 from 8.
+Base magic resistance increased to 13 from 12.
+[V5.4] Stats: Base attack damage increased to 25 from 24.
+Base armor increased to 8 from 7.
+Base magic resistance increased to 12 from 11.
+[V5.3] Stats: Base attack damage increased to 24 from 23.
+Base armor increased to 7 from 6.
+Base magic resistance increased to 11 from 10.
+[V5.2] Stats: Base attack damage increased to 23 from 22.
+Base armor increased to 6 from 5.
+Base magic resistance increased to 10 from 9.
+[V5.1] Stats: Base attack damage increased to 22 from 21.
+Base armor increased to 5 from 4.
+Base magic resistance increased to 9 from 8.
+[V5.0] Stats: Base attack damage increased to 21 from 20.
+Base armor increased to 4 from 3.
+Base magic resistance increased to 8 from 7.
+
+**Trivia**
+
+* Miss Fortune's name is a play on the word 'misfortune'.
+* Miss Fortune's twin pistols (Shock and Awe) are named after the eponymous military tactic.
+* They can be seen in the game's Mac version launch trailer, together with a poster of Miss Fortune herself.
+* Bullet Time is named after the eponymous motion picture effect and references Max Payne.
+* Miss Fortune is the third champion to have her Influence Point price reduced twice (the others being Garen and Warwick).
+* Miss Fortune is one of the first champions to have 12 skins. She and Ezreal got their twelfth skin at the same time. The skins are in the Star Guardian Pajama skin set.
+* See also [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Miss_Fortune).
+
+References
+
+[Miss Fortune's profile page](https://leagueoflegends.com/en-us/champions/miss-fortune/)

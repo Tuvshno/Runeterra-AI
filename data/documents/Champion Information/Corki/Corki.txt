@@ -1,0 +1,310 @@
+**Games**
+
+* Universe
+* *\*\*\*
+* League of Legends
+* *\*\*\*
+	+ Universe
+	+ *\*\*\*
+	+ League of Legends
+	+ *\*\*\*
+	+ •
+	+ League of Legends
+	+ *\*\*\*
+	+ -
+	+ Teamfight Tactics
+	+ -
+	+ Wild Rift
+* Image
+* Corki
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Corki**
+
+* Release date: 2009-09-19
+* Last changed: V14.3
+* Class(es): Marksman
+* Legacy: Marksman
+* Position(s): Middle
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Physical
+* Store price: 3150
+|
+790
+|
+Crafting: +1890
+* Ratings:
+	+ Damage: 3
+	+ Toughness: 1
+	+ Control: 1
+	+ Mobility: 2
+	+ Utility: 1
+* Style: Difficulty: Champion Spotlight
+* Difficulty:
+
+**Champion Spotlight**
+
+**Corki**
+
+is a champion in League of Legends.
+[1]
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+* Health: 610 (+103)
+* Mana: 350 (+54)
+* Health regen. (per 5s): 5.5 (+0.55)
+* Mana regen. (per 5s): 7.4 (+0.55)
+* Armor: 28 (+4.7)
+* Attack damage: 61 (+2.5)
+* Magic resist.: 30 (+1.3)
+* Crit. damage: 175%
+* Move. speed: 325
+* Attack range: 550
+* Attack speed: Base AS: 0.638, Attack windup: 10%
+* Bonus AS: +2.3 %
+* Missile speed: 2000
+* Unit radius:
+* Gameplay radius: 65
+* Selection radius: 135
+* Pathing radius: 35
+* Acq. radius: 600
+
+**Special statistics**
+
+* ARAM
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena
+
+**Damage Dealt**
+
++0%
+
+**Damage Received**
+
+-10%
+
+**Ability Haste**
+
++10
+
+**Damage Dealt**
+
++5%
+
+**Damage Received**
+
++0%
+
+**Damage Dealt**
+
++0%
+
+**Damage Received**
+
++0%
+
+**Damage Dealt**
+
++0%
+
+**Damage Received**
+
++0%
+
+**Damage Dealt**
+
++0%
+
+**Damage Received**
+
++0%
+
+**Abilities**
+[
+]
+
+**Edit**
+
+**Hextech Munitions**
+
+**Hextech Munitions**
+
+* STATIC
+* COOLDOWN: 300
+* Innate - Hextech Shrapnel Shells:
+	+ Corki's basic attacks are modified to deal 80% AD magic damage and 20% AD physical damage.
+	+ Life steal applies to both damage types.
+* Innate - The Package:
+	+ After 10:00, The Package is delivered to both corners of the allied fountain, which can be selected by Corki to pick up after channeling for 1 second.
+	+ Upon completion of the channel, Corki gains one cast of Special Delivery for 45 seconds, replacing Valkyrie for the duration.
+	+ While holding The Package, Corki gains 40% bonus movement speed out of combat and ghosting.
+	+ Corki cannot start the channel to pick up the package while he is unable to cast abilities.
+* Link: ▶️
+* "Ready to fly!"
+* Link: ▶️
+* Package acquired alert.
+* Hide: 
+* Details:
+	+ Map-Specific Differences:
+	+ Howling Abyss
+	+ differences:
+		- First package spawn time reduced to 5:00.
+		- Package cooldown reduced to 150 seconds.
+	+ Ultra Rapid Fire
+	+ differences:
+		- The Package respawn timer changed to 1 minute.
+		- Initial spawn timer unchanged.
+	+ Arena
+	+ differences:
+		- Package now spawns in the battlefield rather than at the spawn.
+		- Package duration changed to 15 seconds.
+		- New Effect:
+			* Spawns the package every round starting at level 6.
+	+ Video:
+	+ <https://leagueoflegends.fandom.com/wiki/File:Corki_IVideo.ogv>
+
+**Edit**
+
+**Phosphorus Bomb**
+
+**Phosphorus Bomb**
+
+* COST: 60 / 70 / 80 / 90 / 100 mana
+* COOLDOWN: 8
+* CAST TIME: 0.
+25
+* TARGET RANGE: 825
+* EFFECT RADIUS: 275
+* SPEED: 1000
+* Active:
+	+ Corki launches a bomb at the target location that explodes upon impact, dealing magic damage to enemies hit.
+	+ Magic Damage: 75 / 120 / 165 / 210 / 255
+	+ (+ 70% bonus AD)
+	+ (+ 50% AP)
+* The bomb also grants sight of the area for 6 seconds and reveals enemy champions hit for the same duration.
+* Hide: 
+* Details:
+	+ Video:
+	+ <https://leagueoflegends.fandom.com/wiki/File:Corki_QVideo.ogv>
+
+**Edit**
+
+**Valkyrie**
+
+**Valkyrie**
+
+* COST: 80 mana
+* COOLDOWN: 20 / 18 / 16 / 14 / 12
+* CAST TIME: none
+* TARGET RANGE: 600
+* COLLISION RADIUS: 100
+* EFFECT RADIUS: 200
+* SPEED: 650 + 100% movement speed
+* Active:
+	+ Corki dashes to the target location and drops bombs that leave up to 3 blazing patches along his path, depending on the distance traveled.
+	+ Each patch lasts 2.
+5 seconds.
+	+ Enemies within the patches are dealt magic damage every 0.
+25 seconds.
+	+ Magic Damage Per Tick: 15 / 22.
+5 / 30 / 37.
+5 / 45
+	+ (+ 15% AP)
+	+ Total Magic Damage: 150 / 225 / 300 / 375 / 450
+	+ (+ 150% AP)
+	+ Gatling Gun can be cast during the dash.
+	+ Valkyrie will cast at max range if cast beyond that.
+
+**Edit**
+
+**Special Delivery**
+
+**Special Delivery**
+
+* CAST TIME: none
+* TARGET RANGE: 1800
+* COLLISION RADIUS: 100
+* EFFECT RADIUS: 200
+* SPEED: 1500
+* Active:
+	+ Corki dashes with displacement immunity to the target location, knocking aside all enemies in his path 500 units and leaving behind a trail of fire for 5 seconds, which grants sight of the area for its duration and for 3 seconds afterwards.
+	+ Enemies hit by Corki's dash or within the trail are burned and slowed by 90% for 2 seconds, refreshing every 0.
+25 seconds while inside the area.
+	+ The burn deals 7.
+5 − 25 (based on level)
+	+ (+ 50% bonus AD)
+	+ (+ 6% AP)
+	+ Casting Special Delivery instantly resets Valkyrie's cooldown.
+	+ Special Delivery will cast at max range if cast beyond that.
+
+**Valkyrie Details**
+
+**Special Delivery Details**
+
+**Video**
+
+**Targeting input**
+
+**Location**
+
+**Damage type**
+
+**Type**
+
+**Sub-type**
+
+**AOE DOT damage**
+
+**Magic**
+
+**Counters**
+
+**Spell shield**
+
+**Grounded**
+
+**Knockdown**
+
+**Not Blocked**
+
+**Not Interrupted**
+
+**Notes**
+
+No additional information.
+[2]
+
+**Trivia**
+[3]
+
+* Corki is voiced by an individual named "Ralph"
+* It was speculated that Corki was inspired by Aurel Vlaicu the Gyrocopter from Dota 2, but this has been proven false.
+* Corki was the first champion to have two Legendary skins as well as the first and only to have three. All of them are old skins that are either Legacy or were never for sale to begin with.
+* Corki's dance references the "Do a barrel roll!" phrase spoken by Peppy Hare in Star Fox 64.
+* In the now-removed official League of Legends forums, the old sound effect for when Corki picks up The Package was similar to an air raid siren, which was pointed out by a player in Syria and promptly changed.
+
+**References**
+
+[1] <https://leagueoflegends.fandom.com/wiki/Corki>
+[2] <https://leagueoflegends.fandom.com/wiki/Corki/Trivia>
+[3] <https://leagueoflegends.fandom.com/wiki/Corki/Trivia#References>

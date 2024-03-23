@@ -1,0 +1,130 @@
+# Games
+
+## Universe
+
+- League of Legends
+  - Champions
+    - Tahm Kench
+
+## Tahm Kench
+
+- The River King
+- Release date: 2015-07-09
+- Last changed: V14.2
+- Class(es): Warden, Legacy, Support, Tank
+- Position(s): Top, Support
+- Resource: Mana
+- Range type: Melee
+- Adaptive type: Magic
+- Store price: 4800
+  | 880
+- Crafting cost: +2880
+
+### Ratings
+
+| Damage | Toughness | Control | Mobility | Utility |
+| --- | --- | --- | --- | --- |
+| 2 | 3 | 2 | 1 | 3 |
+
+### Style
+
+- Difficulty: N/A
+
+### Champion Spotlight
+
+[Tahm Kench Champion Spotlight](Link to the video)
+
+---
+
+## Abilities
+
+### An Acquired Taste
+
+#### Innate
+
+- Tahm Kench's basic attacks and Tongue Lash are empowered to deal bonus magic damage and apply a stack of An Acquired Taste against enemy champions for 5 seconds, stacking up to 3 times.
+- Stacks expire by one every 0.67 seconds when the duration ends.
+- Tongue Lash and Devour gain additional effects against enemies with 3 stacks, consuming them all.
+
+#### Passive
+
+- The passive bonus damage applies to turrets.
+
+### Tongue Lash
+
+#### Cost
+
+- 50 / 46 / 42 / 38 / 34 Mana
+
+#### Cooldown
+
+- 7 / 6.5 / 6 / 5.5 / 5 seconds
+
+#### Cast time
+
+- 0.25 seconds
+
+#### Range
+
+- 900
+
+#### Width
+
+- 140
+
+#### Speed
+
+- 2800
+
+#### Active
+
+- Tahm Kench lashes his tongue in the target direction, dealing magic damage to the first enemy hit and slowing them by 50% for 2 seconds.
+- If the target is an enemy champion, Tahm Kench also heals himself.
+
+#### Magic Damage
+
+- 80 / 130 / 180 / 230 / 280 (+100% AP)
+
+#### Heal
+
+- 10 / 15 / 20 / 25 / 30 (+5 / 5.5 / 6 / 6.5 / 7% of missing health)
+
+#### An Acquired Taste Bonus
+
+- The target is stunned for 1.5 seconds.
+- Devour can be cast during Tongue Lash at no cost to pull the target to Tahm Kench before swallowing them.
+- Tahm Kench is unable to move, attack, or cast Abyssal Dive or Devour on a different target while his tongue is in flight. Tongue Lash's range and travel speed can be increased by Tahm Kench's size.
+
+### Map-Specific Differences
+
+- Tongue Lash's range and speed scale 1:1 alongside any size modifiers to Tahm Kench, but will not be reduced below their base values if his overall size modifier is smaller than 100%.
+- Tongue Lash's travel time to reach its maximum range is always 0.33 seconds.
+- Tongue Lash's range and speed can be increased by items such as Elixir of Iron, allowing him to hit targets at even the same distance more quickly and giving them less time to dodge.
+- Devour can be 'queued' at any point during Tongue Lash (including the wind-up animation) and will not go on cooldown if Tahm Kench fails to hit a valid target with Tongue Lash.
+- All three An Acquired Taste stacks will be consumed even if Tongue Lash's stun is negated.
+- This ability will cast from wherever the caster is at the start of the cast time.
+
+### Type
+
+- Cast time: Attacking, Disabled
+- Abilities, Disabled: Attacking, Movement, Items, Usable, Spells
+- Interrupted by: Death, unless protected by Resurrection
+
+### Targeting input
+
+- Direction
+
+### Damage type
+
+- Type: Magic
+- Sub-type: Spell damage
+
+### Counters
+
+- Spell shield
+- Projectile
+- Blocked: Not blocked
+
+### Map-Specific Differences (Ultra Rapid Fire)
+
+- Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds.

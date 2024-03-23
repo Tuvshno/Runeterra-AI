@@ -1,0 +1,722 @@
+**Games**
+
+* Universe
+  *
+
+**League of Legends**
+
+* •
+* League of Legends
+* •
+* Teamfight Tactics
+* •
+* Legends of Runeterra
+* •
+* Wild Rift
+
+**Image**
+
+* Diana
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+**Patch history**
+
+**Past versions**
+
+**Diana**
+
+* **Scorn of the Moon**
+* **Release date**
+  2012-08-07
+* **Last changed**
+  V14.5
+* **Class(es)**
+  Assassin
+  Diver
+  Legacy
+  Fighter
+  Mage
+* **Position(s)**
+  Jungle
+  Middle
+* **Resource**
+  Mana
+* **Range type**
+  Melee
+* **Adaptive type**
+  Magic
+* **Store price**
+  450
+|
+  260
+  Crafting
+  +
+  270
+
+**Ratings**
+
+* **Damage**
+  3
+* **Toughness**
+  2
+* **Control**
+  2
+* **Mobility**
+  2
+* **Utility**
+  1
+
+**Style**
+
+* **Difficulty**
+  Champion Spotlight
+
+**Champion Spotlight**
+
+* Diana is a champion in League of Legends.
+[1]
+* **Gameplay**
+  * **Cosmetics**
+  * **Audio**
+  * **Development**
+  * **Patch History**
+  * **History**
+  * **Trivia**
+
+**Base statistics**
+
+* **Health**
+  640 (+109)
+* **Mana**
+  375 (+25)
+* **Health regen. (per 5s)**
+  6.5 (+0.85)
+* **Mana regen. (per 5s)**
+  8 (+0.8)
+* **Armor**
+  31 (+4.3)
+* **Attack damage**
+  57 (+3)
+* **Magic resist.**
+  32 (+2.05)
+* **Crit. damage**
+  175%
+* **Move. speed**
+  345
+* **Attack range**
+  150
+* **Attack speed**
+  Base AS: 0.625
+  Attack windup: 20.833%
+  AS ratio: 0.694
+  Bonus AS: +2%
+  %
+* **Unit radius**
+  Gameplay radius: 65
+  Selection radius: 75
+  Pathing radius: 35
+  Acq. radius: 600
+
+**Special statistics**
+
+* ARAM
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena
+* Damage Dealt
+  +0%
+* Damage Received
+  -5%
+* Damage Dealt
+  +0%
+* Damage Received
+  0%
+* Damage Dealt
+  0%
+* Damage Received
+  0%
+* Damage Dealt
+  0%
+* Damage Received
+  0%
+* Damage Dealt
+  0%
+* Damage Received
+  0%
+
+**Abilities**
+
+[
+]
+* **Moonsilver Blade**
+  * **Effect radius:** 175
+  * **Innate:**
+    Diana gains 15% - 35% (based on level) bonus attack speed. After casting an ability, this bonus is tripled to 45% - 105% (based on level) for 5 seconds.
+  * **Innate - Moonsilver Blade:**
+    Diana's basic attacks generate a stack of Moonsilver Blade for 3.5 seconds, refreshing on subsequent attacks and stacking up to 2 times. At 2 stacks, Diana empowers her next basic attack to consume the stacks on-hit to additionally cleave nearby enemies, dealing them 20 - 220 (based on level) (+ 50% AP) magic damage.
+  * Moonsilver Blade deals 300% damage against monsters.
+* **Hide**
+* **Details**
+  * Map-Specific Differences
+  * Video
+    Info
+    Targeting input
+    Passive
+    Damage type
+    Type
+    Sub-type
+    Area damage
+    Magic
+  * Counters
+    Spell shield
+    Parries
+    Blocked
+    Blocked
+  * Map-Specific Differences
+    Arena
+    differences
+    edit
+    AP ratio changed to 75% AP.
+    Video
+    https://leagueoflegends.fandom.com/wiki/File:Diana_IVideo.ogv
+* **Crescent Strike**
+  * **Cost:** 50 mana
+  * **Cooldown:** 8 / 7.5 / 7 / 6.5 / 6 mana
+  * **Cast time:** 0.25 seconds
+  * **Target range:** 900
+  * **Speed:** 1900 / 2100
+  * **Active:**
+    Diana unleashes a bolt of lunar energy that travels in a counter-clockwise arc before exploding at the target location, granting sight of the area for 0.5 seconds and dealing magic damage to enemies hit and afflicting them with Moonlight for 3 seconds, during which they are revealed.
+  * Magic Damage: 60 / 95 / 130 / 165 / 200 (+ 70% AP)
+  * Lunar Rush interacts with Moonlight.
+  * Crescent Strike will cast at max range if cast beyond that.
+* **Hide**
+* **Details**
+  * Video
+    Info
+    Targeting input
+    Location
+    Damage type
+    Type
+    Sub-type
+    Area damage
+    Magic
+  * Counters
+    Spell shield
+    Projectile
+    See Notes
+    Blocked
+    Even if the target spell shields the bolt, they may still be damaged by the explosion.
+    Moonlight is not applied to the protected target if blocked.
+  * This ability will cast from wherever the caster is at the end of the cast time.
+  * If the ability is cast at max range and she is moved backwards while casting, the bolt will travel to the target location with increased distance.
+  * (bug)
+  * Video
+    https://leagueoflegends.fandom.com/wiki/File:Diana_QVideo.ogv
+* **Pale Cascade**
+  * **Cost:** 40 / 45 / 50 / 55 / 60 mana
+  * **Cooldown:** 15 / 13.5 / 12 / 10.5 / 9 seconds
+  * **Cast time:** None
+  * **Effect radius:** 200
+  * **Active:**
+    Diana grants herself a shield for up to 5 seconds and creates three spheres that orbit her for the same duration, detonating upon contact with an enemy to deal magic damage to nearby enemies.
+  * Shield Strength: 45 / 60 / 75 / 90 / 105 (+ 30% AP) (+ 9% bonus health)
+  * Magic Damage per Orb: 18 / 30 / 42 / 54 / 66 (+ 18% AP)
+  * Total Magic Damage: 54 / 90 / 126 / 162 / 198 (+ 54% AP)
+  * If all three spheres detonate, Pale Cascade's shield is reapplied, stacking with its original shield and refreshing the duration.
+  * Maximum Shield Strength: 90 / 120 / 150 / 180 / 210 (+ 60% AP) (+ 18% bonus health)
+* **Hide**
+* **Details**
+  * Map-Specific Differences
+  * Video
+    Info
+    Targeting input
+    Auto
+    Damage type
+    Type
+    Sub-type
+    Minion Aggro
+    Spell damage
+    Magic
+  * Counters
+    Spell shield
+    Grounded
+    Knockdown
+    Blocked
+    Disabled
+    Interrupted
+  * Diana will attempt to basic attack the target. This will not grant a stack of Conqueror, Electrocute, or Phase Rush.
+  * Lunar Rush's cooldown will also be reset if the target dies during the dash while being affected by Moonlight.
+  * Lunar Rush consumes Moonlight upon ending the dash (even if interrupted).
+  * Lunar Rush will still deal damage even if the target is untargetable by the end of the dash.
+  * If Lunar Rush is blocked by spell shield the Moonlight debuff is still consumed but Lunar Rush's cooldown is not reset.
+  * Tips & Tricks
+    Since Moonlight is consumed upon ending the dash, a Crescent Strike cast mid-dash can still cause a reset.
+    Lunar Rush only consumes present Moonlight from the enemies. Because of this, it is possible for Lunar Rush to be reset multiple times during the same Crescent Strike cast, until it finishes its trajectory.
+  * Video
+    https://leagueoflegends.fandom.com/wiki/File:Diana_WVideo.ogv
+* **Lunar Rush**
+  * **Cost:** 40 / 45 / 50 / 55 / 60 mana
+  * **Cooldown:** 22 / 20 / 18 / 16 / 14 seconds
+  * **Cast time:** None
+  * **Target range:** 825
+  * **Active:**
+    Diana dashes to the target enemy's location, and upon completion, she deals them magic damage and consumes Moonlight from all enemies. If the target is within 400 range, Diana will dash through their location.
+  * Magic Damage: 50 / 70 / 90 / 110 / 130 (+ 60% AP)
+  * If Moonlight is consumed from the target, Lunar Rush's current cooldown is reduced to 0.25 seconds.
+  * Diana can cast any of her abilities during the dash.
+* **Hide**
+* **Tips & Tricks**
+  * Video
+    Info
+    Targeting input
+    Unit
+    Target out-of-range override
+    Walk in range of the target
+    Damage type
+    Type
+    Sub-type
+    Minion Aggro
+    Spell damage
+    Magic
+  * Diana will attempt to basic attack the target. This will not grant a stack of Conqueror, Electrocute, or Phase Rush.
+  * Lunar Rush's cooldown will also be reset if the target dies during the dash while being affected by Moonlight.
+  * Lunar Rush consumes Moonlight upon ending the dash (even if interrupted).
+  * Lunar Rush will still deal damage even if the target is untargetable by the end of the dash.
+  * If Lunar Rush is blocked by spell shield the Moonlight debuff is still consumed but Lunar Rush's cooldown is not reset.
+  * Tips & Tricks
+    Since Moonlight is consumed upon ending the dash, a Crescent Strike cast mid-dash can still cause a reset.
+    Lunar Rush only consumes present Moonlight from the enemies. Because of this, it is possible for Lunar Rush to be reset multiple times during the same Crescent Strike cast, until it finishes its trajectory.
+* **Moonfall**
+  * **Cost:** 100 mana
+  * **Cooldown:** 100 / 90 / 80 seconds
+  * **Cast time:** 0.25 seconds
+  * **Effect radius:** 475 / 225
+  * **Active:**
+    Diana pulls in all nearby enemies, during which they are revealed, then slows them for 2 seconds. If an enemy champion is pulled in, she calls down a beam of moonlight to strike upon the area around her after 1 second, dealing magic damage to all nearby enemies, increased for each champion pulled beyond the first.
+  * Slow: 40 / 50 / 60%
+  * Magic Damage: 200 / 300 / 400 (+ 60% AP)
+  * Bonus Damage Per Champion: 35 / 60 / 85 (+ 15% AP)
+  * Total Damage Vs. 5 Champions: 340 / 540 / 740 (+ 120% AP)
+* **Hide**
+* **Details**
+  * Map-Specific Differences
+  * Info
+  * Targeting input
+  * Auto
+  * Invalid target override
+  * The ability will cast with no valid targets.
+  * Damage type
+  * Type
+  * Sub-type
+  * Area damage
+  * Magic
+  * Counters
+  * Spell shield
+  * See Notes
+  * Enemies stay in the area for a maximum of approximately 0.5 seconds while being pulled.
+  * Crowd control immunity and displacement immunity still count as being "pulled in" by the ability.
+  * Clones count as champions for increasing this ability's damage.
+  * Moonfall's additional damage is not capped at 4 champions.
+  * The beam of moonlight does not crash down if champions hit blocked the initial effect with spell shield.
+  * Enemy champions protected by spell shield do not count towards the damage increase.
+  * This ability will cast from wherever the caster is at the end of the cast time.
+  * A lunar phase of the moon will appear above Diana while she is casting Moonfall, each phase is based on the number of enemy champions pulled:
+    New Moon: 1 Enemy Champion Pulled
+    Waning Crescent: 2 Enemy Champions Pulled
+    Third Quarter: 3 Enemy Champions Pulled
+    Waning Gibbous: 4 Enemy Champions Pulled
+    Full Moon: 5 Enemy Champions Pulled
+* **Map-Specific Differences**
+  * Arena differences
+  * edit
+  * Base damage changed to 300 / 450 / 600.
+* **Champion skins**
+[ ]
+* This article section only contains champion skins. For all associated collection items, see Diana (Collection).
+* Original
+* View in 3D
+* 880
+* 07.08.2012
+* Bearing her crescent moonblade, Diana fights as a warrior of the Lunari—a faith all but quashed in the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon’s power. Imbued with the essence of an Aspect from beyond Targon's towering summit, Diana is no longer wholly human, and struggles to understand her power and purpose in this world.
+* Nicole Oliver
+* Kienan 'Knockwurst' Lafferty
+* Loot eligible
+* Dark Valkyrie
+* View in 3D
+* 975
+* 07.08.2012
+* Occasionally, a valkyrie will be seduced by the comforts of mortal life, and be cast out from the halls of Valhalla. Understandably, this makes them pretty upset with Valhalla's whole management style.
+* Nicole Oliver
+* Pan Chengwei
+* Fables
+* Loot eligible
+* New SFX/VFX
+* Lunar Goddess
+* View in 3D
+* 975
+* 28.01.2014
+* Nicole Oliver
+* Michal Ivan, Puppetworks Animation Studio
+* Lunar Revel
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Lunar Goddess Diana Chromas
+* Amethyst
+* Aquamarine
+* Obsidian
+* Pearl
+* Peridot
+* Ruby
+* Turquoise
+* Infernal
+* View in 3D
+* 1350
+* 20.04.2016
+* Chief among the lesser Infernals is Diana, a blistering elemental terror sent ahead of the main invasion forces to assassinate key officials and set cities ablaze. Even her kin regard her methods as extreme, and she has been rightly elevated for it.
+* Nicole Oliver
+* Yan Li
+* Infernal
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Blood Moon
+* View in 3D
+* 1350
+* 09.02.2017
+* A child chosen by the Blood Moon itself, Diana's mind has been opened to the lost ways of the cult—unknown to its leaders, and even the slavering demons beyond. Hers is a truth no one can know, and a fated metamorphosis beyond men and the gods.
+* Nicole Oliver
+* Pan Chengwei
+* Blood Moon
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Dark Waters
+* View in 3D
+* 1350
+* 31.05.2018
+* Diana was once an extremist within the Order of the Mother Serpent, but now spends her days murdering her employer's enemies by the light of the moon. In Bilgewater it's less about who you were, and more about the message you send.
+* Nicole Oliver
+* Xu 'Crow God' Cheng
+* Bilgewater: Curse of the Drowned
+* Loot eligible
+* Voice filter
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Dark Waters Diana Chromas
+* Obsidian
+* Pearl
+* Ruby
+* Sapphire
+* Turquoise
+* Dragonslayer
+* View in 3D
+* 1350
+* 30.01.2020
+* Legends tell of a special breed of dragons ravaging the countryside who can hide under the veil of nightshade. While other dragonslayers may think twice about challenging such dangerous foes, Diana dives in head first—her blade and armor forged from the very remains of these ghastly draconic beasts.
+* Nicole Oliver
+* Xiao Guang Sun, West Studio
+* Dragon World
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Dragonslayer Diana Chromas
+* Citrine
+* Emerald
+* Obsidian
+* Pearl
+* Ruby
+* Sapphire
+* Battle Queen
+* View in 3D
+* 1350
+* 10.12.2020
+* Exiled for heresy, Diana has assented to return to her queendom to save her people—nothing else. She intends to use the Coronation to prove her worth and force Eos' elders to admit the truth of her beliefs: that the Crest answers to the will of the nation, not its leaders.
+* Nicole Oliver
+* Francis Tneh, West Studio
+* Battle Queens
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Prestige Battle Queen
+* View in 3D
+* Special
+* 10.12.2020
+* After revealing the truth at her nomination ceremony, Diana will let nothing stand in her way. Clad in new armor as steely as her resolve, Diana intends to subdue the Tournament's monsters—and the power-hungry religious order that has stifled Eosia.
+* Nicole Oliver
+* Sanhua Chen, Kudos Productions
+* Battle Queens
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* This skin is a variant of Battle Queen. Store variants are discounted for multiple purchases.
+* Sentinel
+* View in 3D
+* 1350
+* 08.07.2021
+* The Ruination of Targon and the loss of the Aspect of War devastated the Rakkor tribes. But the only way to fight an Aspect's power is with another Aspect—and so Diana takes up her blade as a member of the Sentinels, knowing that Viego would destroy everything the moonlight touches.
+* Nicole Oliver
+* Alex 'alexplank' Flores
+* Sentinels of Light
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Sentinel Diana Chromas
+* Citrine
+* Emerald
+* Pearl
+* Resolute
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Turquoise
+* Firecracker
+* View in 3D
+* 1350
+* 26.01.2022
+* Market stalls offer the Lady of the Moon their wares freely, in hope of receiving a blessing for the New Year. Diana is happy to oblige, even if it means getting stopped every few feet by another well-wisher… Luckily, Diana's festival buddies are patient.
+* Nicole Oliver
+* West Studio
+* Lunar Revel: Firecracker
+* Loot eligible
+* Legacy
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Transforming
+* Chromas
+* Winterblessed Diana Chromas
+* Emerald
+* Pearl
+* Rose Quartz
+* Ruby
+* Turquoise
+* Wreathguard
+* Heavenscale
+* View in 3D
+* 1350
+* 07.02.2024
+* The library of the Kingdom of Dragons is an illustrious archive of wisdom from ages past: a collection kept by Diana, scholar of the court. A fierce academic as well as a fighter, she accompanies the prince on his journey to document this historical first encounter between dragons and humans.
+* Nicole Oliver
+* Terence 'Terrylefruit' Cantal
+* Heavenscale
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Heavenscale Diana Chromas
+* Aquamarine
+* Citrine
+* Emerald
+* Lustrous
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Patch history
+[ ]
+* For the expanded patch notes, see here.
+* V14.5
+  * Moonsilver Blade
+    Bug Fix:
+    Buff no longer desyncs to trigger the empowered attack every 2 or 4 basic attacks, instead of the intended 3.
+  * Lunar Rush
+    Cooldown reset upon consuming Moonlight reduced to 0.25 seconds from 0.5.
+    Bug Fix:
+    Cooldown is no longer sometimes reset a second time after only consuming Moonlight once.
+* V14.4
+  * Winterblessed Diana
+    Bug Fix:
+    Pentakill VFX on the river terrain in Summoner's Rift is now properly rendered and no longer renders slightly higher than intended on normal elevated terrain.
+* V13.14
+  * Pale Cascade
+    Base shield increased to 45 / 60 / 75 / 90 / 105 from 40 / 55 / 70 / 85 / 100.
+    Shield AP ratio increased to 30% AP from 25% AP.
+    Damage AP ratio per orb increased 18% AP from 15% AP.
+* V13.8
+  * Crescent Strike
+    Bug Fix:
+    Missile range is no longer shorter or longer than intended if Flash is used during the cast time.
+* V12.16
+  * Moonsilver Blade
+    Base damage reduced to 20 − 220 (based on level) from 20 − 250 (based on level).
+    Lunar Rush
+    AP ratio increased to 50% AP from 45% AP.
+* V12.10
+  * May 25th Hotfix
+    Pale Cascade
+    Base shield increased to 40 / 55 / 70 / 85 / 100 from 25 / 40 / 55 / 70 / 85.
+    Lunar Rush
+    Base damage increased to 50 / 70 / 90 / 110 / 130 from 40 / 60 / 80 / 100 / 120.
+    AP ratio increased to 45% AP from 40% AP.
+  * V12.10
+    Stats
+    Base health increased to 640 from 570.
+    Base mana reduced to 375 from 420.
+    Base attack damage increased to 57.04 from 53.04.
+  * Pale Cascade
+    Base shield reduced to 30 / 45 / 60 / 75 / 90 from 40 / 55 / 70 / 85 / 100.
+    Shield AP ratio reduced to 25% AP from 30% AP.
+    Shield health ratio reduced to 9% bonus health from 10% bonus health.
+  * V12.1
+    Moonsilver Blade
+      New Effect:
+      Now deals 150% damage against non-epic monsters.
+      Bonus attack speed increased to 15% − 40% (based on level) from 10% − 40% (based on level).
+      Maximum bonus attack speed increased to 60% − 120% (based on level) from 30% − 120% (based on level).
+    Dark Waters Diana
+      Crescent Strike
+      Bug Fix:
+      VO now properly plays.
+  * V11.1
+    Stats
+    Base magic resistance reduced to 32.1 from 32.1.
+  * V10.14
+    Crescent Strike
+      Bug Fix:
+      Moonlight no longer applies to champions who've blocked it via a spell shield.
+    Lunar Rush
+      Bug Fix:
+      Cooldown no longer resets when the Moonlight from Crescent Strike is blocked by spell shields.
+  * V10.10
+    Stats
+    Base health reduced to 570 from 594.
+    Base attack damage reduced to 57.04 from 57.04.
+  * V10.4
+    Moonsilver Blade
+      New Effect:
+      Now deals 100% damage against epic monsters.
+  * V10.3
+    Stats
+    Base mana reduced to 372 from 372.
+  * Pale Cascade
+    Base damage reduced to 18 / 30 / 42 / 54 / 66 from 22 / 34 / 46 / 58 / 70.
+  * V9.24
+    - December 17th Hotfix
+      Lunar Rush
+      Bug Fix:
+      The basic attack after dashing to a target with Lunar Rush now correctly stacks Conqueror.
+    - Gameplay Update
+      General
+      New visual and sound effects.
+      Touched up the VFX of all her abilities, including a brand new VFX for her ultimate and better visuals on her passive.
+      Touched up all the SFX of all her abilities, most notably the shield and her dashes, as well as brand new SFX for her ultimate and passive.
+      Stats
+      Base mana increased to 420 from 372.
+  * V9.24
+    - Moonsilver Blade
+      New ability icon.
+      New Innate:
+        Diana permanently has 10% − 40% (based on level) bonus attack speed. After casting an ability, this bonus is tripled to 30% − 120% (based on level) for 3 seconds.
+        Diana is granted one Moonsilver Blade stack for every basic attack on-hit within 3.5 seconds of each other, up to a maximum of two. At two stacks, Diana's next basic attack on-hit consumes the stacks to cleave nearby enemies for 20 − 250 (based on level) (+ 40% AP) magic damage.
+    - Crescent Strike
+      New ability icon.
+      Mana cost reduced to 50 from 55.
+      Undocumented:
+        The ability now applies Moonlight even if the target dies from Crescent Strike.
+    - Pale Cascade
+      New ability icon.
+      Cooldown changed to 15 / 13.5 / 12 / 10.5 / 9 seconds from 10 at all ranks.
+      Undocumented:
+        Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 40 / 55 / 70 / 85 / 100.
+        Base shield strength reduced to 30 / 45 / 60 / 75 / 90 from 40 / 55 / 70 / 85 / 100.
+        AP ratio per orb reduced to 15% AP from 20% AP.
+        Total damage AP ratio reduced to 45% AP from 60% AP.
+        New Effect:
+          Shield now scales with 10% bonus health.
+    - Lunar Rush
+      (Reworked E)
+      Swapped with Moonfall.
+      New ability icon.
+      Active:
+        Diana dashes to an enemy dealing 40 / 60 / 80 / 100 / 120 (+ 40% AP) magic damage, resetting its cooldown if enemies are affected by Moonlight.
+      Cooldown: 22 / 20 / 18 / 16 / 14 seconds.
+      Mana Cost: 40 / 45 / 50 / 55 / 60.
+      Range: 825 units.
+      Undocumented:
+        Consuming one Moonlight from a Crescent Strike cast no longer disables successive Moonlight applications from the same cast.
+        Undocumented:
+          No longer gains a stack of Conqueror from the basic attack issued automatically after dashing to a target with Lunar Rush.
+    - Moonfall
+      (Reworked R)
+      Swapped with Lunar Rush.
+      New ability icon.
+      Active:
+        Reveals, draws in, and slows all nearby enemies for 40 / 50 / 60% for 2 seconds. If Diana pulls in one or more enemy champions, the moonlight crashes down onto her after 1 second, dealing 200 / 300 / 400 (+ 60% AP) magic damage in an area around her, increased by 35 / 60 / 85 (+ 15% AP) for each champion pulled beyond the first.
+      Cooldown: 100 / 90 / 80 seconds.
+      Mana Cost: 100.
+      Pull Distance: 225 units.
+      Effect Radius: 475 units.
+      Undocumented:
+        Consuming one Moonlight from a Crescent Strike cast no longer disables successive Moonlight applications from the same cast.
+        Undocumented:
+          No longer consumes present Moonlight from the enemies upon ending the dash.
+    Trivia
+    [ ]
+    Diana derives from PIE root dye- 'to shine'.
+    She shares her name with Diana . Roman goddess of the Moon.
+    [2]
+    Diana is the first champion to feature animations for when affected by both crowd control and movement speed buffs.
+    Moonfall's indicator above Diana references the Lunar phase.
+    [3]
+    1 enemy: New moon
+    2 enemies: Waning crescent
+    3 enemies: Last quarter
+    4 enemies: Waning gibbous
+    5 enemies: Full moon
+    A functional replica of Crescent Moonblade was crafted in an episode of YouTube series Man At Arms: Reforged.
+    There are also videos where the following are crafted:
+      Katarina's Daggers (functional)
+      Leona's Zenith Blade (functional)
+      Master Yi's 'Highlander' Ring Sword (functional)
+      Poppy's Hammer of Orlon (functional)
+      Yasuo's 'Last Breath' Sword (functional)
+      Ziggs' Hexplosive Bomb (prop)
+    See also
+    [ ]
+    League of Legends Wiki
+    |
+    Champions
+    Cancelled Champions
+    Ao Shin
+    Avasha
+    Averdrian
+    CeeCee
+    Cyborg Cowboy
+    Eagle Rider
+    Gavid
+    Husk
+    Ivan
+    Omen
+    Priscilla
+    Rob Blackblade
+    Seth
+    Tabu
+    Tiki
+    Urf
+    Well
+    References
+    [ ]
+    ↑
+    Diana's profile page
+    at LeagueOfLegends.com
+    ↑
+    IronStylus on champion names
+    ↑
+    Moonfall indicator

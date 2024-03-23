@@ -1,0 +1,148 @@
+**Games**
+
+---
+
+**Universe**
+
+-
+
+**League of Legends**
+
+**•**
+
+---
+
+**Champion: Smolder**
+
+**Image**
+
+---
+
+**Gameplay**
+
+**•**
+
+- Cosmetics
+- Audio
+- Development
+- Patch History
+- History
+- Trivia
+
+---
+
+**Base Statistics**
+
+- Health: 575 (+100)
+- Mana: 300 (+40)
+- Health regen. (per 5s): 3
+- Mana regen. (per 5s): 0.6
+- Armor: 24 (+4.7)
+- Attack damage: 55 (+2.3)
+- Magic resist.: 30 (+1.3)
+- Crit. damage: 175%
+- Move. speed: 330
+- Attack range: 550
+- Attack speed (base AS): 0.638
+- Attack windup: 16.622%
+- AS ratio: N/A
+- Bonus AS: +4%
+- Missile speed: 1800
+- Unit radius: 65
+- Selection radius: 130
+- Pathing radius: 30
+- Acq. radius: 900
+
+---
+
+**Special Statistics**
+
+- ARAM: N/A
+- Nexus Blitz: N/A
+- One For All: N/A
+- URF: N/A
+- Ult Spellbook: N/A
+- Arena: N/A
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Abilities:
+
+---
+
+**Dragon Practice**
+
+- Innate: Smolder generates a stack of Dragon Practice each time he hits an enemy champion with an ability, or whenever Super Scorcher Breath kills a minion or monster. His basic abilities deal bonus magic damage based on stacks.
+
+---
+
+**Super Scorcher Breath**
+
+- Cost: 23 / 26 / 29 / 32 / 35 mana
+- Cooldown: 5.5 / 5 / 4.5 / 4 / 3.5 seconds
+- Cast time: 0.25 seconds
+- Target range: 550 (+100% bonus range)
+- Range: 500
+- Effect radius: 285 / 150
+- Angle: 15°
+- Speed: 1800 / 900
+
+**Passive:** Smolder deals default damage for the burn, spell damage for the fireball, and area damage for the explosions. Smolder can't declare basic attacks for a brief moment after the cast time and only his damage counts for triggering the execute. If the target is below the threshold while afflicted with the burn, they will be executed on the next instance of damage dealt by Smolder, which includes the burn tick. If Super Scorcher Breath would damage the target to below the execution threshold, they are executed on the same damage instance. At 125 Dragon Practice stacks, the fireball will launch 2 bolts. At 225 Dragon Practice stacks, the burn's damage based on the target's health ratio will increase by at least 1.8%, and the execution threshold for the burn will be at least 7.625% of the target's maximum health. Super Scorcher Breath can only hit enemies once per cast. The minion and monster damage modifier applies only to the physical damage. The bolts apply the bonus magic damage from Dragon Practice at 75% damage. This damage does not benefit from life steal. Only Super Scorcher Breath's initial fireball missile can be blocked and dodged. The application of the burn is negated in both cases. The fireball can still explode on-collision and fire the bolts in both cases.
+
+---
+
+**Q: Dragon Practice**
+
+- Cost: 60 mana
+- Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+- Cast time: 0.35 seconds
+- Range: 1500
+- Effect radius: 385
+- Width: 115
+- Speed: 2000 / 400
+
+**Active:** Smolder sneezes a fiery glob in the target direction that deals physical damage to enemies hit and slows them by 35% for 1.5 seconds, slowing down in missile speed after traveling 1200 units. Hitting an enemy champion creates an explosion that deals physical damage to nearby enemies, with subsequent explosions against the same target dealing 75% damage.
+
+**Passive:** Smolder deals 140% damage against minions and monsters.
+
+---
+
+**W: Flap, Flap, Flap**
+
+- Cost: 65 mana
+- Cooldown: 24 / 22 / 20 / 18 / 16 seconds
+- Cast time: None
+- Range: 700
+- Speed: 1800
+
+**Active:** Smolder takes flight for 1.25 seconds, gaining 100% bonus movement speed, unobstructed vision, and the ability to ignore terrain collision. While in flight, he automatically fires up to 5 − 10 (based on critical strike chance) bolts at the nearest and most wounded visible enemy, dealing physical damage with each hit and prioritizing enemy champions.
+
+**Passive:** Flap, Flap, Flap ends immediately if Smolder casts one of his abilities or becomes immobilized. Smolder reveals himself while attacking enemies, even inside terrain. Spell shield will block only one bolt. Self immobilizations such as Zhonya's Hourglass also count for ending Flap, Flap, Flap. Recall is disabled while Smolder is inside terrain. Flap, Flap, Flap can interact with player-generated terrain. If Smolder is inside terrain when the effect ends, he will be placed correspondingly to the nearest valid space. Smolder's attack range is reduced to 0 during Flap, Flap, Flap, further reduced to -203 with Rapid Firecannon.
+
+---
+
+**R: MMOOOMMMM!**
+
+- Cost: 100 mana
+- Cooldown: 120 / 110 / 100 seconds
+- Cast time: 0.75 seconds
+- Range: 4250 / -600
+- Effect radius: 1000
+- Width: 125
+- Speed: 1700
+
+**Active:** Smolder shouts for his mother to attack from above, causing her to exhale a wave of fire from behind him and towards the target direction, granting sight of its surroundings as it travels. The wave heals Smolder for 110 / 160 / 210 (+75% AP) and deals physical damage to enemies hit, with those in the center taking 30% increased damage and becoming slowed by 40% for 2 seconds.
+
+**Passive:** MMOOOMMMM!'s cooldown starts at the end of the cast time. Smolder can move 0.4 seconds into MMOOOMMMM!'s cast time. This ability will cast from wherever the caster is at the start of the cast time. Type, cast time, attacking, abilities, movement, items, usable, and interrupts are disabled while Smolder is flying. N/A is interrupted by death, unless protected by Resurrection. Champion skins []. Smolder is a champion in League of Legends who hides amongst the craggy cliffs of the Noxian frontier, learning what it means to be heir to the Camavoran imperial dragon lineage. Though he's still a fledgling, his skills are nothing to sneeze at, easily setting fire to anything that burns. [1] Gameplay [•] Cosmetics [•] Audio [•] Development [•] Patch History [•] History [•] Trivia [
+
+[2] Patch history [
+] V14.5 - March 7th Hotfix Flap, Flap, Flap Number of bolts per 100 Dragon Practice stacks reduced to 0.75 from 2. Bug Fix: Calculation for the number of bolts from Dragon Practice stacks is no longer incorrectly rounded up. MMOOOMMMM! Cooldown increased to 140 / 130 / 120 seconds from 120 / 110 / 100. General Adjusted spawn location of basic attack missile VFX in order to more accurately represent him breathing it out. Super Scorcher Breath Removed: At tier 3, no longer deals a base 6.5% of target's maximum health true damage. New Effect: Tier 3 true damage now scales with 2% per 100 bonus AD, 1% per 100 AP, and 0.8% per 100 Dragon Practice stacks. Flap, Flap, Flap Removed: Number of bolts is no longer increased by 1 / 2 / 3 / 4 / 5 (based on critical strike chance). New Effect: Number of bolts now increases by 2 per 100 Dragon Practice stacks. Bug Fix: Now properly ignores terrain collision for Taliyah's Weaver's Wall. MMOOOMMMM! Base damage reduced to 200 / 300 / 400 from 225 / 350 / 475. Sweetspot bonus damage increased to 50% from 30%. Base heal reduced to 100 / 135 / 170 from 110 / 160 / 210. New Effect: Heal now scales with 50% bonus AD. V14.4 General Bug Fix: No longer is considered a Void champion for champion voice lines. Bug Fix: No longer is able to become stuck in impassable terrain when hit by Rift Herald's charge. Bug Fix: Various clipping animations have been fixed. Super Scorcher Breath New Effect: Now grants Dragon Practice stacks if the target dies while the initial missile is in flight. Tier 2 base missiles reduced to 1 from 2. Tier 2 additional missiles per 100 Dragon Practice stacks increased to 1.5 from 1. Achooo! Cooldown changed to 14 / 13 / 12 / 11 / 10 seconds from 13 / 12.5 / 12 / 11.5 / 11 seconds. Initial base damage changed to 50 / 70 / 90 / 110 / 130 from 70 / 85 / 100 / 115 / 130. Initial AD ratio reduced to 25% bonus AD from 25% total AD. Initial AP ratio reduced to 20% AP from 35% AP. New Effect: Explosion damage now scales with 25% bonus AD. Explosion AP ratio increased to 80% AP from 65% AP. Flap, Flap, Flap Bug Fix: Now properly ignores the terrain collision for Yorick's Dark Procession. MMOOOMMMM! Bug Fix: Missile no longer fizzles upon caster's death. Cooldown now starts at the end of the cast time. Missile spawn delay changed to 1 second after start of cast time from 0.25 seconds after end of cast time. Bug Fix: SFX no longer plays louder than intended in spectator mode. Bug Fix: Can no longer sometimes crash the game under specific circumstances. Heavenscale Smolder Bug Fix: Respawn VFX timing and SFX are no longer incorrectly used during his Recall animation. V14.3 General Bug Fix: His model's shadow now properly snaps back to him upon completing Recall. Bug Fix: His health bar is now properly aligned during his spawn animation. Bug Fix: No longer has multiple clipping issues of his model due to clashing with various other model and spell layers. Super Scorcher Breath Bug Fix: No longer plays the execute VFX repeatedly on every damage check tick against targets that had a health threshold below the execute threshold. Flap, Flap, Flap Bug Fix: No longer grants vision of stealthed units while any missiles are in-flight and at least one has hit them. Stats Undocumented: Base attack damage reduced to 55 from 56. Undocumented: Attack damage growth reduced to 2.3 from 2.5.

@@ -1,0 +1,301 @@
+**Games**
+
+* Universe
+* **•**
+* League of Legends
+* **•**
+	+ League of Legends Champion: Kayle
+	+ Gameplay
+		- Cosmetics
+		- Audio
+		- Development
+		- Patch History
+		- History
+		- Trivia
+	+ Base statistics
+* **•**
+	+ Image: Kayle
+* **•**
+	+ Collection: Kayle
+
+**Kayle**
+
+* Release date: 2009-02-21
+* Last changed: V14.5
+* Class(es): Specialist, Legacy, Fighter, Support
+* Position(s): Top
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 4800 (RP) | 260 (BE)
+
+|
+
+**Base statistics**
+
+| **Stat**         | **Value**             | **Growth stat** |
+|------------------|-----------------------|------------------|
+| Health            | 670                   | 92               |
+| Mana             | 330                   | 25               |
+| Health regen. (per 5s) | 5                      | 0.5              |
+| Armor            | 26                    | 4.2              |
+| Attack damage    | 50                    | 2.5              |
+| Magic resist.    | 22                    | 1.3              |
+| Crit. damage     | 175%                  | -               |
+| Move. speed      | 335                   | -               |
+| Attack range    | 175                   | -               |
+| Attack speed    | Base AS 0.625         | -               |
+| Attack windup    | 19.355%              | -               |
+| AS ratio         | 0.667                 | -               |
+| Bonus AS        | +1.5%                 | -               |
+| Missile speed   | 5000                  | -               |
+| Unit radius      | Gameplay radius 65     | -               |
+| Selection radius | 140                   | -               |
+| Pathing radius  | 35                    | -               |
+| Acq. radius      | 600                   | -               |
+
+**Special statistics**
+
+| **Stat**         | **Value**             |
+|------------------|-----------------------|
+| ARAM             | Damage Dealt -5%       |
+| Nexus Blitz      | Damage Dealt -10%     |
+| One For All       | Damage Dealt -5%       |
+| URF              | Damage Received +0%    |
+| Ult Spellbook    | Damage Dealt +0%       |
+| Arena            | Damage Dealt -5%       |
+| Damage Dealt     | -                     |
+| Damage Received  | +10%                  |
+| Damage Dealt     | -5%                    |
+| Damage Received  | +5%                    |
+| Damage Dealt     | -5%                    |
+| Damage Received  | +5%                    |
+| Damage Dealt     | -5%                    |
+| Damage Received  | +10%                  |
+| Damage Dealt     | +0%                    |
+| Damage Received  | +0%                    |
+| Damage Dealt     | +0%                    |
+| Damage Received  | +0%                    |
+
+**Abilities**
+
+| **Name**          | **Description**                                                                                |
+|--------------------|----------------------------------------------------------------------------------------------------|
+| Divine Ascent      | Innate: Kayle ascends through four forms that each grant additional bonuses upon spending a skill point at levels 1, 6, 11, and 16. |
+| Level 1 - Zealous    | Basic attacks grant 6% bonus attack speed for 5 seconds, stacking up to 5 times for a maximum of 30% bonus attack speed. At maximum stacks, Kayle becomes Exalted, gaining 10% bonus movement speed when moving toward enemies. |
+| Level 6 - Arisen    | Kayle becomes ranged and gains 350 bonus attack range for a total of 525. |
+| Level 11 - Aflame  | Kayle gains 10% bonus size. While Exalted, her basic attacks on-attack also launch a wave of fire forward that deals 20 – 41 (based on level) (+ 10% bonus AD) (+ 25% AP) magic damage to all enemies it passes through. The wave is affected by critical strike modifiers. |
+| Level 16 - Transcendent | Kayle gains an additional 100 bonus attack range for a total of 625, and permanently gains the full effects of Zealous. |
+| Radiant Blast     | Active: Kayle conjures a portal in front of her that faces the target direction. After a 0.5-second delay, a celestial sword launches forward from the portal. The sword explodes into a cross upon collision with an enemy, dealing magic damage, slowing targets struck by 26 / 32 / 38 / 44 / 50%, and reducing their armor and magic resistance by 20% for 3 seconds. |
+| Magic Damage: 60 / 100 / 140 / 180 / 220 (+ 60% bonus AD) (+ 50% AP) |
+| Slowing: 26 / 32 / 38 / 44 / 50% |
+| Cooldown: 12 / 11 / 10 / 9 / 8 seconds |
+| Celestial Blessing | Active: Kayle and a target allied champion are healed for 55 / 80 / 105 / 130 / 155 (+ 30% AP) health and gain 24 / 28 / 32 / 36 / 40% (+ 10% per 100 AP) bonus movement speed for 2 seconds. |
+| Heal: 55 / 80 / 105 / 130 / 155 (+ 25% AP) |
+| Bonus movement speed: 24 / 28 / 32 / 36 / 40% (+ 8% per 100 AP) |
+| Cooldown: 15 seconds |
+| Starfire Spellblade | Passive: Kayle's basic attacks deal 10 / 15 / 20 / 25 / 30 (+ 10% AD) (+ 20% AP) bonus magic damage. Additionally, Aflame's base damage is increased. |
+| Active: Kayle's next basic attack within 6 seconds deals 10 / 12.5 / 15 / 17.5 / 20% of target's missing health bonus magic damage. While Aflame, it also damages enemies surrounding the target. |
+| Bonus magic damage: 8 / 9 / 10 / 11 / 12% of target's missing health |
+| AP ratio: 2% per 100 AP |
+| Cooldown: 8 seconds |
+| Divine Judgment    | Active: Kayle conjures swords around the target allied champion or herself over 1.5 seconds. Afterward, she brings them crashing to the ground, dealing magic damage to all enemies in the area. Divine Judgment also grants the target invulnerability for 2 / 2.5 / 3 seconds. |
+| Target range: 900 |
+| Mana cost: 100.0 / 50.0 / 0 |
+| Cooldown: 160 / 120 / 80 seconds |
+
+**Map-Specific Differences**
+
+* Arena differences:
+	+ Wave bonus AD ratio changed to 7% bonus AD.
+	+ Wave AP ratio changed to 17% AP.
+* Video: Link to the video.
+
+**Notes**
+
+* Kayle's basic attacks within 175 units will always use her melee animation, even after becoming ranged, not utilizing projectiles.
+* Basic attacks empowered by Starfire Spellblade have a 200 "melee" range.
+* Once reaching the second ascension at level 11, Kayle's portrait icon for certain skins will change.
+* On the Original skin: it becomes the 'the Righteous' version.
+* On the Silver skin: it becomes the 'Viridian' version.
+* On the Battleborn skin: it becomes the 'Battleborn' version.
+* On the Aether Wing skin: it becomes the 'Aether Wing' version.
+* On the Riot skin: it becomes the 'Riot' version.
+* On the Pentakill skin: it becomes the 'Pentakill' version.
+* On the PsyOps skin: it becomes the 'PsyOps' version.
+* On the Dragonslayer skin: it becomes the 'Dragonslayer' version.
+* On the Pentakill Lost Chapter skin: it becomes the 'Pentakill Lost Chapter' version.
+* On the Sun-Eater skin: it becomes the 'Sun-Eater' version.
+* From others' point of view, only the Original skin is shown.
+* Trivia: Kayle is one of the seven pairs of sibling champions, along with Morgana.
+* Kayle is the first to have her dance changed after release, followed by Veigar.
+* Kayle is the first to have her abilities reworked three times since release, followed by Ryze.
+* Kayle is the first to use Chinese artwork outside Asian servers.
+* Kayle shares the dance with Singed.
+* Her new dance is a reference to the dance of Elaine Benes from Seinfeld 'The Little Kicks'.
+* In the now-removed official League of Legends forums, the original icon of Intervention was used to represent the 'Mac Client' section.
+
+**Champion skins**
+
+| **Skin name**        | **Loot eligible**      |
+|----------------------|-------------------------|
+| Original             | View in 3D               |
+| Silver              | View in 3D               |
+| Viridian             | View in 3D               |
+| Battleborn           | View in 3D               |
+| Aether Wing         | View in 3D               |
+| Riot                | View in 3D               |
+| Iron Inquisitor    | View in 3D               |
+| Pentakill          | View in 3D               |
+| PsyOps             | View in 3D               |
+| Dragonslayer        | View in 3D               |
+| Pentakill Lost Chapter | View in 3D           |
+| Sun-Eater            | View in 3D               |
+| Eclipse             | View in 3D               |
+
+**Patch history**
+
+* For the expanded patch notes, see [here](LeagueOfLegends.com/champion/kayle).
+* V14.5: Starfire Spellblade - New Effect: Now triggers spell effects upon dealing damage.
+* V14.1: Divine Ascent - Bonus attack speed AP ratio per stack reduced to 0.5% per 100 AP from 1%.
+* V13.17: Dragonslayer Kayle - Bug Fix: Smoke VFX during her Recall now uses the correct shape.
+* V13.10: Iron Inquisitor Kayle, Immortal Journey Kayle - Bug Fix: Their champion icon on the scoreboard and minimap now use the correct icon to reflect their third form at level 11.
+* V13.9: General - Bug Fix: Several SFX and animations now properly play.
+* V13.17: Divine Ascent - Aflame base damage changed to 15 − 35 (based on Starfire Spellblade's Rank) from 10 − 30 (based on Starfire Spellblade's Rank).
+* V13.10: Divine Judgment - Bug Fix: Sword VFX are no longer missing on her body during the cast animation.
+* V13.9: General - Bug Fix: No longer permanently loses attack speed from certain sources of ability power after reaching level 16.
+* V13.3: Divine Ascent - Bonus movement speed increased to 10% from 8%.
+* V12.13: Divine Ascent - New Effect: While Aflame and Exalted, or Transcendent, the distance of the waves launched by her basic attacks now scales with her bonus attack range.
+* V12.10: - May 25th Hotfix - Stats - Base magic resistance reduced to 26 from 30.
+* V12.10: Starfire Spellblade - Passive AP ratio reduced to 20% AP from 25% AP.
+* V12.10: Divine Judgment - Cast time reduced to 0.5 seconds from 1.5.
+* V12.10: Divine Judgment - Area of effect delay increased to 2.5 seconds from 1.5 seconds.
+* V12.10: Divine Judgment - Duration changed to 2.5 seconds at all ranks from 2 / 2.5 / 3 seconds.
+* V12.10: Divine Judgment - Effect radius increased to 675 / 675 / 775 units from 500 at all ranks.
+* V12.10: Divine Judgment - Base damage reduced to 200 / 300 / 400 from 200 / 350 / 500.
+* V12.10: Divine Judgment - AP ratio reduced to 70% AP from 80% AP.
+* V12.10: Divine Ascent - Removed: No longer reduces her attack range to 400 if she self-casts.
+* V12.1: Starfire Spellblade - Bonus magic damage reduced to 8 / 9 / 10 / 11 / 12% of target's missing health from 10 / 12.5 / 15 / 17.5 / 20%.
+* V12.1: Starfire Spellblade - AP ratio increased to 2% per 100 AP from 1% per 100 AP.
+* V11.24: Divine Ascent - New Effect: While Aflame and Exalted, or Transcendent, the distance of the waves launched by her basic attacks now scales with her bonus attack range.
+* V11.15: Starfire Spellblade - Aflame AP ratio reduced to 20% AP from 25% AP.
+* V11.10: Divine Ascent - Transcendent bonus attack range increased to 100 from 50.
+* V11.10: Divine Ascent - Maximum bonus attack range increased to 625 from 575.
+* V11.1: Starfire Spellblade - Bug Fix: Fire waves now properly trigger Muramana's Shock.
+* V11.8: Divine Judgment - Bug Fix: VFX no longer renders over impassable terrain.
+* V10.4: Radiant Blast - Undocumented: Cast time reverted to match Kayle's basic attack's windup time from 0.25 seconds.
+* V9.22: Radiant Blast - Base damage reduced to 60 / 100 / 140 / 180 / 220 from 70 / 115 / 160 / 205 / 250.
+* V9.19: Divine Judgment - Bug Fix: Fixed a bug where Ultimate Hunter would not reduce its cooldown.
+* V9.18: Divine Ascent - Aflame base damage increased to 15 − 35 (based on Starfire Spellblade's Rank) from 10 − 30 (based on Starfire Spellblade's Rank).
+* V9.17: General - Adjusted splash artwork for Original Kayle.
+* Divine Ascent - New Effects:
+	+ Innate: Upon reaching levels 1, 6, 11, and 16, along with spending another skill point, Kayle ascends into a new form, gaining additional bonuses.
+	+ Zealous (1): Kayle's basic attacks grant 6% bonus attack speed for 5 seconds, stacking up to 5 times for a maximum of 30% bonus attack speed. At maximum stacks, Kayle becomes Exalted, gaining 15% bonus movement speed when moving toward enemies.
+	+ Arisen (6): Kayle becomes a ranged champion with 550 attack range.
+	+ Aflame (11): While Exalted, Kayle's basic attacks against non-structures additionally launch a wave of fire in the target's direction, dealing 10 − 30 (based on Starfire Spellblade's Rank) (+ 10% AD) (+ 20% AP) magic damage to enemies hit.
+	+ Transcendent (16): Kayle permanently has full Zealous stacks and is permanently Exalted. Additionally, Aflame's fiery waves now deal true damage.
+* Radiant Blast - New Effect: Now refunds 50% of mana cost for each champion hit with it.
+* Cast delay reduced to 0.25 seconds from 0.5.
+* Cast time changed to 0.25 seconds, rather than matching the basic attack's windup time.
+* Missile speed reduced to 1600 from 2000.
+* Target range reduced to 900 units from 950.
+* Resistances shred reduced to 15% from 20%.
+* Resistances shred duration increased to 4 seconds from 3.
+* Bug Fix: Fixed a bug where it wouldn't pierce as far if it hit its target at point-blank range.
+* Starfire Spellblade - Bonus magic damage reduced to 8 / 10 / 12 / 14 / 16% of target's missing health from 10 / 12.5 / 15 / 17.5 / 20%.
+* AP ratio increased to 2% per 100 AP from 1% per 100 AP.
+* Passive on-hit damage AD ratio reduced to 10% bonus AD from 10% total AD.
+* Passive on-hit damage AP ratio increased to 25% AP from 20% AP.
+* Divine Judgment - Mana cost reduced to 100 / 50 / 0 from 100 at all ranks.
+* AoE radius increased to 500 units from 475.
+* Celestial Blessing - Undocumented: Can now be casted while there's a decoy nearby.
+* Divine Judgment - Bug Fix: Fixed a bug where she would sometimes freeze when casting her Divine Judgement and then teleport to a new location.
+* Undocumented: Can no longer be cast on decoys.
+* V9.8: Stats - Base attack damage reduced to 50 from 52.
+* Base armor reduced to 26 from 28.
+* Base attack speed reduced to 0.695 from 0.695.
+* Divine Ascent - New Effect: Ascensions are now based on level and skill points.
+* V9.7: Stats - Base health regeneration reduced to 5 from 6.
+* Armor growth reduced to 3 from 3.5.
+* Radiant Blast - Mana cost increased to 70 / 75 / 80 / 85 / 90 from 60 / 65 / 70 / 75 / 80.
+* Celestial Blessing - Base movement speed reduced to 24 / 28 / 32 / 36 / 40% from 26 / 32 / 38 / 44 / 50%.
+* Celestial Blessing - Mana cost changed to 60 / 70 / 80 / 85 / 90 from 70 / 75 / 80 / 85 / 90.
+* Starfire Spellblade - Bonus magic damage reduced to 8 / 10 / 12 / 14 / 16% of target's missing health from 10 / 12.5 / 15 / 17.5 / 20%.
+* New Effect: Bonus magic damage now scales with 1% per 100 AP.
+* New Effect: Bonus movement speed now begins on cast rather than after 0.25 seconds.
+* Removed: No longer has a 1-second uncancellable window.
+* Starfire Spellblade - New Effect: Cast time is now identical to her basic attack windup, from 0.25 seconds.
+* Bug Fix: The basic attack portion of Starfire Spellblade's attack can now properly critically strike.
+* Riot Kayle - Updated VFX to be more wee-woo.
+* Silver Kayle - Updated VFX to be more blue.
+* Battleborn Kayle - Updated VFX to be less yellow.
+* Judgment Kayle - Updated VFX to be more spooky.
+* Aether Wing Kayle - New death animation.
+* Removed robotic VO processing.
+* V9.5: - Full Relaunch - General - Title changed to 'the Righteous' from 'the Judicator'.
+* Complete visual upgrade across all skins.
+* New artwork for Original Kayle, Viridian Kayle, Battleborn Kayle, Aether Wing Kayle, Judgment Kayle, Riot Kayle, and Silver Kayle.
+* Tweaked artwork for Iron Inquisitor Kayle and Pentakill Kayle.
+* Unmasked Kayle reworked into Transcended Kayle.
+* New voice over.
+* New lore.
+* Stats - Base attack range increased to 175 from 125.
+* Base attack speed increased to 0.695 from 0.638.
+* Base attack damage increased to 52 from 51.
+* Base armor increased to 28 from 26.
+* Base magic resistance increased to 34 from 30.
+* Base health increased to 600 from 586.
+* Base mana reduced to 330 from 375.
+* Base health regeneration reduced to 6 from 8.5.
+* Divine Ascent - (Innate) - Innate - Zealous: Kayle's basic attacks grant 6% bonus attack speed for 5 seconds, stacking up to 5 times for a maximum of 30% bonus attack speed. At maximum stacks, Kayle becomes Exalted, gaining 15% bonus movement speed when moving toward enemies.
+* Upon spending 6, 11, and 16 skill points, Kayle ascends into a new form, gaining additional bonuses.
+* Aflame - Level 6: While Exalted, Kayle's basic attacks additionally launch a wave of fire in the target's direction, dealing 10 − 30 (based on Starfire Spellblade's Rank) (+ 10% AD) (+ 20% AP) magic damage to enemies hit.
+* Arisen - Level 11: Kayle becomes a ranged champion with 550 attack range. Additionally, Zealous's bonus attack speed is increased to 10% bonus attack speed, for a maximum of 50% bonus attack speed.
+* Transcendent - Level 16: Kayle permanently has full Zealous stacks and is permanently Exalted. Additionally, Aflame's fiery waves now deal true damage.
+* Radiant Blast (Q): Active: Kayle plants a portal at her initial location that faces the target direction. After a 0.5-second delay, a celestial sword launches forward from the portal.
+* The sword explodes into a cross upon collision with an enemy, dealing 70 / 115 / 160 / 205 / 250 (+ 60% bonus AD) (+ 50% AP) magic damage and slowing targets struck by 26 / 32 / 38 / 44 / 50%, while reducing their armor and magic resistance by 20% for 3 seconds.
+* Mana Cost: 60 / 65 / 70 / 75 / 80.
+* Cooldown: 12 / 11 / 10 / 9 / 8 seconds.
+* Celestial Blessing (W): Active: Kayle and target allied champion are healed for 60 / 90 / 120 / 150 / 180 (+ 30% AP) health and gain 26 / 32 / 38 / 44 / 50% (+ 10% per 100 AP) bonus movement speed for 2 seconds.
+* If cast without a valid target, or self-cast, Celestial Blessing will automatically target the most wounded ally in range.
+* Target Range: 900.
+* Mana Cost: 70 / 75 / 80 / 85 / 90.
+* Cooldown: 15 seconds.
+* Starfire Spellblade (E): Passive: Kayle's basic attacks deal 10 / 15 / 20 / 25 / 30 (+ 10% AD) (+ 20% AP) bonus magic damage. Additionally, Aflame's base damage is increased.
+* Active: Kayle's next basic attack within 6 seconds deals 10 / 12.5 / 15 / 17.5 / 20% of target's missing health bonus magic damage. While Aflame, it also damages enemies surrounding the target.
+* Prior to becoming Arisen, Starfire Spellblade also causes Kayle to become a ranged champion with 550 attack range on the empowered attack.
+* Mana Cost: 50 / 55 / 60 / 65 / 70.
+* Cooldown: 8 seconds.
+* Divine Judgment (R): Active: Kayle conjures swords around the target allied champion or herself over 1.5 seconds. Afterward, she brings them crashing to the ground, dealing magic damage to all enemies in the area.
+* Divine Judgment also grants the target invulnerability for 2 / 2.5 / 3 seconds.
+* Target Range: 900.
+* Mana Cost: 100.0 / 50.0 / 0.
+* Cooldown: 160 / 120 / 80 seconds.
+*
+
+**References**
+
+* [LeagueOfLegends.com](LeagueOfLegends.com/champion/kayle)
+* [League of Legends Wiki](LeagueOfLegends.Wiki/Champions/Kayle)
+* [Cancelled Champions](LeagueOfLegends.Wiki/Cancelled_Champions)
+* [Ao Shin](LeagueOfLegends.Wiki/Champion:Ao_Shin)
+* [Avasha](LeagueOfLegends.Wiki/Champion:Avasha)
+* [Averdrian](LeagueOfLegends.Wiki/Champion:Averdrian)
+* [CeeCee](LeagueOfLegends.Wiki/Champion:CeeCee)
+* [Cyborg Cowboy](LeagueOfLegends.Wiki/Champion:Cyborg_Cowboy)
+* [Eagle Rider](LeagueOfLegends.Wiki/Champion:Eagle_Rider)
+* [Gavid](LeagueOfLegends.Wiki/Champion:Gavid)
+* [Husk](LeagueOfLegends.Wiki/Champion:Husk)
+* [Iron Engineer](LeagueOfLegends.Wiki/Champion:Iron_Engineer)
+* [Ivan](LeagueOfLegends.Wiki/Champion:Ivan)
+* [Omen](LeagueOfLegends.Wiki/Champion:Omen)
+* [Priscilla](LeagueOfLegends.Wiki/Champion:Priscilla)
+* [Rob Blackblade](LeagueOfLegends.Wiki/Champion:Rob_Blackblade)
+* [Seth](LeagueOfLegends.Wiki/Champion:Seth)
+* [Tabu](LeagueOfLegends.Wiki/Champion:Tabu)
+* [Tiki](LeagueOfLegends.Wiki/Champion:Tiki)
+* [Urf](LeagueOfLegends.Wiki/Champion:Urf)
+* [Well](LeagueOfLegends.Wiki/Champion:Well)
+* [League of Legends forums](LeagueOfLegends.com/forum/forums.php)
+* [Seinfeld 'The Little Kicks'](https://www.youtube.com/watch?v=YBbjU3cMbAU)
+* [Elaine Benes dance](https://www.youtube.com/watch?v=3DwJnV0iO7k)

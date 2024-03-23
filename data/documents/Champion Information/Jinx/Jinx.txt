@@ -1,0 +1,458 @@
+**Games**
+
+* Universe
+  + League of Legends
+  + Teamfight Tactics
+  + Legends of Runeterra
+  + Wild Rift
+
+**Image**
+
+!*[Jinx](data:image/png;base64,<binary data of jinx image>)*
+
+**Jinx**
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+| Statistic          | Value          |
+|--------------------|-----------------|
+| Health             | 630 (+105)     |
+| Mana               | 260 (+50)       |
+| Health regen. (per 5s) | 3.75 (+0.5)    |
+| Mana regen. (per 5s) | 6.7 (+1)        |
+| Armor              | 26 (+4.7)       |
+| Attack damage      | 59 (+3.15)      |
+| Magic resist.      | 30 (+1.3)       |
+| Crit. damage       | 175%            |
+| Move. speed        | 325             |
+| Attack range       | 525             |
+| Attack speed       | 0.625           |
+| Attack windup      | 16.875%         |
+| AS ratio           | N/A             |
+| Bonus AS           | +1%            |
+| Unit radius        | Gameplay radius |
+| Selection radius   | 120            |
+| Pathing radius     | 35             |
+| Acq. radius       | 550             |
+
+**Special statistics**
+
+| Mode           | Damage Dealt |
+|---------------|--------------|
+| ARAM           | -10%          |
+| Nexus Blitz    | N/A           |
+| One For All    | N/A           |
+| URF            | N/A           |
+| Ult Spellbook   | N/A           |
+| Arena          | Damage Received +5%          |
+| Damage Received| Damage Dealt -5%          |
+| Damage Dealt  | N/A           |
+| Damage Received| N/A           |
+| Damage Dealt  | N/A           |
+| Damage Received| N/A           |
+| Damage Dealt  | N/A           |
+| Damage Received| N/A           |
+| Damage Dealt  | N/A           |
+| Damage Received| N/A           |
+
+**Abilities**
+
+* **Get Excited!**
+  + Innate: Whenever Jinx scores a takedown against an enemy champion, epic monster, turret, or inhibitor within 3 seconds of damaging them, she gains 175% bonus movement speed decaying over 6 seconds. She is also allowed to exceed the attack speed cap for the same duration.
+  + Only takedowns against enemy champions can grant stacks beyond the first. Each stack grants her 25% total attack speed, stacking up to 5 times for a maximum of 125%.
+
+* **Switcheroo!**
+  + Toggle: Jinx switches between Pow-Pow, her minigun, and Fishbones, her rocket launcher.
+  + Pow-Pow: Basic attacks with Pow-Pow generate a stack of Rev'd up for 2.5 seconds, refreshing on subsequent attacks with Pow-Pow and stacking up to 3 times. Each stack of Rev'd up grants bonus attack speed, with all stacks beyond the first one being 50% effective. Stacks expire by one when the duration ends.
+  + Bonus Attack Speed: 15 / 27.5 / 40.5 / 52.5 / 65.5%
+  + Attack Speed per Subsequent Stack: 7.5 / 13 / 17.5 / 21.5 / 25.5%
+  + Maximum Attack Speed: 30 / 55 / 80 / 105 / 130%
+  + Only the first attack after switching to Fishbones will benefit from Rev'd up.
+
+* **Zap!**
+  + Cost: 40 / 45 / 50 / 55 / 60 Mana
+  + Cast Time: 0.6 / 0.55 / 0.5 / 0.45 / 0.4 Mana per attack with Fishbones
+  + Cast Time: none
+  + Static Cooldown: 0.9 / 0.85 / 0.8 / 0.75 / 0.7
+  + Effect Radius: 250
+  + Active: Jinx fires a shock blast in the target direction that deals physical damage to the first enemy it hits and reveals and slows them for 2 seconds.
+  + Physical Damage: 10 / 60 / 110 / 160 / 210 (+ 160% AD)
+  + Slow: 40 / 50 / 60 / 70 / 80%
+
+**Map-Specific Differences**
+
+| Mode           | Differences                                                                    |
+|---------------|-------------------------------------------------------------------------------|
+| Arena         | Base damage changed to 10 / 70 / 130 / 190 / 250                            |
+|              | AD ratio changed to 200% AD                                                   |
+
+**Champion skins**
+
+* **Original**
+* **Crime City**
+* **Lunar Revel: Firecracker**
+* **Crime City: TeaTime**
+* **Zombies VS Slayers**
+* **Star Guardian**
+* **Snowdown Showdown**
+* **Odyssey**
+* **PROJECT**
+* **Heartbreakers**
+* **Arcane**
+* **Battle Cat**
+* **Cafe Cuties**
+
+**Legacy**
+
+* **New SFX/VFX**
+* **New Animations/Recall**
+* **Firecracker**
+* **Crime City**
+* **Lunar Revel: Firecracker**
+* **Chromas**
+* **Star Guardian**
+* **Snowdown Showdown**
+* **Odyssey**
+* **PROJECT**
+* **Heartseeker**
+* **Heartbreakers**
+* **Arcane**
+* **Battle Cat**
+* **Cafe Cuties**
+
+**Patch history**
+
+```vbnet
+'V13.21
+Get Excited!
+- New Effect: Now capped at 5 stacks.
+- Removed: Epic monster and structure takedowns no longer grant stacks beyond the first.
+
+'V13.20
+- Stats
+  + Health growth increased to 105 from 100.
+- Get Excited!
+  + New Effect: Bonus attack speed now stacks upon takedowns.
+- Super Mega Death Rocket!
+  + Cooldown reduced to 70 / 55 / 40 seconds from 75 / 65 / 55.
+  + Minimum base damage increased to 32.5 / 47.5 / 62.5 from 30 / 45 / 60.
+  + Maximum base damage increased to 325 / 475 / 625 from 300 / 450 / 600.
+  + Minimum bonus AD ratio increased to 16.5% bonus AD from 15%.
+  + Maximum bonus AD ratio increased to 165% bonus AD from 150%.
+
+'V13.11
+- Stats
+  + Attack speed growth reduced to 1% from 1.36%.
+
+'V13.9
+- Stats
+  + Attack damage growth reduced to 3.15 from 3.4.
+
+'V13.5
+- Stats
+  + Attack speed growth increased to 1.36% from 1%.
+
+'V13.1b
+- Stats
+  + Base mana increased to 260 from 245.
+  + Mana growth increased to 50 from 45.
+- Zap!
+  + Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+- Super Mega Death Rocket!
+  + Damage cap against monsters increased to 1200 from 800.
+
+'V13.1
+- Zap!
+  + Slow increased to 40 / 50 / 60 / 70 / 80% from 30 / 40 / 50 / 60 / 70%.
+
+'V12.19
+- Stats
+  + Base attack damage increased to 59 from 57.
+- Super Mega Death Rocket!
+  + Maximum base damage increased to 300 / 450 / 600 from 250 / 375 / 500.
+  + Minimum base damage increased to 30 / 45 / 60 from 25 / 37.5 / 50.
+
+'V12.18
+- Zap!
+  + Winddown time reduced to 0 seconds from 1.
+
+'V12.14
+- General
+  + Bug Fix: Knocked up/stunned animation is now correctly played.
+
+'V12.10
+- Stats
+  + Base health increased to 630 from 560.
+  + Health growth increased to 100 from 86.
+  + Armor growth increased to 4.7 from 3.5.
+  + Magic resistance growth increased to 1.3 from 0.5.
+
+'V12.8
+- Stats
+  + Base health reduced to 560 from 610.
+
+'V12.6
+- Super Mega Death Rocket!
+  + Bug Fix: Tooltip now properly displays the correct base damage.
+
+'V12.5
+- Mar 9th Hotfix
+  + Switcheroo!
+    - Fishbones mana cost increased to 16 / 17 / 18 / 19 / 20 at all ranks from 16 / 17 / 18 / 19 / 20.
+    - Fishbones bonus attack ranged reduced to 80 / 110 / 140 / 170 / 200 from 100 / 125 / 150 / 175 / 200.
+
+'V12.4
+- PROJECT: Jinx
+  + General
+    - Bug Fix: Critical strike hit SFX has been restored.
+
+'V11.22
+- General
+  + Updated sound and visual effects.
+  + Basic attack added glows to machine gun missiles. New rocket trails and explosions.
+  + New Recall SFX.
+- Zap!
+  + Modernized ground telegraph, missile, and hit VFX
+- Flame Chompers!
+  + Modernized telegraph visuals.
+- Super Mega Death Rocket!
+  + New missile and explosion. Modernized rocket animations to emphasize its movement boost.
+
+'V11.21
+- Get Excited!
+  + Total attack speed increased to 25% from 15%.
+- Flame Chompers!
+  + Cast range increased to 925 from 900.
+- Super Mega Death Rocket!
+  + Cooldown reduced to 75 / 65 / 55 seconds from 90 / 75 / 60.
+
+'V11.18
+- Switcheroo!
+  + Fishbones mana cost reduced to 16 / 17 / 18 / 19 / 20 from 20 at all ranks.
+
+'V11.13
+- Star Guardian Jinx
+  + Bug Fix: Individual item purchase voice lines have been restored.
+  + Statikk Shiv's purchase lines now play for buying Stormrazor.
+
+'V11.10
+- Stats
+  + Base health increased to 610 from 550.
+
+'V11.3
+- Stats
+  + Base health reduced to 550 from 610.
+  + Switcheroo!
+    - Bonus attack range increased to 100 / 125 / 150 / 175 / 200 from 75 / 100 / 125 / 150 / 175.
+    - Fishbones attack speed reduction reduced to 10% from 25%.
+  + Flame Chompers!
+    - Mana cost increased to 90 from 70.
+    - Arm time reduced to 0.5 seconds from 0.7.
+  + New Effect: When casting it farther than max range, it now casts to the max range instead of causing you to walk into range and then casting.
+
+'V10.25
+- Super Mega Death Rocket!
+  + Undocumented: Minimum base damage increased to 25 / 40 / 55 from 25 / 35 / 45. Maximum base damage increased to 250 / 400 / 550 from 250 / 350 / 450.
+
+'V10.22
+- Flame Chompers!
+  + New Effect: Now deals its damage instantly instead of over 1.5 seconds.
+
+'V10.16
+- Super Mega Death Rocket!
+  + Bug Fix: Damage is no longer capped at 375.
+
+'V10.13
+- Crime City Jinx
+  + Skin renamed to Crime City Jinx from Mafia Jinx.
+
+'V10.11
+- Stats
+  + Base health increased to 610 from 581.
+  + Health growth increased to 86 from 84.
+
+'V10.4
+- Switcheroo!
+  + Bug Fix: Now properly switches Pow-Pow if she doesn't have enough mana.
+
+'V10.3
+- PROJECT: Jinx
+  + Bug Fix: SFX are no longer louder than her other skins' SFX.
+
+'V10.2
+- Get Excited!
+  + New Effect: Activates when damaging and/or destroying inhibitors.
+
+'V9.18
+- Flame Chompers!
+  + Bug Fix: Now properly prevent Akali from moving when she uses Perfect Execution through them.
+
+'V9.16
+- General
+  + Adjusted splash artwork for Zombie Slayer Jinx.
+  + Zombie Slayer Jinx
+    - Slayer Jinx renamed to Zombie Slayer Jinx.
+
+'V9.7
+- Star Guardian Jinx
+  + Bug Fix: Buffs aura now properly follows the model during certain animations.
+
+'V9.1
+- Zap!
+  + Cast time reduced to 0.6 - 0.4 seconds (based on bonus attack speed) from 0.6 seconds.
+
+'V8.17
+- General
+  + Adjusted splash artwork for Zombie Slayer Jinx.
+
+'V8.14
+- Stats
+  + Base health increased to 581 from 531.
+  + Health growth reduced to 84 from 88.
+
+'V8.13
+- Switcheroo!
+  + New Effect: The 10% AD bonus damage from Fishbones can now critically strike.
+
+'V8.11
+- Stats
+  + Base health increased to 531 from 515.
+  + Health growth increased to 88 from 82.
+  + Base armor reduced to 28 from 32.
+  + Base health regeneration reduced to 3.75 from 6.
+  + Base attack damage reduced to 57 from 61.
+  + Attack damage growth increased to 3.4 from 2.7.
+
+'V8.3
+- Stats
+  + Base health regeneration increased to 6 from 5.84.
+
+'V8.2
+- Stats
+  + Base health reduced to 515 from 517.
+  + Base mana reduced to 245.6 from 245.6.
+  + Base health regeneration increased to 6 from 5.84.
+  + Base attack damage reduced to 61 from 63.
+  + Attack damage growth increased to 3.4 from 2.7.
+  + Base mana regeneration increased to 6.5 from 6.
+  + Get Excited!
+    - Bonus attack speed no longer stacks.
+    - New Effect: Removes the attack speed cap for 6 seconds.
+  + Switcheroo!
+    - Bonus attack speed increased to 30 / 55 / 80 / 105 / 130% from 30 / 40 / 50 / 60 / 70%.
+    - Removed: Bonus attack speed scaling with her level (0% - 70% based on level).
+    - New Effect: The first attack after switching from rockets to minigun comes out within 0.4 seconds of swapping instead of waiting for the full attack timer.
+    - Rocket attack animations updated to be more dynamic.
+  + Ambitious Elf Jinx
+    - Pow-Pow
+      * Bug Fix: Now uses skin-specific SFX, as opposed to base.
+
+'V8.1
+- Ambitious Elf Jinx
+  + General
+    - Bug Fix: Hair no longer stretches unnaturally during several animations.
+  + Zap!
+    - Bug Fix: Trail no longer appears in front of the candy projectile.
+
+'V7.23
+- Flame Chompers!
+  + New Effect: Rooted enemies are now also knocked down.
+
+'V7.22
+- Stats
+  + Base attack damage increased to 66 from 58.4.
+  + Base armor increased to 32 from 22.
+  + Base health regeneration increased to 6 from 5.84.
+
+'V7.17
+- Star Guardian Jinx
+  + Bug Fix: No longer plays her initial spawn song during her first respawn.
+
+'V7.15
+- Switcheroo!
+  + Bug Fix: Runaan's Hurricane bolts now properly deal Fishbones's bonus attack damage to their primary targets.
+- Zap!
+  + Cooldown reduced to 8 / 7 / 6 / 5 / 4 seconds from 10 / 9 / 8 / 7 / 6.
+- Star Guardian Jinx
+  + Bug Fix: Weapon glow VFX now follow Shiro and Kuro during all animations.
+  + Bug Fix: Hair no longer transitions improperly during her homeguard animation.
+
+'V7.13
+- General
+  + Bug Fix: Laugh no longer cuts off at the end when she gasps for air.
+
+'V7.9
+- Stats
+  + Magic resistance growth increased to 0.5 from 0.
+
+'V7.7
+- Flame Chompers!
+  + Cooldown reduced to 24 / 20.5 / 17 / 13.5 / 10 seconds from 24 / 22 / 20 / 18 / 16 seconds.
+
+'V6.22
+- Switcheroo!
+  + Bug Fix: Can no longer queue up Switcheroo! during the cast time of Super Mega Death Rocket!
+  + Bug Fix: Star Guardian Jinx's corpse no longer gets stuck in a "T-pose" if she dies while casting Switcheroo!
+
+'V6.20
+- Flame Chompers!
+  + Base damage reduced to 80 / 135 / 190 / 245 / 300 from 100 / 150 / 200 / 250 / 300.
+  + Mana cost increased to 70 from 50.
+  + New Effect: Enemies now only take damage from one Flame Chomper per cast, even if they're hit by multiple explosions.
+
+'V6.17
+- Super Mega Death Rocket!
+  + Minimum AD ratio increased to 15% bonus AD from 10%.
+  + Maximum AD ratio increased to 150% bonus AD from 100%.
+  + Damage ramp-up increased (maximum value and time needed to reach it both unchanged)
+
+'V4.21
+- Switcheroo!
+  + Icon display changed to current weapon from the one upon activation.
+  + New Effect: Icon flashes while toggled on (Fishbones).
+
+'V4.13
+- Get Excited!
+  + New Effect: Activates when damaging and/or destroying inhibitors.
+
+'V4.5
+- Stats
+  + Base health reduced to 380 from 420.
+  + Health per level increased to 82 from 80.
+- Super Mega Death Rocket!
+  + Bug Fix: The ability will now only go on cooldown when the rocket is created. Dying during cast will no longer put the ability on cooldown.
+
+'V4.1
+- Stats
+  + Base health reduced to 380 from 420.
+  + Health per level increased to 82 from 80.
+  + Flame Chompers!
+    - Base damage reduced to 80 / 135 / 190 / 245 / 300 from 100 / 150 / 200 / 250 / 300.
+    - Bug Fix: Dashing champions will now always trigger a chomper.
+    - Bug Fix: Arm time changed to a consistent 0.7 seconds from between 0.5 and 0.74 seconds.
+  + Pow-Pow
+    - Maximum bonus attack speed reduced to 50 / 70 / 90 / 110 / 130% from 50 / 70 / 90 / 110 / 130%.
+  + Zap!
+    - Base damage reduced to 10 / 60 / 110 / 160 / 210 from 30 / 75 / 120 / 165 / 210.
+    - Mana cost increased to 50 / 60 / 70 / 80 / 90 from 45 / 55 / 65 / 75 / 85.
+    - Removed: No longer reveals stealthed units.
+  + V3.13
+    - Pow-Pow
+      * Maximum bonus attack speed reduced to 30 / 55 / 80 / 105 / 130% from 50 / 70 / 90 / 110 / 130%.
+      * Zap!
+        + Base damage reduced to 10 / 60 / 110 / 160 / 210 from 30 / 75 / 120 / 165 / 210.
+        + Mana cost increased to 50 / 60 / 70 / 80 / 90 from 45 / 55 / 65 / 75 / 85.
+        + Removed: No longer reveals stealthed units.
+  + V3.12
+    + Trivia
+      * Added
+```

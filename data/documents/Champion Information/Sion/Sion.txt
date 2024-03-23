@@ -1,0 +1,491 @@
+**Games**
+
+* Universe
+* **:**
+
+**League of Legends**
+* **:**
+	+ League of Legends
+	+ Teamfight Tactics
+	+ Legends of Runeterra
+	+ Wild Rift
+
+**Image**
+
+Sion
+
+**Gameplay**
+
+Collection
+
+Audio
+
+Patch history
+
+Past versions
+
+---
+
+**Sion**
+
+* The Undead Juggernaut
+* Release date: 2009-02-21
+* Last changed: V14.5
+
+**Class(es)**
+
+* Vanguard
+* Legacy
+* Tank
+* Fighter
+
+**Position(s)**
+
+Top
+
+**Resource**
+
+Mana
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Physical
+
+**Store price**
+
+1350
+|
+585
+|
+Crafting
++
+810
+
+**Ratings**
+
+| Damage: 2 | Toughness: 3 | Control: 3 | Mobility: 1 | Utility: 1 |
+| --- | --- | --- | --- | --- |
+
+**Style**
+
+Difficulty: Champion Spotlight
+
+---
+
+**Base statistics**
+
+**Sion**
+
+Edit
+
+| Health: 655 + 87 | Mana: 400 + 52 | Health regen. (per 5s): 7.5 + 0.8 |
+| --- | --- | --- |
+| Mana regen. (per 5s): 8 + 0.6 | Armor: 32 + 4.2 | Attack damage: 68 + 4 |
+| Magic resist.: 32 + 2.05 | Crit. damage: 175% | Move. speed: 345 |
+| Attack range: 175 | Attack speed: Base AS 0.679, Attack windup: 24.909%, AS ratio: N/A, Bonus AS +1.3% |
+| Unit radius: Gameplay radius 80, Selection radius 125, Pathing radius 26, Acq. radius 600 |
+
+**Special statistics**
+
+* ARAM: Damage Dealt -10%, Damage Received +10%, Shielding -20%, Ability Haste -20%, Tenacity & Slow Resist -20%
+* Damage Dealt +0%, Damage Received +5%, Shielding +20%, Damage Dealt +0%, Damage Received +0%, Damage Dealt +10%, Damage Received -8%
+* Damage Dealt +0%, Damage Received +0%, Damage Dealt +0%, Damage Received +0%, Damage Dealt +0%, Damage Received +0%, Ability Haste +0%
+
+**Abilities**
+
+[ ]
+
+Edit
+
+* Glory in Death
+* Death Surge
+
+**Glory in Death**
+
+Innate:
+
+* Upon taking fatal damage, Sion enters stasis for 1.5 seconds to reanimate into a frenzy, restoring 100% of his maximum health but losing 2.3 - 24.4 (based on level) health every 0.264 seconds, increasing by 70% of the base value per subsequent tick.
+* Sion's health regeneration and any healing (except life steal) he receives during this time is 0% effective.
+* Sion can only move and use his basic attacks and item actives, and empowers himself with the following effects:
+	+ 75 attack speed minimum and maximum
+	+ 100% life steal
+	+ Deals bonus physical damage on-hit equal to 10% of the target's maximum health, capped at 75 against non-champions
+
+**Death Surge**
+
+COOLDOWN: 100
+
+Active:
+
+* Sion gains 67% bonus movement speed (bug) that decays over 2.376 seconds.
+* Once at least one ability has been learned, Death Surge can be cast using any ability key, even for the abilities that haven't been learned yet.
+
+---
+
+**Glory in Death Details**
+
+* Sion's death timer starts when he dies and not when Glory in Death ends.
+* If Sion lives longer than what his death timer lasts for, he will not revive until Glory in Death has ended. When it ends, he instantly revives. This may result in some odd interactions and bugs at times.
+* The effect that heals Sion back to full health at the start of Glory in Death cannot be modified by healing reductions and does not count towards the 'Damage Healed' statistic at the end of game lobby.
+* The health loss is unaffected by Invulnerability.
+* Glory in Death has a capped 60 seconds duration. If the player manages to survive for so long, Sion dies instantly, regardless of his current health.
+* The healing modifier during Glory in Death reduces all incoming healing, it does not matter if they are sourced from Sion himself or an ally. This does not affect life steal.
+* This healing modifier stacks additively with Spirit Visage and does not stack with heal and shield power.
+* The fixed attack speed is achieved by lowering and increasing the maximum and minimum attack speed to 1.75, respectively.
+* This also means that it's unaffected by other attack speed modifiers for the duration, such as bonus attack speed or cripples.
+* However, Hail of Blades, which allows for the normal attack speed cap (2.5) to be surpassed, will also break this limit. This means that while it is active, Sion may exceed his 1.75 cap, but cannot fall below it.
+* This does not apply to Lethal Tempo.
+* Some item passive do not persist through death and will be lost for the initial few seconds of Glory in Death.
+* Phase Rush cooldown is reset upon entering Glory in Death.
+* The bonus on-hit damage granted by Glory in Death is unaffected by life steal, but is applied against structures that are not turrets.
+* However, it can be applied against structures that are not turrets.
+* (bug) Sion, during Glory in Death, will not lose health while being carried by Fate's Call.
+* Glory in Death does not trigger on clones of Sion, such as with Test of Spirit.
+* Glory in Death's untargetability from the stasis does not destroy in-flight projectiles.
+* Projectiles created while Sion is in the zombie form will still travel to him even after he dies.
+* Upon death, the current cooldowns of Sion's summoner spells are increased to 4 seconds. Afterwards, he is still unable to use them until he respawns.
+* However, it is possible for another lock-out effect to unlock them when their duration ends (excluding crowd control with the exception of stasis).
+* After Glory in Death ends, the corpse of Sion will retain unit collision despite being dead on the ground.
+* Buffs from jungle monsters that Sion acquired during Glory in Death will not be lost when the duration ends (Crest of Cinders, Crest of Insight).
+
+---
+
+**Interactions & Other**
+
+* By surviving for the full duration of 60 seconds, Sion will have suffered 41.8 (based on level) - 443.7 (based on level) in health costs.
+* Sion can also heal from spell vamp, although the stat is currently unobtainable and it would be also unusable during Glory in Death, since there would be no available abilities that would apply it.
+* Even though its visuals are present, Dark Harvest can never be gained from Sion under the effect of Glory in Death.
+* At the start of Glory in Death, Sion's mana drops to 0, but his mana regeneration will remain in effect.
+
+---
+
+**Zombie info**
+
+Zombie states trigger upon taking lethal damage.
+
+* Raw damage effects will not prevent zombie states from triggering.
+* All resurrection effects will take precedence over effects that reanimate as a zombie.
+* A champion that enters a zombie state will start their death timer upon triggering the effect.
+* Most buffs and debuffs will be lost upon transitioning into a zombie state.
+* Those that persist through death, such as Brand's Blaze, will remain.
+* Undisplayed marker buffs, such as those imposed by Veigar's Event Horizon and Viktor's Gravity Field to prevent being affected multiple times by the same effect, will be lost.
+* (bug) This does not apply when transitioning from one zombie state to another zombie state.
+* (bug) Units within a zombie state cannot:
+	+ Use Recall or Corrupting Potion / Refillable Potion.
+	+ Activate resurrection effects.
+	+ Take Dark Passage, Catapult, or gates.
+	+ Pick up the Eye of the Herald.
+	+ Be targeted by the following:
+		- Bailout, Chronoshift, Umbral Trespass.
+	+ Be affected by the following:
+		- Curse of the Black Mist, Fear Beyond Death's chain missile, Test of Spirit's initial missile, Lamb's Respite, Realm of Death, Fountain health restore.
+* Targeting input: Auto
+* Notes: Death Surge grants the bonus movement speed after a brief delay. The buff is intended to grant 75% decaying movement speed, but instead grants 67% movement speed decaying with -8% per stat update. Precisely this leaves him at 0% - 0% (based on time passed) bonus movement speed. Death Surge has a shared cooldown across each ability key, regardless of which key is used to activate it. Thus, activating Death Surge with any ability key will put the others on cooldown. Death Surge's cooldown resets upon death. Death Surge's cooldown is affected by ability haste and thus the ability is technically able to be used up to twice during a single instance of Glory in Death, but this isn't practical. Death Surge is not affected by Ultimate Hunter, even if cast from the ultimate ability slot. Despite showing the cooldown being reduced, Death Surge in the ultimate ability slot will be not reduced by Axiom Arc's Flux on takedown. (bug) Death Surge's cooldown is not reduced by Navori Quickblades' Deft Strike.Edit
+
+---
+
+**Decimating Smash**
+
+Decimating Smash
+
+COST: 45 Mana
+
+COOLDOWN: 10 / 9 / 8 / 7 / 6
+
+CAST TIME: none
+
+RANGE: 500 - 850 (based on channel time)
+
+Active:
+
+* Sion charges for up to 2 seconds to increase Decimating Smash's range, knock up duration, stun duration, and damage every 0.25 seconds, which has up to a maximum bonus for the base damage and up to a 200% bonus for the scaling damage.
+* Maximum Base Damage Increase: 125 / 158.33 / 175 / 185 / 191.67%
+* Minimum Physical Damage: 40 / 60 / 80 / 100 / 120 (plus 40 / 50 / 60 / 70 / 80% AD)
+* Maximum Physical Damage: 90 / 155 / 220 / 285 / 350 (plus 120 / 150 / 180 / 210 / 240% AD)
+* Decimating Smash can be recast within the duration, and does so automatically afterwards. If the charge is interrupted, Decimating Smash is placed on a 2-second cooldown.
+* Recast: Sion flails his axe in the target direction, dealing physical damage to enemies hit and slowing them by 50% for 0.25 seconds.
+* Decimating Smash deals 150% damage against monsters and 60% damage against minions.
+* Minimum Monster Damage: 60 / 90 / 120 / 150 / 180 (plus 60 / 75 / 90 / 105 / 120% AD)
+* Maximum Monster Damage: 135 / 232.5 / 330 / 427.5 / 525 (plus 180 / 225 / 270 / 315 / 360% AD)
+* Minimum Minion Damage: 24 / 36 / 48 / 60 / 72 (plus 24 / 30 / 36 / 42 / 48% AD)
+* Maximum Minion Damage: 54 / 93 / 132 / 171 / 210 (plus 72 / 90 / 108 / 126 / 144% AD)
+* If Decimating Smash was charged for at least 1 second, Sion instead slams his axe down in the target direction, dealing physical damage to enemies hit, knocking them up for 0.5 - 1 (based on channel time) seconds, and stunning them for 1.25 - 2.25 (based on channel time) seconds.
+* Map-Specific Differences
+	+ Arena differences: Minimum base damage changed to 65 / 85 / 105 / 125 / 145, minimum AD ratio changed to 60 / 70 / 80 / 90 / 100%, maximum base damage changed to 700 / 1400 / 2100, maximum AD ratio changed to 180 / 210 / 240 / 270 / 300%, base stun duration changed to 1.75 seconds, Soul Furnace and its recast are usable, Roar of the Slayer and Unstoppable Onslaught are disabled, and their abilities recast to end channel.
+
+---
+
+**Map-Specific Differences (continued)**
+
+* Soul Furnace differences: Minimum base damage changed to 65 / 85 / 105 / 125 / 145, minimum AD ratio changed to 60 / 70 / 80 / 90 / 100%, maximum base damage changed to 130 / 195 / 260 / 325 / 390, maximum AD ratio changed to 180 / 210 / 240 / 270 / 300%, base stun duration changed to 1.75 seconds.
+
+---
+
+**Skin information**
+
+* Original
+* Hextech
+* Legacy: Barbarian, Lumberjack, Warmonger
+* Mecha Zero
+* Worldbreaker
+* Cosmic Paladin
+
+---
+
+**Voiceover, SFX, VFX, and animations/recall**
+
+* New voiceover
+* New SFX/VFX
+* New animations/recall
+
+---
+
+**Chromas**
+
+* Mecha Zero Sion Chromas
+* Catseye, Meteorite, Obsidian, Pearl, Ruby, Sapphire, Tanzanite, Worldbreaker
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, Ruby
+* Amethyst, Aquamarine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby
+* Aquamarine, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, Blackfrost
+* Amethyst, Aquamarine, Emerald, Obsidian, Pearl, Rose Quartz, Blackfrost
+* Aquamarine, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Blackfrost
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, High Noon
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, High Noon
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, High Noon
+* Cosmic Paladin Sion Chromas
+* Amethyst, Catseye, Emerald, Obsidian, Pearl, Rose Quartz, Rub
+y
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, Ruby
+* Amethyst, Aquamarine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby
+* Amethyst, Aquamarine, Citrine, Obsidian, Pearl, Rose Quartz, Turquoise
+
+---
+
+**Patch history**
+
+V14.5: Soul Furnace: Bug Fix: No longer incorrectly grants stacks from killing Voidmites.
+V14.2: Glory in Death: Bug Fix: Movement speed no longer decays faster if other effects forcing stat updates acted on him at the same time.
+V13.9: Glory in Death: Base health cost per tick increased to 2.3 - 24.4 (based on level) from 2 - 19 (based on level).
+V13.6: Unstoppable Onslaught: Bug Fix: Crowd control immunity now properly resists allied crowd control as well.
+V13.1: Stats: Base health increased to 615 from 545, health growth increased to 87 from 73, armor growth increased to 4.2 from 3, magic resistance growth increased to 2.05 from 1.25.
+V12.23: Stats: Base mana increased to 330 from 275, 6.
+V12.16: Unstoppable Onslaught: Bug Fix: Fixed an oversight where the server would still accept attack commands to alter Sion's otherwise-restricted movement.
+V12.14: General: Bug Fix: No longer becomes unable to attack for 0.25 seconds shortly after entering champion combat.
+V12.13: Decimating Smash: Bug Fix: No longer prevents Soul Furnace and its recast from being cast for a brief moment after releasing the charge.
+V12.12: Roar of the Slayer: Bug Fix: No longer locks Sion out of attacking, moving and casting movement spells for up-to 0.25 seconds after the missile is fired.
+V12.11: Unstoppable Onslaught: Bug Fix: Stun duration is no longer 0.75 - 1.75 (based on channel time) seconds instead of the normal 0.25 - 1.75 (based on channel time) when colliding with the recast leap.
+V12.10: Stats: Base health increased to 545 from 542, 64.
+V12.9: Glory in Death: Bug Fix: Enemy champions that deal lethal damage to trigger the zombie state are no longer considered to deal damage to the source when the effect ends.
+V12.8: Decimating Smash: Bug Fix: Hitbox can no longer be manipulated to appear in a different location further away.
+V12.7: Unstoppable Onslaught: Bug Fix: Fixed a bug causing certain buff visuals (e.g. Banshee's Veil) to bounce upward during Mecha Zero Sion's Unstoppable Onslaught animation.
+V12.6: Soul Furnace: Shield health ratio increased to 8 / 9 / 10 / 11 / 12% maximum health from 6 / 7 / 8 / 9 / 10%.
+V12.5: Glory in Death: Bug Fix: Corpse is no longer an obstacle to other units' pathing.
+V12.4: Decimating Smash: Undocumented/Bug Fix: Tooltip no longer incorrectly uses a higher AD ratio on ranks 2-5 of the damage calculation.
+Soul Furnace: Undocumented/Bug Fix: Tooltip no longer incorrectly factors in Sion's maximum health as bonus damage on the recast's damage calculation.
+V12.3: Soul Furnace: Shield strength increased to 50 / 75 / 100 / 125 / 150 from 30 / 55 / 80 / 105 / 130.
+V12.2: Decimating Smash: Minimum base damage increased to 30 / 50 / 70 / 90 / 110 from 20 / 40 / 60 / 80 / 100.
+V12.1: Decimating Smash: Maximum base damage increased to 90 / 150 / 210 / 270 / 330 from 90 / 142.5 / 195 / 247.5 / 300.
+V12.0: General: Bug Fix: Fixed a bug causing Sion to lose his passive while in the death timer of Glory in Death.
+V11.21: Soul Furnace: Shield health ratio increased to 10 / 11 / 12 / 13 / 14% maximum health from 8 / 9 / 10 / 11 / 12%.
+V11.20: Decimating Smash: Undocumented/Bug Fix: Tooltip no longer incorrectly displays a higher base attack damage for ranks 2-5.
+Soul Furnace: Undocumented/Bug Fix: Tooltip no longer incorrectly displays the shield's base health percentage as a percentage of Sion's maximum health.
+V11.19: Soul Furnace: Shield strength increased to 60 / 85 / 110 / 135 / 160 from 30 / 55 / 80 / 105 / 130.
+V11.18: General: Bug Fix: Fixed a bug causing Sion to lose all of his abilities when he is targeted by Mordekaiser's Realm of Death.
+V11.17: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V11.16: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V11.15: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V11.14: Glory in Death: Bug Fix: Fixed a bug causing Sion to have increased attack speed during Glory in Death.
+V11.13: Glory in Death: Bug Fix: Fixed a bug causing Sion to lose his passive when he is killed by a crowd control ability before entering Glory in Death.
+V11.12: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V11.11: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V11.10: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V11.9: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V11.8: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to be unable to attack after using the ability.
+V11.7: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V11.6: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to be unable to attack after using the ability.
+V11.5: Glory in Death: Bug Fix: Fixed a bug causing Sion to be unable to move during the first few seconds of Glory in Death.
+V11.4: Glory in Death: Bug Fix: Fixed a bug causing Sion to lose his passive health regen during Glory in Death.
+V11.3: Decimating Smash: Bug Fix: Fixed a bug causing Sion to be unable to attack after using the ability.
+V11.2: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V11.1: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V11.0: Glory in Death: Bug Fix: Fixed a bug causing Sion to lose his passive health regen during Glory in Death.
+V10.23: Roar of the Slayer: Bug Fix: Fixed a bug causing the ability to not deal damage to non-champions when it is cast.
+V10.22: Roar of the Slayer: Bug Fix: Fixed a bug causing the ability to not properly apply the armor reduction to all affected units.
+V10.21: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V10.20: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V10.19: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V10.18: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V10.17: Roar of the Slayer: Bug Fix: Fixed a bug causing the ability to not deal damage to non-champions when it is cast.
+V10.16: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V10.15: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to be unable to attack after using the ability.
+V10.14: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V10.13: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V10.12: Roar of the Slayer: Bug Fix: Fixed a bug causing the ability to not deal damage to non-champions when it is cast.
+V10.11: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V10.10: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to be unable to attack after using the ability.
+V10.9: Unstoppable Onslaught: Bug Fix: Fixed a bug causing Sion to lose the crowd control immunity when he is killed during the leap.
+V10.8: Glory in Death: Bug Fix: Fixed a bug causing Sion to lose his passive health regen during Glory in Death.
+V10.7: Glory in Death: Bug Fix: Fixed a bug causing Sion to be unable to move during the first few seconds of Glory in Death.
+V10.6: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V10.5: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V10.4: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V10.3: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V10.2: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V10.1: Soul Furnace: Bug Fix: Fixed a bug causing the passive to not grant bonus health when Sion is killed by a crowd control ability.
+V9.22: Unstoppable Onslaught: Bug Fix: When cast outside of its maximum range, Sion will no longer attempt to walk into cast range first.
+V9.21: Glory in Death: Bug Fix: When Sion dies again, he will no longer briefly reveal areas in his vision range that are not obstructed by terrain or bush, instead of the entire radius.
+Roar of the Slayer: Bug Fix: Spell shields now correctly prevent the damage from being applied by a pushed minion.
+V9.20: Decimating Smash: Bug Fix: Fixed a bug causing the ability to not deal damage to structures when it is cast outside of its intended range.
+V9.19: Soul Furnace: Shield strength increased to 50 / 75 / 100 / 125 / 150 from 30 / 55 / 80 / 105 / 130.
+V9.16: Stats: Base health regeneration reduced to 9 from 10, health growth increased to 87 from 73.
+V9.15: Glory in Death: Undocumented: % enemy hp max health damage on-hit is once again capped to 75 against non-champions.
+V9.13: Glory in Death: Undocumented: % enemy hp max health damage on-hit is now uncapped against non-champions and applies against structures (except for turrets).
+V9.3: Decimating Smash: Minimum base damage reduced to 20 / 40 / 60 / 80 / 100 from 30 / 50 / 70 / 90 / 110.
+Soul Furnace: Cooldown increased to 15 / 14 / 13 / 12 / 11 seconds from 11 at all ranks.
+V8.20: Stats: Base mana increased to 330 from 325.
+V8.16: Soul Furnace: Bonus health on enemy kill increased to 4 from 3, bonus health on large-enemies and champion takedowns increased to 15 from 10.
+V8.14: Decimating Smash: Minimum base damage increased to 30 / 50 / 70 / 90 / 110 from 30 / 47.5 / 65 / 82.5 / 100.
+Maximum base damage increased to 90 / 150 / 210 / 270 / 330 from 90 / 142.5 / 195 / 247.5 / 300.
+Minimum AD ratio increased to 45 / 52.5 / 55 / 60 / 65% AD from 45 / 50 / 55 / 60 / 65% AD.
+Maximum AD ratio increased to 135 / 157.5 / 180 / 202.5 / 225% AD from 135 / 150 / 165 / 180 / 195% AD.
+V8.10: Stats: Base health regeneration reduced to 10 from 10.18, Roar of the Slayer: Base damage reduced to 65 / 100 / 135 / 170 / 205 from 70 / 105 / 140 / 175 / 210.
+AP ratio increased to 55% AP from 40% AP.
+Removed: Enemies that the knocked back unit collides with take 30% bonus damage.
+Armor reduction now applies to all units hit, not just the primary target.
+Armor reduction duration increased to 4 seconds from 2.5.
+Slow duration remains 2.5 seconds.
+Unstoppable Onslaught: Bug Fix: Is no longer obstructed by an allied Azir's Emperor's Divide.
+V8.9: Decimating Smash: Bug Fix: Decimating Smash will no longer sometimes have Sion face and/or swing in the wrong direction, nor fail to apply the knockup and damage on its release under certain conditions.
+V8.8: Decimating Smash: Base damage increased to 30 / 47.5 / 65 / 82.5 / 100 from 20 / 40 / 60 / 80 / 100.
+AD ratio reduced to 45 / 52.5 / 55 / 60 / 65% AD at all ranks.
+Maximum AD ratio reduced to 135 / 157.5 / 180 / 202.5 / 225% AD at all ranks.
+V8.7: Unstoppable Onslaught: Bug Fix: When disconnecting during the charge, Sion will stop instead of automatically steering towards his base.
+V8.5: Roar of the Slayer: Bug Fix: Fixed a bug making Roar of the Slayer's pass-through damage radius much wider than intended.
+Bug Fix: Jungle monsters launched by Roar of the Slayer now properly damage enemy champions.
+V8.3: Stats: Base health regeneration reduced to 10 from 10.36.
+Glory in Death: Bug Fix: First death no longer drops one or more Soul Essences.
+Decimating Smash: Bug Fix: Now correctly refunds its cooldown to 2 seconds when Sion is crowd-controlled during its cast.
+Soul Furnace: Bug Fix: Fixed a bug where levelling Soul Furnace while in Glory in Death causes issues with the amount of maximum health he gains from killing enemy units.
+Roar of the Slayer: Bug Fix: Fixed a bug where the minion targeted by Roar of the Slayer was incorrectly not made invulnerable to minion attacks.
+Unstoppable Onslaught: New effect: No longer changes direction when hovering over minimap or teammate portraits.
+V7.24: General: Bug Fix: Dying before using the Guardian keystone no longer causes him to lose its functionality.
+V7.22: Stats: Base attack damage increased to 68 from 59.7, base armor increased to 32 from 23.04.
+V7.16: Soul Furnace: Bonus health on enemy kill increased to 3 from 2.5, Unstoppable Onslaught: Maximum base damage increased to 300 / 600 / 900 from 300 / 650 / 950.
+Bug Fix: Is now properly immune to Lulu's Whimsy during Unstoppable Onslaught.
+V7.14: Mecha Zero Sion: Bug Fix: Custom VO now plays on kills.
+V7.11: Soul Furnace: Cooldown reduced to 11 seconds from 13, shield strength health ratio increased to 8 / 9 / 10 / 11 / 12% of Sion's maximum health from 6 / 7 / 8 / 9 / 10%.
+V7.5: Decimating Smash: Bug Fix: Fixed a bug that caused Sion to stand still for a brief moment after casting Decimating Smash.
+Bug Fix: Fixed a bug where casting it could remove spell shield effects from enemies behind him.
+Bug Fix: Fixed a bug where casting it right before an basic attack against a turret would cancel the basic attack.
+V7.1: Realigned Mecha Zero Sion's jet thruster particles with his model during his homeguard animation.
+Unstoppable Onslaught: Bug Fix: Fixed a bug causing certain buff visuals (e.g. Banshee's Veil) to bounce upward during Mecha Zero Sion's Unstoppable Onslaught animation.
+V6.17: General: New splash artwork for Barbarian Sion, Hextech Sion, Lumberjack Sion, and Warmonger Sion.
+Decimating Smash: Bug Fix: Snap-casting using the fully-charged area of effect instead of the intended minimum one.
+Roar of the Slayer: Bug Fix: Displaced minions first affected by Decimating Smash sometimes not damaging units they pass through.
+V6.12: Decimating Smash: Bug Fix: Restarting in a different direction by pressing R + Q during channel.
+V6.8: General: Splash artwork for Hextech Sion updated to the Chinese art.
+Adjusted splash artwork for Warmonger Sion.
+V5.23: Stats: Attack range increased to 175 from 150.
+Model size reduced by ~5%.
+V5.22: Stats: Mana increased to 325.6 from 275.6, mana growth reduced to 42 from 45.
+Roar of the Slayer: Bug Fix: Displaced minions not being damaged.
+V5.10: Unstoppable Onslaught: Bug Fix: Damage being calculated with target's Bonus AD instead of Sion's.
+V5.8: Soul Furnace: Shield health ratio reduced to (+ 6 / 7 / 8 / 9 / 10% maximum health) from 10 at all ranks, reactivation delay increased to 3 seconds from 2.
+Roar of the Slayer: Damage to monsters reduced to 80% from 90, projectile bonus damage reduced to 30% from 50, projectile total damage reduced to 91 / 136.5 / 182 / 227.5 / 273 (plus 52% AP) from 105 / 157.5 / 210 / 262.5 / 315 (plus 60% AP), passive armor reduction increased to 15% from 10%.
+V5.6: Decimating Smash: Mana cost reduced to 45 at all ranks from 45 / 50 / 55 / 60 / 65, champion-damage minimum AD ratio increased to (+ 65% AD) from (+ 60% AD), champion-damage maximum AD ratio increased to (+ 195% AD) from (+ 180% AD).
+Roar of the Slayer: Mana cost increased to 35 from 25, passive armor reduction increased to 15% from 10%.
+V5.1: Glory in Death: Bug Fix: Sion reviving with reduced health if affected by Grievous Wounds when he dies.
+V4.20: Stats: Health regen growth reduced to 0.8 from 1.2, Glory in Death: Health decay changed to 2 - 19 (based on level) from 0.5% maximum health, per-tick health decay growth changed to 1.4 - 13.3 (based on level) from 0.4% maximum health.
+V4.19: Stats: Health per level increased to 73 from 70, Glory in Death: Health decay changed to 2 - 36 (based on level) from 0.5% maximum health, per-tick health decay changed to 1.4 - 25.2 (based on level) from 0.4% maximum health.
+Bug Fix: Sunfire Cape's Immateolate now persists past his original death.
+Decimating Smash: Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 50 / 55 / 60 / 65 / 70.
+Bug Fix: Some crowd control effects not reducing cooldown to 2 seconds when they interrupt charge-up.
+Soul Furnace: Per-large-kill bonus health increased to 10 from 8.
+Mana cost reduced to 65 / 70 / 75 / 80 / 85 from 70 / 75 / 80 / 85 / 90.
+Roar of the Slayer: Mana cost increased to 35 from 25.
+Removed: Minions being invulnerable while being displaced (can only be killed before landing by using Smite).
+V4.18: Full Relaunch
+Title changed to the Undead Juggernaut from the Undead Champion, complete visual upgrade across all skins.
+New splash artwork for Original Sion.
+New voiceover
+New lore
+Glory in Death: New I
+Sion turns berserk once he loses all his health, gaining a full life bar along with significant attack damage, attack speed, and lifesteal as he bleeds out. His abilities are all replaced by Death Surge, which gives him a huge but brief movement speed boost. Sion dies once his health drains out.
+Decimating Smash: New Q
+Sion plants his feet, rooting himself as he winds up and swings his axe in a broad area before him. Decimating Smash deals increasing damage the longer it's charged, and once it's at least half-charged, knocks up all caught enemies when unleashed.
+Soul Furnace: New W
+Passive: Sion earns bonus max health every time he kills a unit.
+Active: Sion creates a bloody shield around him. If the shield stays intact for its duration, it explodes, dealing magic damage to all nearby enemies. Sion can also detonate the shield early by reactivating the ability.
+Roar of the Slayer: New E
+Sion bellows in a target direction, damaging, slowing, and shredding the armor of the first enemy struck. If Roar of the Slayer hits an enemy minion or jungle monster, Sion's scream also knocks them back a significant distance. The thrown minion or monster then damages and slows all other enemy units hit.
+Unstoppable Onslaught: New R
+Sion starts charging in a target direction, building up speed as he moves and trampling enemy minions along his path. He can cancel his charge early, at which point he slams the ground, dealing area of effect damage to all nearby enemies. Otherwise, Sion charges an extremely long distance, only stopping once he hits an enemy champion, wall, or reaches the end of his charge. If Sion charges into an enemy champion, he knocks them up and deals area of effect damage; if he hits a wall, Sion stuns himself briefly and deals area of effect damage around him.
+Trivia:
+Sion, the Undead Champion
+When permanent health stacking was added to Enrage in the May 9, 2009 Patch, Sion became the first champion to have an ability that could infinitely stack an effect.
+Sion was one of the first six champions designed, together with Annie, Lee Sin, Singed, Sivir, and Twisted Fate.
+Of these, he was however the first and only one to recieve a full relaunch after his initial release, completely remaking the original appearance and gameplay.
+Sion, the Undead Juggernaut
+Sion is one of 15 champions that have an ability that infinitely stacks an effect: Aurelion Sol, Bard, Bel'Veth, Cho'Gath, Draven, Kindred, Nasus, Senna, Shyvana, Smolder, Swain, Sylas, Thresh, and Veigar.
+In Sion's case, Soul Furnace infinitely stacks his health.
+Sion's updated 'Champion Spotlight' was the last to feature the old Summoner's Rift map.
+Unstoppable Onslaught was inspired by Juggernaut from X-Men.
+[4]
+With Unstoppable Onslaught, Sion is one of a few champions who can apply crowd control on themselves (the others being Blitzcrank, Caitlyn, Galio, Graves, Kled, Lissandra, Poppy, Rammus, Rumble, Tahm Kench, Varus, Vi, Xerath, and Ziggs).
+Glory in Death is one of three abilities which allow their casters to continue fighting after death (the others being Death Defied and Icathian Surprise).
+Sion's passive is the only of these three that lasts a variable time, determined by his health running out.
+Sion is also the only targetable 'Zombie-state' of the three, which was previously shared with Omen of Death,
+Yorick's original ultimate.
+See also
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+References
+[
+]
+↑
+Sion's profile page
+at LeagueOfLegends.com
+↑
+@Riot, the first champion EVER made
+↑
+Guinsoo expanding first roster to six champions
+↑
+Sion Q&A 1
+↑
+Guinsoo's Revelations: The First Six
+[2]
+[3]
+Of these, he was however the first and only one to recieve a full relaunch after his initial release, completely remaking the original appearance and gameplay.
+[4]
+With Unstoppable Onslaught, Sion is one of a few champions who can apply crowd control on themselves (the others being Blitzcrank, Caitlyn, Galio, Graves, Kled, Lissandra, Poppy, Rammus, Rumble, Tahm Kench, Varus, Vi, Xerath, and Ziggs).
+[5]
+Glory in Death is one of three abilities which allow their casters to continue fighting after death (the others being Death Defied and Icathian Surprise).
+[6]
+Sion's passive is the only of these three that lasts a variable time, determined by his health running out.
+[7]
+Sion is also the only targetable 'Zombie-state' of the three, which was previously shared with Omen of Death, Yorick's original ultimate.

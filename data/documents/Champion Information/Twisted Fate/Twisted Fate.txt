@@ -1,0 +1,235 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Twisted Fate
+        **Release date:** 2009-02-21
+        **Last changed:** V14.5
+        **Class(es):** Burst, Legacy, Mage
+        **Position(s):** Middle, Bottom, Top
+        **Resource:** Mana
+        **Range type:** Ranged
+        **Adaptive type:** Magic
+        **Store price:** 4800
+          * 585 RP
+          * 2880 IP
+        **Ratings:**
+          * Damage: 3
+          * Toughness: 1
+          * Control: 2
+          * Mobility: 2
+          * Utility: 2
+        **Style:** Difficulty: Champion Spotlight
+          * [Twisted Fate Champion Spotlight](https://leagueoflegends.fandom.com/wiki/Twisted_Fate/Champion_Spotlight)
+
+          **Base statistics:**
+          * Health: 604
+          * Mana: 333
+          * Health regen. (per 5s): 5.5
+          * Mana regen. (per 5s): 8
+          * Armor: 21
+          * Attack damage: 52
+          * Magic resist.: 30
+          * Crit. damage: 175%
+          * Move. speed: 330
+          * Attack range: 525
+          * Attack speed: Base AS: 0.625, AS ratio: 0.651, Bonus AS: +2.5%
+          * Missile speed: 1500
+          * Unit radius: Gameplay radius: 65, Selection radius: 110, Pathing radius: 35, Acq. radius: 750
+
+          **Special statistics:**
+          * ARAM: Damage Dealt: +0%, Damage Received: +0%
+          * Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+          * One For All: Damage Dealt: +0%, Damage Received: +0%
+          * URF: Damage Dealt: -5%, Damage Received: +0%
+          * Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+          * Arena: Damage Dealt: +0%, Damage Received: +0%
+
+          **Abilities:**
+          * [Loaded Dice](#loaded-dice)
+          * [Wild Cards](#wild-cards)
+          * [Pick a Card](#pick-a-card)
+
+        **Loaded Dice**
+          * Innate: Whenever Twisted Fate kills an enemy, he generates 1 − 6 (based on probability). He also has a chance equal to his critical strike chance to generate an additional 1 − 6 (based on probability).
+          * As you'd expect, Twisted Fate plays with loaded dice. His initial dice roll is weighted to have an increased chance of granting 6, while his critical dice roll is weighted against him and has an increased chance of granting 1.
+          * The expected bonus gold gained per unit killed is 4.
+          * The expected additional gold due to critical strike chance is 3.
+
+          **Map-Specific Differences:**
+          * Arena: New Innate: Gain gold based on damage dealt to enemy champions, equal to a random amount between 2% and 8% of the damage, biased towards 8%.
+
+          **Appearance:**
+          * Original
+          * PAX
+          * Jack of Hearts
+          * Tango
+          * Highstakes
+          * Magnificent
+          * Musketeer
+          * Underworld
+          * Cutpurse
+          * Blood Moon
+          * Pulsefire
+          * Space Groove
+
+        **Sounds:**
+          * Voice filter
+          * New SFX/VFX
+          * New Animations/Recall
+
+  + Teamfight Tactics
+  + Legends of Runeterra
+  + Wild Rift
+
+**Image:**
+
+* Twisted Fate
+
+**Gameplay:**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics:**
+
+* Health: 604
+* Mana: 333
+* Health regen.: 5.5
+* Mana regen.: 8
+* Armor: 21
+* Attack damage: 52
+* Magic resist.: 30
+* Crit. damage: 175%
+* Move. speed: 330
+* Attack range: 525
+* Attack speed: Base AS: 0.625, AS ratio: 0.651, Bonus AS: +2.5%
+* Missile speed: 1500
+* Unit radius: Gameplay radius: 65, Selection radius: 110, Pathing radius: 35, Acq. radius: 750
+
+**Special statistics:**
+
+* ARAM: Damage Dealt: +0%, Damage Received: +0%
+* Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+* One For All: Damage Dealt: +0%, Damage Received: +0%
+* URF: Damage Dealt: -5%, Damage Received: +0%
+* Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+* Arena: Damage Dealt: +0%, Damage Received: +0%
+
+**Abilities:**
+
+* **Loaded Dice**
+
+  * Innate: Whenever Twisted Fate kills an enemy, he generates 1 − 6 (based on probability). He also has a chance equal to his critical strike chance to generate an additional 1 − 6 (based on probability).
+  * As you'd expect, Twisted Fate plays with loaded dice. His initial dice roll is weighted to have an increased chance of granting 6, while his critical dice roll is weighted against him and has an increased chance of granting 1.
+  * The expected bonus gold gained per unit killed is 4.
+  * The expected additional gold due to critical strike chance is 3.
+
+  **Map-Specific Differences:**
+
+  * Arena: New Innate: Gain gold based on damage dealt to enemy champions, equal to a random amount between 2% and 8% of the damage, biased towards 8%.
+
+* **Wild Cards**
+  * COST: 60 / 70 / 80 / 90 / 100 Mana
+  * COOLDOWN: 6 / 5.75 / 5.5 / 5.25 / 5 Mana
+  * CAST TIME: 0.25 seconds
+  * ACTIVE: Twisted Fate throws a fan of three cards in a cone in the target direction that each deal magic damage to enemies hit.
+    * Magic Damage: 60 / 100 / 140 / 180 / 220 (+50% bonus AD) (+90% AP)
+    * Enemies can be damaged only once per pass.
+  * Map-Specific Differences:
+    * Arena: Base damage changed to 70 / 120 / 170 / 220 / 270.
+    * AP ratio changed to 100% AP.
+
+* **Pick a Card**
+  * COST: 30 / 40 / 50 / 60 / 70 Mana
+  * COOLDOWN: 6 / 5.5 / 5 / 4.5 / 4 Mana
+  * CAST TIME: 0.5 seconds
+  * ACTIVE: Twisted Fate cycles through three cards for 6 seconds, hovering each for 0.5 seconds at a time.
+  * Pick a Card can be recast within the duration, which selects the current card hovered.
+  * RECAST: Twisted Fate empowers his next basic attack within 6 seconds to have a 0.25-second cast time, deal modified magic damage, and apply an additional effect based on the card selected.
+    * Blue Card Bonus: Deals magic damage, increased by 0% − 57.5% (based on critical strike chance), and restores mana.
+      * Magic Damage: 40 / 60 / 80 / 100 / 120 (+100% AD) (+100% AP)
+      * Mana Restored: 50 / 75 / 100 / 125 / 150
+    * Red Card Bonus: Deals magic damage to the target and surrounding enemies, increased by 0% − 35% (based on critical strike chance).
+      * All targets hit are slowed for 2.5 seconds.
+      * Magic Damage: 30 / 45 / 60 / 75 / 90 (+100% AD) (+70% AP)
+      * Slow: 30 / 35 / 40 / 45 / 50%
+    * Gold Card Bonus: Deals magic damage, increased by 0% − 25% (based on critical strike chance), and stuns the target for a duration.
+      * Magic Damage: 15 / 22.5 / 30 / 37.5 / 45 (+100% AD) (+50% AP)
+      * Stun Duration: 1 / 1.25 / 1.5 / 1.75 / 2 seconds
+  * Pick a Card's recast resets Twisted Fate's basic attack timer. The recast can be used while affected by cast-inhibiting crowd control.
+
+* **Stacked Deck**
+  * Passive: Twisted Fate gains bonus attack speed.
+    * Bonus Attack Speed: 10 / 20 / 30 / 40 / 50%
+  * His basic attacks on-hit generate a stack of Stacked Deck, stacking up to 3 times.
+  * At 3 stacks, his next basic attack is empowered to consume them all to deal bonus magic damage, reduced to 50% against structures.
+  * Twisted Fate gains maximum stacks of Stacked Deck upon learning the ability and on respawn.
+
+**Loaded Dice**
+
+* Innate: Whenever Twisted Fate kills an enemy, he generates 1 − 6 (based on probability). He also has a chance equal to his critical strike chance to generate an additional 1 − 6 (based on probability).
+* As you'd expect, Twisted Fate plays with loaded dice. His initial dice roll is weighted to have an increased chance of granting 6, while his critical dice roll is weighted against him and has an increased chance of granting 1.
+* The expected bonus gold gained per unit killed is 4.
+* The expected additional gold due to critical strike chance is 3.
+
+**Map-Specific Differences:**
+
+* Arena: New Innate: Gain gold based on damage dealt to enemy champions, equal to a random amount between 2% and 8% of the damage, biased towards 8%.
+
+**Wild Cards**
+
+* COST: 60 / 70 / 80 / 90 / 100 Mana
+* COOLDOWN: 6 / 5.75 / 5.5 / 5.25 / 5 Mana
+* CAST TIME: 0.25 seconds
+* ACTIVE: Twisted Fate throws a fan of three cards in a cone in the target direction that each deal magic damage to enemies hit.
+* Magic Damage: 60 / 100 / 140 / 180 / 220 (+50% bonus AD) (+90% AP)
+* Enemies can be damaged only once per pass.
+
+**Map-Specific Differences:**
+
+* Arena: Base damage changed to 70 / 120 / 170 / 220 / 270.
+* AP ratio changed to 100% AP.
+
+**Pick a Card**
+
+* COST: 30 / 40 / 50 / 60 / 70 Mana
+* COOLDOWN: 6 / 5.5 / 5 / 4.5 / 4 Mana
+* CAST TIME: 0.5 seconds
+* ACTIVE: Twisted Fate cycles through three cards for 6 seconds, hovering each for 0.5 seconds at a time.
+* Pick a Card can be recast within the duration, which selects the current card hovered.
+* RECAST: Twisted Fate empowers his next basic attack within 6 seconds to have a 0.25-second cast time, deal modified magic damage, and apply an additional effect based on the card selected.
+
+**Blue Card Bonus:**
+
+* Deals magic damage, increased by 0% − 57.5% (based on critical strike chance), and restores mana.
+* Magic Damage: 40 / 60 / 80 / 100 / 120 (+100% AD) (+100% AP)
+* Mana Restored: 50 / 75 / 100 / 125 / 150
+
+**Red Card Bonus:**
+
+* Deals magic damage to the target and surrounding enemies, increased by 0% − 35% (based on critical strike chance).
+* All targets hit are slowed for 2.5 seconds.
+* Magic Damage: 30 / 45 / 60 / 75 / 90 (+100% AD) (+70% AP)
+* Slow: 30 / 35 / 40 / 45 / 50%
+
+**Gold Card Bonus:**
+
+* Deals magic damage, increased by 0% − 25% (based on critical strike chance), and stuns the target for a duration.
+* Magic Damage: 15 / 22.5 / 30 / 37.5 / 45 (+100% AD) (+50% AP)
+* Stun Duration: 1 / 1.25 / 1.5 / 1.75 / 2 seconds
+
+**Pick a Card's recast resets Twisted Fate's basic attack timer. The recast can be used while affected by cast-inhibiting crowd control.**
+
+**Stacked Deck**
+
+* Passive: Twisted Fate gains bonus attack speed.
+  * Bonus Attack Speed: 10 / 20 / 30 / 40 / 50%
+* His basic attacks on-hit generate a stack of Stacked Deck, stacking up to 3 times.
+* At 3 stacks, his next basic attack is empowered to consume them all to deal bonus magic damage, reduced to 50% against structures.
+* Twisted Fate gains maximum stacks of Stacked Deck upon learning the ability and on respawn.

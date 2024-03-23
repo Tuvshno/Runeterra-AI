@@ -1,0 +1,428 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Syndra
+        **Image**
+        **Gameplay**
+          * Collection
+          * Audio
+          * Patch history
+          * Past versions
+        **Syndra**
+          * Release date: 2012-09-13
+          * Last changed: V13.24
+          * Class(es): Burst, Legacy, Mage
+          * Position(s): Middle
+          * Resource: Mana
+          * Range type: Ranged
+          * Adaptive type: Magic
+          * Store price: 3150 (790 in IP)
+          * Crafting cost: +1890 gold
+          * Ratings
+            * Damage: 3
+            * Toughness: 1
+            * Control: 2
+            * Mobility: 1
+            * Utility: 1
+          * Style: Difficulty: Champion Spotlight
+        **Champion Spotlight**
+          * Syndra is a champion in League of Legends.
+          * [Link to Syndra Champion Spotlight video]
+
+        **Base Statistics**
+          * Health: 563 (+104)
+          * Mana: 480 (+40)
+          * Health regeneration (per 5s): 6.5 (+0.6)
+          * Mana regeneration (per 5s): 8 (+0.8)
+          * Armor: 25 (+4.6)
+          * Attack damage: 54 (+2.9)
+          * Magic resist.: 30 (+1.3)
+          * Crit. damage: 175%
+          * Move. speed: 330
+          * Attack range: 550
+          * Attack speed: Base AS: 0.658, Attack windup: 18.75%, AS ratio: 0.625, Bonus AS: +2%
+          * Missile speed: 1800
+          * Unit radius: Gameplay radius: 65, Selection radius: 125, Pathing radius: 35, Acq. radius: 575
+
+        **Special Statistics**
+          * ARAM: Damage Dealt: +5%, Damage Received: +0%
+          * Nexus Blitz: Damage Dealt: -10%, Damage Received: +10%
+          * One For All: No specific adjustments
+          * URF: Damage Dealt: +0%, Damage Received: +0%
+          * Ult Spellbook: Available
+          * Arena: Damage Dealt: +0%, Damage Received: +0%
+          * Damage Dealt to champions: +5%
+          * Damage Received from champions: +0%
+          * Ability Haste: +15
+          * Damage Dealt to structures: +0%
+          * Damage Received from structures: +0%
+          * Damage Dealt to turrets: +0%
+          * Damage Received from turrets: +0%
+          * Damage Dealt to epic monsters: +0%, Damage Received: +0%
+
+        **Abilities**
+          * Transcendent
+            * Innate: Syndra collects Splinters of Wrath that enhance each of her abilities based on the number collected and updating their ability icons.
+            * She restores 20 − 215 (based on level) mana whenever she collects a Splinter of Wrath from an enemy.
+            * Splinters of Wrath are brought to Syndra from enemies over 0.6 seconds.
+            * At 120 Splinters, Syndra achieves Transcendence, increasing her ability power by 15%.
+            * Splinters of Wrath are collected from enemy champions when Syndra deals ability damage to them within 4 seconds, granting 1 / 2 / 3 (based on level) Splinters.
+            * The number of Splinters collected is limited by the number Syndra can hold at one time, which is 120.
+          * Dark Sphere
+            * Cost: 40 / 45 / 50 / 55 / 60 mana
+            * Cooldown: 4 seconds
+            * Cast time: none
+            * Static cooldown: 1.25 seconds
+            * Target range: 800
+            * Effect radius: 210
+            * Active: Syndra conjures a Dark Sphere at the target location that appears after a 0.6-second delay, dealing magic damage to nearby enemies. The Dark Sphere then remains on the ground for 6 seconds.
+            * Magic Damage: 75 / 110 / 145 / 180 / 215 (+ 60% AP)
+            * Transcendent bonus: Collecting 40 Splinters grants Syndra the ability to store up to 2 charges of Dark Sphere, with a 1.25-second static cooldown between casts. Dark Spheres will cast at max range if cast beyond that.
+          * Force of Will
+            * Cost: 60 / 70 / 80 / 90 / 100 mana
+            * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+            * Cast time: none
+            * Target range: 925 / 950 / 500
+            * Effect radius: 225
+            * Active: Syndra grabs the nearest Dark Sphere, enemy minion, or non-epic monster within 500 units from the target location, and holds the target for 5 seconds. If a Dark Sphere is grabbed, its duration is refreshed; if a minion or monster is grabbed, it is put in stasis.
+            * Force of Will can be recast while the target is being held.
+            * Recast: Syndra throws the grabbed target towards the target location, granting sight of their surroundings as they fall and dealing magic damage to them and nearby enemies. All targets hit are slowed for 1.5 seconds.
+            * Magic Damage: 70 / 110 / 150 / 190 / 230 (+ 70% AP)
+            * Slow: 25 / 30 / 35 / 40 / 45%
+            * Transcendent bonus: Collecting 60 Splinters enhances Force of Will to deal 12% (+ 2% per 100 AP) bonus true damage.
+          * Scatter the Weak
+            * Cost: 50 mana
+            * Cooldown: 17 seconds
+            * Cast time: 0.25 seconds
+            * Range: 700 / 800 / 1300
+            * Collision radius: 70
+            * Width: 120 / 200
+            * Angle: 56° / 84°
+            * Speed: 2500 / 2000
+            * Active: Syndra propels a wave of force in a cone in the target direction that deals magic damage to enemies hit and knocks them back for 400 units and up to 800 units away from Syndra based on proximity, though not through terrain.
+            * Magic Damage: 75 / 115 / 155 / 195 / 235 (+ 45% AP)
+            * Dark Spheres can be knocked back for 950 units and up to 1200 units away from Syndra based on proximity. Targets hit are also stunned for 1.25 seconds, during which they are also revealed, and dealt Scatter the Weak's damage if they were not damaged by the initial cast.
+            * Transcendent bonus: Collecting 80 Splinters increases the scatter angle to 84° and slows enemies by 70% for 1.25 seconds after the knock back ends or if the target was hit by a pushed Dark Sphere.
+
+        **Map-Specific Differences**
+          * Arena: Differences
+            * New effect: Gains 10 Splinters of Wrath per round.
+          * Dark Sphere
+            * New effect: Collecting 40 Splinters causes Syndra to periodically store a Dark Sphere charge, up to a maximum of 2. Dark Spheres will cast at max range if cast beyond that.
+
+        **Targeting Input**
+          * Passive: Syndra's abilities gain additional visual effects when they reach their Splinter of Wrath thresholds. Her spells will also gain a red colored tint outlining the VFX.
+          * Dark Sphere: When using Dark Sphere, Syndra's abilities will have a red circle that indicates the placement of the Dark Sphere.
+
+        **Skin Information**
+          * Original
+          * Justicar
+          * Atlantean
+          * Queen of Diamonds
+          * Highstakes
+          * Snow Day
+          * SKT T1
+          * Star Guardian
+          * Pool Party
+          * Withered Rose
+          * Spirit Blossom
+          * Coven
+
+        **Patch History**
+          * V13.24
+            * Bug Fix: Syndra's abilities now properly grant her bonus ability power when resurrected.
+            * Dark Sphere: AP ratio reduced to 60% AP from 70% AP.
+            * New splash artwork for Original Syndra.
+          * V13.22
+            * Base attack speed increased to 0.658 from 0.625.
+          * V13.19
+            * Dark Sphere: Base damage increased to 75 / 110 / 145 / 180 / 215 from 70 / 105 / 140 / 175 / 210.
+          * V13.16
+            * Bug Fix: Orb VFX now properly appears regardless of graphics settings.
+          * V13.7
+            * Bug Fix: Spheres are no longer displaced by Blast Cones.
+            * Bug Fix: Scatter the Weak no longer resets its cooldown when upgrading from Transcendent sometimes.
+          * V13.3
+            * Undocumented: Winddown time of both casts reduced to 0 from 0.25 seconds.
+          * V13.1
+            * Force of Will: Bug Fix: Can no longer target minions that are being Teleported on.
+          * V12.23
+            * Dark Sphere: Transcendent bonus damage reduced to 12% from 15%.
+            * Transcendent: AP ratio increased to 2% per 100 AP from 1.5% per 100 AP.
+            * Scatter the Weak: AP ratio reduced to 45% AP from 55% AP.
+            * Cooldown increased to 17 seconds from 15.
+            * Bug Fix: Dark Spheres pushed are now properly stopped by projectile-blocking effects.
+          * V12.22
+            * Scatter the Weak: Bug Fix: No longer appears as its own unit when being shown in the death recap.
+            * Bug Fix: Displacement no longer improperly affects displacement and crowd control immune units.
+          * V12.21
+            * November 2nd Hotfix: Scatter the Weak: Bug Fix: Knock back is now properly resisted by crowd control immunity.
+            * Bug Fix: Scatter the Weak now correctly damages all epic monsters.
+            * Bug Fix: Can no longer damage Gwen while she's inside her Hallowed Mist.
+          * V12.20
+            * Transcendent: Bug Fix: Splinters of Wrath are now properly gained even when gaining minion credit from an ally's Spoils of War item.
+          * V12.19
+            * Gameplay Update: Updated ability icons.
+            * Transcendent: New Innate: Syndra collects up to 120 Splinters of Wrath, enhancing each of her abilities based on the number collected and updating their ability icons. She restores 20 − 215 (based on level) mana whenever she collects a Splinter of Wrath from an enemy.
+            * Splinters of Wrath are brought to Syndra from enemies over 0.6 seconds. At 120 Splinters, Syndra achieves Transcendence, increasing her ability power by 15%.
+            * Dealing two instances of ability damage to an enemy champion within 4 seconds grants 1 / 2 / 3 (based on level) Splinters. This cannot occur on the same target more than once every 8 seconds.
+            * Ranking up an ability with skill points beyond the first grants 5 Splinters.
+            * Killing a large minion grants 1 Splinter.
+            * Dark Sphere: Cooldown increased to 7 seconds from 4.
+            * AP ratio increased to 70% AP from 65% AP.
+            * Mana cost reduced to 40 / 45 / 50 / 55 / 60 from 40 / 50 / 60 / 70 / 80.
+            * New Effect: Collecting 40 Splinters stores 2 charges of the ability, with a 1.25-second static cooldown between casts.
+          * Force of Will:
+            * Grab range increased to 500 units from 400.
+            * New Effect: Prevents non-sphere targets from dying when picking them up.
+            * New Effect: Collecting 60 Splinters causes it to deal 15% (+ 1.5% per 100 AP) bonus true damage.
+          * Scatter the Weak:
+            * Removed: Dark Spheres spawned after casting are no longer scattered.
+            * Dark Sphere collision radius reduced to 70 units from 100.
+            * Base damage reduced to 75 / 115 / 155 / 195 / 235 from 85 / 130 / 175 / 220 / 265.
+            * AP ratio reduced to 55% AP from 60% AP.
+            * Scatter angle increased to 56° from 34°.
+            * Cooldown changed to 15 seconds at all ranks from 18 / 17 / 16 / 15 / 14.
+            * Stun duration reduced to 1.25 seconds from 1.5.
+            * New Effect: Collecting 80 Splinters increases the scatter angle to 84° and slows enemies by 70% for 1.25 seconds after the initial knock back and if the target was hit by a pushed Dark Sphere.
+          * Dark Spheres spawned at close range of the ability are now more likely to be hit.
+          * Unleashed Power:
+            * New Effect: Now passively grants Dark Sphere 10 / 20 / 30 ability haste, stacking additively with other sources.
+            * Base damage per sphere reduced to 90 / 130 / 170 from 90 / 140 / 190.
+            * Minimum damage reduced to 270 / 390 / 510 from 270 / 420 / 570.
+            * Maximum damage reduced to 630 / 910 / 1190 from 630 / 980 / 1330.
+            * AP ratio per sphere reduced to 17% AP from 20% AP.
+            * Minimum AP ratio reduced to 51% AP from 60% AP.
+            * Maximum AP ratio reduced to 119% AP from 140% AP.
+            * New Effect: Collecting 100 Splinters now causes it to execute enemies below 15% health.
+          * V12.10
+            * Base health increased to 593 from 523.
+            * Health growth increased to 104 from 90.
+            * Armor growth increased to 4.6 from 3.4.
+            * Magic resistance growth increased to 1.3 from 1.
+          * V11.21
+            * Updated visual effects.
+          * V11.15
+            * Dark Sphere: Mana cost reduced to 40 / 50 / 60 / 70 / 80 from 60 / 65 / 70 / 75 / 80.
+          * V11.1
+            * Base attack damage increased to 54 from 53.8.
+            * Base armor increased to 25 from 24.
+            * V10.19
+              * Pool Party Syndra: Force of Will: Bug Fix: Range indicator is no longer missing.
+          * V10.16
+            * Dark Sphere: Base damage reduced to 70 / 105 / 140 / 175 / 210 from 70 / 110 / 150 / 190 / 230.
+          * V10.15
+            * Bug Fix: Syndra no longer provides vision to her team while dead.
+          * V10.14
+            * Bug Fix: Dark Sphere: Max-range cast now consistently fires in combination with Scatter the Weak.
+          * V10.13
+            * Dark Sphere: Mana cost increased to 60 / 65 / 70 / 75 / 80 from 40 / 50 / 60 / 70 / 80.
+          * V10.11
+            * Scatter the Weak: Cooldown increased to 18 / 17 / 16 / 15 / 14 seconds from 16 / 15 / 14 / 13 / 12.
+          * V10.6
+            * Recommended items updated.
+            * Dark Sphere: Bug Fix: When attempting to cast it outside of its maximum range immediately after Flashing, the ability's position will now properly update and cast at its post-Flash max range.
+          * V10.5
+            * Dark Sphere: Now casts at maximum range instead of casting in the targeted area.
+          * V9.22
+            * Unleashed Power: Bug Fix: HUD icon now properly shows how many Dark Spheres are available to use on cast.
+          * V9.16
+            * Transcendent: Dark Sphere: Bonus champion damage increased to 25% from 15%.
+            * Scatter the Weak: Base damage increased to 85 / 130 / 175 / 220 / 265 from 70 / 115 / 160 / 205 / 250.
+          * V9.15
+            * Unleashed Power: Base damage per sphere increased to 90 / 140 / 190 from 90 / 135 / 180.
+          * V9.13
+            * Stats: Mana growth increased to 60 from 50.
+          * V9.12
+            * Atlantean Syndra and Queen of Diamonds Syndra: Bug Fix: Audio no longer plays during their death animations.
+          * V8.20
+            * Atlantean Syndra and Queen of Diamonds Syndra: Splash artwork adjusted.
+          * V8.15
+            * Dark Sphere: Base damage increased to 70 / 110 / 150 / 190 / 230 from 50 / 95 / 140 / 185 / 230.
+          * V8.9
+            * Stats: Base mana increased to 480 from 450.
+            * Transcendent: Dark Sphere: Bonus changed to (15% bonus damage against champions) from (2 seconds bonus duration).
+          * V8.6
+            * Force of Will: Bug Fix: Now correctly makes Malzahar's Voidlings untargetable while they are held.
+          * V8.3
+            * Stats: Base health regeneration reduced to 6.5 from 7.
+            * Force of Will: Bug Fix: Fixed a bug where it failed to make grabbed targets invulnerable to minion attacks.
+          * V8.2
+            * Unleashed Power: New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+            * Unleashed Power: All Dark Spheres now consistently fly at Unleashed Power's target, even if the target dies or goes invulnerable.
+            * Syndra's movement no longer becomes funky for a few seconds if Unleashed Power's target dies before all spheres have fired.
+            * Dark Spheres created shortly after Unleashed Power ends no longer move erratically when affected by her other abilities.
+          * V7.24
+            * Unleashed Power: Bug Fix: Fixed a bug where casting it while a Dark Sphere was in flight from Force of Will would stop it from being pushed and instead redirect it into Unleashed Power.
+          * V7.22
+            * Base health increased to 523 from 511.
+            * Health growth increased to 90 from 80.
+          * V7.19
+            * Star Guardian Syndra: Bug Fix: Pink overlay has been restored during her recall animation.
+          * V7.18
+            * Atlantean Syndra: Bug Fix: VFX have been restored during her enhanced recall animation.
+            * Star Guardian Syndra: Bug Fix: Shields now follow her during her recall animation.
+          * V7.16
+            * Dark Sphere: AP ratio reduced to 65% AP from 75% AP.
+            * Scatter the Weak: AP ratio increased to 60% AP from 50% AP.
+          * V7.14
+            * Snow Day Syndra: Dark Sphere: Bug Fix: Ground snowflake VFX now properly displays on Medium or lower settings.
+          * V7.12
+            * General: Bug Fix: Sphere-popping SFX now correctly play during her death animation.
+            * Queen of Diamonds Syndra and Atlantean Syndra: Bug Fix: Sphere-popping SFX now correctly play during her death animation.
+          * Unleashed Power: Bug Fix: Fixed a bug where, in some languages, the tooltip contained information about an in-testing mechanic that was never released.
+          * V7.11
+            * Force of Will: Area of effect reduced to 225 from 275.
+            * Justicar Syndra and Atlantean Syndra: Dark Sphere: Bug Fix: Audio no longer plays during their death animations.
+          * V7.9
+            * Stats: Magic resistance growth increased to 0.5 from 0.
+          * V7.7
+            * Unleashed Power: Bug Fix: Cooldown is no longer reset if the first cast was interrupted (the interrupted cast dealt no damage but still spawned three spheres).
+            * Bug Fix: If Syndra's target dies mid-cast, remaining nearby Dark Spheres will continue to pummel their corpse.
+            * Bug Fix: If Syndra's target becomes untargetable during Unleashed Power, Dark Spheres that were in-flight now drop in place rather than disappearing entirely.
+          * V7.2
+            * Dark Sphere: Bug Fix: Spheres are no longer displaced by Blast Cones.
+          * V7.1
+            * Transcendent: Max rank Force of Will: Bonus effect changed to "Deals 20% bonus true damage" from "Grabs 2 additional spheres near the target".
+            * Force of Will: Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 120 / 160 / 200 / 240.
+            * AP ratio reduced to 70% AP from 80% AP.
+            * Unleashed Power: Cooldown increased to 120 / 100 / 80 seconds from 100 / 90 / 80.
+          * V6.23
+            * Atlantean Syndra: Atlan-tean Syndra's watery Recall sound effects no longer cut off before the channel completes.
+          * V6.17
+            * General: Bug Fix: Syndra's arms are no longer stretchy when she dies.
+          * V6.16
+            * General: Bug Fix: Syndra's start and end poses during her recall animation have been fixed to smooth her movement out.
+          * V6.13
+            * Force of Will: Bug Fix: Fixed a bug where Force of Will would only grab 2 spheres at max rank based on where she clicked.
+            * Bug Fix: Fixed a bug where getting crowd-controlled while grabbing an object could put Force of Will on cooldown.
+          * Unleashed Power: New Effect: Now continues to check for spheres during the entire cast duration, rather than only on-cast.
+          * Bug Fix: Fixed a bug where spheres produced by Unleashed Power would become impossible to use if her target died during the cast.
+          * V6.12
+            * Force of Will: AP ratio increased to 80% AP from 70% AP.
+            * Scatter the Weak: AP ratio increased to 50% AP from 40% AP.
+          * V6.9
+            * Transcendent: New Effect: Max rank Dark Spheres now last for 8 seconds.
+            * Previous effect (+15% bonus damage against champions) removed.
+            * New Effect: Max rank Force of Will now grabs up to 2 additional spheres near the target. Syndra will throw the assortment of units in a way that increases Force of Will's area of effect, but it does not cause the ability to deal increased damage.
+            * Previous effect (slow duration increased to 2 seconds) removed.
+            * The main purpose of this change is that Syndra will now reset the lifespan of up to 3 spheres, as well as placing all 3 spheres in a convenient location for Scatter the Weak.
+          * Dark Sphere: AP ratio increased to 75% AP from 60% AP.
+          * Force of Will: Now displays a maximum throw radius while bending units to your will.
+          * Scatter the Weak: Cooldown reduced to 16 / 15 / 14 / 13 / 12 from 18 / 16.5 / 15 / 14 / 13.
+          * V6.7
+            * Bug Fix: Base Syndra's movement animations have been fixed.
+          * V5.22
+            * Stats: Base mana increased to 384 from 360.
+            * Mana growth reduced to 50 from 55.
+          * V5.18
+            * Stats: Mana growth increased to 65 from 50.
+          * Scatter the Weak: / Dark Sphere: Fixed a bug where spheres would sometimes not be knocked back if near maximum range.
+          * V5.14
+            * Force of Will: Fixed a bug where Syndra could pick up Baron Nashor.
+          * V5.13
+            * Scatter the Weak: / Dark Sphere: Overhaul to the interaction's code to make it more responsive.
+            * New Effect: The stun from Dark Sphere will now be applied after the knockback completes, rather than the stun overriding the knockback.
+            * New Effect: Wind Wall and Unbreakable now stop moving spheres instead of destroying them.
+            * Fixed a bug where you could knockback spheres being created for Unleashed Power.
+          * Unleashed Power: New Effect: Wind Wall and Unbreakable now stop moving spheres instead of destroying them.
+          * Fixed a bug where Unleashed Power would go on cooldown if the target died before the cast animation completed.
+          * V5.11
+            * General: Adjusted splash artwork for Queen of Diamonds Syndra.
+          * V5.4
+            * Scatter the Weak: Collision width of Dark Spheres has been increased.
+          * V5.2
+            * Scatter the Weak: Stun collision has been widened slightly to feel less clunky.
+          * V5.1
+            * Dark Sphere: Base damage reduced to 50 / 95 / 140 / 185 / 230 from 70 / 110 / 150 / 190 / 230.
+            * Scatter the Weak: Now checks for Dark Sphere more strictly.
+          * V4.14
+            * Unleashed Power: Fixed a bug where it could damage enemies that were untargetable.
+          * V4.5
+            * Stats: Base armor increased to 19 from 15.
+          * Twisted Treeline only: Scatter the Weak: Cooldown increased to 20 / 18.5 / 17 / 15.5 / 14 seconds from 18 / 16 / 15 / 14 / 13 seconds (on second activation).
+          * Unleashed Power: Cooldown increased to 120 / 105 / 90 seconds from 100 / 90 / 80.
+          * V3.14
+            * Bugfix: Fixed a bug where the E-W combo would not stun the target if they were hit by Force of Will first.
+          * V3.13
+            * Scatter the Weak: Range increased to 700 from 650.
+            * Dark Spheres display a small triangle that points directly away from Syndra, indicating the direction the sphere will move in if she uses Scatter the Weak.
+            * Dark Sphere stun detection should now be more accurate.
+          * Unleashed Power: Now tracks how many Dark Spheres are active with a counter on top of the skill's icon.
+          * V3.7
+            * Improved detection of Dark Spheres at longer ranges.
+          * V1.0.0.154
+            * Transcendent: Now increases range on Unleashed Power by 75 at max rank.
+          * Scatter the Weak: Cooldown reduced to 18 / 16.5 / 15 / 14 / 13 seconds from 18 / 17 / 16 / 15 / 14.
+          * V1.0.0.152
+            * Stats: Move-ment speed increased to 330 from 320.
+          * V1.0.0.150
+            * Force of Will: Now grabs nearest Dark Sphere in range if no valid target is selected.
+            * Grab time reduced to 0.25 seconds from 0.33.
+            * Throw commands given during the grab time now execute immediately after the grab finishes.
+            * Fixed a bug where minions/Dark Spheres being pulled could get stuck on terrain.
+            * Scatter the Weak: Dark Spheres that have nearly finished casting will now get knocked back once they arrive.
+            * Fixed a bug where units hit by both Scatter the Weak and an affected Dark Sphere would be knocked back but not stunned.
+          * Unleashed Power: Spell shields will now only block a single sphere rather than the entire spell.
+          * Now also pulls in spheres cast just before the start of Unleashed Power.
+          * Fixed a bug where Unleashed Power would go on cooldown if the target died before the cast animation completed.
+          * V1.0.0.149
+            * Fixed a bug where Syndra could force monsters to attack each other.
+            * Fixed a tooltip error for Force of Will.
+            * Fixed a bug where stunning an opponent on Dominion could cause a graphical error with the scoreboard.
+          * V1.0.0.148
+            * Dark Sphere: Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 100 / 140 / 180 / 220.
+            * Ability power ratio increased to (+60% AP) from (+50% AP).
+            * Mana cost reduced to 40 / 50 / 60 / 70 / 80 from 50 / 60 / 70 / 80 / 90.
+            * Scatter the Weak: Range increased to 650 from 600.
+            * Missile speed increased to 2500 from 2000.
+            * Improved sphere stun detection when a sphere is first knocked away.
+            * Force of Will: Throw Range increased to 950 from 900.
+          * Unleashed Power: Ability power ratio per sphere increased to (+20% AP) from (+15% AP).
+          * V1.0.0.147
+            * Added Transcendent (Innate): Spells gain extra effects at max rank.
+            * Dark Sphere: Deals 20% bonus damage to champions.
+            * Force of Will: Projectile briefly knocks en-nemies into the air.
+            * Scatter the Weak: Spell width increased.
+          * Dark Sphere (Q): Syndra conjures a Dark Sphere, dealing 70 / 110 / 150 / 190 / 230 (+0.6 AP) magic damage. The sphere remains for 8 seconds and can be manipulated by her other abilities.
+            * Cost: 40 / 50 / 60 / 70 / 80 mana
+            * Cooldown: 5 / 4.5 / 4 / 3.5 / 3 seconds
+          * Force of Will (W): Syndra picks up and throws a minion or Dark Sphere, dealing 80 / 130 / 180 / 230 / 280 (+0.7 AP) magic damage. Enemies are slowed by 25 / 30 / 35 / 40 / 45% for 2 seconds.
+            * Cost: 60 mana
+            * Cooldown: 12 / 11 / 10 / 9 / 8 seconds (on second activation)
+          * Scatter the Weak (E): Syndra knocks enemies and Dark Spheres back, dealing 60 / 100 / 140 / 180 / 200 (+0.5 AP) magic damage. Enemies hit by Dark Spheres are stunned for 1.5 seconds.
+            * Cost: 50 mana
+            * Cooldown: 14 / 13 / 12 / 11 / 10 seconds
+          * Unleashed Power (Ultimate): Syndra bombards an enemy champion with all of her Dark Spheres, dealing 70 / 105 / 140 (+0.2 AP) magic damage per sphere.
+            * Minimum damage (3 spheres): 210 / 315 / 420 (+0.6 AP) magic damage
+            * Max Potential Damage: 3 spheres from ultimate, 5 spheres on the ground (1.8 second cooldown on Q with 40% CDR, 8 second duration) 1 sphere tethered with W = 9 spheres = 630 / 945 / 1260 (+1.8 AP) magic damage.
+            * Cost: 100 mana
+            * Cooldown: 100 / 90 / 80 seconds
+
+* Trivia
+  * Syndra is the only champion to directly manipulate minions and neutral monsters to deal damage to other champions, moving them around with her abilities.
+  * Syndra's spheres appear as red instead of blue when on the opposing team. She is the fourth champion to have team perspective based particles, with the third being Draven, the second being Cassiopeia, and the first being Singed.
+  * On her Atlantean and Snow Day skins, they appear purple to enemy instead.
+  * Using Syndra's Force of Will to hit an enemy unit with the Red Brambleback will apply the debuff on them. Also, if Syndra throws the Blue Sentinel, she will be refunded 10 mana and the ability's cooldown will be lowered by 1 second.
+  * Syndra is the third of the dark-themed Ionian Champions. The first two being Shen and Varus, followed by Zed, Jhin, Xayah, & Kayn.
+  * Syndra's imprisonment under the Dream Pool shares some similarities with the Arthurian lore about Lady of the Lake; though Syndra herself is the prisoner, not the jailer.
+  * Syndra's dance references the choreography for the song 'Hoot' by Girls' Generation (소녀시대: So Nyeo Shi Dae), a popular Korean girl group.
+  * A side-by-side comparison can be seen [here](https://leagueoflegends.fandom.com/wiki/Syndra).
+  * Syndra was the third champion to have a difficulty rating of 100, the first being Cassiopeia, the second being Orianna, and the fourth being Draven. However, her difficulty rating has since fallen to 80. On release, her difficulty rating was 90.
+  * Each of Syndra's abilities gain new graphical details when leveled to max rank.
+  * Syndra is the second champion speculated to be omnipotent, or nearly so. The first one was Xerath.
+  * As seen in [this video](https://www.youtube.com/watch?v=WlLgFt_Ax5s), Syndra appears to be able to use the balls from another Syndra.
+  * The fact that Syndra's Unleashed Power can use up to seven balls is possibly a reference to the Dragon Ball franchise as there are seven Dragon Balls.
+  * Syndra is the second of three dark themed champions to have a light themed skin, with Varus being the first and Aatrox being the third.
+  * Syndra apparently derives from Proto-Germanic *sundr az, ('of/by/for one self'; whence English sunder), with possible influence from unrelated Greek συνδρομή syndrome.
+  * Her brother's name, Evard, likewise combines two Germanic elements īhwaz 'yew' & wardaz 'guard'.
+  * See also [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Syndra).
+
+* References
+  * [Syndra's profile page](https://www.lolking.net/champions/syndra) at LeagueOfLegends.com
+  * Orel, V. A Handbook of Germanic Etymology, pp. 386-7
+  * Beekes, R.S.P. Etymological Dictionary of Greek, pp. 1038, 354-5
+  * Her brother's name, Evard, likewise combines two Germanic elements īhwaz 'yew' & wardaz 'guard'.
+  * See also [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Syndra).

@@ -1,0 +1,399 @@
+**Games**
+
+* **Universe**
+  * League of Legends
+  * Teamfight Tactics
+  * Legends of Runeterra
+
+**Image**
+
+![Viego](data:image/png;base64,<insert image data here>)
+
+**Viego**
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+| Statistic | Value |
+| --- | --- |
+| Health | 630 + 109 |
+| Health regeneration (per 5s) | 7 + 0.7 |
+| Resource | N/A |
+| Armor | 34 + 5.2 |
+| Attack damage | 57 + 3.5 |
+| Magic resist. | 32 + 2.05 |
+| Crit. damage | 175% |
+| Move. speed | 345 |
+| Attack range | 200 |
+| Attack speed (base) | 0.658 |
+| Attack windup | 16.447% |
+| Bonus attack speed | +2.5% |
+| Unit radius | Gameplay radius |
+| Selection radius | 125 |
+| Pathing radius | 35 |
+| Acq. radius | 775 |
+
+**Special statistics**
+
+| Statistic | Value |
+| --- | --- |
+| ARAM | +5% Damage Dealt |
+| Nexus Blitz | - |
+| One For All | - |
+| URF | +0% Damage Dealt |
+| URT Spellbook | +0% Damage Dealt |
+| Arena | Damage Received -5% |
+| Damage Dealt | +0% |
+| Damage Received | +0% |
+| Healing | -20% |
+
+**Abilities**
+
+[Sovereign's Domination]
+
+[Sovereign's Domination] (Innate)
+
+Whenever an enemy champion is killed by Viego or dies within 3 seconds of being damaged by him, a Mist Wraith spawns from their corpse for 8 seconds. Viego can basic attack a Mist Wraith to possess it, heal himself for [2.5% + 2.5% per 100 bonus AD]% [+ 1.5% per 100 AP]% [+ 2.5% per 100% bonus attack speed]% of the target's maximum health, and blink to its location after winding up for 1 second, during which he is untargetable (except to turrets). Possession lasts for 10 seconds and replaces Viego's basic attacks, basic abilities, items, base stats (based on Viego's level), and appearance with the champion the Mist Wraith was summoned by and grants him a free cast of Heartbreaker that is initially placed on a 1.5-second cooldown. Viego also gains 10% bonus movement speed while moving toward nearby enemy champions during this time. Viego cannot use item actives, consumable items, or the shop while under possession. Viego will preserve his current health percentage between transformations.
+
+**Blade of the Ruined King (Q)**
+
+Passive: Viego's basic attacks deal 2/3/4/5/6% of the target's current health bonus physical damage on-hit. The bonus damage has a minimum threshold of 10/15/20/25/30 and is capped at 80 against monsters. Additionally, Viego's damaging abilities apply a mark to enemies for 4 seconds.
+
+Active: Viego thrusts his blade in the target direction, dealing 25/40/55/70/85 (+60% AD) physical damage to enemies hit, increased by 0%-75% (based on critical strike chance), and 10 bonus physical damage against monsters.
+
+Cooldown: 5/4.5/4/3.5/3 seconds.
+
+Target range: 600.
+
+Width: 125.
+
+Cast time: 0.35 seconds.
+
+**Spectral Maw (W)**
+
+Active: Viego charges while being slowed by 15% for up to 3 seconds to increase Spectral Maw's mist missile range and stun duration over the first second of the channel. Spectral Maw can be recast at any time within its duration. If the charge completes without reactivation, Spectral Maw is canceled and goes on full cooldown.
+
+Recast: Viego hurls a blast of mist in the target direction and dashes a fixed distance in the same direction, though not through terrain. The mist deals 80/135/190/245/300 (+100% AP) magic damage to the first enemy struck and stuns them for 0.25-1.25 (based on channel time) seconds.
+
+If the charge is interrupted, Spectral Maw resumes a reduced 3-second static cooldown.
+
+Spectral Maw resets Viego's basic attack timer.
+
+Cooldown: 8 seconds.
+
+Target range: 300/500-900 (based on channel time).
+
+Width: 120.
+
+Speed: 1000/1300.
+
+Cast time: None.
+
+**Harrowed Path (E)**
+
+Active: Viego sends a spectre in the target direction that creates a trail of mist along its path which lasts 8 seconds. The mist spreads around the first instance of terrain encountered.
+
+While inside the mist, Viego gains 30/35/40/45/50% bonus attack speed and, if he is not attacking or casting, he becomes camouflaged and gains 20/22.5/25/27.5/30% (+4% per 100 AP) bonus movement speed.
+
+Declaring a basic attack or casting an ability will break the camouflage and remove the bonus movement speed, preventing Viego from gaining them again for 0.6 seconds, refreshing upon further attacks and ability casts.
+
+Harrowed Path can be cast during any of Viego's abilities.
+
+Cooldown: 14/12/10/8/6 seconds.
+
+Detection radius: 400.
+
+Cast time: None.
+
+**Heartbreaker (R)**
+
+Active: Viego discards his current possession if he has one and gains displacement immunity over the cast time, then blinks to the target location.
+
+Upon arrival, Viego creates a blast that deals 120% AD physical damage to all nearby enemies, increased by 0%-75% (based on critical strike chance), and knocks back all but one up-to 400 units away based on proximity. The most wounded enemy champion, alternatively the closest one, is not knocked back and instead takes the blow from Viego's blade, which deals 15/20/25% (3% per 100 bonus AD)% of the target's missing health bonus physical damage, slows them by 99% for 0.5 seconds, and applies on-hit effects at 100% effectiveness.
+
+If a possession is discarded, Heartbreaker will be placed on a 1.5-second cooldown if it is not already on cooldown.
+
+Cooldown: 120/100/80 seconds.
+
+Target range: 500.
+
+Effect radius: 300.
+
+Cast time: 0.5 seconds.
+
+**Trivia**
+
+* Viego's visuals were first revealed in the Ruined King announcement trailer, however, the character has existed since 2012 in the Twisted Treeline remake.
+* His champion theme features a segment of the song Blade of the Ruined King by Pentakill.
+* Viego is possibly inspired by the Spanish word viejo (lit. 'old') and the name Diego, as his kingdom appears to be inspired by Spain and Camelot.
+* Isolde (~Iseult) references: Iseult of Ireland from the chivalric romance Tristan and Iseult.
+* The first three new champions following Viego's release (Gwen, Akshan, and Vex) were directly tied to his return and continued his story with each release.
+* Viego's placeholder was a purple Jarvan IV during his development, due to the similarity between the length of their lances and swords.
+
+**Patch history**
+
+[V14.4]
+
+* Bug Fix: Declaring an attack command on a nearby Mist Wraith during the possession's windup no longer causes him to possess that Mist Wraith immediately afterwards.
+
+[V14.3]
+
+* Bug Fix: Now properly inherits Smolder's horn in the model due to the tier 1 upgrade of Super Scorcher Breath.
+
+[V14.1]
+
+* Bug Fix: Heartbreaker is no longer sometimes replaced by Spiraling Despair while possessing Hwei.
+
+[V13.24]
+
+* Bug Fix: Can now properly cast Phase to switch weapons while possessing Aphelios.
+
+[V13.21]
+
+* Bug Fix: Crown of the Shattered Queen's Safeguard cooldown is no longer reset between possessions of Azir.
+
+[V13.19]
+
+* Bug Fix: Now properly possesses Mist Wraiths within his attack range if he attempted to do so while berserked, rather than the effect fizzling due to the damage and last hit being attributed to Renata while under the effect.
+
+[V13.16]
+
+* Bug Fix: Now properly copies the possessed champion's skin chroma.
+
+[V13.7]
+
+* Execution threshold for Singularity no longer remains visible after the possession of Aurelion Sol ends.
+
+[V13.6]
+
+* New Effect: Now grants maximum stacks of Pyromania after possessing Annie.
+* Removed: No longer tracks the cooldown of Shurima's Legacy in between possessions of Azir.
+
+[V13.5]
+
+* Bug Fix: No longer becomes permanently immune to Mordekaiser's Realm of Death after possessing Malzahar.
+
+* Bug Fix: Ranges for Blade of the Ruined King and Harrowed Path no longer mimic that of Aurelion Sol's Breath of Light after no longer possessing him.
+
+[V13.4]
+
+* New Effect: Passive damage will now also critically strike when the triggering attack does.
+* Bug Fix: Cooldown is no longer set to 0 from Astral Flight after having possessed Aurelion Sol.
+* Heartbreaker Bonus AD ratio increased to 5% per 100 bonus AD from 3% per 100 bonus AD.
+
+[V13.1]
+
+* Walking animation no longer improperly transitions from Homeguard animation.
+
+[V12.23]
+
+* Bug Fix: Spectral Maw no longer becomes permanently disabled if possession was ended of K'Sante during the channel of his Path Maker.
+
+[Undocumented/Bug Fix]
+
+* No longer gains Primal Smite up on possessing the body of an enemy that owns the jungle starter item, then returning to base and purchasing his own jungle started item.
+
+[V12.22]
+
+* Bug Fix: Possessing Ahri no longer causes him to keep her orb after the possession ends.
+* Bug Fix: Possessing Spirit Guard Udyr no longer causes the SFX of Wilding Claw to repeatedly play after the possession ends.
+
+[V12.21]
+
+* Bug Fix: Now properly releases units picked up with Force of Will after stopping possession of Syndra.
+
+[V12.20]
+
+* Bug Fix: Mark empowered attacks are no longer audible to enemies from the Fog of War.
+
+[V12.15]
+
+* Bug Fix: Fixed a bug where, when possessing Yuumi, he would look like a polymorphed champion if he killed and possessed a champion under the effects of Polymorph.
+
+[V12.13]
+
+* Bug Fix: Buff icons for the bonus effects are now properly displayed in the HUD.
+
+[V12.12]
+
+* Base heal reduced to 2.5% maximum health from 8%.
+* Heal bonus AD ratio reduced to 3% per 100 bonus AD from 2.5%.
+* Heal AP ratio reduced to 1.5% per 100 AP from 1.5%.
+* Heal attack speed ratio reduced to 5% per 100% bonus attack speed from 2.5%.
+
+[V12.11]
+
+* Bug Fix: Fixed a bug where, after possessing Zoe, recasting Paddle Star would launch a second star that disappears.
+* Bug Fix: Fixed a bug where, after possessing Kindred, he would occasionally keep the Wolf's VFX for the rest of the game.
+
+[V11.24]
+
+* Fixed several issues that may occur while possessing Akshan or Ivern.
+
+[V11.21]
+
+* Active AD ratio increased to 70% AD from 60% AD.
+* Spectral Maw self slow reduced to 10% from 15%.
+* Heartbreaker critical strike chance ratio increased to 0%-100% (based on critical strike chance) from 0%-75% (based on critical strike chance).
+
+[V11.18]
+
+* Can no longer use Ornn's Living Forge to successfully forge item upgrades for allies, unless there is another allied Ornn in his team.
+
+[V11.17]
+
+* Base attack range reduced to 200 units from 225.
+* Base heal reduced to 3% maximum health from 8%.
+* Heal bonus AD ratio increased to 3% per 100 bonus AD from 2.5%.
+* Heal AP ratio increased to 2% per 100 AP from 1.5% per 100 AP.
+* Heal attack speed ratio increased to 5% per 100% bonus attack speed from 2.5%.
+
+[V11.16]
+
+* August 11th Hotfix
+* Bug Fix: No longer fails to grant its effects in the initial zone before terrain is struck.
+
+[General]
+
+* Now responds to Shadow Isles voice interactions rather than Demacian.
+
+[Undocumented/Bug Fix]
+
+* Can now use Ornn's Living Forge's quick shop menu to forge items for his temporary inventory and waste his gold.
+
+[V11.10]
+
+* Can no longer use Ornn's Living Forge to successfully forge item upgrades for allies, unless there is another allied Ornn in his team.
+
+[V11.9]
+
+* Fixed bugs where he would not properly copy Kindred's and Shyvana's stacking passives.
+* Fixed bug where, on possessing Kled, he would sometimes become mounted Kled with unmounted Kled's abilities.
+* Fixed a bug where, after possessing Kindred, he would occasionally keep the Wolf's VFX for the rest of the game.
+
+[V11.5]
+
+* March 4th Hotfix
+* Bug Fix: Fixed a bug where possessing Battle Queen Katarina would make her daggers invisible.
+
+* New Effect: Enemy champions possessed who own Dark Seal or Mejai's Soulstealer and have Glory stacks will now also be gained by him during the possession.
+* Bug Fix: No longer loses stacks of Glory from Dark Seal and Mejai's Soulstealer upon possessing an enemy champion.
+* Bug Fix: Fixed a bug where he could sometimes possess Mist Wraiths from a massive range if cast right at the start of another possession.
+* Bug Fix: Fixed a bug where he would sometimes instantly possess Mist Wraiths without the wind up time on them.
+* Removed: No longer pops in-flight turret projectiles when he becomes untargetable from the wind up on a Mist Wraith.
+
+[V11.4]
+
+* Undocumented: No longer pops turret projectiles at the start of the possessing's windup.
+
+[V11.3]
+
+* February 3rd Hotfix
+* General: Fixed a bug where he was able to spam his Eternals.
+* Blade of the Ruined King: Healing against minions reduced to 100% from 150%.
+
+[Undocumented, but later documented in the hotfix notes]
+
+* Can no longer keep abilities with recasts such as Barrel Roll or Lucent Singularity while possessing the next enemy.
+* Fixed a bug where he would automatically cast certain abilities when possessing an enemy shortly after possessing Hecarim and using Spirit of Dread.
+* Fixed a bug where he would gain additional permanent ability haste from Transcendence when possessing enemies while he was level 8.
+
+[Undocumented]
+
+* Scarecrow Effigy can no longer be kept under certain circumstances after possessing Fiddlesticks.
+* Many more specific bugfixes.
+
+[Harrowed Path]
+
+* Undocumented: Fixed a bug that would fatally crash and drop the current game under certain circumstances involving player-generated terrain.
+
+[V11.2]
+
+* January 21st Hotfix
+* Sovereign's Domination: Bug Fix: Fixed a bug where possessing Battle Queen Katarina would make her daggers invisible.
+
+[V11.2]
+
+* Added Sovereign's Domination
+
+[Sovereign's Domination (Innate)]
+
+[Sovereign's Domination] (Innate)
+
+Whenever an enemy champion is killed by Viego or dies within 3 seconds of being damaged by him, a Mist Wraith spawns from their corpse for 8 seconds. Viego can basic attack a Mist Wraith to possess it, heal himself for 2.5% (2.5% per 100 bonus AD)% (1.5% per 100 AP)% (2.5% per 100% bonus attack speed)% of the target's maximum health, and blink to its location after winding up for 1 second, during which he is untargetable (except to turrets). Possession lasts for 10 seconds and replaces Viego's basic attacks, basic abilities, items, base stats (based on Viego's level), and appearance with the champion the Mist Wraith was summoned by and grants him a free cast of Heartbreaker that is initially placed on a 1.5-second cooldown. Viego also gains 10% bonus movement speed while moving toward nearby enemy champions during this time. Viego cannot use item actives, consumable items, or the shop while under possession. Viego will preserve his current health percentage between transformations.
+
+**Blade of the Ruined King (Q)**
+
+Passive: Viego's basic attacks deal 2/3/4/5/6% of the target's current health bonus physical damage on-hit. The bonus damage has a minimum threshold of 10/15/20/25/30 and is capped at 80 against monsters. Additionally, Viego's damaging abilities apply a mark to enemies for 4 seconds.
+
+Active: Viego thrusts his blade in the target direction, dealing 25/40/55/70/85 (+60% AD) physical damage to enemies hit, increased by 0%-75% (based on critical strike chance), and 10 bonus physical damage against monsters.
+
+Cooldown: 5/4.5/4/3.5/3 seconds.
+
+Target range: 600.
+
+Width: 125.
+
+Cast time: 0.35 seconds.
+
+**Spectral Maw (W)**
+
+Active: Viego charges while being slowed by 15% for up to 3 seconds to increase Spectral Maw's mist missile range and stun duration over the first second of the channel. Spectral Maw can be recast at any time within its duration.
+
+If the charge completes without reactivation, Spectral Maw is canceled and goes on full cooldown.
+
+Recast: Viego hurls a blast of mist in the target direction and dashes a fixed distance in the same direction, though not through terrain. The mist deals 80/135/190/245/300 (+100% AP) magic damage to the first enemy struck and stuns them for 0.25-1.25 (based on channel time) seconds.
+
+If the charge is interrupted, Spectral Maw resumes a reduced 3-second static cooldown.
+
+Spectral Maw resets Viego's basic attack timer.
+
+Cooldown: 8 seconds.
+
+Target range: 300/500-900 (based on channel time).
+
+Width: 120.
+
+Speed: 1000/1300.
+
+Cast time: None.
+
+**Harrowed Path (E)**
+
+Active: Viego sends a spectre in the target direction that creates a trail of mist along its path which lasts 8 seconds. The mist spreads around the first instance of terrain encountered.
+
+While inside the mist, Viego gains 30/35/40/45/50% bonus attack speed and, if he is not attacking or casting, he becomes camouflaged and gains 20/22.5/25/27.5/30% (+4% per 100 AP) bonus movement speed.
+
+Declaring a basic attack or casting an ability will break the camouflage and remove the bonus movement speed, preventing Viego from gaining them again for 0.6 seconds, refreshing upon further attacks and ability casts.
+
+Harrowed Path can be cast during any of Viego's abilities.
+
+Cooldown: 14/12/10/8/6 seconds.
+
+Detection radius: 400.
+
+Cast time: None.
+
+**Heartbreaker (R)**
+
+Active: Viego discards his current possession if he has one and gains displacement immunity over the cast time, then blinks to the target location.
+
+Upon arrival, Viego creates a blast that deals 120% AD physical damage to all nearby enemies, increased by 0%-75% (based on critical strike chance), and knocks back all but one up-to 400 units away based on proximity. The most wounded enemy champion, alternatively the closest one, is not knocked back and instead takes the blow from Viego's blade, which deals 15/20/25% (3% per 100 bonus AD)% of the target's missing health bonus physical damage, slows them by 99% for 0.5 seconds, and applies on-hit effects at 100% effectiveness.
+
+If a possession is discarded, Heartbreaker will be placed on a 1.5-second cooldown if it is not already on cooldown.
+
+Cooldown: 120/100/80 seconds.
+
+Target range: 500.
+
+Effect radius: 300.
+
+Cast time: 0.5 seconds.

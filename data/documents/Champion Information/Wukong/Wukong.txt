@@ -1,0 +1,132 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * **Wukong**
+      * **Gameplay**
+        * Cosmetics
+        * Audio
+        * Development
+        * Patch History
+        * History
+        * Trivia
+      * **Base Statistics**
+        * MonkeyKing
+          * Health: 610 (+99)
+          * Mana: 300 (+65)
+          * Health regeneration (per 5s): 3.5 (+0.65)
+          * Mana regeneration (per 5s): 8 (+0.8)
+          * Armor: 31 (+4.7)
+          * Attack damage: 66 (+3.5)
+          * Magic resist.: 28 (+2.05)
+          * Crit. damage: 175%
+          * Move. speed: 340
+          * Attack range: 175
+          * Attack speed: 0.69
+          * Attack windup: 20.833%
+          * AS ratio: 0.658
+          * Bonus AS: +3%
+          * Unit radius: Gameplay radius - 65
+          * Selection radius: 100
+          * Pathing radius: 35
+          * Acq. radius: 600
+        * **Special Statistics**
+          * ARAM: Damage Dealt: +0%, Damage Received: +0%
+          * Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+          * One For All: Damage Dealt: +0%, Damage Received: +0%
+          * URF: Damage Dealt: -5%, Damage Received: +5%
+          * Ult Spellbook: Damage Dealt: -10%, Damage Received: +10%
+          * Arena: Damage Dealt: -5%, Damage Received: +5%
+      * **Abilities**
+        * **Stone Skin**
+          * Innate: Whenever Wukong or his clone damage an enemy champion or monster, he generates a stack of Strength of Stone for 5 seconds, refreshing on subsequent hits and stacking up to 5 times.
+          * Strength of Stone: Wukong gains 5-9 (based on level) bonus armor and bonus health regeneration equal to 0.35% of his maximum health, increased by 100% for each stack up to a maximum of 30-54 (based on level) bonus armor and 2.1% maximum health regeneration. Stacks expire by one every second when the duration ends.
+        * **Crushing Blow**
+          * COST: 20 Mana
+          * COOLDOWN: 8 / 7.5 / 7 / 6.5 / 6 seconds
+          * CAST TIME: None
+          * Active: Wukong empowers his next basic attack within 5 seconds to have an uncancellable windup, gain bonus range, deal bonus physical damage, and inflict armor reduction for 3 seconds.
+          * Bonus Range: 135 / 145 / 155 / 165 / 175 units
+          * Bonus Physical Damage: 20 / 45 / 70 / 95 / 120 (+55% bonus AD)
+          * Armor Reduction: 10 / 15 / 20 / 25 / 30% of target's armor
+          * Crushing Blow's cooldown is reduced by 0.5 seconds whenever Wukong or his clone damage an enemy.
+          * Crushing Blow resets Wukong's and his clone's basic attack timer. Other abilities can be used during the attack's animation.
+        * **Map-Specific Differences**
+          * Arena: Base damage changed to 10 / 30 / 50 / 70 / 90, Bonus AD ratio changed to 35% bonus AD.
+      * **Tips & Tricks**
+        * Map-Specific Differences: Arena differences,
+          * Pressing the S key (or Ctrl-5) is special cased for Wukong to instantly snap into his idle animation like his clone would, which can be used to trick his opponents.
+      * **Champion Spotlight**
+        * **[Wukong Champion Spotlight](https://www.youtube.com/watch?v=UIMl3s2cMrY)**
+  * Image
+    * Wukong
+
+**Wukong**
+is a champion in League of Legends.
+[1]
+
+* **Gameplay**
+  * Cosmetics
+  * Audio
+  * Development
+  * Patch History
+  * History
+  * Trivia
+* **Base statistics**
+  * MonkeyKing
+* Health: 610 (+99)
+* Mana: 300 (+65)
+* Health regeneration (per 5s): 3.5 (+0.65)
+* Mana regeneration (per 5s): 8 (+0.8)
+* Armor: 31 (+4.7)
+* Attack damage: 66 (+3.5)
+* Magic resist.: 28 (+2.05)
+* Crit. damage: 175%
+* Move. speed: 340
+* Attack range: 175
+* Attack speed: 0.69
+* Attack windup: 20.833%
+* AS ratio: 0.658
+* Bonus AS: +3%
+* Unit radius: Gameplay radius - 65
+* Selection radius: 100
+* Pathing radius: 35
+* Acq. radius: 600
+* **Special statistics**
+  * ARAM: Damage Dealt: +0%, Damage Received: +0%
+  * Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+  * One For All: Damage Dealt: +0%, Damage Received: +0%
+  * URF: Damage Dealt: -5%, Damage Received: +5%
+  * Ult Spellbook: Damage Dealt: -10%, Damage Received: +10%
+  * Arena: Damage Dealt: -5%, Damage Received: +5%
+* **Abilities**
+  * **Stone Skin**
+    * Innate: Whenever Wukong or his clone damage an enemy champion or monster, he generates a stack of Strength of Stone for 5 seconds, refreshing on subsequent hits and stacking up to 5 times.
+    * Strength of Stone: Wukong gains 5-9 (based on level) bonus armor and bonus health regeneration equal to 0.35% of his maximum health, increased by 100% for each stack up to a maximum of 30-54 (based on level) bonus armor and 2.1% maximum health regeneration. Stacks expire by one every second when the duration ends.
+  * **Crushing Blow**
+    * COST: 20 Mana
+    * COOLDOWN: 8 / 7.5 / 7 / 6.5 / 6 seconds
+    * CAST TIME: None
+    * Active: Wukong empowers his next basic attack within 5 seconds to have an uncancellable windup, gain bonus range, deal bonus physical damage, and inflict armor reduction for 3 seconds.
+    * Bonus Range: 135 / 145 / 155 / 165 / 175 units
+    * Bonus Physical Damage: 20 / 45 / 70 / 95 / 120 (+55% bonus AD)
+    * Armor Reduction: 10 / 15 / 20 / 25 / 30% of target's armor
+    * Crushing Blow's cooldown is reduced by 0.5 seconds whenever Wukong or his clone damage an enemy.
+    * Crushing Blow resets Wukong's and his clone's basic attack timer. Other abilities can be used during the attack's animation.
+  * **Map-Specific Differences**
+    * Arena: Base damage changed to 10 / 30 / 50 / 70 / 90, Bonus AD ratio changed to 35% bonus AD.
+* **Tips & Tricks**
+  * Map-Specific Differences: Arena differences, Pressing the S key (or Ctrl-5) is special cased for Wukong to instantly snap into his idle animation like his clone would, which can be used to trick his opponents.
+* **Champion Spotlight**
+  * **[Wukong Champion Spotlight](https://www.youtube.com/watch?v=UIMl3s2cMrY)**
+
+[2]
+
+* Other MOBA's than League of Legends (such as Heroes of Newerth, Smite, and Dota 2) also feature a character based on Sun Wukong. These expies of the Monkey King (including Smite's pre-worked Sun Wukong) have similar abilities and playstyles (mainly being damaging tanks with assassin potential, and having very unique tricks with their abilities).
+* Wukong is one of a few champions to have multiple textures in one skin. When he uses Warrior Trickster, his clone will be of a different colour palette which can only be seen by Wukong and his allies. To the opposing team, the two Wukongs look exactly the same, including copies of any external buffs and item effect active at the moment the clone is spawned (Prior to patch V5.22, clones did not duplicate external buff/active item effect particles).
+* Four other champions with this feature are LeBlanc (via Mirror Image), Shaco's (via Hallucinate), Nasus (via Fury of the Sands), and Malphite (via Granite Shield and Thunderclap).
+* Wukong's critical strike animation is a possible nod to a famous pole-vaulting kick used by many incarnations of the original Sun Wukong, especially in the TV drama adaptations of Journey to the West, and his Warriors Orochi / Musou Orochi incarnation as well.
+* When a Wukong Bot uses Warrior Trickster, the decoy is named "MonkeyKing Bot".
+* Wukong is the only champion with two Lunar Revel skins.
+
+Before his gameplay update, Cyclone was originally tied as one of the highest AD ratio abilities in the game.

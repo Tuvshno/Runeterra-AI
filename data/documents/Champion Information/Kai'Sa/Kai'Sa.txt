@@ -1,0 +1,153 @@
+# Games
+
+## Universe
+
+- League of Legends
+  - **League of Legends**
+  - Teamfight Tactics
+  - Legends of Runeterra
+  - Wild Rift
+
+## Kai'Sa
+
+![Kai'Sa](image)
+
+### Gameplay
+
+- Class(es)
+  - Marksman
+  - Legacy: Marksman
+- Position(s)
+  - Bottom
+- Resource
+  - Mana
+- Range type
+  - Ranged
+- Adaptive type
+  - Magical
+- Store price
+  - 1350
+  - 585 (Crafting cost)
+- Collection
+  - See [Kai'Sa (Collection)](#)
+- Audio
+  - Champion Spotlight: [Kai'Sa Champion Spotlight](#)
+
+### Base statistics
+
+| Statistic | Value |
+| --- | --- |
+| Health | 640 + 102 |
+| Mana | 345 + 40 |
+| Health regeneration (per 5s) | 3.5 + 0.55 |
+| Mana regeneration (per 5s) | 8.2 + 0.7 |
+| Armor | 25 + 4.2 |
+| Attack damage | 59 + 2.6 |
+| Magic resist | 30 + 1.3 |
+| Critical damage | 175% |
+| Move. speed | 335 |
+| Attack range | 525 |
+| Attack speed (base) | 0.644 |
+| Attack windup | 16.108% |
+| AS ratio | N/A |
+| Bonus attack speed | +1.8% |
+| Unit radius | Gameplay radius | 65 |
+| Selection radius | 100 |
+| Pathing radius | 41 |
+| Acquisition radius | 800 |
+
+### Special statistics
+
+| Statistic | Value |
+| --- | --- |
+| ARAM | N/A |
+| Nexus Blitz | N/A |
+| One For All | N/A |
+| URF | N/A |
+| Ult Spellbook | N/A |
+| Arena | Damage Dealt: +0% |
+| Damage Received: -5% |
+| Total Attack Speed: +2.5% |
+| Damage Dealt: +0% |
+| Damage Received: +0% |
+| Damage Dealt: +3% |
+| Damage Received: +0% |
+| Damage Dealt: -10% |
+| Damage Received: +10% |
+| Damage Dealt: +0% |
+| Damage Received: +0% |
+
+### Abilities
+
+#### Second Skin
+
+- **Effect radius:** 2750
+- Innate: Living Weapon
+  - Kai'Sa can evolve each of her basic abilities by gaining a set amount of permanent stats from items and stat growth, granting them additional effects. Evolving an ability causes her to enter a 2-second cast time. The upgrade is lost if the stat requirement is no longer met.
+- Innate: Plasma
+  - Kai'Sa's basic attacks on-hit and Void Seeker apply stacks of Plasma to enemies for 4 seconds, refreshing on subsequent applications and stacking up to 5 times. Basic attacks each apply 1 stack and Void Seeker applies 2 stacks, increased to 3 if it is evolved. Her and nearby allies' immobilizing effects and polymorphs against enemy champions will also apply a stack of Plasma.
+- Innate: Caustic Wounds
+  - Plasma stacks applied by Kai'Sa's basic attacks or Void Seeker deal bonus magic damage. The fifth stack against a target consumes all Plasma stacks to deal additional bonus magic damage equal to 15% (+ 6% per 100 AP) of the target's missing health, capped at 400 against monsters.
+
+##### Map-Specific Differences
+
+- Arena: differences
+  - On-hit damage changed to 50% value.
+  - Detonation base damage changed to 10% of target's maximum health.
+
+#### Icathian Rain
+
+- **Cost:** 55 Mana
+- **Cooldown:** 10 / 9 / 8 / 7 / 6 seconds
+- **Cast time:** none
+- **Target range:** 600
+- Active: Kai'Sa releases a swarm of 6 missiles that evenly distributes among nearby enemies, each one hitting their target after 0.4 seconds to deal physical damage. Minions below 35% health take double damage.
+- **Evolution:** Requires 100 attack damage from items or stat growth to upgrade – Icathian Rain instead fires 12 missiles.
+
+#### Void Seeker
+
+- **Cost:** 55 / 60 / 65 / 70 / 75 Mana
+- **Cooldown:** 22 / 20 / 18 / 16 / 14 seconds
+- **Cast time:** 0.4 seconds
+- **Target range:** 3000
+- **Width:** 200
+- **Speed:** 1750
+- Active: Kai'Sa fires a void bolt in the target direction that briefly grants sight around its trajectory as it travels, deals magic damage to the first enemy hit, applies 2 Plasma, and reveals them for 4 seconds.
+- **Evolution:** Requires 100 ability power to upgrade – Void Seeker applies 3 Plasma and refunds 75% of its cooldown against enemy champions.
+
+#### Supercharge
+
+- **Cost:** 30 Mana
+- **Cooldown:** 16 / 14.5 / 13 / 11.5 / 10 seconds
+- **Cast time:** 1.2 - 0.6 (based on bonus attack speed) seconds
+- Active: Kai'Sa charges for 1.5 - 0.75 (based on bonus attack speed) seconds during which she is still allowed to move, becomes ghosted, and gains bonus movement speed, with the effectiveness increased by 0% - 100% (based on bonus attack speed). After completing the charge, she gains bonus attack speed and reduces her basic attack windup percentage by 6.44% for 4 seconds. Kai'Sa's basic attacks reduce Supercharge's cooldown by 0.5 seconds.
+- **Evolution:** Requires 100% bonus attack speed to upgrade – Supercharge grants invisibility at the start of the cast time for 0.5 seconds.
+
+### Map-Specific Differences
+
+- Arena: differences
+  - On-hit damage changed to 50% value.
+  - Detonation base damage changed to 10% of target's maximum health.
+- Icathian Rain: differences
+  - Bonus AD ratio per missile changed to 40% bonus AD.
+  - Maximum single-target bonus AD ratio increased to 112.5% bonus AD.
+  - Maximum evolved single-target bonus AD ratio increased to 187.5% bonus AD.
+- Void Seeker: differences
+  - AP ratio per missile changed to 20% AP.
+
+### Trivia
+
+- Her name resembles Finnish Kaisa, which is derived from Pre-Greek Αἰκατερίνη (Aikaterine).
+- Her name's current form follows the Ancient Shuriman naming convention for Voidborns.
+- Her accent is Afrikaner.
+- She is the first champion to receive Chroma variants upon release.
+- She uses a Frog in one of her animations, along with Bewitching Morgana and Dark Star Thresh.
+- Her dance references the side-to-side body wave.
+- A side-by-side comparison can be seen [here](#).
+- In-game, Kai'Sa can toggle her helmet on and off [default: Ctrl + 5].
+
+### References
+
+- [Kai'Sa's profile page](https://leagueoflegends.com/en/champion/kaisa/)
+- League of Legends Wiki: [LeagueOfLegends/Champions](https://leagueoflegends.wiki/wiki/League_of_Legends/Champions)
+- Cancelled Champions: [Ao Shin](https://leagueoflegends.fandom.com/wiki/Ao_Shin), [Avasha](https://leagueoflegends.fandom.com/wiki/Avasha), [Averdrian](https://leagueoflegends.fandom.com/wiki/Averdrian), [CeeCee](https://leagueoflegends.fandom.com/wiki/CeeCee), [Cyborg_Cowboy](https://leagueoflegends.fandom.com/wiki/Cyborg_Cowboy), [Eagle_Rider](https://leagueoflegends.fandom.com/wiki/Eagle_Rider), [Gavid](https://leagueoflegends.fandom.com/wiki/Gavid), [Husk](https://leagueoflegends.fandom.com/wiki/Husk), [Iron_Engineer](https://leagueoflegends.fandom.com/wiki/Iron_Engineer), [Ivan](https://leagueoflegends.fandom.com/wiki/Ivan), [Omen](https://leagueoflegends.fandom.com/wiki/Omen), [Priscilla](https://leagueoflegends.fandom.com/wiki/Priscilla), [Rob_Blackblade](https://leagueoflegends.fandom.com/wiki/Rob_Blackblade), [Seth](https://leagueoflegends.fandom.com/wiki/Seth), [Tabu](https://leagueoflegends.fandom.com/wiki/Tabu), [Tiki](https://leagueoflegends.fandom.com/wiki/Tiki), [Urf](https://leagueoflegends.fandom.com/wiki/Urf), [Well](https://leagueoflegends.fandom.com/wiki/Well)

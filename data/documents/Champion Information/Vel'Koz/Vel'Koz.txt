@@ -1,0 +1,724 @@
+**Games**
+
+**Universe**
+
+* **•**
+* League of Legends
+* **•**
+
+**Image**
+
+Vel'Koz
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Vel'Koz**
+
+**Release date:** 2014-02-27
+
+**Last changed:** V14.1
+
+**Class(es):** Artillery, Legacy, Mage
+
+**Position(s):** Support, Middle
+
+**Resource:** Mana
+
+**Range type:** Ranged
+
+**Adaptive type:** Magic
+
+**Store price:** 3141
+
+| 880 |
+
+**Crafting**
+
++
+
+**Ratings**
+
+| Damage | Toughness | Control | Mobility | Utility |
+| --- | --- | --- | --- | --- |
+| 3 | 1 | 2 | 1 | 1 |
+
+**Style**
+
+Difficulty: Champion Spotlight
+
+**Champion Spotlight**
+
+Vel'Koz Champion Spotlight
+
+**Vel'Koz**
+
+is a champion in League of Legends.
+[1]
+
+**Gameplay**
+
+* **Cosmetics**
+* **•**
+* Audio
+* **•**
+* Development
+* **•**
+* Patch History
+* **•**
+* History
+* **•**
+* Trivia
+
+**Base statistics**
+
+| Health | Mana | Health regen. (per 5s) | Mana regen. (per 5s) | Armor | Attack damage | Magic resist. | Crit. damage | Move. speed | Attack range | Attack speed |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 590 | 469 | 5.5 | 8 | 22 | 55 | 30 | 175% | 340 | 525 | 0.643 |
+
+**Special statistics**
+
+| ARAM | Nexus Blitz | One For All | URF | Ult Spellbook | Arena | Damage Dealt | Damage Received | Damage Dealt | Damage Received | Damage Dealt | Damage Received |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| -5% | +5% | +0% | +0% | +0% | +0% | -5% | +5% | +0% | +0% | +0% | +0% |
+
+**Abilities**
+
+[
+]
+
+*Edit*
+
+**Organic Deconstruction**
+
+**Organic Deconstruction**
+
+*Innate:* Vel'Koz's abilities apply a stack of Deconstruction to enemies hit for 7 seconds, refreshing on basic attacks and subsequent applications and stacking up to 3 times. The third stack consumes them all to deal 35 − 180 (based on level) (+ 60% AP) bonus true damage.
+
+**Hide**
+
+*Details*
+
+*Info*
+
+Targeting input: Passive
+
+Damage type: Type
+
+Sub-type: Proc damage
+
+Proc damage: True
+
+Counters: Spell shield (Blocked)
+
+*Additional notes:* No additional notes.
+
+**Plasma Fission**
+
+**Plasma Fission**
+
+*Cost:* 40 / 45 / 50 / 55 / 60 Mana
+
+*Cast time:* 0.25
+
+*Range:* 1100 / 1100
+
+*Width:* 100 / 90
+
+*Speed:* 1300 / 2100
+
+*Active:* Vel'Koz fires a plasma bolt in the target direction that deals magic damage to the first enemy hit and slows them by 70% decaying over a duration. Plasma Fission can be recast after 0.25 seconds while the bolt is in flight, and does so automatically upon hitting an enemy or maximum range.
+
+Magic Damage: 80 / 120 / 160 / 200 / 240 (+ 90% AP)
+
+Slow Duration: 1 / 1.4 / 1.8 / 2.2 / 2.6
+
+Recast: Vel'Koz splits the bolt in two over 0.25 seconds, each part firing perpendicularly in opposite directions and applying the same effects to enemies hit. Whenever Plasma Fission kills an enemy, Vel'Koz restores mana.
+
+Mana Restored per Kill: 20 / 22.5 / 25 / 27.5 / 30
+
+Maximum Mana Restored: 60 / 67.5 / 75 / 82.5 / 90
+
+**Hide**
+
+*Details*
+
+*Info*
+
+Targeting input: Direction / Auto
+
+Damage type: Type
+
+Sub-type: Area damage / Magic
+
+Counters: Spell shield (Projectile) (Blocked), spell shield (Blocked)
+
+*Additional notes:*
+
+* The initial cast counts as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+* An enemy cannot be hit by multiple bolts even when having blocked one with a spell shield.
+* The split occurs at a location 55 units in front of the primary bolt's final location.
+* Plasma Fission can reach a maximum 1595 units diagonally (ignoring the split missile's width and enemy hitbox radius), reaching this distance after a total of about ~1.65 seconds.
+* This ability will cast from wherever the caster is at the end of the cast time.
+
+**Void Rift**
+
+**Void Rift**
+
+*Cost:* 50 / 55 / 60 / 65 / 70 Mana + 1 Charge
+
+*Cast time:* none
+
+*Static cooldown:* 1.5
+
+*Recharge:* 19 / 18 / 17 / 16 / 15
+
+*Range:* 1105 / 1105 / -95
+
+*Width:* 175 / 175
+
+*Speed:* 1700
+
+*Active:* Vel'Koz cracks a rift in the target direction that opens after a 0.25-second delay, cascading through the area over 0.65 seconds to deal magic damage to enemies within. After 0.75 seconds, the rift violently collapses, dealing magic damage to enemies within and granting sight of the surrounding area for 0.25 seconds.
+
+Magic Damage: 30 / 50 / 70 / 90 / 110 (+ 20% AP)
+
+*After 0.75 seconds:* Magic Damage: 45 / 75 / 105 / 135 / 165 (+ 25% AP)
+
+Total Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 45% AP)
+
+**Hide**
+
+*Details*
+
+*Info*
+
+Targeting input: Direction
+
+Damage type: Type
+
+Sub-type: Area damage / Magic
+
+Counters: Spell shield (Unbreakable) and Wind Wall (See Notes) (Partially blocked), Spell shield (See Notes) (Blocked)
+
+*Additional notes:*
+
+* Unbreakable and Wind Wall will block the ripple and prevent the rift from forming further, but they will not destroy the section that was created already.
+* Spell shield only blocks one instance of damage.
+
+**Tectonic Disruption**
+
+**Tectonic Disruption**
+
+*Cost:* 50 / 55 / 60 / 65 / 70 Mana
+
+*Cooldown:* 16 / 15 / 14 / 13 / 12
+
+*Cast time:* 0.25
+
+*Target range:* 800
+
+*Effect radius:* 225
+
+*Active:* Vel'Koz hurls a disruptive anomaly that lands to the target location after 0.25−0.5 (based on cast distance) seconds, dealing magic damage to enemies hit and knocking them up and stunning them for 0.75 seconds, as well as granting sight of the area briefly.
+
+Magic Damage: 70 / 100 / 130 / 160 / 190 (+ 30% AP)
+
+*If cast in close proximity of Vel'Koz:* The anomaly will also slightly knock back enemies hit in the direction of the cast.
+
+**Hide**
+
+*Details*
+
+*Info*
+
+Targeting input: Location
+
+Damage type: Type
+
+Sub-type: Area damage / Magic
+
+Counters: Spell shield (See Notes) (Blocked), projectile (See Notes)
+
+*Additional notes:*
+
+* The required proximity for the knock back is relative to Vel'Koz's position when casting and not his current one.
+* While the effect is fully prevented by blocking the missile (e.g. with Unbreakable and Wind Wall), the missile may not be destroyed visually (bug).
+* The area of effect indicator appears at the end of the cast time. It will persist even if the cast cancels (e.g. Vel'Koz dies before cast time completes) despite the projectile not firing.
+* Displacement immunity will also resist the application of the stun.
+
+**Life Form Disintegration Ray**
+
+**Life Form Disintegration Ray**
+
+*Cost:* 100 Mana
+
+*Cooldown:* 120 / 100 / 80
+
+*Cast time:* none
+
+*Range:* 1555
+
+*Width:* 175
+
+*Passive - Researched:* Applying 3 Deconstruction stacks to an enemy champion marks them as Researched for 7 seconds, refreshing on basic attacks and ability hits against them.
+
+*Active:* After a 0.2-second delay, Vel'Koz channels for up to 2.6 seconds to project an energy beam, during which he can steer the beam in the target direction. Life Form Disintegration Ray can be recast after 1 second during the channel, and does so automatically after the duration. The beam deals magic damage to enemies hit every 0.2 seconds, and slows them by 20%, lingering for 1 second. Deconstruction is applied every 0.7 seconds to enemies hit. Researched enemies take true damage instead.
+
+Damage Per Tick: 34.62 / 61.54 / 48.08 (+ 9.62% AP)
+
+Maximum Damage: 450 / 625 / 800 (+ 125% AP)
+
+**Recast:** Vel'Koz ends Life Form Disintegration Ray.
+
+**Hide**
+
+*Details*
+
+*Info*
+
+Targeting input: Direction
+
+Damage type: Type
+
+Sub-type: AOE DOT damage / Magic / True
+
+Counters: Projectile, Disruption, Not Blocked, Interrupted
+
+*Additional notes:*
+
+* Vel'Koz will reveal himself if the ray is near an enemy champion.
+* The beam hits in a rectangular shape, intersecting with the edge of an enemy gameplay radius.
+* Because of this, the effect will hit enemies whose center location is to the sides and/or slightly behind Vel'Koz, as long as their radius intersects with the area.
+
+**Article section**
+
+This article section only contains champion skins. For all associated collection items, see Vel'Koz (Collection).
+
+Original
+
+View in 3D
+
+880
+
+27.02.2014
+
+It is unclear if Vel’Koz was the first Voidborn to emerge on Runeterra, but there has certainly never been another to match his level of cruel, calculating sentience. While his kin devour or defile everything around them, he seeks instead to scrutinize and study the physical realm—and the strange, warlike beings that dwell there—for any weakness the Void might exploit. But Vel’Koz is far from a passive observer, striking back at threats with deadly plasma, or by disrupting the very fabric of the world itself.
+
+Erik Braa
+
+Christian Fell, Alex ‘alexplank’ Flores
+
+Loot eligible
+
+Battlecast
+
+View in 3D
+
+1350
+
+27.02.2014
+
+An airborne data collection unit based on the now-extinct Vel'Koz lifeform, these Battlecast monstrosities sweep their concentrated energy beams over heavily populated areas. Survey data from the lifeless wreckage automatically calibrates the entire fleets' weapons systems, making the units a deadlier threat with every skirmish.
+
+Erik Braa
+
+Michal Ivan, Puppetworks Animation Studio
+
+Battlecast
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Arclight
+
+View in 3D
+
+1350
+
+28.01.2015
+
+A sublime being of living energy, Vel'Koz is the subject of legend, myth, and worship. Once every millenium he descends to the mortal plane, choosing those worthy enough to carry out his inscrutable will, and transforming them into creatures of transcendent power—the Arclight.
+
+Erik Braa
+
+Sixmorevodka Studio
+
+Arclight
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Definitely Not
+
+View in 3D
+
+750
+
+31.03.2016
+
+I'm not a laser squid, I'm a man!
+
+Erik Braa
+
+Alvin Lee
+
+Definitely Not
+
+Loot eligible
+
+Infernal
+
+View in 3D
+
+1350
+
+16.07.2020
+
+Scarce is known of Vel'Koz, owing to the fact that most who witness him combust at his mere presence. What is known, however, is that this cataclysmic titan can level entire civilizations with his incinerating gaze, leaving only smouldering ruin. Woe be to those fixed in the behemoth's infernal gaze, for there will be no remains left to bury.
+
+Erik Braa
+
+Xiao Guang Sun, West Studio
+
+Infernal
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Infernal Vel'Koz Chromas
+
+Amethyst
+
+Catseye
+
+Emerald
+
+Rainbow
+
+Rose Quartz
+
+Ruby
+
+Blackfrost
+
+View in 3D
+
+1350
+
+15.04.2021
+
+Beneath the ice they slumber, trapped as two worlds pass them by. Watching, waiting, for the day they will rise again, and all will be buried in ice.
+
+Erik Braa
+
+Gabriela Dea Julia, West Studio
+
+Blackfrost
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Blackfrost Vel'Koz Chromas
+
+Amethyst
+
+Aquamarine
+
+Citrine
+
+Emerald
+
+Obsidian
+
+Pearl
+
+Ruby
+
+Turquoise
+
+Bee'Koz
+
+View in 3D
+
+1350
+
+22.11.2023
+
+Controllable tentacles made out of honey? That's bee-nius!
+
+Erik Braa
+
+Nathaniel Himawan, West Studio
+
+Bees!
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Bee'Koz Chromas
+
+Amethyst
+
+Emerald
+
+Obsidian
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Turquoise
+
+**Patch history**
+
+[
+]
+
+For the expanded patch notes, see here.
+
+V14.1
+
+* Tectonic Disruption
+travel time reduced to 0.25−0.5 (based on cast distance) seconds from 0.55 seconds at all distances.
+* New Effect: Ground indicator now appears when the cast time has finished and not on-cast.
+* V13.24
+* Bug Fix: Rift missile and the entire visual effects now spawn even if he dies in the first 0.25 seconds after casting. Consequently, the rift collapse damage is now accompanied by its proper visuals in this case.
+* Tectonic Disruption
+* New Effect: Missile now spawns near the target location instead of at his location.
+* Bug Fix: Spell no longer fizzles out if he moved further than 1100 units away from the target location before the end of the cast time (e.g. using Flash).
+* V13.23
+* Organic Deconstruction
+base true damage increased to 35 − 180 (based on level) from 33 − 169 (based on level).
+* AP ratio increased to 60% AP from 50% AP.
+* V13.22
+* Stats
+base attack speed increased to 0.643 from 0.625.
+* Attack speed growth increased to 1.59% from 1.36%.
+* V13.8
+* Life Form Disintegration Ray
+bug fix: Minimum recast delay increased to 1 second from 0.75 seconds into the channel.
+* V12.10
+* Stats
+base health increased to 590 from 520.
+* Health growth increased to 102 from 88.
+* Armor growth increased to 4.7 from 3.5.
+* Magic resistance growth increased to 1.3 from 0.5.
+* V12.8
+* Plasma Fission
+AP ratio increased to 90% AP from 80% AP.
+* Void Rift
+initial AP ratio increased to 15% AP from 25% AP.
+* Detonation AP ratio reduced to 25% AP from 37.5% AP.
+* Tectonic Disruption
+AP ratio reduced to 30% AP from 50% AP.
+* Lifeform Disintegration Ray
+new effect: Enemies with 3 Organic Deconstruction stacks are marked as Researched for 7 seconds. Damage from basic attacks and abilities refreshes this duration.
+* New effect: Researched enemies are dealt true damage.
+* Base damage increased to 500 / 725 / 950 from 500 / 700 / 900.
+* AP ratio increased to 100% AP from 60% AP.
+* Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90.
+* V6.15
+* General
+bug fix: Arclight Vel'Koz's spawning portal no longer sits on top of his tentacles during his respawn animation.
+* V6.11
+* Plasma Fission
+slow decay duration increased to 1 / 1.4 / 1.8 / 2.2 / 2.6 seconds from 1 / 1.25 / 1.5 / 1.75 / 2 seconds.
+* Lifeform Disintegration Ray
+base damage reduced to 450 / 625 / 800 from 500 / 725 / 950.
+* New effect: Enemies hit gain an Organic Deconstruction stack once every 0.7 seconds, up to 3 times. Enemies that become Researched during the channel are dealt true damage for the remainder of its duration.
+* New effect: Has a 40% AP ratio.
+* Plasma Fission
+new effect: If it kills a target, Vel'Koz restores 20 / 22.5 / 25 / 27.5 / 30 mana.
+* Removed: Target indicator being visible to enemies.
+* Void Rift
+initial AP ratio reduced to 15% AP from 25% AP.
+* Detonation AP ratio reduced to 25% AP from 37.5% AP.
+* Tectonic Disruption
+AP ratio reduced to 30% AP from 50% AP.
+* Lifeform Disintegration Ray
+new effect: Enemies with 3 Organic Deconstruction stacks are marked as Researched for 7 seconds. Damage from basic attacks and abilities refreshes this duration.
+* New effect: Researched enemies are dealt true damage.
+* Base damage increased to 500 / 725 / 950 from 500 / 700 / 900.
+* AP ratio increased to 100% AP from 60% AP.
+* Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90.
+* V6.2
+* Lifeform Disintegration Ray
+bug fix: Does not do various strange things if cast right when Vel'Koz last-hits a target.
+* V5.22
+* Stats
+mana increased to 375.6 from 325.
+* Mana growth reduced to 42 from 45.
+* Secondary bolts range increased to 1100 from 900.
+* V5.16
+* Plasma Fission
+reactivation delay reduced to 0.25 seconds from 0.3 seconds.
+* V5.6
+* Lifeform Disintegration Ray
+new effect: Vel'Koz can cancel it early by taking Dark Passage.
+* Original Vel'Koz
+complete overhaul and adjusted hitbox indicators.
+* Battlecast Vel'Koz
+some cleanup.
+* Arclight Vel'Koz
+cleanup and new E indicator.
+* Infernal Vel'Koz
+minor tweaks and new E indicator.
+* Blackfrost Vel'Koz
+minor tweaks and new E indicator.
+* V11.1
+* Stats
+base attack damage increased to 55 from 54.
+* Base armor increased to 22 from 21.
+* V10.24
+* Plasma Fission
+bug fix: Now properly triggers Horizon Focus.
+* Hit sound no longer plays twice when the spell hits an enemy for the first time before splitting on base and all skins.
+* Battlecast Vel'Koz
+bug fix: Dance sound effects now loop correctly.
+* Bug fix: Restored the sound that plays while Plasma Fission's plasma bolt travels after splitting has been restored.
+* Arclight Vel'Koz
+bug fix: Dance sound effects now loop correctly.
+* Bug fix: Restored the sound that plays when an enemy has been hit by Void Rift's detonate.
+* Infernal Vel'Koz
+now plays metal sounds when hit instead of flesh sounds.
+* Bug fix: Restored respawn sound effects.
+* Bug fix: Restored the sound that plays when a second stack of his passive is applied to enemy champions.
+* V10.6
+* Recommended items updated.
+* V9.6
+* Life Form Disintegration Ray
+new effect: Now triggers effects that are triggered by DoT AoE abilities.
+* V8.14
+* Plasma Fission
+AP ratio increased to 80% AP from 60% AP.
+* V8.9
+* Stats
+base mana increased to 469 from 375.
+* Mana growth reduced to 21 from 42.
+* Base mana regeneration increased to 8 from 6.
+* V8.3
+* Stats
+base health regeneration increased to 5.5 from 5.424.
+* V7.23
+* Battlecast Vel'Koz
+life form disintegration ray
+bug fix: Red beam VFX are no longer missing.
+* V7.22
+* Stats
+base health increased to 520 from 507.
+* Health growth increased to 88 from 76.
+* V7.19
+* Definitely Not Vel'Koz
+bug fix: Tentacles no longer abruptly transition during animations.
+* V7.9
+* Stats
+magic resistance growth increased to 0.5 from 0.
+* V6.15
+* General
+bug fix: Arclight Vel'Koz's spawning portal no longer sits on top of his tentacles during his respawn animation.
+* V6.11
+* Plasma Fission
+slow decay duration increased to 1 / 1.4 / 1.8 / 2.2 / 2.6 seconds from 1 / 1.25 / 1.5 / 1.75 / 2 seconds.
+* Lifeform Disintegration Ray
+base damage reduced to 500 / 725 / 950 from 500 / 700 / 900.
+* New effect: Enemies hit gain an Organic Deconstruction stack once every 0.7 seconds, up to 3 times. Enemies that become Researched during the channel are dealt true damage for the remainder of its duration.
+* New effect: Has a 40% AP ratio.
+* Plasma Fission
+new effect: If it kills a target, Vel'Koz restores 20 / 22.5 / 25 / 27.5 / 30 mana.
+* Removed: Target indicator being visible to enemies.
+* Void Rift
+initial AP ratio reduced to 15% AP from 25% AP.
+* Detonation AP ratio reduced to 25% AP from 37.5% AP.
+* Tectonic Disruption
+AP ratio reduced to 30% AP from 50% AP.
+* Lifeform Disintegration Ray
+new effect: Enemies with 3 Organic Deconstruction stacks are marked as Researched for 7 seconds. Damage from basic attacks and abilities refreshes this duration.
+* New effect: Researched enemies are dealt true damage.
+* Base damage increased to 500 / 725 / 950 from 500 / 700 / 900.
+* AP ratio increased to 100% AP from 60% AP.
+* Cooldown reduced to 120 / 100 / 80 seconds from 130 / 110 / 90.
+* V6.2
+* Lifeform Disintegration Ray
+bug fix: Does not do various strange things if cast right when Vel'Koz last-hits a target.
+* V5.22
+* Stats
+mana increased to 375.
+* Mana growth reduced to 42 from 45.
+* Secondary bolts range increased to 1100 from 900.
+* V5.16
+* Plasma Fission
+reactivation delay reduced to 0.25 seconds from 0.3 seconds.
+* V5.6
+* Lifeform Disintegration Ray
+new effect: Vel'Koz can cancel it early by taking Dark Passage.
+* V4.13
+* Void Rift
+area of effect width increased to 88 from 65 to match visuals.
+* Lifeform Disintegration Ray
+range increased to 1550 from 1500 to match visuals.
+* V4.12
+* Plasma Fission
+new effect: Bolt will split right after Vel'Koz dies.
+* V4.5
+* Stats
+armor increased to 16 from 12.
+* V4.4
+* General
+texture update to Classic.
+* V4.3
+* Added Trivia
+* [
+]
+
+Vel'Koz has Pi (3.141592) attack damage growth and uses Trigonometry to land Plasma Fission.
+
+Vel'Koz's taunt is Schrödinger's equation written in Visitor language from V by Kenneth Johnson.
+
+Vel'Koz is based on the Oculothorax archetype, with one of these in particular (Shuma-Gorath from Marvel Comics) used as the basis for Life Form Disintegration Ray.
+
+Vel'Koz's personality might have been based on the amoral Decepticon scientist Shockwave, from the Transformers franchise. Shockwave's head consists mostly of his single glaring eye, which might also have inspired Vel'Koz.
+
+Vel'Koz had his game assets reused for several featured game modes. He was given a retexture and features as a monster called the 'Shooty Eyeball Monster' (along with its huge variant) in Invasion. His animations were reused for the Landsquid and Squidtooth monsters in Odyssey: Extraction. Life Form Disintegration Ray is the longest ability name at 29 characters long. For contrast, it is longer than Hop, the shortest ability name at 3 characters long, by 27 characters.
+
+**References**
+
+[
+]
+
+↑
+
+Vel'Koz's profile page at LeagueOfLegends.com

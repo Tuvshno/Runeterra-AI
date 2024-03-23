@@ -1,0 +1,195 @@
+Games
+
+**Universe**
+
+* League of Legends
+* Teamfight Tactics
+* Wild Rift
+
+**Image**
+
+* Xayah
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Xayah**
+
+* Release date: 2017-04-19
+* Last changed: V13.24
+
+**Class(es)**
+
+* Marksman
+* Legacy
+* Marksman
+
+**Position(s)**
+
+* Bottom
+
+**Resource**
+
+* Mana
+
+**Range type**
+
+* Ranged
+
+**Adaptive type**
+
+* Physical
+
+**Store price**
+
+* 4800
+* 880
+
+**Crafting**
+
++ 2880
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 2
+* Control: 3
+* Mobility: 1
+* Utility: 1
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Xayah Champion Spotlight**
+
+**Base statistics**
+
+| **Attribute** | **Value** |
+| --- | --- |
+| Health | 630 + 107 |
+| Mana | 340 + 40 |
+| Health regeneration per 5s | 3.25 + 0.75 |
+| Mana regeneration per 5s | 8.25 + 0.8 |
+| Armor | 25 + 4.2 |
+| Attack damage | 60 + 3.5 |
+| Magic resist. | 30 + 1.3 |
+| Crit. damage | 175% |
+| Move. speed | 330 |
+| Attack range | 525 |
+| Attack speed | Base AS: 0.658 |
+|  | Attack windup | 17.687% |
+|  | AS ratio | N/A |
+|  | Bonus AS% | +3.9% |
+| Unit radius | Gameplay radius | 65 |
+| Selection radius | 120 |
+| Pathing radius | 35 |
+| Acq. radius | 800 |
+
+**Special statistics**
+
+* ARAM: +5% Damage Dealt, +0% Damage Received
+* Nexus Blitz: N/A
+* One For All: N/A
+* URF: N/A
+* Ult Spellbook: N/A
+* Arena: -15% Damage Dealt, +10% Damage Received
+
+**Abilities**
+
+* Xayah has ability interactions with Rakan.
+
+**Clean Cuts**
+
+* Effect radius: 1000
+* Width: 120
+* Speed: 4000
+* Innate: Feathers shot by Xayah will linger in the ground at maximum range for 6 seconds.
+* Innate: Xayah's ability casts generate 3 stacks of Clean Cuts, lasting for 8 seconds, refreshing on subsequent casts, and stacking up to 5 times.
+* Xayah's basic attacks are empowered to each consume a stack on-attack to instead shoot a Feather that deals the attack's damage to the primary target and 30 / 40 / 50% (based on level) AD physical damage to other enemies hit, with the secondary damage also critically striking if the main attack does.
+* Innate - Lover's Leap: If either Xayah or Rakan is channeling Recall, the other may move nearby and channel their own to join alongside them. Both reach base at the time of which the initiator's Recall completes.
+* Feathers will stop upon being intercepted by projectile-blocking effects.
+
+**Double Daggers**
+
+* Cost: 50 Mana
+* Cooldown: 10 / 9.5 / 9 / 8.5 / 8
+* Cast time: 0.25 - 0.1s (based on bonus attack speed)
+* Range: 1100
+* Width: 100 (plus offset)
+* Active: Xayah barrages two Feathers in the target direction that each deal physical damage to enemies hit.
+* Physical Damage Per Hit: 45 / 60 / 75 / 90 / 105 (+ 50% bonus AD)
+* Total Physical Damage: 90 / 120 / 150 / 180 / 210 (+ 100% bonus AD)
+* Targets hit after the first take 50% reduced damage.
+* Reduced Damage per Hit: 22.5 / 30 / 37.5 / 45 / 52.5 (+ 25% bonus AD)
+* Total Reduced Damage: 45 / 60 / 75 / 90 / 105 (+ 50% bonus AD)
+
+**Map-Specific Differences**
+
+* In Arena, Deadly Plumage's second strike damage is changed to 15%, and the base damage per feather is changed to 40 / 50 / 60 / 70 / 80, with a bonus AD ratio per feather of 50% bonus AD.
+
+**Deadly Plumage**
+
+* Cost: 60 / 55 / 50 / 45 / 40 Mana
+* Cooldown: 20 / 19 / 18 / 17 / 16
+* Cast time: none
+* Speed: 3000
+* Active: Xayah enters a frenzy for 4 seconds, gaining bonus attack speed and empowering her basic attacks to strike a second time, dealing 20% damage.
+* Bonus Attack Speed: 35 / 40 / 45 / 50 / 55%
+* Whenever Xayah hits an enemy champion with the strike, she gains 30% bonus movement speed for 1.5 seconds.
+* If Rakan is nearby upon cast, he also becomes empowered and gains the bonus movement speed at the same time as Xayah.
+
+**Map-Specific Differences (Arena)**
+
+* The second strike damage is changed to 15%.
+
+**Bladecaller**
+
+* Cost: 30 Mana
+* Cooldown: 13 / 12 / 11 / 10 / 9
+* Cast time: none
+* Effect radius: Global
+* Width: 160
+* Speed: 4000
+* Active: Xayah recalls all planted Feathers to shoot back to her, each dealing physical damage to enemies hit, increased by 0% - 75% (based on critical strike chance).
+* Bladecaller deals 50% damage to minions.
+* Physical Damage Per Feather: 50 / 60 / 70 / 80 / 90 (+ 60% bonus AD)
+* Minion Damage Per Feather: 25 / 30 / 35 / 40 / 45 (+ 30% bonus AD)
+* An enemy takes 100% - 10% (based on previous feathers hit) damage from a Feather.
+* A target hit by at least three Feathers is rooted for 1.25 seconds.
+* Enemies can be hit by an individual Feather only once per pass.
+
+**Map-Specific Differences (Arena)**
+
+* The base damage per feather is changed to 40 / 50 / 60 / 70 / 80, and the bonus AD ratio per feather is changed to 50% bonus AD.
+
+**Featherstorm**
+
+* Cost: 100 Mana
+* Cooldown: 140 / 120 / 100
+* Cast time: none
+* Effect radius: 1060 / 1000
+* Angle: 30°
+* Active: Xayah leaps into the air, becoming untargetable and ghosted for 1.5 seconds. After 1 second, she shoots 5 Feathers in a cone in the target direction that deal physical damage to enemies hit.
+* Physical Damage: 200 / 300 / 400 (+ 100% bonus AD)
+* Xayah is unable to basic attack or cast abilities during Featherstorm, but can still move.
+
+**Champion skins**
+
+* Original
+* Cosmic Dusk
+* Sweetheart
+* SSG
+* Star Guardian
+* Elderwood
+* Phoenixmancers
+* Arcana
+* Broken Covenant
+* Redeemed Star Guardian
+* Star Guardian Season 4

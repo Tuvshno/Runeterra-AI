@@ -1,0 +1,136 @@
+**Games**
+
+* Universe
+* League of Legends
+	+ •
+	+ League of Legends: Universe
+	+
+* Image
+* Nidalee
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Nidalee**
+
+* Release date: 2009-12-17
+* Last changed: V14.5
+* Class(es): Specialist
+* Legacy: Assassin
+* Mage
+* Position(s): Jungle
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magical
+* Store price: 3150 (690 RP)
+* | 790 RP
+* Crafting cost: +1890 Gold
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 1
+* Control: 1
+* Mobility: 3
+* Utility: 2
+
+**Style**
+
+* Difficulty: Champion
+
+**Champion Spotlight**
+
+[Nidalee Champion Spotlight](<https://www.youtube.com/watch?v=QBjBjFHbJwI>)
+
+---
+
+**Base statistics**
+
+| Statistic          | Value                                |
+|---------------------|--------------------------------------|
+| Health             | 610 (+109)                          |
+| Mana               | 295 (+45)                            |
+| Health regeneration | 6 (+0.6)                            |
+| Mana regeneration   | 6 (+0.8)                            |
+| Armor              | 32 (+5)                             |
+| Attack damage      | 58 (+3.5)                            |
+| Magic resist.       | 30 (+1.45)                            |
+| Crit. damage       | 175%                                |
+| Move. speed        | 335                                |
+| Attack range       | 525                                |
+| Attack speed       | 0.638                              |
+| Attack windup      | 15%                                |
+| AS ratio           | N/A                                |
+| Bonus AS           | +3.22%                              |
+| Missile speed     | 2500                               |
+| Unit radius        | Gameplay radius: 65                  |
+| Selection radius   | 110                                |
+| Pathing radius     | 35                                |
+| Acq. radius        | 750                                |
+
+**Special statistics**
+
+| Statistic          | Value                                |
+|---------------------|--------------------------------------|
+| ARAM               | +10% Damage Dealt                    |
+| Nexus Blitz        | N/A                                |
+| One For All        | N/A                                |
+| URF                | +10% Damage Dealt                    |
+| Ult Spellbook      | N/A                                |
+| Arena              | Damage Dealt: +10%                   |
+| Damage Received    | +0%                                |
+| Healing            | N/A                                |
+| Shielding          | N/A                                |
+| Damage Dealt (1v1)  | +5%                                |
+| Damage Received (1v1)| -5%                                |
+| Damage Dealt (1v2)  | +5%                                |
+| Damage Received (1v2)| -5%                                |
+| Damage Dealt (1v3)  | +5%                                |
+| Damage Received (1v3)| -5%                                |
+| Healing (1v1)      | +20%                                |
+| Damage Dealt (2v2)  | +0%                                |
+| Damage Received (2v2)| +0%                                |
+| Damage Dealt (2v3)  | +5%                                |
+| Damage Received (2v3)| -5%                                |
+| Damage Dealt (3v3)  | +5%                                |
+| Damage Received (3v3)| -5%                                |
+
+---
+
+**Abilities**
+
+[**Prowl**](<https://leagueoflegends.fandom.com/wiki/Prowl_(Nidalee)>)
+
+- Innate - Prowl: While in brush, Nidalee gains 10% bonus movement speed, increased to 30% when facing a nearby visible enemy champion.
+- Innate - Hunt: Hitting monsters or enemy champions with Javelin Toss or Bushwhack while they are nearby applies a Hunted mark and reveals them for 4 seconds. During this time, Nidalee gains 10% bonus movement speed, increased to 30% when facing a nearby Hunted target.
+
+[**Javelin Toss**](<https://leagueoflegends.fandom.com/wiki/Javelin_Toss_(Nidalee)>)
+
+- COST: 50 / 55 / 60 / 65 / 70 Mana
+- COOLDOWN: 6 seconds
+- CAST TIME: 0.25 seconds
+- RANGE: 1500
+- WIDTH: 80
+- SPEED: 1300
+- Active: Nidalee throws a javelin in the target direction that deals magic damage to the first enemy hit, with damage increasing based on the distance traveled.
+
+[**Bushwhack**](<https://leagueoflegends.fandom.com/wiki/Bushwhack_(Nidalee)>)
+
+- COST: 30 / 35 / 40 / 45 / 50 Mana
+- COOLDOWN: 13 / 12 / 11 / 10 / 9 seconds
+- CAST TIME: 0.25 seconds
+- TARGET RANGE: 900
+- COLLISION RADIUS: 150
+- Active: Nidalee lays a trap at the target location that becomes stealthed after arming over 1.5 seconds, lasting for up to 120 seconds and granting sight within its radius. The trap will spring upon contact with an enemy, dealing magic damage every second over 4 seconds.
+
+[**Primal Surge**](<https://leagueoflegends.fandom.com/wiki/Primal_Surge_(Nidalee)>)
+
+- COST: 50 / 55 / 60 / 65 / 70 Mana
+- COOLDOWN: 12 seconds
+- CAST TIME: 0.25 seconds
+- TARGET RANGE: 900
+- Active: Nidalee revitalizes herself or the target allied champion, granting the target bonus attack speed for 7 seconds and healing them for an amount increased by 0% - 100% based on the target's missing health. The bonus attack speed persists through Cougar Form if Nidalee uses Primal Surge on herself.

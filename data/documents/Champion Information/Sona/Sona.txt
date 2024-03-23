@@ -1,0 +1,566 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Sona
+        * **Gameplay**
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        * **Base statistics**
+          * Health: 550 (+91)
+          * Mana: 340 (+45)
+          * Health regen. (per 5s): 5.5 (+0.55)
+          * Mana regen. (per 5s): 11.5 (+0.4)
+          * Armor: 26 (+4.2)
+          * Attack damage: 49 (+3)
+          * Magic resist.: 30 (+1.3)
+          * Crit. damage: 175%
+          * Move. speed: 325
+          * Attack range: 550
+          * Attack speed: Base AS: 0.644, Attack windup: 17.182%
+          * Bonus AS: +2.3%
+          * Missile speed: 1500
+          * Unit radius: Gameplay radius: 65, Selection radius: 110, Pathing radius: 35, Acq. radius: 800
+        * **Special statistics**
+          * ARAM: Damage Dealt: -5%, Damage Received: +10%, Healing: -15%, Shielding: -15%, Ability Haste: -20
+          * Nexus Blitz
+          * One For All
+          * URF
+          * Ult Spellbook
+          * Arena: Damage Dealt: -5%, Damage Received: +0%, Healing: -10%, Shielding: -10%, Ability Haste: -10
+          * Damage Dealt: -10%, Damage Received: +0%, Healing: -30%, Shielding: -30%, Ability Haste: -30
+        * **Abilities**
+          * Power Chord
+            * Power Chord: Innate - Accelerando
+              * Sona generates a stack of Accelerando each time she hits an enemy champion with Hymn of Valor and each time she mitigates sufficient damage or heals damaged allies with Aria of Perseverance. At maximum stacks, she instead reduces the current cooldown of Crescendo by 1.5 seconds each time.
+              * For each stack, Sona gains 0.5 basic ability haste. At maximum stacks, she gains 60 basic ability haste.
+            * Innate - Melody
+              * Whenever Sona casts a basic ability, her other basic abilities incur a 0.5-second global cooldown and she generates a unique aura for 3 seconds that empowers herself and nearby allied champions.
+            * Innate - Power Chord
+              * Sona's basic abilities generate a stack of Power Chord, stacking up to 3 times. At 3 stacks, her next basic attack is empowered to consume them all to have an uncancellable windup, deal 20 - 240 (based on level) (+ 20% AP) bonus magic damage, and apply an additional effect based on the last basic ability she casted.
+                * Hymn of Valor - Staccato: Deals 28 - 336 (based on level) (+ 28% AP) modified magic damage.
+                * Aria of Perseverance - Diminuendo: Reduces the target's size by 8% and damage dealt by 25% (+ 4% per 100 AP) for 3 seconds.
+                * Song of Celerity - Tempo: Slows the target by 50% (+ 4% per 100 AP) for 2 seconds, capped at a maximum of 99%.
+          * Hymn of Valor
+            * Cost: 50 / 55 / 60 / 65 / 70 mana
+            * Cooldown: 8 seconds
+            * Cast time: none
+            * Effect radius: 825 / 400
+            * Speed: 1300
+            * Active: Sona sends out bolts of sound to the two nearest visible enemies, prioritizing champions. Each bolt deals magic damage and grants sight of the area around the target for 1 second. Sona gains a stack of Accelerando for each bolt that hits an enemy champion.
+            * Magic Damage: 50 / 80 / 110 / 140 / 170 (+ 40% AP)
+            * Melody: Sona and tagged allied champions deal bonus magic damage on their next basic attack within 5 seconds.
+            * Bonus Magic Damage: 10 / 15 / 20 / 25 / 30 (+ 20% AP)
+          * Aria of Perseverance
+            * Cost: 80 / 85 / 90 / 95 / 100 mana
+            * Cooldown: 10 seconds
+            * Cast time: none
+            * Effect radius: 1000 / 400
+            * Speed: 1300
+            * Active: Sona heals herself and sends out a tone to heal the most wounded allied champion nearby.
+            * Heal: 30 / 45 / 60 / 75 / 90 (+ 15% AP)
+            * Melody: Sona and tagged allied champions are granted a shield for 1.5 seconds.
+            * Shield Strength: 25 / 45 / 65 / 85 / 105 (+ 25% AP)
+            * Sona gains a stack of Accelerando whenever she heals a wounded ally or shields a minimum amount of damage for an ally with Aria of Perseverance.
+            * Minimum Damage Mitigated: 25 / 45 / 65 / 85 / 105
+          * Song of Celerity
+            * Cost: 65 mana
+            * Cooldown: 14 seconds
+            * Cast time: none
+            * Effect radius: 400
+            * Active: Sona gains 20% (+ 2% per 100 AP) bonus movement speed for 7 seconds. If she takes damage during this time, the duration ends prematurely once or if 3 seconds have elapsed.
+            * Melody: Tagged allied champions gain bonus movement speed for 3 seconds.
+            * Bonus Movement Speed: 10 / 11 / 12 / 13 / 14% (+ 2% per 100 AP)
+          * Crescendo
+            * Cost: 100 mana
+            * Cooldown: 140 / 120 / 100 seconds
+            * Cast time: 0.25 seconds
+            * Range: 1000
+            * Width: 280
+            * Speed: 2400
+            * Active: Sona strikes an irresistible chord in the target direction that deals magic damage to enemies hit and stuns them for 1.5 seconds.
+            * Magic Damage: 150 / 250 / 350 (+ 50% AP)
+        * **Champion skins**
+          * Original
+          * Muse
+          * Muse (3D)
+          * Muse (Loot eligible)
+          * [More skins...]
+        * **Lore**
+          * Sona is Demacia's foremost virtuoso of the stringed etwahl, speaking only through her graceful chords and vibrant arias.
+          * [More lore...]
+      * (Collection)
+
+**Image**
+
+* Sona
+
+**Text**
+
+* Games
+* Universe
+* League of Legends
+* Sona
+* Gameplay
+* Collection
+* Audio
+* Patch history
+* Past versions
+* Sona
+* Maven of the Strings
+* Release date: 2010-09-21
+* Last changed: V13.21
+* Class(es): Enchanter
+* Legacy
+* Support
+* Mage
+* Position(s): Support
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 450
+* | 260
+* Crafting: + 270
+* Ratings:
+  * Damage: 2
+  * Toughness: 1
+  * Control: 2
+  * Mobility: 1
+  * Utility: 2
+* Style: Difficulty: [Champion Spotlight]
+* Sona [Champion Spotlight]
+* Sona is a champion in League of Legends.
+* [Champion Spotlight]
+* Sona is a champion in League of Legends.
+* She is a foremost virtuoso of the stringed etwahl.
+* Sona is a genteel Demacian who speaks only through her graceful chords and vibrant arias.
+* Some suspect her spellbinding melodies to actually emanate magic—a Demacian taboo.
+* Silent to outsiders but somehow understood by close companions, Sona plucks her harmonies not only to soothe injured allies, but also to strike down unsuspecting enemies.
+* Erin Fitzgerald provides the voice for Sona.
+* Shilin Huang is the artist for Sona's model.
+* Loot eligible.
+* [More information...]
+* Base statistics
+* Health: 550 (+91)
+* Mana: 340 (+45)
+* Health regen. (per 5s): 5.5 (+0.55)
+* Mana regen. (per 5s): 11.5 (+0.4)
+* Armor: 26 (+4.2)
+* Attack damage: 49 (+3)
+* Magic resist.: 30 (+1.3)
+* Crit. damage: 175%
+* Move. speed: 325
+* Attack range: 550
+* Attack speed: Base AS: 0.644, Attack windup: 17.182%
+* Bonus AS: +2.3%
+* Missile speed: 1500
+* Unit radius: Gameplay radius: 65, Selection radius: 110, Pathing radius: 35, Acq. radius: 800
+* Special statistics
+* ARAM: Damage Dealt: -5%, Damage Received: +10%, Healing: -15%, Shielding: -15%, Ability Haste: -20
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena: Damage Dealt: -5%, Damage Received: +0%, Healing: -10%, Shielding: -10%, Ability Haste: -10
+* Damage Dealt: -10%, Damage Received: +0%, Healing: -30%, Shielding: -30%, Ability Haste: -30
+* Abilities
+* Power Chord
+* Hymn of Valor
+* Aria of Perseverance
+* Song of Celerity
+* Crescendo
+* Map-Specific Differences
+* Ultra Rapid Fire differences
+* Arena differences
+* New Effect: Gains 12.5 Accelerando stacks per round.
+* Hymn of Valor
+* Cost: 50 / 55 / 60 / 65 / 70 mana
+* Cooldown: 8 seconds
+* Cast time: none
+* Effect radius: 825 / 400
+* Speed: 1300
+* Active: Sona sends out bolts of sound to the two nearest visible enemies, prioritizing champions. Each bolt deals magic damage and grants sight of the area around the target for 1 second. Sona gains a stack of Accelerando for each bolt that hits an enemy champion.
+* Magic Damage: 50 / 80 / 110 / 140 / 170 (+ 40% AP)
+* Melody: Sona and tagged allied champions deal bonus magic damage on their next basic attack within 5 seconds.
+* Bonus Magic Damage: 10 / 15 / 20 / 25 / 30 (+ 20% AP)
+* Aria of Perseverance
+* Cost: 80 / 85 / 90 / 95 / 100 mana
+* Cooldown: 10 seconds
+* Cast time: none
+* Effect radius: 1000 / 400
+* Speed: 1300
+* Active: Sona heals herself and sends out a tone to heal the most wounded allied champion nearby.
+* Heal: 30 / 45 / 60 / 75 / 90 (+ 15% AP)
+* Melody: Sona and tagged allied champions are granted a shield for 1.5 seconds.
+* Shield Strength: 25 / 45 / 65 / 85 / 105 (+ 25% AP)
+* Sona gains a stack of Accelerando whenever she heals a wounded ally or shields a minimum amount of damage for an ally with Aria of Perseverance.
+* Minimum Damage Mitigated: 25 / 45 / 65 / 85 / 105
+* Song of Celerity
+* Cost: 65 mana
+* Cooldown: 14 seconds
+* Cast time: none
+* Effect radius: 400
+* Active: Sona gains 20% (+ 2% per 100 AP) bonus movement speed for 7 seconds. If she takes damage during this time, the duration ends prematurely once or if 3 seconds have elapsed.
+* Melody: Tagged allied champions gain bonus movement speed for 3 seconds.
+* Bonus Movement Speed: 10 / 11 / 12 / 13 / 14% (+ 2% per 100 AP)
+* Crescendo
+* Cost: 100 mana
+* Cooldown: 140 / 120 / 100 seconds
+* Cast time: 0.25 seconds
+* Range: 1000
+* Width: 280
+* Speed: 2400
+* Active: Sona strikes an irresistible chord in the target direction that deals magic damage to enemies hit and stuns them for 1.5 seconds.
+* Magic Damage: 150 / 250 / 350 (+ 50% AP)
+* Charmas: Guqin, Muse, Muse (3D), Muse (Loot eligible), Erin Fitzgerald, Shilin Huang, Lunar Revel, Arcade, Sweetheart, Odyssey, Pentakill, Pentakill III: The Lost Chapter, Star Guardian, Immortal Journey, Immortal Journey (Special), Immortal Journey (Loot ineligible), Prestige Immortal Journey
+* Additional/unique quotes
+* New SFX/VFX
+* Guqin
+* Lunar Revel
+* Chromas: Guqin Sona Chromas (Golden, Meteorite, Arcade)
+* Arcade: Heroes
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Chromas: Arcade Sona Chromas (K.O., DJ)
+* Transforming: Includes Extras
+* Chromas: PsyOps Sona Chromas (Amethyst, Citrine, Emerald, Hunter, Obsidian, Ruby, Sapphire, Turquoise, Pentakill Lost Chapter)
+* Prestige Immortal Journey
+* A virtuoso artist radiating passion in whatever she does, Sona paused her promising music career to enroll in fashion school.
+* Now a graduate, the Gala is the first showing of her debut line, and Sona is more than happy to let her work do the talking.
+* Unlike her classmates, she has no dreams of becoming immortal through her designs. The journey is enough.
+* Erin Fitzgerald provides the voice for Immortal Journey Sona.
+* Francis Tneh is the artist for Immortal Journey Sona.
+* Immortal Journey
+* A virtuoso artist radiating passion in whatever she does, Sona paused her promising music career to enroll in fashion school.
+* Now a graduate, the Gala is the first showing of her debut line, and Sona is more than happy to let her work do the talking.
+* Unlike her classmates, she has no dreams of becoming immortal through her designs. The journey is enough.
+* Erin Fitzgerald provides the voice for Immortal Journey Sona.
+* Francis Tneh is the artist for Immortal Journey Sona.
+* Patch history
+* V13.21
+* Hymn of Valor
+* Damage now triggers Sona's own damage effects but still grants kill credit to the ally applying it.
+* PsyOps Sona
+* Power Chord
+* Bug Fix: VFX overlay for when her passive was ready no longer behaves unintentionally.
+* Prestige Immortal Journey Sona
+* Bug Fix: HUD now uses the correct splash art for her icon instead of using the base Immortal Journey Sona.
+* Star Guardian Sona
+* Bug Fix: Death animation no longer causes the feet on her character model to bend backwards.
+* Aria of Perseverance
+* Bug Fix: Casting the ability no longer grants a stack of Accelerando while having Moonstone Renewer.
+* Bug Fix: Casting the ability no longer causes Moonstone Renewer's chain shield to last for 25000 seconds.
+* Power Chord
+* Bug Fix: Passive effect is no longer duplicated if specific cast inputs were made at the same time.
+* Hymn of Valor
+* Base damage increased to 50 / 80 / 110 / 140 / 170 from 40 / 70 / 100 / 130 / 160.
+* Song of Celerity
+* Base slow increased to 50% from 40%.
+* V13.17
+* PsyOps Sona
+* Power Chord
+* Bug Fix: Can no longer gain an additional empowered basic attack by casting an ability immediately after another empowered basic attack.
+* Prestige Immortal Journey Sona
+* Bug Fix: HUD now uses the correct splash art for her icon instead of using the base Immortal Journey Sona.
+* V13.16
+* Star Guardian Sona
+* Bug Fix: Death animation no longer causes the feet on her character model to bend backwards.
+* V13.14
+* Aria of Perseverance
+* Bug Fix: Cast no longer grants a stack of Accelerando while having Moonstone Renewer.
+* Bug Fix: Casting the ability no longer causes Moonstone Renewer's chain shield to last for 25000 seconds.
+* V13.8
+* Power Chord
+* Bug Fix: Passive effect is no longer duplicated if specific cast inputs were made at the same time.
+* V12.19
+* Hymn of Valor
+* Removed: Bolts no longer target enemies that are not in vision.
+* Song of Celerity
+* Bug Fix: Power Chord's empowered attack slow is now properly considered a slow debuff; no longer bypasses effects that affect slows.
+* V11.19
+* Stats
+* Base armor reduced to 26 from 28.
+* Power Chord
+* Base damage reduced to 20 - 240 (based on level) from 20 - 245 (based on level).
+* Hymn of Valor
+* Removed: Bolts no longer target enemies that are not in vision.
+* Song of Celerity
+* Bug Fix: Power Chord's empowered attack slow is now properly consumed and applied when used against allied units while Berserked.
+* V11.18
+* Aria of Perseverance
+* Bug Fix: Fixed a bug where buffing an ally with the Melody aura did not grant her a Mana Charge stack on Tear of the Goddess.
+* Bug Fix: Fixed a bug where it would incorrectly grant a stack of Accelerando even if negated by a spell shield.
+* V11.16
+* - Gameplay Update
+* Power Chord
+* New Innate - Accelerando: Sona gains stacks of Accelerando from using Hymn of Valor and Aria of Perseverance. She gains 0.5 basic ability haste per stack of Accelerando, up to 60 basic ability haste at 120 stacks. At maximum stacks, each stack gained thereafter reduces Crescendo's current cooldown by 1.5 seconds per stack.
+* Base damage increased to 20 - 245 (based on level) from 20 - 240 (based on level).
+* Hymn of Valor
+* New Effect: Retains stacks even after entering resurrection.
+* New Effect: Grants vision of targets for 1 second as soon as it is cast.
+* Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 75 / 80 / 85 / 90 / 95.
+* Undocumented: No longer requires vision of enemies in range to automatically fire bolts at them.
+* Removed: Granting an ally (other than herself) the aura no longer refunds 30 mana per cast.
+* Aria of Perseverance
+* New Effect: Gains a stack of Accelerando whenever you heal a wounded ally or shield an ally from at least 25 / 50 / 75 / 100 / 125 damage with this ability.
+* Mana cost reduced to 80 / 85 / 90 / 95 / 100 from 105 / 110 / 115 / 120 / 125.
+* Removed: Granting an ally (other than herself) the aura no longer refunds 30 mana per cast.
+* Song of Celerity
+* Mana cost reduced to 65 from 90.
+* Removed: Granting an ally (other than herself) the aura no longer refunds 30 mana per cast.
+* Crescendo
+* Removed: No longer passively reduces her basic ability cooldowns by 10 / 25 / 40%.
+* New Effect: Now affects every enemy unit, instead of only enemy champions.
+* V10.23
+* Power Chord
+* Bug Fix: Tooltip now states the proper amount of bonus ability haste allies will receive.
+* V10.21
+* PsyOps Sona
+* Crescendo
+* Bug Fix: Now correctly plays her transformation animation even when moving while leveling up Crescendo.
+* V10.18
+* General
+* Updated voice over.
+* V10.17
+* Stats
+* Base health reduced to 480 from 482.36.
+* Base mana reduced to 340 from 340.6.
+* Hymn of Valor
+* Active AP ratio reduced to 40% AP from 50% AP.
+* Aria of Perseverance
+* Heal AP ratio reduced to 20% AP from 25% AP.
+* Song of Celerity
+* Self bonus movement speed AP ratio reduced to 2% per 100 AP from 3% per 100 AP.
+* Ally bonus movement speed AP ratio reduced to 2% per 100 AP from 3% per 100 AP.
+* V10.6
+* General
+* Recommended items updated.
+* V10.5
+* Stats
+* Base attack damage increased to 49 from 45.
+* Attack damage growth increased to 3 from 2.
+* Song of Celerity
+* Self bonus movement speed increased to 20% at all ranks from 10 / 11 / 12 / 13 / 14%.
+* Self bonus movement speed AP ratio increased to 3% per 100 AP from 2% per 100 AP.
+* DJ Sona
+* Bug Fix: Quickly changing forms no longer locks her with Ethereal form's helm.
+* V10.4
+* February 21st Hotfix
+* Stats
+* Base attack damage reduced to 45 from 49.
+* Attack damage growth reduced to 2 from 3.
+* Song of Celerity
+* Self bonus movement speed reduced to 10 / 11 / 12 / 13 / 14% from 20% at all ranks.
+* V10.4
+* Hymn of Valor
+* New Effect: Grants a stack of Accelerando for each bolt that damages a champion.
+* Mana cost increased to 75 / 80 / 85 / 90 / 95 from 50 / 55 / 60 / 65 / 70.
+* Aria of Perseverance
+* New Effect: Grants a stack of Accelerando whenever you heal a wounded ally or shield an ally from at least 25 / 50 / 75 / 100 / 125 damage with this ability.
+* Mana cost increased to 105 / 110 / 115 / 120 / 125 from 80 / 85 / 90 / 95 / 100.
+* Song of Celerity
+* New Effect: Grants a stack of Accelerando whenever you heal a wounded ally or shield an ally from at least 25 / 50 / 75 / 100 / 125 damage with this ability.
+* Mana cost increased to 90 from 65.
+* V10.3
+* Song of Celerity
+* Self base bonus movement speed reduced to 20% from 25%.
+* Self bonus movement speed AP ratio reduced to 3% per 100 AP from 4% per 100 AP.
+* V10.2
+* Song of Celerity
+* Self base bonus movement speed increased to 25% at all ranks from 13 / 14 / 15 / 16 / 17%.
+* Self bonus movement speed AP ratio increased to 4% per 100 AP from 2% per 100 AP.
+* V9.21
+* Power Chord
+* New Effect: When Power Chord is ready, her resource bar now changes color based on her current active aura.
+* Bug Fix: Her abilities no longer fail to generate Power Chord stacks immediately after an empowered attack.
+* V9.20
+* Power Chord
+* New Effect: Added a resource bar so that it's easier for Sona to track her own passive (only visible to her).
+* V9.13
+* Hymn of Valor
+* Aura damage AP ratio reduced to 20% AP from 30% AP.
+* Song of Celerity
+* AP ratio reduced to 3% per 100 AP from 6% per 100 AP.
+* V9.12
+* General
+* Adjusted splash artwork for Pentakill Sona.
+* V8.9
+* Stats
+* Base attack damage increased to 49 from 46.
+* Power Chord
+* Base damage increased to 20 - 240 (based on level) from 15 - 235 (based on level).
+* DJ Sona
+* Bug Fix: Concussive form VO lines are no longer cut off when played.
+* V8.3
+* Arcade Sona
+* Aria of Perseverance
+* Bug Fix: Shield particles now correctly disappear when the shield is broken.
+* V8.2
+* General
+* Bug Fix: Fixed a spectator bug where after skipping forward or backward, Ethereal DJ Sona would sometimes leave disembodied chunks of her gear on the map.
+* V6.18
+* General
+* Adjusted splash artwork for Pentakill Sona.
+* V6.16
+* General
+* Bug Fix: Arcade and DJ Sona aura VFX have been increased in size to match her recent gameplay changes.
+* Song of Celerity
+* Self movement speed reduced to 10 / 11 / 12 / 13 / 14% from 13 / 14 / 15 / 16 / 17%.
+* Aura movement speed AP ratio reduced to 6% per 100 AP from 8% per 100 AP.
+* Crescendo
+* Basic ability cooldown reduction reduced to 10 / 25 / 40% from 20 / 30 / 40%.
+* V6.15
+* Aria of Perseverance
+* Bug Fix: Fixed a bug where Aria of Perseverance could be cast instantly after Song of Celerity, rather than being gated behind Sona's brief "global cooldown" after casting a basic ability.
+* V6.14
+* Aria of Perseverance
+* Heal reduced to 35 / 55 / 75 / 95 / 115 from 40 / 65 / 90 / 115 / 140.
+* Song of Celerity
+* Bonus movement speed reduced to 13 / 14 / 15 / 16 / 17% from 16 / 17 / 18 / 19 / 20%.
+* V6.14
+* General
+* Aura radius increased to 400 from 350.
+* Aura duration no longer extends for up to 2 seconds when affecting allies.
+* Power Chord
+* Base damage increased to 15 - 235 (based on level) from 13 - 192 (based on level).
+* Hymn of Valor
+* Base damage reduced to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+* Aria of Perseverance
+* Base heal increased to 40 / 65 / 90 / 115 / 140 from 30 / 50 / 70 / 90 / 110.
+* Heal AP ratio increased to 25% AP from 20% AP.
+* Base shield health increased to 30 / 55 / 80 / 105 / 130 from 35 / 55 / 75 / 95 / 115.
+* Shield AP ratio increased to 30% AP from 20% AP.
+* Removed: Increased healing based on missing health.
+* Diminuendo
+* Target now deals 25% less damage for 3 seconds, up from 20%.
+* AP scaling increased to 4% AP per 100 AP from 2% AP per 100 AP.
+* New Effect: Now shrinks targets for duration of debuff.
+* Song of Celerity
+* Active self movement speed increased to 16 / 17 / 18 / 19 / 20% movement speed for 3 seconds (and up to 7 seconds if Sona is out of combat) from 13 / 14 / 15 / 16 / 17% decaying over 3 seconds.
+* Aura movement speed AP ratio increased to 6% per 100 AP from 4% per 100 AP.
+* Aura movement speed duration increased to 3 seconds from 1.5 seconds.
+* Crescendo
+* Removed: Increases potency of basic abilities.
+* New Effect: Grants 20 / 30 / 40% base cooldown reduction on basic abilities. Stacks multiplicatively with cooldown reduction.
+* V6.8
+* General
+* Splash artwork for Muse Sona updated to the Chinese art.
+* V5.22
+* Stats
+* Mana regen increased to 11.5 from 9.
+* V5.5
+* Power Chord
+* Removed: Being consumed on hitting Scrying Orb, Farsight Orb, or Sentinel.
+* Crescendo
+* Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+* V5.1
+* Stats
+* Movement speed reduced to 325 from 330.
+* Power Chord
+* Staccato damage reduced to 40% from 50%.
+* V4.21
+* Hymn of Valor
+* Bug Fix: First cast causing game lag.
+* V4.20
+* Hymn of Valor
+* On-hit damage AP ratio reduced to 20% from 25%.
+* Aria of Perseverance
+* Heal increased to 30 / 50 / 70 / 90 / 110 from 25 / 45 / 65 / 85 / 105.
+* Modifier reduced to 0.5% of ally's missing health from 1.1% of ally's missing health.
+* Mana cost increased to 80 / 85 / 90 / 95 / 100 from 70 / 75 / 80 / 85 / 90.
+* V4.17
+* Hymn of Valor
+* Fixed a bug where the damage range was 700 instead of the intended 850.
+* V4.13
+* Visual and Gameplay update.
+* Texture update to all skins.
+* All auras' radius reduced to 350 from 1000.
+* Aura duration changed to 3 seconds from indefinite.
+* New Effect: Aura duration increased by 0.5 seconds each time Sona tags an ally.
+* Stats
+* Base armor increased to 15 from 12.
+* Base health reduced to 353 from 380.
+* Health per level increased to 77 from 70.
+* Power Chord
+* Staccato damage reduced to 50% from 100%.
+* Hymn of Valor
+* Base damage reduced to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+* Revised Aura: Sona and allies touched by the aura will deal 20 / 30 / 40 / 50 / 60 (+ 25% AP) bonus magic damage on their next autoattack within the next 5 seconds.
+* Cooldown increased to 8 seconds from 7.
+* Aria of Perseverance
+* Heal changed to 25 / 45 / 65 / 85 / 105 (+ 20% AP) from 40 / 55 / 70 / 85 / 100 (+ 25% AP).
+* New Effect: Heal increases by 1% for every 1% of ally's missing health.
+* New Aura: Sona and allies touched by the aura gain a shield that mitigates the next 35 / 55 / 75 / 95 / 115 (+ 20% AP) damage for up to 1.5 seconds.
+* Mana cost increased to 70 / 75 / 80 / 85 / 90 from 60 / 65 / 70 / 75 / 80.
+* Cooldown increased to 10 seconds from 7.
+* Song of Celerity
+* Revised Active: Sona gains 13 / 14 / 15 / 16 / 17% (+ 7.5% per 100 AP) bonus movement speed, decaying to the aura bonus over 3 seconds.
+* New Aura: Allies touched by the aura gain 10 / 11 / 12 / 13 / 14% (+ 3.5% per 100 AP) bonus movement speed for 1.5 seconds.
+* Cooldown increased to 12 seconds from 7.
+* Crescendo
+* New Passive: Ranking up increases the strength of Sona's auras and Song of Celerity's self bonus movement speed.
+* Hymn of Valor: + 10 / 20 / 40 extra on-hit magic damage.
+* Aria of Perseverance: + 10 / 20 / 40 extra shield.
+* Song of Celerity: + 2 / 4 / 6% bonus movement speed.
+* Clarity: Animation updated to reflect both skillshot targeting and area of effect.
+* Trivia
+* A Power Chord consists of a double root and the fifth, often heard in rock music.
+* A Hymn (Greek: 'song of praises') is a type of song usually associated to religion.
+* While Hymn of Valor's aura is active, the game's theme can be heard.
+* An Aria is a type of melody usually associated with operas.
+* Crescendo (Italian: 'growing') refers to the amplification of volume in music.
+* In-game Crescendo triggers both a stun and the target(s)' dance emote simultaneously.
+* Sona was deemed overpowered/obnoxious for Ultra Rapid Fire in April 2014, and was ultimately disabled in non-custom games.
+* At one time, Sona held the title of lowest base Armor (9).
+* Sona's Deutsch/German title, Die Virtuosin, is the feminine derivative of Jhin's title, Der Virtuose.
+* Enemy champions hit by Crescendo will be forced to dance while they are stunned.
+* See also
+* League of Legends Wiki
+* |
+* Champions
+* Cancelled Champions
+* Ao Shin
+* Avasha
+* Averdrian
+* CeeCee
+* Cyborg Cowboy
+* Eagle Rider
+* Gavid
+* Husk
+* Ivan
+* Omen
+* Priscilla
+* Rob Blackblade
+* Seth
+* Tabu
+* Tiki
+* Urf
+* Well
+* References
+* [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Sona)
+* [Champions](https://leagueoflegends.fandom.com/wiki/Champions)
+* [Cancelled Champions](https://leagueoflegends.fandom.com/wiki/Cancelled_Champions)
+* [Ao Shin](https://leagueoflegends.fandom.com/wiki/Ao_Shin)
+* [Avasha](https://leagueoflegends.fandom.com/wiki/Avasha)
+* [Averdrian](https://leagueoflegends.fandom.com/wiki/Averdrian)
+* [CeeCee](https://leagueoflegends.fandom.com/wiki/CeeCee)
+* [Cyborg Cowboy](https://leagueoflegends.fandom.com/wiki/Cyborg_Cowboy)
+* [Eagle Rider](https://leagueoflegends.fandom.com/wiki/Eagle_Rider)
+* [Gavid](https://leagueoflegends.fandom.com/wiki/Gavid)
+* [Husk](https://leagueoflegends.fandom.com/wiki/Husk)
+* [Ivan](https://leagueoflegends.fandom.com/wiki/Ivan)
+* [Omen](https://leagueoflegends.fandom.com/wiki/Omen)
+* [Priscilla](https://leagueoflegends.fandom.com/wiki/Priscilla)
+* [Rob Blackblade](https://leagueoflegends.fandom.com/wiki/Rob_Blackblade)
+* [Seth](https://leagueoflegends.fandom.com/wiki/Seth)
+* [Tabu](https://leagueoflegends.fandom.com/wiki/Tabu)
+* [Tiki](https://leagueoflegends.fandom.com/wiki/Tiki)
+* [Urf](https://leagueoflegends.fandom.com/wiki/Urf)
+* [Well](https://leagueoflegends.fandom.com/wiki/Well)
+* [References](https://leagueoflegends.fandom.com/wiki/References)

@@ -1,0 +1,276 @@
+**Games**
+
+---
+
+**Universe**
+
+* League of Legends
+* Teamfight Tactics
+* Legends of Runeterra
+* Wild Rift
+
+---
+
+**Image**
+
+---
+
+**Sett**
+
+---
+
+**Gameplay**
+
+- Cosmetics
+- Audio
+- Development
+- Patch History
+- History
+- Trivia
+
+---
+
+**Sett**
+
+* Release date: 2020-01-14
+* Last changed: V14.5
+* Class(es): Juggernaut, Legacy, Fighter, Tank
+* Position(s): Top
+* Resource: Grit
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 1350
+* Crafting: + 810
+
+---
+
+**Base statistics**
+
+* Health: 670 + 114
+* Resource (N/A)
+* Health regen. (per 5s): 7 + 0.5
+* Secondary Bar: Grit
+* Armor: 33 + 5.2
+* Attack damage: 60 + 4
+* Magic resist.: 28 + 2.05
+* Crit. damage: 175%
+* Move. speed: 340
+* Attack range: 125
+* Attack speed: Base AS 0.625
+* Attack windup: 21.429%
+* AS ratio: N/A
+* Bonus AS: +1.75%
+* Unit radius: Gameplay radius 65
+* Selection radius: 100
+* Pathing radius: 35
+* Acq. radius: 600
+
+---
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+
+---
+
+**Abilities**
+
+- **Pit Grit**
+- **Heart of the Half-Beast**
+  - Innate: Heavy Hands
+    - Sett's basic attacks alternate between his Left Punch and a Right Punch
+    - Sett begins attacking with his Left Punch
+    - Sett's Right Punch is empowered to deal bonus physical damage and attack faster
+
+- **Knuckle Down**
+  - COOLDOWN: 9 / 8 / 7 / 6 / 5
+  - CAST TIME: none
+  - Active: Sett empowers his next two basic attacks within 5 seconds to gain bonus range, deal bonus physical damage, and reset his basic attack timer
+  - Bonus Physical Damage: 10 / 20 / 30 / 40 / 50
+  - Total Bonus Physical Damage: 20 / 40 / 60 / 80 / 100
+  - For 1.5 seconds, Sett gains bonus movement speed while facing visible enemy champions within 2000 units
+
+- **Haymaker**
+  - COST: 100% Current Grit
+  - COOLDOWN: 18 / 16.5 / 15 / 13.5 / 12
+  - CAST TIME: 0.75 seconds
+  - Passive: Sett stores post-mitigation damage taken as Grit on his secondary resource bar, up to 50% of his maximum health. Each instance of accumulated Grit decays by 30% every second after 4 seconds
+  - Active: Sett blasts an area in the target direction, dealing physical damage to enemies hit. Enemies hit through the center take true damage instead. Sett also gains a rapidly decaying shield for 3 seconds equal to the Grit expended
+  - Down But Not Out: Sett's shield is created immediately and will decay after the blast delay
+  - Targeting input: Direction
+  - Damage type: Type (Physical)
+  - Sub-type: Spell damage
+  - Area damage: Physical damage / True damage
+  - Counters: Spell shield, Projectile, Blocked, Not Blocked
+  - Pending for test: Trapezoid effect hitbox geometry values, backwards range (true damage rectangle does NOT start at 0 distance from Sett; doesn't have as much reach backwards while still being edge range)
+  - The shield is created immediately and will decay after the blast delay
+  - Sett does not store Grit from damage that was mitigated by shields
+  - This ability will cast from wherever the caster is at the end of the cast time
+  - Sett will turn towards the target direction at the start of the cast time
+  - Sett will glow when attaining 90% Grit. Casting Haymaker at this amount has a different visual and audio effect
+  - Sett will turn golden (base skin)
+
+- **Facebreaker**
+  - COOLDOWN: 16 / 14.5 / 13 / 11.5 / 10
+  - CAST TIME: 0.25 seconds
+  - Active: Sett pulls in enemies at his front and back along the target direction, dealing physical damage and slowing them. If Facebreaker affects at least one enemy on each side, all enemies are stunned for 1 second upon landing
+  - Physical Damage: 50 / 70 / 90 / 110 / 130
+  - If Facebreaker affects at least one enemy on each side, all enemies are stunned for 1 second upon landing
+  - Sett is unable to move or attack for 0.25 seconds after Facebreaker's cast time
+  - Targeting input: Direction
+  - Damage type: Type (Physical)
+  - Sub-type: Area damage
+  - Counters: Spell shield, Projectile, Blocked, Not Blocked
+  - Set
+  - will afterwards attempt to basic attack the closest target picked up by Facebreaker, prioritizing champions and prioritizing those in front of him.
+  - If Facebreaker does not hit an enemy, Haymaker is also unable to be cast for 0.25 seconds after the cast time
+  - Targets will be pulled towards Sett's location in a straight line and rebound to 150 units from him back in the same line
+  - The spell indicator is slightly shorter than the actual hitbox rectangle length, and slightly wider than the width (note that the effects are edge-range from the hitbox rectangle)
+  - If targets on either opposite side are protected by spell shields, Facebreaker will not stun
+
+---
+
+**Map-Specific Differences**
+
+* Nexus Blitz differences
+
+---
+
+**Champion skins**
+
+- Original
+- Mecha Kingdoms
+- Xander Mobus
+- Alex 'alexplank' Flores
+- Loot eligible
+- Mecha Kingdoms Sett Chromas
+  - Amethyst
+  - Aquamarine
+  - Catseye
+  - Citrine
+  - Emberclaw
+  - Emerald
+  - Pearl
+  - Rose Quartz
+  - Ruby
+  - Tenfold Triumph
+  - Prestige Obsidian Dragon
+- Pool Party
+- Braum's tropical drinks are a favorite of Sett's
+- Xander Mobus
+- Ina Wong, West Studio
+- Pool Party
+- Loot eligible
+- New SFX/VFX
+- New Animations/Recall
+- Chromas
+  - Amethyst
+  - Aquamarine
+  - Catseye
+  - Emerald
+  - Obsidian
+  - Pearl
+  - Rose Quartz
+  - Ruby
+  - Firecracker
+- Lunar Revel: Firecracker
+- Xander Mobus
+- Augusto Quirino, West Studio
+- Lunar Revel: Firecracker
+- Loot eligible
+- New voiceover
+- New SFX/VFX
+- New Animations/Recall
+- Chromas
+  - Catseye
+  - Emerald
+  - Night Blossom
+  - Rose Quartz
+  - Ruby
+  - Sapphire
+- Spirit Blossom
+- Xander Mobus
+- Marie Magny, West Studio
+- Spirit Blossom
+- Loot eligible
+- New voiceover
+- New SFX/VFX
+- New Animations/Recall
+- Chromas
+  - Catseye
+  - Emerald
+  - Night Blossom
+  - Rose Quartz
+  - Ruby
+  - Sapphire
+- Soul Fighter
+- Xander Mobus
+- Herbie Wang, Kudos Productions
+- Soul Fighter
+- Loot eligible
+- New SFX/VFX
+- New Animations/Recall
+- Chromas
+  - Amethyst
+  - Citrine
+  - Emerald
+  - Limitless
+  - Meteorite
+  - Obsidian
+  - Rose Quartz
+  - Ruby
+  - Turquoise
+- HEARTSTEEL
+- Xander Mobus
+- Bo 'chenbowow' Chen, Julia Yurtsev, Jennifer Wuestling
+- HEARTSTEEL
+- Loot eligible
+- New SFX/VFX
+- New Animations/Recall
+- Chromas
+  - Amethyst
+  - Catseye
+  - Citrine
+  - Emerald
+  - Pearl
+  - Rockstar
+  - Rose Quartz
+  - Ruby
+  - Sapphire
+
+---
+
+**Patch history**
+
+* V14.5: Knuckle Down: New Effect: Now triggers spell effects upon dealing damage
+* V14.4: Knuckle Down: Bug Fix: Damage cap against monsters is now properly applied to the total damage and not just the bonus damage
+* V13.17: The Show Stopper: Bug Fix: Spell shield now properly removes the suppression effect after blocking the attachment
+* V13.14: Mecha Kingdoms Sett: Bug Fix: On-hit critical strike VFX now uses the correct VFX instead of the classic one
+* V13.3: The Show Stopper: Bug Fix: Impact VFX no longer causes graphical issues with the VFX of other certain abilities such as Wild Growth
+* V12.20: Stats: Base magic resistance reduced to 28 from 32. Pit Grit: Bonus health regeneration reduced to 0.15/0.05/1/2 (based on level) from 0.25/0.5/1/2 (based on level). Right Punch bonus AD ratio increased to 55% bonus AD from 50%.
+* V12.17: Haymaker: Bonus AD ratio increased to 25% per 100 bonus AD from 20%
+* V13.14: Facebreaker: Slow increased to 70% from 50%. The Show Stopper: Bug Fix: Impassable terrain no longer interrupts the ability
+* V12.10: Stats: Base health increased to 670 from 600. Health growth increased to 114 from 100. Armor growth increased to 5.2 from 4. Magic resistance growth increased to 2.05 from 1.25
+* V12.8: Facebreaker: Bug Fix: Inputting a cast for the spell while it was on cooldown no longer interrupts the user's attack and movement commands
+* V12.6: - March 30th Hotfix: The Show Stopper: Bug Fix: Fixed a bug where champions would stick to him if Tahm Kench uses Devour while he dashes with them. - V12.5: The Show Stopper: Bug Fix: Caster no longer becomes locked out of their basic abilities if they are performing The Show Stopper while Berserked and their target dies in the process
+* V12.4: Stats: Health growth increased to 100 from 93.25
+* V11.9: Haymaker: Bonus AD ratio increased to 20% per 100 bonus AD from 10%
+* V11.8: The Show Stopper: Bug Fix: Casting it on Yone during the very end of Fate Sealed no longer suppresses Yone as he blinks to another enemy champion
+* V10.18: Pit Grit: AD ratio changed to 50% bonus AD from 15% total AD. Knuckle Down: Removed: Damage is no longer capped at 400 per punch against minions and monsters.
+* V10.16: Haymaker: Base damage reduced to 80/105/130/155/180 from 90/120/150/180/210. Facebreaker: Base damage reduced to 50/80/110/140/170 from 50/80/110/140/170.
+* V10.14: Facebreaker: Bug Fix: Displacing minions or jungle monsters no longer extends their hitboxes.
+* V10.10: The Show Stopper: Bug Fix: Now properly completes the slam on champion clones even as they're about to expire.
+* V10.9: The Show Stopper: Bug Fix: Is no longer interrupted by player-generated terrain (e.g. Jarvan IV's Cataclysm) when casting it.
+* V10.8: Haymaker: Base damage reduced to 80/105/130/155/180 from 90/120/150/180/210.
+* V10.6: The Show Stopper: Bug Fix: When suppressed by The Show Stopper, LeBlanc will not return to her Distortion marker, and it will last the appropriate amount of time.
+* V10.5: Stats: Base armor reduced to 33 from 37. Base health regeneration reduced to 8 from 9.25. Health regeneration growth reduced to 0.5 from 0.75. The Show Stopper: Slow duration reduced to 1 second from 1.5. Bug Fix: Now properly gets assist credit even when the target dies while suppressed.
+* V10.4: Facebreaker: Bug Fix: Now only stuns enemies if he successfully grabs one on each side. The Show Stopper: Bug Fix: Now properly becomes displacement immune and suppresses Tahm Kench when casting The Show Stopper while Tahm Kench casts Devour.
+* V10.3: Stats: Base health regeneration reduced to 8 from 9.25. Haymaker: New Effect: Tooltip now displays the maximum damage. Cooldown increased to 18/16.5/15/13.5/12 seconds from 16/14/12/10/8 seconds. Base damage reduced to 90/120/150/180/210 from 90/125/160/195/230. Bug Fix: If he has no points in Haymaker, Illaoi's Test of Spirit will now properly extrude his vessel. The Show Stopper: Bug Fix: No longer suppresses Mordekaiser for a large amount of time if he's suppressed before entering the Death Realm.
+* V10.2: - January 23rd Hotfix: Facebreaker: Bug Fix: The ability's range is no longer greater than what the indicator shows. - V10.1: Added Pit Grit (Innate). Innate - Heart of the Half-Beast: Sett's basic attacks alternate between a left punch and a right punch. Sett begins attacking with a left punch, and will reset back to it after 2 seconds of not performing a right punch. Sett's right punch gains 50 bonus range, attacks at 8 times the left punch's attack speed, and deals 5-90 (based on level) (+ 15% AD) bonus physical damage. Innate - Pit Grit: Sett gains 0.25/0.5/1/2 (based on level) health regeneration per second for every 5% of his missing health. Knuckle Down (Q): Active: Sett gains 30% bonus movement speed within 1.5 seconds while moving towards enemy champions. Sett's next two basic attacks within 5 seconds each deal 10/20/30/40/50 (+ 1/2/3/4/5% (+ 1% per 100 AD) of target's maximum health) bonus physical damage, capped at 400 damage per punch against minions and monsters. Knuckle Down resets Sett's basic attack timer. Cooldown: 9/8/7/6/5 seconds.
+* V9.24: Added Sett's Calling Card loot item. Awarded by "Impressing Sett" (scoring first blood in PvP games) and openable from January 14, 2020. Contains a Sett Champion Permanent.
+
+---
+
+* **References**
+  + Sett's profile page at LeagueOfLegends.com
+  + Whist on Sett Dance

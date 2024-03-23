@@ -1,0 +1,225 @@
+**Games**
+
+---
+
+**Universe**
+
+•
+
+**League of Legends**
+
+-
+
+**Teamfight Tactics**
+
+-
+
+**Legends of Runeterra**
+
+-
+
+**Wild Rift**
+
+---
+
+**Image**
+
+Yuumi
+
+---
+
+**Gameplay**
+
+-
+
+**Cosmetics**
+
+-
+
+**Audio**
+
+-
+
+**Patch history**
+
+-
+
+**Past versions**
+
+---
+
+**Yuumi**
+
+**Release date:** 2019-05-14
+
+**Last changed:** V13.23
+
+**Class(es):** Enchanter, Legacy, Support, Mage
+
+**Position(s):** Support
+
+**Resource:** Mana
+
+**Range type:** Ranged
+
+**Adaptive type:** Magical
+
+**Store price:** 450 (620)
+
+|
+
+**Base statistics**
+
+| **Stat** | **Value** | **Value (Level 18)** |
+| --- | --- | --- |
+| Health | 500 | 869 |
+| Mana | 440 | 715 |
+| Health regen. (per 5s) | 5 | 0.85 |
+| Mana regen. (per 5s) | 10 | 0.21 |
+| Armor | 25 | 68 |
+| Attack damage | 49 | 114 |
+| Magic resist. | 25 | 75 |
+| Crit. damage | 175% | 385% |
+| Move. speed | 330 | 380 |
+| Attack range | 425 | 425 |
+| Attack speed | 0.625 | 0.599 |
+| Unit radius | 65 | 87.5 |
+| Selection radius | 120 | 150 |
+| Pathing radius | 35 | 100 |
+| Acq. radius | 475 | 725 |
+
+---
+
+**Special statistics**
+
+| **Statistic** | **Value** |
+| --- | --- |
+| ARAM | +5% Damage Dealt |
+| Nexus Blitz | N/A |
+| One For All | N/A |
+| URF | +15% Damage Dealt |
+| Ult Spellbook | N/A |
+| Arena | +5% Damage Dealt, +10% Healing |
+| Damage Received | +0% |
+
+---
+
+**Abilities**
+
+[Feline Friendship](#ability-feline-friendship){data-type="ability"}
+
+[Prowling Projectile](#ability-prowling-projectile){data-type="ability"}
+
+[You and Me!](#ability-you-and-me){data-type="ability"}
+
+---
+
+**[Feline Friendship](#champion-yuumi)**
+
+**Innate:** Periodically, Yuumi's next basic attack or ability hit against enemy champions, or Final Chapter hit on ally champions while attached, will heal her for 25-110 (based on level) (+ 15% AP). If she is attached to an ally or does so within 4 seconds, they are healed for the same amount.
+
+**Innate:** While attached to an ally, Yuumi grants them 2 permanent Friendship stacks whenever they kill enemy champions or minions. The ally with the highest Friendship stacks becomes Yuumi's Best Friend, which empowers her abilities with additional effects while she is attached to them.
+
+---
+
+**[Prowling Projectile](#champion-yuumi)**
+
+**Cost:** 50 / 60 / 70 / 80 / 90 / 100 Mana
+
+**Cooldown:** 6.5 / 5.5 / 5 / 4.5 / 4 / 3.5 seconds
+
+**Cast time:** None
+
+**Target range:** 850
+
+**Width:** 60
+
+**Speed:** 1950 / 850 / 1650
+
+**Active:** Yuumi fires an errant missile in the target direction that deals magic damage to the first enemy hit. If the target is a champion, they are also revealed and slowed by 20% for 1 second.
+
+**Magic Damage:** 60 / 90 / 120 / 150 / 180 / 210 (+ 20% AP)
+
+**Attached bonus:** Yuumi channels for up to 1.35 seconds to steer the missile at a slower speed. After being in flight for the same duration, the missile accelerates in its current direction to deal increased damage and apply a stronger slow against champions that decays to 20% over 2 seconds.
+
+**Increased Damage:** 80 / 135 / 190 / 245 / 300 / 355 (+ 35% AP)
+
+**Enhanced slow:** 50 / 53 / 56 / 59 / 62 / 65%
+
+**Best Friend bonus:** Prowling Projectile always applies its enhanced slow against champions and hitting a champion grants her Best Friend bonus magic damage on-hit for 5 seconds, increased by 0% - 75% (based on Anchor's critical strike chance).
+
+**Bonus Magic Damage On-Hit:** 10 / 12 / 14 / 16 / 18 / 20 (+ 5% AP)
+
+---
+
+**[You and Me!](#champion-yuumi)**
+
+**Passive:** While Yuumi is attached, she is untargetable (except by turrets and inbound projectiles) and casts her abilities from the Anchor's position, empowering them with additional effects.
+
+**Active:** Yuumi channels for 0.25 seconds, then dashes to the target allied champion and attaches to them upon arrival, designating them as her Anchor.
+
+**Recast:** Yuumi detaches from her Anchor and dashes to the target allied champion to attach to them, refreshing the recast. She will detach automatically if her Anchor dies or under certain circumstances.
+
+**Yu and Me!** can be recast after 0.5 seconds.
+
+**Recast:** Yuumi detaches from her Anchor and dashes to the target allied champion to attach to them, refreshing the recast. She will detach automatically if her Anchor dies or under certain circumstances.
+
+**Yu and Me!** is placed on a 5-second cooldown if Yuumi becomes immobilized, grounded, or polymorphed.
+
+**Heal and Shield Power:** 5 / 7.5 / 10 / 12.5 / 15 / 17.5%
+
+**Healing On-Hit:** 3 / 5 / 7 / 9 / 11 (+ 4% AP)
+
+---
+
+**Map-Specific Differences**
+
+* Arena differences:
+  + Heal and shield power changed to 10 / 13.75 / 17.5 / 21.25 / 25 / 25%.
+  + Empowered AP ratio changed to 37.5%.
+
+---
+
+**Champion Spotlight**
+
+[Yuumi Champion Spotlight](#/content/yuumi-champion-spotlight)
+
+---
+
+**[Feline Friendship](#ability-feline-friendship)**
+
+**Passive:** Feline Friendship will not be consumed if Yuumi isn't missing health, except when triggered by a basic attack. While attached, it won't be consumed if both Yuumi and her anchor aren't missing health.
+
+---
+
+**[Prowling Projectile](#ability-prowling-projectile)**
+
+**Map-Specific Differences:**
+
++ Prowling Projectile is able to turn clockwise or counter-clockwise at a rate of 90° per 0.5 seconds. The missile can turn a maximum of 243° in both directions combined before accelerating.
++ Prowling Projectile can be buffered 0.5 seconds before it comes off cooldown.
++ Prowling Projectile is slower when attached (before the acceleration). If Yuumi unattaches after using it, the missile will go back to its normal speed, without losing the acceleration later. This results in the fastest and longest ranged version of this ability.
+
+---
+
+**Interactions:**
+
+Type | Channel | Attacking | Abilities | Detaching | Final Chapter |
+|---|---|---|---|---|---|
+| Channel | Allowed | Disabled | Allowed | Disabled | Interrupted |
+| Attacking | Disabled | N/A | Disabled | Interrupted | Disabled |
+| Abilities | Disabled | Disabled | Allowed | Allowed | Allowed |
+| Detaching | and Final Chapter interrupt | N/A | N/A | N/A | N/A |
+| Final Chapter | Channel | Attacking | Disabled | N/A | N/A |
+
+---
+
+**Collection**
+
+[Yuumi (Collection)](#/champion/yuumi)
+
+---
+
+**Trivia**
+
+[Yuumi's profile page](https://leagueoflegends.com/en-us/champions/yuumi/)

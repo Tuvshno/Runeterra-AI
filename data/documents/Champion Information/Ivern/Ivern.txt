@@ -1,0 +1,125 @@
+**Games**
+
+* Universe
+  * League of Legends
+    - _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+    - **League of Legends**
+      * _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+      - •
+      - **Teamfight Tactics**
+      * Image
+        * Ivern
+    - Gameplay
+      * Collection
+      * Audio
+      * Patch history
+      * Past versions
+    - Ivern
+      - Release date: 2016-10-05
+      - Last changed: V14.5
+      - Class(es): Catcher, Legacy, Support, Mage
+      - Position(s): Jungle
+      - Resource: Mana
+      - Range type: Ranged
+      - Adaptive type: Magical
+      - Store price: 4800 (Rp) / 880 (BE) / 2880 (Crafting)
+      - Ratings:
+        + Damage: 1
+        + Toughness: 1
+        + Control: 3
+        + Mobility: 2
+        + Utility: 3
+      - Style: Difficulty: Medium
+
+    * **Ivern**
+      * Champion Spotlight
+      + Ivern is a champion in League of Legends. [1]
+      + **Gameplay**
+        * Cosmetics
+        * Audio
+        * Development
+        * Patch History
+        * History
+        * Trivia
+      + **Base statistics**
+        * Health: 630 (+99)
+        * Mana: 450 (+60)
+        * Health regeneration: 7 (+0.85) per 5 seconds
+        * Mana regeneration: 6 (+0.75) per 5 seconds
+        * Armor: 27 (+4.7)
+        * Attack damage: 50 (+3)
+        * Magic resist: 30 (+1.3)
+        * Critical damage: 175%
+        * Movement speed: 330
+        * Attack range: 475
+        * Attack speed: Base AS: 0.644, AS ratio: N/A, Bonus AS: +3.4%
+        * Unit radius: 70
+        * Selection radius: 140
+        * Pathing radius: 40
+        * Acquisition radius: 750
+      + **Special statistics**
+        * ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+        * Damage Dealt: -10%, Damage Received: +0%, Shielding: -20%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +10%, Damage Received: -7%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: -5%, Damage Dealt: +0%, Damage Received: +0%
+
+    * **Abilities**
+      * [ ]
+      * **Friend of the Forest**
+        + Innate: Ivern cannot attack or damage non-epic monsters. Instead, targeting a jungle camp initiates a 2.5-second channel that, upon completion, places the monsters within a grove. Placing a grove costs health and mana, and cannot be cast if Ivern lacks the resources.
+          * The grove matures over 40-6 (based on level) seconds. When fully matured, Ivern can interact with the camp again to instantly free the monsters, sending them away while receiving their full gold and experience bounty.
+          * Smiting a camp within a grove will instantly free the monsters, regardless of its maturity or the monster's current health.
+          * If the camp's large monster has already been slain, Ivern will free the camp upon completing the channel at no cost. Similarly, the grove will instantly mature if the large monster is slain.
+          * Starting at level 5, freeing the Red Brambleback or Blue Sentinel leaves behind a sapling that can be picked up by an allied champion to gain the camp's buff, consuming it in the process. If at least one allied champion is nearby, Ivern can pick up the sapling to transfer it to the nearest one in range. If an ally kills either monster, they also leave behind a sapling that only Ivern can consume.
+      * **Rootcaller**
+        + Q - Ivern throws a vine in the target direction, dealing magic damage to the first enemy hit and rooting them for a duration, during which they are also revealed. Rootcaller can be recast while the target is rooted.
+          * Magic Damage: 80 / 125 / 170 / 215 / 260 (+ 70% AP)
+          * Root Duration: 1.2 / 1.4 / 1.6 / 1.8 / 2 seconds
+          * Ivern and allied champions can select the target rooted by Rootcaller to dash to their location, stopping at their attack range.
+          * Cooldown: 16 / 15 / 14 / 13 / 12 seconds
+      * **Brushmaker**
+        + W - Passive: While in brush, Ivern's basic attacks are empowered to deal bonus magic damage on-hit. This bonus persists for 3 seconds after leaving brush.
+          + Active: Ivern grows a patch of brush at the target location for 45 seconds, granting sight of the area within and around it for 8 seconds. Brushes despawn instantly after allied vision of them is lost. Spawning brush near terrain or other brush increases its radius.
+          * While allied champions are in any brush when Ivern is in range, their basic attacks are empowered to deal bonus magic damage on-hit.
+          * Cost: 30 mana
+          * Recharge: 0.5 seconds
+          * Cooldown: 0.5 seconds
+      * **Triggerseed**
+        + E - Ivern places a seed on the target allied champion, himself, or Daisy, granting the target a shield for 2 seconds.
+          + After 2 seconds, the seed explodes to deal magic damage to nearby enemies and slow them for 2 seconds.
+          * Magic Damage: 70 / 90 / 110 / 130 / 150 (+ 80% AP)
+          * Slow: 45 / 50 / 55 / 60 / 65%
+          * If the seed does not damage an enemy champion, the shield is reapplied for the same strength and duration without the explosion effect.
+          * Cost: 50 mana
+          * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+      * **Daisy!**
+        + R - Ivern summons his sentinel friend Daisy, who remains on the field for 45 seconds as a controllable pet.
+          + While Daisy is active, Daisy! can be used to move her to the target location.
+          * Cost: 100 mana
+          * Cooldown: 160 / 140 / 120 seconds
+
+---
+
+**Map-Specific Differences**
+
+* Nexus Blitz differences
+* Arena differences
+
+---
+
+**Tips & Tricks**
+
+---
+
+**Champion skins**
+
+* Original
+* Candy King
+* Sugar Rush
+* Dunkmaster
+* Old God
+* Astronaut
+
+---
+
+**Patch history**
+
+[ ]

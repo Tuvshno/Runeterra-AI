@@ -1,0 +1,783 @@
+**Games**
+
+* Universe
+  * League of Legends
+    - *Heimerdinger*
+      **Gameplay**
+      *Collection*
+      *Audio*
+      *Patch history*
+      *Past versions*
+      **Heimerdinger**
+        ***Release date:*** 2009-10-10
+        ***Last changed:*** V14.2
+        ***Class(es):*** Specialist, Legacy, Mage, Support
+        ***Position(s):*** Support, Top, Middle
+        ***Resource:*** Mana
+        ***Range type:*** Ranged
+        ***Adaptive type:*** Magical
+        ***Store price:*** 3150 RP / 790 BE
+          * 1890 RP for Championship Heimerdinger skin
+
+          *Crafting cost:* 1890 RP
+      ***Ratings:***
+        **Damage:** 3
+        **Toughness:** 1
+        **Control:** 2
+        **Mobility:** 1
+        **Utility:** 2
+      ***Style:*** Difficulty: Champion
+
+      **Champion Spotlight**
+      - [Heimerdinger Champion Spotlight](https://www.youtube.com/watch?v=034iK6BZA2k)
+
+    - **Abilities**
+      **Hextech Affinity**
+        *Passive*
+        *No additional details.*
+
+      **H-28G Evolution Turret**
+        *Cost:* 20 Mana + 1 Turret Kit
+        *Cooldown:* 1
+        *Cast time:* 0.25s
+        *Recharge:* 20s
+        *Target range:* 350
+        *Active:* Heimerdinger deploys a H-28G Evolution Turret at the target location, which lasts until destroyed. Heimerdinger periodically stocks a Turret Kit charge, up to a maximum of 3. Up to 3 H-28G Evolution Turrets can be deployed at a time, with those deployed beyond the maximum destroying the oldest one. [Turret details](#h-28g-evolution-turret-details)
+
+      **H-28Q Apex Turret**
+        *Cooldown:* 1
+        *Cast time:* 0.25s
+        *Target range:* 450
+        *UPGRADE!!!*-* Active:* Heimerdinger deploys a H-28Q Apex Turret at the target location, which lasts for 8 seconds. H-28Q Apex Turret scales with UPGRADE!!!'s rank. [Turret details](#h-28q-apex-turret-details)
+
+      **Hextech Micro-Rockets**
+        *Cost:* 50, 60, 70, 80, 90 Mana
+        *Cooldown:* 11, 10, 9, 8, 7s
+        *Cast time:* 0.25s
+        *Target range:* 1325
+        *Active:* Heimerdinger unleashes a wave of 5 rockets that converge to the target location and fan beyond it up to a maximum range, with each one dealing magic damage to the first enemy it hits. Every rocket hitting an enemy champion grants 20% beam charge to all turrets within 1000 range, up to a maximum of 100% when hitting 5 rockets on an enemy champion.
+        *Initial Magic Damage:* 40/65/90/115/140 (+55% AP)
+        *Additional Magic Damage:* 8/13/18/23/28 (+11% AP)
+        *Total Magic Damage:* 72/117/162/207/252 (+99% AP)
+        *Additional Minion Damage:* 24/39/54/69/84 (+33% AP)
+        *Total Minion Damage:* 136/221/306/391/476 (+187% AP)
+
+      **Hextech Rocket Swarm**
+        *Cooldown:* 11/10/9/8/7s
+        *Cast time:* 0.25s
+        *Target range:* 1325
+        *UPGRADE!!!*-* Active:* Heimerdinger launches 4 waves of 5 rockets in quick succession to the target location, each one dealing magic damage. Enemy champions and monsters are dealt reduced damage from rockets beyond the first, and further reduced beyond the fifth. Minions take 100% damage from every rocket.
+        *Initial Rocket Damage:* 135/180/225 (+45% AP)
+        2-5 Rocket Magic Damage:* 32/45/58 (+12% AP)
+        6-20 Rocket Damage:* 16/22.5/29 (+6% AP)
+        *Total Damage:* 503/697.5/892 (+183% AP)
+        *Minion Rocket Damage:* 135/180/225 (+45% AP)
+        *Total Minion Damage:* 2700/3600/4500 (+900% AP)
+        *Scales with UPGRADE!!!'s rank*
+
+---
+
+**Heimerdinger (Collection)**
+
+* Original skin
+* Dennis Collins Johnson skin
+* Alien Invader skin
+* Blast Zone skin
+* Road Warrior skin
+* Snowmerdinger skin
+* Day Job skin
+* Dragon Trainer skin
+* Pool Party skin
+* Bees! Chromas
+* Pool Party Heimerdinger Chromas
+
+---
+
+**Patch history**
+
+*V14.2*
+  * H-28G Evolution Turret: New effect - Now updates its stats every 1 second to reflect level ups, rank ups, and the caster's changes in ability power.
+  * Warden's Mail and Randuin's Omen: Bug fix - No longer improperly slow their attack speed.
+  * H-28Q Apex Turret: New effect - Now updates its stats every 1 second to reflect level ups, rank ups, and the caster's changes in ability power.
+
+*V13.22*
+  * Base attack speed: 0.658 → 0.625
+  * Attack windup: 20.078125% → 20.0%
+
+*V13.15*
+  * H-28Q Apex Turret: Base health changed to 725 − 1525 (based on level), Magic damage changed to 80/100/120 (+35% AP), Armor changed to 30 − 90 (based on level), Magic resistance changed to 30 − 90 (based on level).
+
+*V13.1b*
+  * H-28G Evolution Turret: Base health reduced to 130 − 640 (based on level), 5% − 45% (based on level) AP, Armor changed to 10 − 80 (based on level), Magic resistance changed to 25 − 65 (based on level).
+
+*V13.1*
+  * Hextech Micro-Rockets: Initial rocket base damage reduced to 50/75/100/125/150, Initial rocket AP ratio increased to 55% AP, Additional rocket base damage reduced to 10/15/20/25/30.
+
+*V12.21*
+  * H-28Q Apex Turret: Bug fix - Casting the ability no longer improperly resets the cooldowns of Hextech Micro-Rockets and CH-2 Electron Storm Grenade if they were already on cooldown.
+
+*V12.12*
+  * H-28G Evolution Turret: Turret base damage increased to 7/11/15/19/23, Turret base health increased to 150 − 575 (based on level).
+  * CH-2 Electron Storm Grenade: Cooldown reduced to 11 seconds.
+
+*V12.1*
+  * Hextech Rocket Swarm: Maximum base damage increased to 503/697.5/892, Missiles 2 to 5 base damage increased to 32/45/58, Missiles 6 to 20 base damage reduced to 16/22.5/29, 4/29.
+
+*V12.0.1*
+  * Hextech Rocket Swarm: Bug fix - Now correctly shares a cooldown with Hextech Micro-Rockets.
+
+*V11.9*
+  * Hextech Micro-Rockets: Initial rocket base damage reduced to 50/80/110/140/170, Additional rocket base damage reduced to 10/16/22/28/34, Maximum base damage reduced to 90/135/180/225/270.
+  * CH-3X Lightning Grenade: Base damage reduced to 100/200/300, AP ratio reduced to 60% AP.
+
+*V9.24b*
+  * UPGRADE!!!: Bug fix - Tooltip no longer mentions that CH-3X Lightning Grenade's slow is improved to 80%.
+
+*V9.19*
+  * H-28G Evolution Turret: Turret basic attack AP ratio increased to 35% AP, H-28Q Apex Turret: Turret basic attack AP ratio increased to 35% AP.
+  * CH-2 Electron Storm Grenade: Stun duration increased to 1.5 seconds.
+
+*V9.1*
+  * H-28G Evolution Turret: Can now ping the number of turrets available or time until next turret if none are available.
+
+*V8.24*
+  * Hextech Rocket Swarm: Bug fix - Once again shares a cooldown with Hextech Micro-Rockets.
+  * CH-2 Electron Storm Grenade: Bug fix - Stun duration has been fixed.
+  * CH-3X Lightning Grenade: Bug fix - Stun duration has been fixed, can no longer cast it immediately after CH-2 Electron Storm Grenade if timed exactly.
+
+*V8.22*
+  * Dragon Trainer Heimerdinger: Bug fix - No longer has redundant death SFX, no longer missing dance SFX.
+
+*V8.9*
+  * Base mana increased to 385, Mana growth reduced to 20, Base mana regeneration increased to 8.
+
+*V8.1*
+  * H-28Q Apex Turret: Beam base damage reduced to 200/270/340.
+
+*V7.22*
+  * Base health increased to 488, Health growth increased to 87.
+
+*V7.16*
+  * H-28Q Apex Turret: Beam attack no longer breaks for the rest of its duration if its target walks out of range during the beam attack's wind-up.
+
+*V7.15*
+  * Hextech Rocket Swarm: Bug fix - Now correctly does reduced damage after the first hit to Baron Nashor.
+  * CH-2 Electron Storm Grenade: Bug fix - Sweeping a ward no longer plays the sound effects to it when he is in the game.
+  * CH-3X Lightning Grenade: Bug fix - No longer has the old AP ratio of 60% for the second and third bounces.
+
+*V7.12*
+  * General: Bug fix - Must now actually fire a basic attack to command turrets to focus a target. Issuing an attack command and immediately cancelling it no longer triggers the redirect.
+
+*V7.11*
+  * Turrets: Removed - Turrets killed increasing the minion killed stat.
+
+*V7.10*
+  * Stats: Base health regeneration reduced to 7, Health regeneration growth reduced to 0.55.
+
+*V7.7*
+  * Hextech Affinity: Renamed to Hextech Affinity, Grants 20% bonus movement speed while near allied turrets (his own and the map's) (300 range).
+
+*V7.6.1*
+  * Hextech Affinity: Removed - Heimerdinger grants nearby allied champions and his turrets 10/15/20/25/30 (based on level) health regeneration, persisting for 5 seconds after they move out of range or his death (1000 range).
+
+*V7.6*
+  * Hextech Affinity: Amount of turrets held increased to 3 at all ranks, Cooldown reduced to 20s at all ranks, Base damage reduced to 6/9/12/15/18, AP ratio increased to 30% AP, Beam attack base damage reduced to 40/60/80/100/120, Turrets no longer prioritize nearby enemy champions or champions that attack them, Turrets no longer briefly remain active after Heimerdinger leaves the area, Beam attack generation rate per second reduced to 1.11%, Beam attack charge time increased to 90s.
+
+*V7.5.1*
+  * Hextech Micro-Rockets: Cooldown reduced to 11/10/9/8/7s, Mana cost reduced to 50/60/70/80/90.
+
+*V7.4*
+  * Hextech Micro-Rockets: Each rocket that hits a champion grants 20% beam charge to all turrets within 1000 range of the damage, up to a maximum of 100% if all five rockets hit.
+
+*V7.3*
+  * CH-2 Electron Storm Grenade: Cooldown changed to 12s at all ranks, Grenade hitbox increased to 250, Stun hitbox is still 135, If the grenade hits a champion, all turrets within 1000 range of the damage gain 100% beam charge.
+
+*V7.2*
+  * CH-3X Lightning Grenade: Base damage increased to 150/250/350, AP ratio increased to 75% AP.
+
+*V7.0.1*
+  * Hextech Affinity: Beam charge display bug fix - The charge bar is now white instead of dark blue.
+
+*V6.23*
+  * Hextech Micro-Rockets: Bug fix - Turrets no longer gain 1/2/3/4/5% beam charge for each of their basic attacks.
+  * Hextech Micro-Rockets: Bug fix - Turrets no longer spawn with 70% beam charge.
+
+*V6.22*
+  * Hextech Rocket Swarm: Maximum base damage increased to 499/687/862, Missiles 2 to 5 base damage increased to 28/39/49, Missiles 6 to 10 base damage increased to 16/23/29.
+
+*V6.13*
+  * Hextech Rocket Swarm: Bug fix - Now correctly does reduced damage after the first hit to Baron Nashor.
+
+*V6.12*
+  * Hextech Micro-Rockets: Bug fix - Now correctly marks targets for damage and can be affected by on-damage effects like Void Singed's passive.
+
+*V6.11*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where the rockets would sometimes not deal damage to champions.
+
+*V6.10*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where the rockets would sometimes not deal damage to the correct target.
+
+*V6.0*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where the rockets would sometimes not travel the full distance to their target.
+
+*V5.22*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where the remaining cooldown of Hextech Micro-Rockets would not be displayed correctly in the ability hotbar after casting the ability.
+
+*V5.21*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.20*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target the correct enemy champion.
+
+*V5.19*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes travel too far or not far enough when casting them.
+
+*V5.18*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not apply on-hit effects to enemy champions.
+
+*V5.17*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.16*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target the correct enemy champion.
+
+*V5.15*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes travel too far or not far enough when casting them.
+
+*V5.14*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not apply on-hit effects to enemy champions.
+
+*V5.13*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.12*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target the correct enemy champion.
+
+*V5.11*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes travel too far or not far enough when casting them.
+
+*V5.10*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not apply on-hit effects to enemy champions.
+
+*V5.9.1*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would not correctly apply on-hit effects to enemy champions.
+
+*V5.9*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would not correctly apply on-hit effects to enemy champions.
+
+*V5.8*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would not correctly target enemy champions.
+
+*V5.7*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.6*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target enemy champions.
+
+*V5.5*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.4*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target enemy champions.
+
+*V5.3*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.2*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target enemy champions.
+
+*V5.1*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not deal damage to enemy champions.
+
+*V5.0*
+  * Hextech Micro-Rockets: Bug fix - Fixed an issue where Hextech Micro-Rockets would sometimes not target enemy champions.
+
+*V4.16.1*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.16*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.15*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.14*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.13*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.12*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.11*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.10*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.9*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.8*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.7*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.6*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.5*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.4*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.3*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.2*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V4.1*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V4.0*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.14*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.13*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.12*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.11*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.10*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.9*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.8*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.7*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.6*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.5*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.4*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.3*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.2*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V3.1*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V3.0*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.14.2*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.14.1*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.14*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.13*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.12*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.11*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.10*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.9*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.8*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.7*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.6*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.5*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.4*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.3*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.2*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V2.1*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V2.0*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+*V1.1*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not target enemy champions.
+
+*V1.0*
+  * Hextech Rocket Swarm: Bug fix - Fixed an issue where Hextech Rocket Swarm would sometimes not deal damage to enemy champions.
+
+---
+
+**Heimerdinger (Collection) references**
+
+* Heimerdinger's profile page at [LeagueOfLegends.com](https://www.leagueoflegends.com/en-us/champions/heimerdinger/)
+* [DeVaan, Etymological Dictionary of Latin & other Italic languages](https://books.google.com/books?id=cjIbAAAAMAAJ&pg=PA79), p. 79
+
+---
+
+**Trivia**
+
+* Heimerdinger is a portmanteau of J. Robert Oppenheimer and Erwin Schrödinger's last names.
+* His given name, Cecil, comes from Caecilius, a Roman surname, from caecus "one-eyed > blind".
+* Heimerdinger's dance references the Headspin, a breakdance move.
+* While UPGRADE!!! is active, Heimerdinger gains a cosmetic buff that reads 'Harder, Better, Faster, Stronger'.
+* If Heimerdinger scores a Pentakill, he will gain the cosmetic buff Eureka!
+* Heimerdinger is the sixth champion to have more than four abilities, the others being Elise, Gnar, Jayce, Karma, Lee Sin, and Nidalee.
+* The icon for Hextech Affinity is reused for the Teamfight Tactics item Magnetic Remover.
+* In the now-removed official League of Legends forums, the original icon of UPGRADE!!! was used to represent the 'Help & Support' section.
+* Heimerdinger is also known for his 'derpy' walk.
+* Using any Emotes or activating Heimerdinger's passive will make Heimerdinger alternate between his regular walk and his 'derpy' walk.
+* Heimerdinger's alternate/old walk is referred to as 'derpy'.
+* While UPGRADE!!! is active, Heimerdinger gains a cosmetic buff that reads 'Harder, Better, Faster, Stronger'.
+* If Heimerdinger scores a Pentakill, he will gain the cosmetic buff Eureka!
+* Heimerdinger is the sixth champion to have more than four abilities, the others being Elise, Gnar, Jayce, Karma, Lee Sin, and Nidalee.
+* The icon for Hextech Affinity is reused for the Teamfight Tactics item Magnetic Remover.
+* In the now-removed official League of Legends forums, the original icon of UPGRADE!!! was used to represent the 'Help & Support' section.
+* Heimerdinger is also known for his 'derpy' walk.
+* Using any Emotes or activating Heimerdinger's passive will make Heimerdinger alternate between his regular walk and his 'derpy' walk.
+
+---
+
+**References**
+
+* [Heimerdinger's profile page at LeagueOfLegends.com](https://www.leagueoflegends.com/en-us/champions/heimerdinger/)
+* [DeVaan, Etymological Dictionary of Latin & other Italic languages](https://books.google.com/books?id=cjIbAAAAMAAJ&pg=PA79)
+* [Heimerdinger's wiki page](https://leagueoflegends.fandom.com/wiki/Heimerdinger)
+* [UPGRADE!!!'s wiki page](https://leagueoflegends.fandom.com/wiki/UPGRADE%21%21)
+* [Heimerdinger's champion spotlight](https://www.youtube.com/watch?v=034iK6BZA2k)
+* [Riot Games - Heimerdinger's champion reveal](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger)
+* [Riot Games - Heimerdinger's champion spotlight](https://na.leagueoflegends.com/en/news/champions-gameplay/spotlight-heimerdinger)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion spotlight trailer](https://www.youtube.com/watch?v=Z1dTgT2OlQg)
+* [Riot Games - Heimerdinger's champion spotlight in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion spotlight gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion spotlight lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion spotlight full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v=5CvZOqdJ6c0)
+* [Riot Games - Heimerdinger's champion reveal concept art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-concept-art)
+* [Riot Games - Heimerdinger's champion reveal development art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-development-art)
+* [Riot Games - Heimerdinger's champion reveal splash art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-splash-art)
+* [Riot Games - Heimerdinger's champion reveal champion select art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-champion-select-art)
+* [Riot Games - Heimerdinger's champion reveal loading screen art](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-loading-screen-art)
+* [Riot Games - Heimerdinger's champion reveal logo](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-logo)
+* [Riot Games - Heimerdinger's champion reveal quotes](https://na.leagueoflegends.com/en/news/champions-gameplay/champion-reveal-heimerdinger-quotes)
+* [Riot Games - Heimerdinger's champion reveal video](https://www.youtube.com/watch?v=bLZaq1Z0x7Q)
+* [Riot Games - Heimerdinger's champion reveal trailer](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal in-depth](https://www.youtube.com/watch?v=r8N149ZCbE4)
+* [Riot Games - Heimerdinger's champion reveal gameplay](https://www.youtube.com/watch?v=qjwYxvPLqjY)
+* [Riot Games - Heimerdinger's champion reveal lore](https://www.youtube.com/watch?v=zCaWpJ38JW4)
+* [Riot Games - Heimerdinger's champion reveal full](https://www.youtube.com/watch?v

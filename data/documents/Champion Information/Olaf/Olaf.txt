@@ -1,0 +1,174 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Olaf
+        **Format:**
+        **Text:**
+
+        **Gameplay**
+        - Cosmetics
+        - Audio
+        - Development
+        - Patch History
+        - History
+        - Trivia
+
+        **Base statistics**
+        - Health: 645 (+119)
+        - Mana: 316 (+50)
+        - Health regeneration (per 5s): 6.5 (+0.6)
+        - Mana regeneration (per 5s): 7.5 (+0.6)
+        - Armor: 35 (+4.2)
+        - Attack damage: 68 (+4.7)
+        - Magic resist.: 32 (+2.05)
+        - Crit. damage: 175%
+        - Move. speed: 350
+        - Attack range: 125
+        - Attack speed (base AS): 0.694
+        - Attack windup: 23.438%
+        - AS ratio: N/A
+        - Bonus AS: +2.7 %
+        - Unit radius: Gameplay radius - 65
+        - Selection radius: 111
+        - Pathing radius: 35
+        - Acq. radius: 400
+
+        **Special statistics**
+        - ARAM: N/A
+        - Nexus Blitz: N/A
+        - One For All: N/A
+        - URF: N/A
+        - Ult Spellbook: N/A
+        - Arena: N/A
+        - Damage Dealt: +0%
+        - Damage Received: +0%
+        - Damage Dealt: +0%
+        - Damage Received: +0%
+        - Damage Dealt: +0%
+        - Damage Received: +0%
+        - Damage Dealt: +0%
+        - Damage Received: +0%
+        - Damage Dealt: +0%
+        - Damage Received: +0%
+        - Damage Dealt: +0%
+        - Damage Received: +0%
+
+        **Abilities**
+        - **Berserker Rage**
+          * Innate: Olaf gains bonus attack speed and life steal based on his missing health. At 70% missing health, he gains a maximum of 40% - 100% (based on level) bonus attack speed and 10% - 30% (based on level) life steal.
+
+        - **Undertow**
+          * Cost: 50 / 55 / 60 / 65 / 70 Mana
+          * Cooldown: 9 sec.
+          * Cast Time: 0.25 sec.
+          * Target Range: 425 / 1000
+          * Effect Radius: 100 / 250 / 300
+          * Width: 180
+          * Speed: 1600
+          * Active: Olaf throws an axe to the target location that deals physical damage to enemies it passes through and slows them for 1.5 - 2.5 (based on distance traveled) seconds. Enemy champions hit are also inflicted with 20% armor reduction for 4 seconds. Physical Damage: 65 / 115 / 165 / 215 / 265 (+100% bonus AD). Slow: 25 / 30 / 35 / 40 / 45%. The axe remains in place for a duration equal to Undertow's cooldown, briefly granting sight of its surroundings. Olaf can pick up the axe to reduce Undertow's current cooldown to 2.5 sec. if it is not already below that amount. Undertow will cast at max range if cast beyond that. Nearby monsters are granted ghosting upon Undertow's cast.
+
+        - **Tough It Out**
+          * Cost: 30 Mana
+          * Cooldown: 16 / 15 / 14 / 13 / 12 sec.
+          * Cast Time: None
+          * Active: Olaf gains bonus attack speed for 4 seconds. Bonus Attack Speed: 40 / 50 / 60 / 70 / 80%. He also grants himself a shield for 2.5 seconds with an amount that is capped at 70% missing health. Shield Strength: 10 / 40 / 70 / 100 / 130 (+17.5% missing health). Tough It Out resets Olaf's basic attack timer.
+
+        - **Reckless Swing**
+          * Cost: 21 / 34.5 / 48 / 61.5 / 75 (+15% AD)
+          * Cooldown: 11 / 10 / 9 / 8 / 7 sec.
+          * Cast Time: 0.25 sec.
+          * Target Range: 325
+          * Active: Olaf strikes thunder onto the target enemy, dealing true damage. True Damage: 70 / 115 / 160 / 205 / 250 (+50% AD). If Reckless Swing kills the target, Olaf heals himself equal to the health cost. Basic attacks reduce Reckless Swing's cooldown by 1 second.
+
+        - **Ragnarok**
+          * Passive: Olaf gains bonus armor and bonus magic resistance. Bonus Resistances: 10 / 20 / 30.
+          * Active: Olaf becomes enraged for 3 seconds, cleansing himself of all crowd control and becoming immune to them, as well as gaining bonus attack damage and 10% increased size. Bonus Attack Damage: 10 / 20 / 30 (+25% AD). Bonus Movement Speed: 20 / 45 / 70%. Ragnarok's duration is increased by and up to 2.5 seconds for each basic attack on-hit or Reckless Swing cast against an enemy champion.
+
+        **Champion Spotlight**
+        - [Olaf Champion Spotlight](Link)
+
+        **Champion Skins**
+        - Original
+          * View in 3D
+          * 790
+          * 08.06.2010
+        - Forsaken
+          * View in 3D
+          * 520
+          * 08.06.2010
+        - Glacial
+          * View in 3D
+          * 520
+          * 08.06.2010
+        - Day Job
+          * View in 3D
+          * 1820
+          * 01.12.2010
+        - Bro
+          * View in 3D
+          * 1350
+          * 01.10.2012
+        - Marauder
+          * View in 3D
+          * 750
+          * 30.09.2015
+        - Butcher
+          * View in 3D
+          * 750
+          * 07.09.2016
+        - SKT T1
+          * View in 3D
+          * 1350
+          * 27.06.2017
+        - Dragon World
+          * View in 3D
+          * 1350
+          * 30.01.2020
+        - Sentinels of Light
+          * View in 3D
+          * 1350
+          * 08.07.2021
+        - Pentakill Lost Chapter
+          * View in 3D
+          * 1350
+          * 09.09.2021
+
+        **Patch history**
+        * [Expanded patch notes](Link)
+
+        **Trivia**
+        - Olaf is one of 20 champions without a single ability power ratio on any ability. Other champions in this category are Aatrox, Camille, Darius, Dr. Mundo, Draven, Garen, Kayn, Kled, Naafiri, Nilah, Pyke, Riven, Samira, Sett, Talon, Urgot, Xayah, Yone, and Zed.
+        - Olaf's dance references Technoviking.
+        - Ragnarok is named after the eponymous events from Norse mythology.
+        - The crowd control removal references the Poetic Edda.
+        - During development, he was simply called Enrage Barbarian.
+        - Olaf's name derives from Old West Norse Óláfʀ, meaning 'bear-sark'.
+        - Olaf's title means 'bear-sark', referring to the garment worn by Norse berserkers.
+        - Since his lore-retconning, Olaf fears his prophesied death in peace & obscurity and instead longs for an unforgettable, glorious death in combat, inspired by the common Indo-European literary motif 'Imperishable Glory'.
+        - Likewise, Pantheon challenges his opponent(s) into an epic battle.
+        - In the V1.0.0.115 April Fools' Day patch, he was jokingly listed to receive a skin called 'Urlaf', referencing Urf.
+
+        **References**
+        - [League of Legends Wiki](Link)
+        - [Champions](Link)
+        - [Cancelled Champions](Link)
+        - [Ao Shin](Link)
+        - [Avasha](Link)
+        - [Averdrian](Link)
+        - [CeeCee](Link)
+        - [Cyborg Cowboy](Link)
+        - [Eagle Rider](Link)
+        - [Gavid](Link)
+        - [Husk](Link)
+        - [Iron Engineer](Link)
+        - [Ivan](Link)
+        - [Omen](Link)
+        - [Priscilla](Link)
+        - [Rob Blackblade](Link)
+        - [Seth](Link)
+        - [Tabu](Link)
+        - [Tiki](Link)
+        - [Urf](Link)
+        - [Well](Link)

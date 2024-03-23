@@ -1,0 +1,440 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * **Champion:** Braum
+      1. **Gameplay**
+      2. **Collection**
+      3. **Audio**
+      4. **Patch history**
+      5. **Past versions**
+      * Image
+        * Braum
+      1. **Base statistics**
+        1. Release date: 2014-05-12
+        2. Last changed: V13.24
+        3. Class(es): Warden, Legacy, Support, Tank
+        4. Position(s): Support
+        5. Resource: Mana
+        6. Range type: Melee
+        7. Adaptive type: Magic
+        8. Store price: 3150 (790 for crafting)
+        9. Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 1, Utility: 2
+      * Abilities
+        * **Concussive Blows**
+          * Passive: Braum's basic attacks and Winter's Bite each apply a stack of Concussive Blows to their target for 4 seconds, refreshing on subsequent applications and stacking up to 4 times.
+            + Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+            + The fourth stack against a target consumes all stacks to deal 26 - 196 (based on level) magic damage and stun them for 1.25 - 1.75 (based on level) seconds.
+            + This effect cannot apply to the same target more than once every few seconds.
+            + During this immunity period, affected targets take bonus magic damage equal to 20% of the trigger damage.
+        * **Winter's Bite**
+          * Cast time: 0.25 seconds
+          * Cost: 45 / 50 / 55 / 60 / 65 mana
+          * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+          * Active: Braum propels ice from his shield in the target direction, dealing magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+            + Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+        * **Stand Behind Me**
+          * Cast time: None
+          * Cost: 40 mana
+          * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+          * Active: Braum dashes to put himself between the target ally and the closest enemy champion within 1500 units, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+            + Self Bonus Armor: 20 / 25 / 30 / 35 / 40 (+ 36% bonus armor)
+            + Self Bonus Magic Resistance: 20 / 25 / 30 / 35 / 40 (+ 36% bonus magic resistance)
+            + Unbreakable can be cast during the dash
+      * Champion skins
+        * Original
+        * Dragonslayer
+        * Dragonslayer Chromas (Amethyst, Catseye, Emerald, Fan Pass, LCS, LPL, Obsidian, Pearl, Sandstone, El Tigre, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Tanzanite, Sugar Rush, Citrine, Emerald, Obsidian, Pearl, Peridot, Rose Quartz, Ruby, Sandstone, Sweet Tooth, Pool Party, Amethyst, Aquamarine, Catseye, Obsidian, Peridot, Rose Quartz, Ruby, Sandstone)
+      * **Patch history**
+        * V13.24
+          + Base mana regeneration increased to 7 from 6.
+          + Glacial Fissure minimum knock up duration increased to 0.6 seconds from 0.3.
+        * V13.22
+          + Concussive Blows no longer overlaps with Kai'Sa's Second Skin's mark indicator.
+        * V13.3
+          + Concussive Blows cooldown interval reduced to levels 1 / 6 / 11 from levels 1 / 7 / 13.
+          + Winter's Bite cooldown reduced to 8 / 7.5 / 7 / 6.5 / 6 seconds from 10 / 9 / 8 / 7 / 6 seconds.
+          + Stand Behind Me bonus resistances increased to 20 / 25 / 30 / 35 / 40 from 10 / 14 / 18 / 22 / 26.
+        * V13.1
+          + Stand Behind Me now properly grants assist credit to the caster if it affects an ally.
+          + Bug Fix: Buff VFX restored.
+        * V12.10
+          + Base health increased to 610 from 540.
+          + Health growth increased to 112 from 98.
+          + Armor growth increased to 5.2 from 4.
+          + Magic resistance growth increased to 2.05 from 1.25.
+        * V12.9
+          + Concussive Blows cooldown reduced to 8 / 6 / 4 (based on level) seconds from 8 / 7 / 6 (based on level) seconds.
+          + Unbreakable damage reduction increased to 35 / 40 / 45 / 50 / 55% from 30 / 32.5 / 35 / 37.5 / 40%.
+        * V11.19
+          + Unbreakable now correctly blocks the damage dealt by Jayce's Shock Blast if it was the first instance of champion damage against the barrier.
+        * V11.7
+          + Unbreakable cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 18 / 16 / 14 / 12 / 10 seconds.
+          + Glacial Fissure maximum knock up duration increased to 1 / 1.5 / 2 seconds from 1 / 1.25 / 1.5 seconds.
+        * V11.4
+          + Glacial Fissure cooldown reduced to 120 / 100 / 80 seconds from 140 / 120 / 100 seconds.
+        * V11.1
+          + Base attack damage reduced to 55 from 55.3.
+          + Base magic resistance reduced to 32 from 32.1.
+        * V10.20
+          + Winter's Bite base damage increased to 75 / 125 / 175 / 225 / 275 from 60 / 110 / 160 / 195 / 240.
+          + Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 55 / 60 / 65 / 70 / 75.
+        * V10.13
+          + Crime City Braum skin renamed to Crime City Braum from Mafia Braum.
+        * V10.12
+          + Bug Fix: Glacial Fissure VFX is no longer misaligned when the ability is cast at 0 range.
+        * V10.3
+          + Bug Fix: Concussive Blows stun duration now properly reduced by Tenacity.
+        * V9.24
+          + Stats: Health growth increased to 98 from 87.
+          + Winter's Bite base damage increased to 150 / 300 / 450 from 150 / 250 / 350.
+          + Stand Behind Me cooldown reduced to 12 / 11 / 10 / 9 / 8 seconds from 14 / 13 / 12 / 11 / 10 seconds.
+          + Mana cost reduced to 40 at all ranks from 50 / 55 / 60 / 65 / 70.
+          + Bonus armor ratio to allies changed to 12% bonus armor at all ranks from 10 / 11.5 / 13 / 14.5 / 16%.
+          + Bonus magic resistance ratio to allies changed to 12% bonus magic resistance at all ranks from 10 / 11.5 / 13 / 14.5 / 16%.
+          + Bonus armor ratio to Braum increased to 36% bonus armor at all ranks from 10 / 11.5 / 13 / 14.5 / 16%.
+          + Bonus magic resistance ratio to Braum increased to 36% bonus magic resistance at all ranks from 10 / 11.5 / 13 / 14.5 / 16%.
+        * V9.12
+          + General: Updated store assets for Dragonslayer Braum's chroma set.
+        * V9.7
+          + Bug Fix: Fixed a bug where Unbreakable wouldn't reduce damage from certain multi-hit abilities.
+        * V9.1
+          + New Effect: Ability icon HUD now shows the remaining duration of the ability.
+        * V8.18
+          + Base health reduced to 540 from 576.16.
+        * V8.8
+          + Armor growth reduced to 4 from 4.5.
+          + Stand Behind Me base resistances reduced to 17.5 / 20 / 22.5 / 25 / 27.5 from 21 / 23 / 25 / 27 / 30.
+          + Bonus resistances are now applied more responsively.
+        * V8.3
+          + Base health regeneration reduced to 8 from 8.18.
+        * V8.2
+          + Santa Braum bug fix: Is no longer missing his purchase and champion-specific taunt VO.
+        * V7.24
+          + Bug Fix: Fixed a bug where Braum trying to jump over a wall to a teammate with an enemy nearby would try to protect his teammate by facing the enemy but would then smack his butt into the wall and not actually jump over to safety.
+          + New Effect: Now jumps more intelligently.
+        * V7.22
+          + Base armor increased to 47 from 26.72.
+          + Stand Behind Me base resistances increased to 17.5 / 20 / 22.5 / 25 / 27.5 from 15 / 17 / 19 / 21 / 23.
+          + Bonus resistances are now applied more responsively.
+        * V7.16
+          + Urgot's Fear Beyond Death no longer executes Braum if he blocks the chains that were about to execute an ally with Unbreakable at the exact wrong moment.
+        * V7.7
+          + Dragonslayer Braum and El Tigre Braum Winter's Bite bug fix: Restored missing particles when killing an enemy with Winter's Bite.
+        * V7.1
+          + Santa Braum bug fix: The face of the poro in the joke animation no longer mutates during the animation.
+        * V6.21
+          + Bug Fix: Glacial Fissure slow no longer applies inconsistently to enemies in Fog of War.
+        * V6.16
+          + Bug Fix: Braum no longer becomes momentarily blurry after casting a spell.
+        * V6.15
+          + Concussive Blows base damage changed to 26 - 196 (based on level) from 40 - 176 (based on level).
+          + Winter's Bite base damage reduced to 60 / 105 / 150 / 195 / 240 from 80 / 125 / 170 / 215 / 260.
+        * V6.14
+          + Bug Fix: Braum no longer instantly dies if he tries to block Baron Nashor's Acid Shot with Unbreakable at the exact wrong moment.
+        * V5.18
+          + Winter's Bite mana cost increased to 55 / 60 / 65 / 70 / 75 from 45 / 50 / 55 / 60 / 65.
+        * V5.16
+          + Armor growth increased to 4.5 from 4.
+        * V5.12
+          + Winter's Bite base damage increased to 70 / 115 / 160 / 195 / 240 from 80 / 125 / 170 / 215 / 260.
+          + Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 55 / 60 / 65 / 70 / 75.
+        * V4.13
+          + Concussive Blows base damage changed to 50 - 254 (based on level) from 70 - 240 (based on level).
+          + Stand Behind Me mana cost increased to 30 / 40 / 50 / 60 / 70 from 30 / 40 / 50 / 60 / 70.
+          + Glacial Fissure first target knock up duration reduced to 1.5 seconds at all ranks from 1.5 seconds at level 1 and 1.25 seconds at levels 2, 3, 4, 5.
+          + Glacial Fissure slow reduced to 40% at all ranks from 60%.
+          + Glacial Fissure persisting slow duration after leaving zone reduced to 0.25 seconds from 1.5 seconds.
+        * V4.11
+          + Concussive Blows stack debuff duration reduced to 4 seconds from 5 seconds.
+          + Base damage changed to 70 - 240 (based on level) from 80 - 216 (based on level).
+        * V4.9
+          + Base attack damage reduced to 50 from 53.
+          + Concussive Blows no longer stuns targets with a spell shield active.
+          + Winter's Bite base damage reduced to 60 / 105 / 150 / 195 / 240 from 80 / 125 / 170 / 215 / 260.
+          + Stand Behind Me base armor gain reduced to 20 / 22.5 / 25 / 27.5 / 30 from 20 / 22.5 / 25 / 27.5 / 30.
+          + Stand Behind Me base magic resistance gain reduced to 15 / 17.5 / 20 / 22.5 / 25 from 20 / 22.5 / 25 / 27.5 / 30.
+          + Bonus armor ratio gain reduced to 10% bonus armor from 14% bonus armor.
+          + Bonus magic resistance ratio gain reduced to 10% bonus magic resistance from 14% bonus magic resistance.
+        * V4.7
+          + Added Concussive Blows: Braum's basic attacks and Winter's Bite each apply Concussive Blows to their target for 5 seconds, stacking up to 4 times.
+            * Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+            * Upon reaching 4 stacks, the target is stunned for 1.25 - 1.75 (based on level) seconds and takes 70 - 240 (based on level) magic damage.
+            * This effect cannot occur on the same target more than once every few seconds.
+            * During this immunity period, affected targets instead take 20% of the trigger damage as bonus magic damage from Braum's basic attacks and Winter's Bite.
+            * Per-Target Cooldown: 8 / 7 / 6 (based on level) seconds.
+        * Winter's Bite
+          * Active: Braum propels ice from his shield in the target direction, dealing 80 / 125 / 170 / 215 / 260 (+ 2.5% of Braum's maximum health) magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+        * Stand Behind Me
+          * Active: Braum dashes to the target ally, positioning himself between them and the closest enemy champion, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+            + If his target is a champion, they also receive the same bonuses.
+        * Unbreakable
+          * Active: Braum raises his shield for 3 / 3.25 / 3.5 / 3.75 / 4 seconds in the target direction, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30% / 31% / 32% / 33% / 34%.
+            + The first instance of damage blocked by his shield is negated completely.
+            + While his shield is raised, Braum also gains 10% bonus movement speed and is ghosted.
+        * Glacial Fissure
+          * Active: Braum leaps into the air and slams his shield into the ground, creating a fissure in the target direction that deals 150 / 250 / 350 (+ 60% AP) magic damage to enemies as well as those around him.
+            + Enemy champions hit in the close vicinity are knocked up for 1.5 seconds, while enemies hit in the line are knocked up for 0.25 seconds.
+            + If no enemy champions are hit in the point-blank area, the first enemy champion hit in the line is knocked up for 1.5 seconds.
+            + A field of ice then remains at the fissure's location for 4 seconds, slowing enemies within by 60% persisting for 1.5 seconds.
+        * Trivia
+          * Braum is the first champion to feature a unique attack animation against turrets.
+          * He is also the second to feature two joke animations, the first being Heimerdinger.
+          * Braum's dance resembles the Ukrainian Cossack dance.
+          * Braum (as pronounced by his voice-actor: /bɹɔ:m/) is the American variant of German surname Brahm [/
+ **Games**
+
+ * Universe
+   * League of Legends
+      * **Component:** Braum
+        1. **Gameplay**
+        2. **Collection**
+        3. **Audio**
+        4. **Patch history**
+        5. **Past versions**
+        * Image
+          * Braum
+      1. **Base Statistics**
+        1. Release date: 2014-05-12
+        2. Last updated: V13.24
+        3. Classes: Warden, Legacy, Support, Tank
+        4. Position(s): Support
+        5. Resource: Mana
+        6. Range type: Melee
+        7. Adaptive type: Magic
+        8. Store price: 3150 (crafting cost: 790)
+        9. Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 1, Utility: 2
+      * Abilities
+        * **Concussive Blows**
+          * Passive:
+           1. Braum's basic attacks and Winter's Bite each apply a stack of Concussive Blows to their target for 4 seconds.
+           2. Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+           3. The fourth stack against a target consumes all stacks, dealing 26 - 196 (based on level) magic damage and stunning them for 1.25 - 1.75 (based on level) seconds.
+           4. This effect cannot apply to the same target more than once every few seconds.
+           5. During the immunity period, affected targets take 20% of the trigger damage as bonus magic damage from Braum's basic attacks and Winter's Bite.
+        * **Winter's Bite**
+          * Cost: 45 / 50 / 55 / 60 / 65 mana
+          * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+          * Active: Braum propels ice from his shield in the target direction, dealing magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+           1. Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+        * **Stand Behind Me**
+          * Cost: 40 mana
+          * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+          * Active: Braum dashes to put himself between the target ally and the closest enemy champion within 1500 units, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+           1. Self-Bonus Armor: 20 / 25 / 30 / 35 / 40 (+ 36% bonus armor)
+           2. Self-Bonus Magic Resistance: 20 / 25 / 30 / 35 / 40 (+ 36% bonus magic resistance)
+        * **Unbreakable**
+          * Cost: 30 / 35 / 40 / 45 / 50 mana
+          * Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+          * Active: Braum raises his shield in the target direction for 3 / 3.25 / 3.5 / 3.75 / 4 seconds, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30% / 31% / 32% / 33% / 34%.
+           1. The first instance of damage blocked by his shield is negated completely.
+           2. While his shield is raised, Braum also gains 10% bonus movement speed and is ghosted.
+      * Champion Skins
+        * Original
+        * Dragonslayer
+        * Dragonslayer Chromas: Amethyst, Catseye, Emerald, Fan Pass, LCS, LPL, Obsidian, Pearl, Sandstone, El Tigre, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Tanzanite, Sugar Rush, Citrine, Emerald, Obsidian, Pearl, Peridot, Rose Quartz, Ruby, Sandstone
+  * Image
+    * Braum
+
+ **Games**
+
+ * Universe
+   * League of Legends
+      * **Component:** Braum
+        1. **Gameplay**
+        2. **Collection**
+        3. **Audio**
+        4. **Patch history**
+        5. **Past versions**
+      * **Base Statistics**
+        * Release date: 2014-05-12
+        * Last updated: V13.24
+        * Classes: Warden, Legacy, Support, Tank
+        * Position(s): Support
+        * Resource: Mana
+        * Range type: Melee
+        * Adaptive type: Magic
+        * Store price: 3150 (crafting cost: 790)
+        * Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 1, Utility: 2
+      * **Abilities**
+        1. **Concussive Blows**
+           * Passive:
+            1. Braum's basic attacks and Winter's Bite each apply a stack of Concussive Blows to their target for 4 seconds.
+            2. Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+            3. The fourth stack against a target consumes all stacks, dealing 26 − 196 (based on level) magic damage and stunning them for 1.25 − 1.75 (based on level) seconds.
+            4. This effect cannot apply to the same target more than once every few seconds.
+            5. During the immunity period, affected targets instead take 20% of the trigger damage as bonus magic damage from Braum's basic attacks and Winter's Bite.
+        2. **Winter's Bite**
+           * Cost: 45 / 50 / 55 / 60 / 65 mana
+           * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+           * Active: Braum propels ice from his shield in the target direction, dealing magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+            1. Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+        3. **Stand Behind Me**
+           * Cost: 40 mana
+           * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+           * Active: Braum dashes to put himself between the target ally and the closest enemy champion within 1500 units, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+            1. Self-Bonus Armor: 20 / 25 / 30 / 35 / 40 (+ 36% bonus armor)
+            2. Self-Bonus Magic Resistance: 20 / 25 / 30 / 35 / 40 (+ 36% bonus magic resistance)
+        4. **Unbreakable**
+           * Cost: 30 / 35 / 40 / 45 / 50 mana
+           * Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+           * Active: Braum raises his shield in the target direction for 3 / 3.25 / 3.5 / 3.75 / 4 seconds, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30% / 31% / 32% / 33% / 34%.
+            1. The first instance of damage blocked by his shield is negated completely.
+            2. While his shield is raised, Braum also gains 10% bonus movement speed and is ghosted.
+      * **Champion Skins**
+        * Original
+        * Dragonslayer
+        * Dragonslayer Chromas: Amethyst, Catseye, Emerald, Fan Pass, LCS, LPL, Obsidian, Pearl, Sandstone, El Tigre, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Tanzanite, Sugar Rush, Citrine, Emerald, Obsidian, Pearl, Peridot, Rose Quartz, Ruby, Sandstone
+    * Braum
+
+ **Games**
+
+ * Universe
+   * League of Legends
+      * **Component:** Braum
+        1. **Gameplay**
+        2. **Collection**
+        3. **Audio**
+        4. **Patch history**
+        5. **Past versions**
+      * **Base Statistics**
+        * Release date: 2014-05-12
+        * Last updated: V13.24
+        * Classes: Warden, Legacy, Support, Tank
+        * Position(s): Support
+        * Resource: Mana
+        * Range type: Melee
+        * Adaptive type: Magic
+        * Store price: 3150 (crafting cost: 790)
+        * Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 1, Utility: 2
+      * **Abilities**
+        1. **Concussive Blows**
+           * Passive:
+            1. Braum's basic attacks and Winter's Bite each apply a stack of Concussive Blows to their target for 4 seconds.
+            2. Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+            3. The fourth stack against a target consumes all stacks, dealing 26 - 196 (based on level) magic damage and stunning them for 1.25 - 1.75 (based on level) seconds.
+            4. This effect cannot apply to the same target more than once every few seconds.
+            5. During the immunity period, affected targets instead take 20% of the trigger damage as bonus magic damage from Braum's basic attacks and Winter's Bite.
+        2. **Winter's Bite**
+           * Cost: 45 / 50 / 55 / 60 / 65 mana
+           * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+           * Active: Braum propels ice from his shield in the target direction, dealing magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+            1. Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+        3. **Stand Behind Me**
+           * Cost: 40 mana
+           * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+           * Active: Braum dashes to put himself between the target ally and the closest enemy champion within 1500 units, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+            1. Self-Bonus Armor: 20 / 25 / 30 / 35 / 40 (+ 36% bonus armor)
+            2. Self-Bonus Magic Resistance: 20 / 25 / 30 / 35 / 40 (+ 36% bonus magic resistance)
+        4. **Unbreakable**
+           * Cost: 30 / 35 / 40 / 45 / 50 mana
+           * Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+           * Active: Braum raises his shield in the target direction for 3 / 3.25 / 3.5 / 3.75 / 4 seconds, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30% / 31% / 32% / 33% / 34%.
+            1. The first instance of damage blocked by his shield is negated completely.
+            2. While his shield is raised, Braum also gains 10% bonus movement speed and is ghosted.
+      * **Champion Skins**
+        * Original
+        * Dragonslayer
+        * Dragonslayer Chromas: Amethyst, Catseye, Emerald, Fan Pass, LCS, LPL, Obsidian, Pearl, Sandstone, El Tigre, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Tanzanite, Sugar Rush, Citrine, Emerald, Obsidian, Pearl, Peridot, Rose Quartz, Ruby, Sandstone
+   * Braum
+
+ **Games**
+
+ * Universe
+   * League of Legends
+      * **Component:** Braum
+        1. **Gameplay**
+        2. **Collection**
+        3. **Audio**
+        4. **Patch history**
+        5. **Past versions**
+      * **Base Statistics**
+        * Release date: 2014-05-12
+        * Last updated: V13.24
+        * Classes: Warden, Legacy, Support, Tank
+        * Position(s): Support
+        * Resource: Mana
+        * Range type: Melee
+        * Adaptive type: Magic
+        * Store price: 3150 (crafting cost: 790)
+        * Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 1, Utility: 2
+      * **Abilities**
+        * **Concussive Blows**
+          * Passive:
+           1. Braum's basic attacks and Winter's Bite each apply a stack of Concussive Blows to their target for 4 seconds.
+           2. Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+           3. The fourth stack against a target consumes all stacks, dealing 26 - 196 (based on level) magic damage and stunning them for 1.25 - 1.75 (based on level) seconds.
+           4. This effect cannot apply to the same target more than once every few seconds.
+           5. During the immunity period, affected targets instead take 20% of the trigger damage as bonus magic damage from Braum's basic attacks and Winter's Bite.
+        * **Winter's Bite**
+          * Cost: 45 / 50 / 55 / 60 / 65 mana
+          * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+          * Active: Braum propels ice from his shield in the target direction, dealing magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+           1. Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+        * **Stand Behind Me**
+          * Cost: 40 mana
+          * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+          * Active: Braum dashes to put himself between the target ally and the closest enemy champion within 1500 units, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+           1. Self-Bonus Armor: 20 / 25 / 30 / 35 / 40 (+ 36% bonus armor)
+           2. Self-Bonus Magic Resistance: 20 / 25 / 30 / 35 / 40 (+ 36% bonus magic resistance)
+        * **Unbreakable**
+          * Cost: 30 / 35 / 40 / 45 / 50 mana
+          * Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+          * Active: Braum raises his shield in the target direction for 3 / 3.25 / 3.5 / 3.75 / 4 seconds, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30% / 31% / 32% / 33% / 34%.
+           1. The first instance of damage blocked by his shield is negated completely.
+           2. While his shield is raised, Braum also gains 10% bonus movement speed and is ghosted.
+      * **Champion Skins**
+        * Original
+        * Dragonslayer
+        * Dragonslayer Chromas: Amethyst, Catseye, Emerald, Fan Pass, LCS, LPL, Obsidian, Pearl, Sandstone, El Tigre, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Tanzanite, Sugar Rush, Citrine, Emerald, Obsidian, Pearl, Peridot, Rose Quartz, Ruby, Sandstone
+        
+      **Braum**
+
+ * Games
+ * Universe
+ * League of Legends
+ * Component: Braum
+   * Gameplay
+   * Collection
+   * Audio
+   * Patch history
+   * Past versions
+ * Base Statistics
+   * Release date: 2014-05-12
+   * Last updated: V13.24
+   * Classes: Warden, Legacy, Support, Tank
+   * Position(s): Support
+   * Resource: Mana
+   * Range type: Melee
+   * Adaptive type: Magic
+   * Store price: 3150 (crafting cost: 790)
+   * Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 1, Utility: 2
+ * Abilities
+   * Concussive Blows
+     * Passive:
+       * Braum's basic attacks and Winter's Bite each apply a stack of Concussive Blows to their target for 4 seconds.
+       * Once the first stack has been applied, any allied champion's basic attack on the target generates an additional stack.
+       * The fourth stack against a target consumes all stacks, dealing 26 - 196 (based on level) magic damage and stunning them for 1.25 - 1.75 (based on level) seconds.
+       * This effect cannot apply to the same target more than once every few seconds.
+       * During the immunity period, affected targets instead take 20% of the trigger damage as bonus magic damage from Braum's basic attacks and Winter's Bite.
+   * Winter's Bite
+     * Cost: 45 / 50 / 55 / 60 / 65 mana
+     * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+     * Active: Braum propels ice from his shield in the target direction, dealing magic damage to the first enemy hit and slowing them by 70% decaying over 2 seconds.
+       * Magic Damage: 75 / 125 / 175 / 225 / 275 (+ 2.5% of Braum's maximum health)
+   * Stand Behind Me
+     * Cost: 40 mana
+     * Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+     * Active: Braum dashes to put himself between the target ally and the closest enemy champion within 1500 units, granting himself and the ally bonus armor and bonus magic resistance for 3 seconds.
+       * Self-Bonus Armor: 20 / 25 / 30 / 35 / 40 (+ 36% bonus armor)
+       * Self-Bonus Magic Resistance: 20 / 25 / 30 / 35 / 40 (+ 36% bonus magic resistance)
+   * Unbreakable
+     * Cost: 30 / 35 / 40 / 45 / 50 mana
+     * Cooldown: 18 / 16 / 14 / 12 / 10 seconds
+     * Active: Braum raises his shield in the target direction for 3 / 3.25 / 3.5 / 3.75 / 4 seconds, creating a barrier that intercepts incoming non-turret enemy projectiles and reduces the damage by 30% / 31% / 32% / 33% / 34%.
+       * The first instance of damage blocked by his shield is negated completely.
+       * While his shield is raised, Braum also gains 10% bonus movement speed and is ghosted.
+ * Champion Skins
+   * Original
+   * Dragonslayer
+   * Dragonslayer Chromas: Amethyst, Catseye, Emerald, Fan Pass, LCS, LPL, Obsidian, Pearl, Sandstone, El Tigre, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Tanzanite, Sugar Rush, Citrine, Emerald, Obsidian, Pearl, Peridot, Rose Quartz, Ruby, Sandstone

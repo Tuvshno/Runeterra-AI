@@ -1,0 +1,761 @@
+Games
+
+---
+
+**Universe**
+
+* League of Legends
+	+ **•**
+	+ League of Legends Champions
+		- **•**
+		- Graves
+			* **Gameplay**
+				+ Collection
+				+ Audio
+				+ Patch history
+				+ Past versions
+			* **Image**
+				+ Graves
+			* **Graves**
+				+ Release date: 2011-10-19
+				+ Last changed: V14.2
+				+ Class(es): Specialist, Legacy, Marksman
+				+ Position(s): Jungle
+				+ Resource: Mana
+				+ Range type: Ranged
+				+ Adaptive type: Physical
+				+ Store price: 4800
+				+ | 880
+				+ Crafting: + 2880
+				+ Ratings
+					- Damage: 3
+					- Toughness: 2
+					- Control: 1
+					- Mobility: 2
+					- Utility: 2
+				+ Style: Difficulty: Champion Spotlight
+				+ **Champion Spotlight**
+					- Graves Champion Spotlight
+			* **Base statistics**
+				+ Health: 625
+					+ +106
+				+ Mana: 325
+					+ +40
+				+ Health regen. (per 5s): 8
+					+ +0.7
+				+ Mana regen. (per 5s): 8
+					+ +0.7
+				+ Armor: 33
+					+ +4.6
+				+ Attack damage: 68
+					+ +4
+				+ Magic resist.: 32
+					+ +2.05
+				+ Crit. damage: 175%
+				+ Move. speed: 340
+				+ Attack range: 425
+				+ Attack speed: Base AS: 0.475
+					+ Attack windup: 0.5% (mod. 0.1)
+				+ AS ratio: 0.49
+				+ Bonus AS: +2.6%
+				+ %
+				+ Missile speed: 3800
+				+ Unit radius: Gameplay radius: 65
+				+ Selection radius: 110
+				+ Pathing radius: 10
+				+ Acq. radius: 750
+			* **Special statistics**
+				+ ARAM: Nexus Blitz: One For All: URF: Ult Spellbook: Arena
+				+ Damage Dealt: +0%
+				+ Damage Received: +0%
+				+ Damage Dealt: -2%
+				+ Damage Received: +5%
+				+ Damage Dealt: -5%
+				+ Damage Received: +0%
+				+ Damage Dealt: +0%
+				+ Damage Received: +0%
+				+ Damage Dealt: -5%
+				+ Damage Received: +0%
+				+ Damage Dealt: +0%
+				+ Damage Received: +0%
+			* **Abilities**
+				+ [ ]
+				+ **New Destiny**
+					- Target Range: 425
+					- Range: 565
+					- Width: 40
+					- Angle: 24° / 30°
+					- Speed: 3800 / 3000 / 3400
+				+ **Innate** - Double Barrel
+					- Graves' basic attacks consume ammunition within 2 shells.
+					- He will reload over a few seconds immediately after expending all shells or withholding leftover shells for a while.
+					- The reload time is reduced by Graves' level and bonus attack speed, and can be interrupted by declaring an attack or casting an ability.
+				+ **Innate** - 12-Gauge
+					- Graves' basic attack sprays 4 pellets in a cone, each colliding with the first enemy unit or structure in their path.
+					- Each subsequent pellet hitting the same target deals about one-third of the damage of the first pellet.
+					- Pellets deal 25% reduced damage against structures.
+				+ **Critical strikes**
+					- Spray 6 pellets over a 25% wider cone.
+					- Each pellet deals (30% + 20%) bonus physical damage, resulting in 73.3% (+ 18.6%) bonus damage to attacks where all pellets hit.
+					- 242.5% - 346.4% (+ 26.1% - 37.3% based on level) AD physical damage if all pellets hit.
+					- Pellets apply life steal at 100% effectiveness. Only the first pellet to hit each enemy applies on-hit effects.
+				+ **Innate** - Buckshot
+					- Non-champion units hit by more than one pellet are knocked back, though not through terrain.
+					- Hide Details
+					- Video: Info
+				+ **Targeting input**
+					- Passive
+					- Damage type: Type
+					- Sub-type: Minion Aggro
+					- Physical
+					- Drawn
+					- Counters: Spell shield, Parries, Projectile, Not Blocked, Blocked, Blocked
+				+ **Details**
+					- The in-game HUD displays Graves' reload speed in place of his attack speed. This is a visual bug, and his attack speed behaves normally.
+					- His reload speed is in the form of reloads per second: Graves' bonus attack speed growth and the cap affect his reload speed, making his bonus attack speed more worth after each level.
+					- Reload speed: Scales less the more attack speed you have until 150% bonus attack speed (not included growth). Going over that will decrease the reload speed until capping at 200% bonus attack speed.
+					- The reload time after firing both shells and the time before the reloading starts while sitting on one shell are the same, of 2.08 seconds. They're then reduced by bonus attack speed, to a minimum of 1.54 - 1.12 seconds.
+					- Reload speed at 150% bonus attack speed: 0.651 - 0.891.
+					- The reload time with one shell is 1.3 seconds.
+					- Graves' attack windup is based on such a low value that it will always take only 1 game tick, even at the lowest possible attack speed (0.2AS).
+				+ **Effects of Rapid Firecannon**
+					- When Graves' range is increased by 35% to 573.75 via Rapid Firecannon, it has special effects on his cone spread:
+						* The reach of the individual missiles is also increased by 35% to 843.75 / 783.75.
+						* The spread of the individual missiles is decreased by 35% (angle × 1/1.35) to 17.7° / 22.2°.
+						* The reduced spread means that the empowered attack can deal adequate damage in a scaled-up cone.
+						* Given the right circumstances, pellets can fly past and beyond the intended target without colliding with them, and thus collide with other enemies.
+						* The first pellet to hit an enemy deals basic damage, additional ones to hit the same enemy from the same attack deal default damage.
+						* Because of this, only the first pellet to hit each enemy applies on-hit effects.
+						* Warden's Mail only reduces damage from the first pellet to hit its wearer.
+						* Pending for test: Randuin's Omen's damage reduction to critical damage will apply to the damage of each pellet from a critical buckshot.
+				+ **Attack effects**
+					- On-hit effects are dealt to each stuck target, but not multiple times to the same target by subsequent pellets from the same attack.
+					- The order is based on the order in which the targets are hit. Single-use on-hit effects (e.g., Spellblade) will be applied to the first enemy hit; the closest one.
+					- On-action effects such as Help, Pix! and Runaan's Hurricane will be triggered, and still obey their standard target-acquisition rules.
+					- Wind's Fury can select secondary targets that will also be damaged by collision from Graves' attack.
+					- Energized is special and will be applied by a hidden homing attack missile (3000 missile speed, 3400 on crit), reminiscent of the more standard ranged attack of pre-rework Graves. The effect is therefore guaranteed to affect his attack target.
+					- Black Cleaver triggers on every instance of physical damage, so it will apply 1 stack when each individual pellet hits, stacking multiple times if multiple pellets hit the same target (Armor reduction does not take effect until the automatic stat update).
+				+ **Video**
+					- https://leagueoflegends.fandom.com/wiki/File:Graves_IVideo.ogv
+				+ **End of the Line**
+					- COST: 80 Mana
+					- COOLDOWN: 13 / 11.5 / 10 / 8.5 / 7 seconds
+					- CAST TIME: 0.25 seconds
+					- RANGE: 800 / 900
+					- WIDTH: 80 / 500 / 200
+					- Active: Graves fires a round in the target direction that deals physical damage to enemies it passes through and leaves behind a powder trail.
+					- Physical Damage: 45 / 60 / 75 / 90 / 105 (+ 80% bonus AD)
+					- After 2 seconds, or 0.231 seconds upon colliding with terrain, the round detonates to deal physical damage to enemies within a wide perpendicular area and in a reverse wave along the powder trail.
+					- Physical Damage: 85 / 120 / 155 / 190 / 225 (+ 40 / 70 / 100 / 130 / 160% bonus AD)
+					- Total Physical Damage: 130 / 180 / 230 / 280 / 330 (+ 120 / 150 / 180 / 210 / 240% bonus AD)
+				+ **Smoke Screen**
+					- COST: 70 / 75 / 80 / 85 / 90 Mana
+					- COOLDOWN: 26 / 24 / 22 / 20 / 18 seconds
+					- CAST TIME: 0.25 seconds
+					- TARGET RANGE: 950
+					- EFFECT RADIUS: 200
+					- SPEED: 1500
+					- Sight Reduction: 250
+					- Active: Graves fires a smoke canister at the target location that upon impact deals magic damage to enemies within the area and slows them by 50% for 0.5 seconds.
+					- Magic Damage: 60 / 110 / 160 / 210 / 260 (+ 60% AP)
+					- The canister creates a cloud of smoke for 4 seconds that applies nearsight of outside the area to all enemies within every 0.25 seconds, reducing their sight radius relative to the center.
+				+ **Quickdraw**
+					- COST: 40 Mana
+					- COOLDOWN: 16 / 15 / 14 / 13 / 12 seconds
+					- CAST TIME: None
+					- TARGET RANGE: 375 / 275
+					- Active: Graves dashes to the target location, reloading one shell while generating a stack of True Grit for 4 seconds, stacking up to 8 times. Dashing towards an enemy champion generates 2 stacks of True Grit.
+					- Quickdraw's current cooldown is reduced by 0.5 seconds for every pellet impacting an enemy.
+					- True Grit: For each stack, Graves gains bonus armor. Subsequent casts of Quickdraw and attacks versus non-minions will refresh the duration.
+					- Bonus Armor: 2 / 5 / 8 / 11 / 14
+					- Maximum Bonus Armor: 16 / 40 / 64 / 88 / 112
+					- Quickdraw resets Graves' basic attack timer. If Graves dashes while reloading, he can cast any of his abilities during the dash.
+					- (bug) Quickdraw will cast at max range if cast beyond that.
+				+ **Collateral Damage**
+					- COST: 100 Mana
+					- COOLDOWN: 100 / 80 / 60 seconds
+					- CAST TIME: 0.25 seconds
+					- RANGE: 1100 / 1690
+					- EFFECT RADIUS: 590
+					- WIDTH: 200
+					- ANGLE: 60°
+					- SPEED: 2100
+					- Active: Graves fires an explosive shell in the target direction that deals physical damage to enemies hit and causes him to recoil 300 units in the opposite direction.
+					- Physical Damage: 275 / 425 / 575 (+ 150% bonus AD)
+					- Upon hitting an enemy champion or reaching the end of its range, the shell explodes in a cone to deal 80% damage to additional enemies.
+					- Reduced Damage: 220 / 340 / 460 (+ 120% bonus AD)
+					- Hide Details
+					- Info
+				+ **Targeting input**
+					- Direction
+					- Damage type: Type
+					- Sub-type: Area damage
+					- Physical
+					- Counters: Spell shield, Projectile, Grounded, Knockdown, Interrupted
+				+ **Details**
+					- Physical champions who have spells that echo consistent statistic updates and have the Unflinching rune equipped will no longer grant an immensely large and recursive amount of adaptive force and hybrid resistances to enemies.
+					- Smoke Screen will no longer block abilities when cast on top of Graves.
+					- On-ground indicator now properly renders over elevation change.
+					- Visor is now fully opaque.
+					- Graves is no longer briefly stunned if an enemy tries to displace him as he casts Collateral Damage.
+					- Graves is knocked back 300 units on-cast.
+				+ **Champion skins**
+					- Original
+					- View in 3D: 880, 19.10.2011
+					- Malcolm Graves is a renowned mercenary, gambler, and thief—a wanted man in every city and empire he has visited. Even though he has an explosive temper, he possesses a strict sense of criminal honor, often enforced at the business end of his double-barreled shotgun Destiny. In recent years, he has reconciled a troubled partnership with Twisted Fate, and together they have prospered once more in the turmoil of Bilgewater’s criminal underbelly.
+					- Kyle Hebert, Jason Chan
+				- Hired Gun
+					- View in 3D: 520, 19.10.2011
+					- Kyle Hebert, Kienan 'Knockwurst' Lafferty
+				- Crime City
+					- View in 3D: 975, 02.04.2012
+					- A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2012.
+					- Kyle Hebert, OldGun-K
+				- Snow Day
+					- View in 3D: 1350, 14.12.2016
+					- Outfitted with his mighty snowblowing gun and a can-do attitude, Graves enters every snowball fight with the same entrepreneurial spirit that got him out of prison. Which is to say, blowing a lot of things up with little to no regard for his own safety.
+					- Kyle Hebert, Esben Lash Rasmussen
+				- Victorious
+					- View in 3D: 1350, 08.11.2017
+					- Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy.
+					- Kyle Hebert, Xu 'Crow God' Cheng
+				- 3v3, Flex, Solo, Praetorian
+					- View in 3D: 1350, 15.05.2019
+					- Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience.
+					- Kyle Hebert, Kelly Aleshire
+				- Battle Professor
+					- View in 3D: 1350, 15.05.2019
+					- Graves is a salty ex-soldier who served in the Durandal military before he reluctantly became a professor. Following his discovery of something deep behind enemy lines, he received an offer to teach at the Academy from the God-Weapon itself. His hallmark cigar-munching, dispassionate teaching etiquette is a small price to pay for his decades of experience.
+					- Kyle Hebert, Kelly Aleshire
+				- Sentinels
+					- View in 3D: 1820, 22.07.2021
+					- Graves could give a damn about saving the world, but the Ruined King is getting in the way of his criminal undertakings, and that he cannot abide. When the Sentinels come calling, Graves reckons he can play the hero for once—long enough to make sure there's a world left to rob, anyway.
+					- Fred Tatasciore, Horace 'Hozure' Hsu
+				- EDG
+					- View in 3D: 1350, 12.05.2022
+					- Honoring Flandre's winning performance as Graves during the 2021 World Championship.
+					- Kyle Hebert, Bo 'chenbowow' Chen
+				- Porcelain
+					- View in 3D: N/A, 08.11.2017
+					- Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy.
+					- Santiago Parra, West Studio
+				- Porcelain
+					- View in 3D: 1350, 22.02.2024
+					- Not long after gunpowder was invented, the Zodiac searched for a new protector of the Dragon Relic. Though ancient and wise, the gods struggled to find someone worthy, so they settled for Malcolm Graves. Eventually his expertise in firepower was pointed in the right direction (away from all the breakable vases).
+					- Kyle Hebert, Santiago Parra, West Studio
+				- Catseye, Emerald, Obsidian, Opulent, Pearl, Rose Quartz, Rub
+					- View in 3D: Special
+					- Porcelain Graves Chromas
+						* Catseye, Emerald, Obsidian, Opulent, Pearl, Rose Quartz, Rub
+						* Battle Professor Graves Chromas
+							+ Formal, Obsidian, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite, Turquoise
+						* Sentinels of Light Graves Chromas
+							+ Emerald, Pearl, Resolute, Rose Quartz, Ruby, Tanzanite
+						* EDG Graves Chromas
+							+ Elite, Porcelain
+					- Battle Professor Graves Chromas
+						+ Formal, Obsidian, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite, Turquoise
+					- Sentinels of Light Graves Chromas
+						+ Emerald, Pearl, Resolute, Rose Quartz, Ruby, Tanzanite
+					- EDG Graves Chromas
+						+ Elite, Porcelain
+				- Elite, Porcelain
+					- View in 3D: 1350, 22.02.2024
+					- Not long after gunpowder was invented, the Zodiac searched for a new protector of the Dragon Relic. Though ancient and wise, the gods struggled to find someone worthy, so they settled for Malcolm Graves. Eventually his expertise in firepower was pointed in the right direction (away from all the breakable vases).
+					- Kyle Hebert, Santiago Parra, West Studio
+				- Catseye, Emerald, Obsidian, Opulent, Pearl, Rose Quartz, Rub
+					- View in 3D: Special
+					- Porcelain Graves Chromas
+						* Catseye, Emerald, Obsidian, Opulent, Pearl, Rose Quartz, Rub
+						* Battle Professor Graves Chromas
+							+ Formal, Obsidian, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite, Turquoise
+						* Sentinels of Light Graves Chromas
+							+ Emerald, Pearl, Resolute, Rose Quartz, Ruby, Tanzanite
+						* EDG Graves Chromas
+							+ Elite, Porcelain
+					- Battle Professor Graves Chromas
+						+ Formal, Obsidian, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite, Turquoise
+					- Sentinels of Light Graves Chromas
+						+ Emerald, Pearl, Resolute, Rose Quartz, Ruby, Tanzanite
+					- EDG Graves Chromas
+						+ Elite, Porcelain
+				- Porcelain
+					- View in 3D: N/A, 08.11.2017
+					- Victorious Graves was awarded to players who reached Gold or higher in the 2017 season. The most wanted outlaw in Bilgewater boasts of his years of skillful heists, by wearing the finest regalia money can buy.
+					- Santiago Parra, West Studio
+				* Patch history
+					[ ]
+					For the expanded patch notes, see here.
+					V14.2
+					- January 24th Hotfix
+						* Smoke Screen
+							+ Bug Fix: No longer grants an immensely large and recursive amount of adaptive force and hybrid resistances to champions who simultaneously have spells that echo consistent statistic updates and have the Unflinching rune equipped.
+					V13.22
+						* Quickdraw
+							+ Bonus armor per stack reduced to 2 / 5 / 8 / 11 / 14 from 4 / 7 / 10 / 13 / 16.
+						* Maximum bonus armor reduced to 16 / 40 / 64 / 88 / 112 from 32 / 56 / 80 / 104 / 128.
+					V13.18
+						* Updated ability icons.
+					V13.7
+						* New Destiny
+							+ Critical strike bonus pellet damage increased to 30% from 20%.
+						+ Critical strike damage modifier increased to 40% from 26.66%.
+						+ 66.6% bonus critical damage now reduces the damage of each pellet hit to 66.6% from 81.8%.
+						+ Collateral Damage
+							+ Cooldown reduced to 100 / 80 / 60 seconds from 120 / 90 / 60.
+					V12.17
+						* End of the Line
+							+ Cooldown changed to 13 / 11.5 / 10 / 8.5 / 7 seconds from 12 / 11 / 10 / 9 / 8 seconds.
+						+ Collateral Damage
+							+ Base damage increased to 275 / 425 / 575 from 250 / 400 / 550.
+						+ Explosion base damage increased to 220 / 340 / 460 from 200 / 320 / 440.
+					V12.11
+						* Glacial Augment is now properly swapped out with First Strike.
+					V12.10
+						* Stats
+							+ Base health increased to 555 from 551.
+							+ Health growth increased to 106 from 92.
+							+ Armor growth increased to 4.6 from 3.4.
+							+ Magic resistance growth increased to 2.05 from 1.25.
+					V11.23
+						* New Destiny
+							+ Bug Fix: Fixed a bug where he would receive full Fleet Footwork healing if he targets a champion with a basic attack that is blocked by minions.
+						+ Energized will now trigger on the first struck enemy, instead of the original target.
+					V11.22
+						* New Destiny
+							+ Critical strike bonus pellet damage reduced to 20% from 30%.
+						+ Critical attacks where all pellets hit now deal 59.98% of the basic attacks where all pellets hit, reduced from 73.3%.
+						+ Critical damage amp reduced to +0.3555% per percent bonus critical damage from +0.5333%.
+					V11.21
+						* Quickdraw
+							+ Bonus armor per stack reduced to 4 / 7 / 10 / 13 / 16 from 6 / 9 / 12 / 15 / 18.
+						+ Maximum bonus armor reduced to 32 / 56 / 80 / 104 / 128 from 48 / 72 / 96 / 120 / 144.
+					V11.17
+						* General
+							+ New splash artwork for Crime City Graves.
+					V11.14
+						* End of the Line
+							+ Mana cost increased to 80 from 60.
+					V11.11
+						* Stats
+							+ Base attack damage increased to 68 from 66.
+							+ Attack damage growth increased to 3 from 2.41.
+							+ Magic resistance growth increased to 1.25 from 1.
+					V11.5
+						* March 8th Hotfix
+							+ Smoke Screen
+								- Bug Fix: Fixed a bug where it would block abilities when cast on top of Graves.
+					V11.1
+						* January 6th Hotfix
+							+ Stats
+								- Base attack damage reduced to 66 from 68.
+					V10.21
+						* Quickdraw
+							+ Bonus armor per stack reduced to 6 / 9 / 12 / 15 / 18 from 8 / 11 / 14 / 17 / 20.
+						+ Maximum bonus armor reduced to 48 / 72 / 96 / 120 / 144 from 64 / 88 / 112 / 136 / 160.
+						+ Quickdraw
+							+ Bug Fix: Using it after a basic attack now properly triggers Sheen or Kleptomancy.
+						+ Crime City Graves
+							+ Skin renamed to Crime City Graves from Mafia Graves.
+					V10.18
+						* End of the Line
+							+ Detonation base damage reduced to 85 / 115 / 145 / 175 / 205 from 85 / 145 / 205 / 265 / 325.
+						+ New Effect: There is now a 0.25-second delay for the detonation when it strikes terrain (changed from instant).
+					V9.24b
+						* Quickdraw
+							+ Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 18 / 17 / 16 / 15 / 14.
+					V9.19
+						* Stats
+							+ Base attack damage increased to 68 from 66.
+							+ Base health increased to 555 from 551.
+							+ Base mana increased to 325 from 322.
+							+ Base mana regeneration increased to 8 from 7.9.
+					V9.17
+						* Collateral Damage
+							+ Bug Fix: Is now properly disabled when grounded.
+					V9.15
+						* Quickdraw
+							+ Bonus armor per stack increased to 8 / 11 / 14 / 17 / 20 from 5 / 7.5 / 10 / 13 / 16.
+					V9.10
+						* End of the Line
+							+ Detonation base damage increased to 85 / 115 / 145 / 175 / 205 from 85 / 115 / 145 / 175 / 205.
+					V9.5
+						* Stats
+							+ Base attack damage increased to 66 from 63.
+							+ Minimized clipping during his run animation.
+					V8.24
+						* Praetorian Graves
+							+ Bug Fix: Minimized clipping during his run animation.
+					V8.20
+						* Stats
+							+ Base attack damage reduced to 63 from 66.
+							+ Base attack damage growth reduced to 2.41 from 3.1.
+					V8.11
+						* Stats
+							+ Base attack damage reduced to 66 from 69.
+						+ Collateral Damage
+							+ Cooldown increased to 120 / 90 / 60 seconds from 110 / 85 / 60.
+					V8.8
+						* Stats
+							+ Health growth increased to 92 from 84.
+						+ Collateral Damage
+							+ Cooldown reduced to 110 / 85 / 60 seconds from 120 / 100 / 80.
+					Pool Party Graves
+						+ Bug Fix: Seams have been minimized on him and all of his chromas when on lower graphics settings.
+					Snow Day Graves
+						+ Bug Fix: Eyes now properly follow his head's movement during all animations.
+					V8.7
+						* Snow Day Graves
+							+ Smoke Screen
+								- Bug Fix: On-ground indicator now properly renders over elevation change.
+							+ Riot Graves
+								- Bug Fix: Visor is now fully opaque.
+					V8.6
+						* Stats
+							+ Attack damage growth increased to 3 from 2.4.
+							+ Magic resistance growth increased to 1 from 0.
+					Smoke Screen
+						+ Wind-up duration reduced to 0.15 seconds from 0.25 seconds.
+						+ New Effect: Vision reduction now applies more quickly.
+					V8.1
+						* End of the Line
+							+ Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 90 / 90 / 100.
+						+ Smoke Screen
+							+ Slow increased to 50% at all ranks from 15% / 20% / 25% / 30% / 35%.
+						+ Smoke Screen
+							+ Sight reduction changes to "Enemies inside Smoke Screen cannot see outside, for any reason" from "Enemies inside Smoke Screen have their sight radius reduced".
+							+ Allied vision is still removed.
+					V7.24
+						* Victorious Graves
+							+ Bug Fix: Chromas now have gem and model adjustments on his gun, like the non-chroma skin.
+					V7.23
+						* Victorious Graves
+							+ End of the Line
+								- Bug Fix: No longer uses classic VFX.
+					Cutthroat Graves
+						+ Bug Fix: Left hand no longer clips through his weapon during several animations.
+					V7.22
+						* Stats
+							+ Base attack damage increased to 69 from 60.
+							+ Base armor increased to 33 from 24.3.
+							+ End of the Line
+								- Initial base damage increased to 45 / 60 / 75 / 90 / 105 from 40 / 55 / 70 / 85 / 100.
+								- Detonation base damage increased to 85 / 115 / 145 / 175 / 205 from 80 / 110 / 140 / 170 / 200.
+					V7.20
+						* Stats
+							+ Base health regeneration increased to 8 from 6.
+							+ End of the Line
+								- Initial damage AD ratio increased to 100% bonus AD from 80% bonus AD.
+								- Detonation damage increased to 85 / 145 / 205 / 265 / 325 from 90 / 155 / 220 / 285 / 350.
+					V7.19
+						* Hired Gun Graves
+							+ Bug Fix: No longer has an empty gap on his gun - VFX have been restored.
+					V7.10
+						* End of the Line
+							+ First hit base damage reduced to 40 / 55 / 70 / 85 / 100 from 55 / 70 / 85 / 100 / 115.
+							+ First hit bonus AD ratio increased to 75% bonus AD from 70% bonus AD.
+							+ Second hit base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 125 / 170 / 215 / 260.
+							+ Second hit bonus AD ratio increased to 40 / 70 / 100 / 130 / 160% bonus AD from 40
+							/ 60 / 80 / 100 / 120% bonus AD.
+							+ Collateral Damage
+								- Cooldown increased to 120 / 100 / 80 seconds from 100 / 90 / 80.
+					V7.9
+						* General
+							+ Splash artwork now has an alternate variant with his cigar for censorship purposes.
+							+ Removed: Queue multiple spells during his basic attack animation.
+							+ Stats
+								- Magic resistance growth increased to 0.5 from 0.
+					V7.7
+						* Quickdraw
+							+ Removed: Granting 5 / 7.5 / 10 / 13 / 16 magic resistance per stack.
+						+ Quickdraw
+							+ On-hit CDR reduced to 0.5 seconds from 1 second.
+							+ New Effect: Instantly loads 1 Shell.
+							+ New Effect: Resets Graves' attack timer.
+							+ New Effect: Now grants Graves a stack of True Grit for 4 seconds, increasing Graves' Armor and Magic Resistance by 10 / 15 / 20 / 25 / 30 that stacks up to 4 times.
+							+ Hits attacks against non-minions refresh the duration, but only subsequent casts will generate additional stacks.
+						+ Collateral Damage
+							+ New Effect: Graves is knocked back 300 units on-cast.
+					V6.24
+						* Smoke Screen
+							+ Pool Party Graves' Smoke Screen now properly plays its sprinkler sound effects for enemies.
+					V6.21
+						* Quickdraw
+							+ Stack limit increased to 8 from 4.
+							+ New Effect: Now grants 2 stacks if you dash toward an enemy champion.
+							+ Resistances per stack reduced to 5 / 7.5 / 10 / 13 / 16 from 10 / 15 / 20 / 25 / 30.
+					V6.16
+						* General
+							+ Fixed a bug where an enemy hit with multiple shells from Graves' basic attacks only applied a single stack of The Black Cleaver.
+					V6.15
+						* General
+							+ Fixed a bug where cancelling Graves' basic attack no longer fails to reset his basic attack timer.
+						+ Elise's Spiderlings no longer take no damage from Graves' basic attacks.
+						+ Smoke Screen no longer fizzles if cast immediately before Graves fires his second basic attack charge.
+						+ Collateral Damage no longer causes Graves to be briefly stunned if an enemy tries to displace him as he casts Collateral Damage.
+				V6.8
+					* New Destiny
+						+ First pellet damage reduced to 70% - 100% AD from 75% - 110% AD.
+						+ Subsequent pellets damage reduced to 23% - 33% AD from 24% - 36% AD.
+						+ Critical strike pellets reduced to 6 from 8.
+						+ Critical strike pellets spread angle reduced to 15° from 18°.
+						+ Removed: Bonus critical damage grants additional pellets.
+						+ New Effect: Critical strike pellets deal 40% × (1 + bonus critical damage) AD bonus damage.
+				V6.3
+					* New Destiny
+						+ Removed: Buckshot knocks back Rift Scuttler.
+						+ Removed: Double Barrel's 0.25-second recoil after attacking being interrupted by End of the Line and Collateral Damage.
+						+ End of the Line
+							+ Detonation base damage reduced to 80 / 125 / 170 / 215 / 260 from 85 / 145 / 205 / 265 / 325.
+							+ New Effect: There is now a 0.25-second delay for the detonation when it strikes terrain (changed from instant).
+						+ Quickdraw
+							+ Interrupted Graves' reloading animation.
+							+ New Effect: Graves will continue his last issued command before Quickdraw.
+				V6.2
+					* Quickdraw
+						+ Fixed a bug where leveling up caused Quickdraw's armor and magic resistance bonus to become inconsistent until refreshed.
+				V5.22
+					* November 17th Hotfix
+						+ Stats
+							- Movement speed reduced to 340 from 345.
+							- End of the Line
+								* Initial damage reduced to 55 / 70 / 85 / 100 / 115 from 60 / 80 / 100 / 120 / 140.
+							* Detonation damage reduced to 85 / 145 / 205 / 265 / 325 from 90 / 155 / 220 / 285 / 350.
+							* Mana cost increased to 60 / 70 / 80 / 90 / 100 from 55 / 60 / 65 / 70 / 75.
+					V5.22
+					* Stats
+						+ Base attack damage increased to 60.83 from 54.21.
+						+ Attack damage growth reduced to 2.41 from 3.1.
+						+ Armor growth increased to 3.4 from 3.
+						+ Magic resistance growth increased to 1.25 from 1.
+						+ Attack delay increased to 0.3 from 0.29.
+						+ Movement speed increased to 345 from 330.
+						+ Attack range reduced to 425 from 525.
+						+ New Destiny
+							- New Innate
+								+ True Grit
+									* Repurposed into Quickdraw.
+									* Passive - 12-Gauge:
+										* Graves stores up to 2 Shells.
+										* Each of Graves' basic attacks consumes 1 Shell and sprays four pellets in a cone, dealing damage to the first enemy they each collide with.
+										* Enemies hit take 75% - 110% AD damage plus 25% - 36.6% AD damage for every pellet to hit them beyond the first.
+										* Turrets take 25% reduced damage (multiplicative).
+										* Critical strikes fire 4 additional pellets (+2 more with Infinity Edge).
+										* Targets that take modified damage from basic attacks will only be hit by one pellet - e.g. wards, Zyra's plants and Noxious Traps.
+										* Runaaan's Hurricane fires its own lesser bolts at enemies near to Graves' target as if he used conventional autoattacks.
+										* Passive - Buckshot:
+											* Pellets cannot pass through units, each applies on-hit effects but enemies will only suffer on-hit effects once per attack.
+											* Non-champions hit by multiple pellets are knocked back.
+											* One-use on-hit effects like Sheen are applied to the first enemy hit, as with Rat-Ta-Tat-Tat.
+											* One-use on-hit effects like Sudden Impact and Phantom Hit are applied to the first enemy hit, as with Rat-Ta-Tat-Tat.
+											* Passive - Double Barrel:
+												* After using all of his Shells, Graves reloads Destiny, which takes ~2 seconds.
+												* Graves' bonus attack speed slightly reduces the reload timer. If Graves sits on one Shell for 4 seconds without attacking, he automatically reloads, which takes half as long.
+												* Acquiring a Shell from Quickdraw will interrupt Graves' reloading.
+												* Graves can move and attack while reloading.
+											* Graves can cast abilities while reloading.
+											* Graves can use consumables while reloading.
+											* Graves' attack speed during the reload phase is not affected by attack speed bonuses.
+											* Graves' autoattack range during the reload phase is not affected by attack range bonuses.
+											* Graves can be affected by crowd control during the reload phase.
+											* Graves' attack speed during the reload phase is affected by attack speed debuffs.
+											* Graves' attack range during the reload phase is affected by attack range debuffs.
+											* Graves' attack damage during the reload phase is affected by attack damage debuffs.
+											* Graves' attack damage during the reload phase is affected by attack damage buffs.
+											* Graves' attack range during the reload phase is affected by attack range buffs.
+											* Graves' attack speed during the reload phase is affected by attack speed buffs.
+											* Graves' movement speed during the reload phase is affected by movement speed buffs.
+											* Graves' ability power during the reload phase is not affected by ability power buffs or debuffs.
+											* Graves' attack damage during the reload phase is affected by critical strike chance.
+											* Graves' attack damage during the reload phase is affected by critical strike damage.
+											* Graves' attack damage during the reload phase is affected by attack damage from items.
+											* Graves' attack damage during the reload phase is affected by attack damage from runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions.
+											* Graves' attack damage during the reload phase is affected by attack damage from turrets.
+											* Graves' attack damage during the reload phase is affected by attack damage from minions.
+											* Graves' attack damage during the reload phase is affected by attack damage from jungle monsters.
+											* Graves' attack damage during the reload phase is affected by attack damage from wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' items.
+											* Graves' attack damage during the reload phase is affected by attack damage from runes' bonuses.
+											* Graves' attack damage during the reload phase is affected by attack damage from masteries' bonuses.
+											* Graves' attack damage during the reload phase is affected by attack damage from items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' abilities' bonus on-hit effects.
+											* Graves' attack damage during the reload phase is affected by attack damage from structures' bonus on-hit effects.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their ultimate abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their summoner spells.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their teammates.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their allies.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their wards.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their trinkets.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their champions' abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their structures.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items' passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their passive abilities.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their items.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their runes.
+											* Graves' attack damage during the reload phase is affected by attack damage from champions' bonuses from their masteries.

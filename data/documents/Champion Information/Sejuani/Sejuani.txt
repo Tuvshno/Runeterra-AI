@@ -1,0 +1,238 @@
+**Games**
+
+* League of Legends
+
+**Universe**
+
+* •
+* League of Legends
+* •
+
+**Table of Contents**
+
+1. Games
+1.1. Universe
+1.2. Sejuani
+1.3. Gameplay
+1.3.1. Collection
+1.3.2. Audio
+1.3.3. Patch history
+1.3.4. Past versions
+1.4. Image
+1.5. Sejuani
+1.6. Gameplay
+1.6.1. Collection
+1.6.2. Audio
+1.6.3. Patch history
+1.6.4. Past versions
+1.7. Class(es)
+1.8. Position(s)
+1.9. Abilities
+1.9.1. Fury of the North
+1.9.2. Arctic Assault
+1.9.3. Winter's Wrath
+1.9.4. Permafrost
+1.10. Ratings
+1.11. Damage Dealt
+1.12. Damage Received
+1.13. Difficulty
+1.14. Champion Spotlight
+1.15. Map-Specific Differences
+1.16. Info
+1.17. Targeting input
+1.18. Passive
+1.19. Damage type
+1.20. Sub-type
+1.21. Proc damage
+1.22. Magnet
+1.23. Counters
+1.24. Spell shield
+1.25. Parries
+1.26. Missing
+1.27. Gaining
+1.28. Trivia
+1.29. Changelog
+1.30. References
+
+**Sejuani**
+
+**Gameplay**
+
+| Sejuani |
+| --- |
+| **Class(es):** Vanguard, Legacy, Tank, Fighter |
+| **Position(s):** Jungle |
+| **Resource:** Mana |
+| **Range type:** Melee |
+| **Adaptive type:** Magic |
+| **Store price:** 450 |
+| **Base statistics:** |
+| - Health: 630 (+114) |
+| - Mana: 400 (+40) |
+| - Health regen. (per 5s): 8.5 (+1) |
+| - Mana regen. (per 5s): 7 (+0.7) |
+| - Armor: 34 (+5.45) |
+| - Attack damage: 66 (+4) |
+| - Magic resist.: 32 (+2.05) |
+| - Crit. damage: 175% |
+| - Move. speed: 340 |
+| - Attack range: 150 |
+| - Attack speed: Base AS 0.688, Attack windup 18.75% |
+| - AS ratio: 0.625 |
+| - Bonus AS: +3.5% |
+| **Unit radius:** Gameplay radius 80, Selection radius 140, Pathing radius 50, Acq. radius 750 |
+| **Special statistics:** |
+| - ARAM: +5% Damage Dealt, -8% Damage Received |
+| - Nexus Blitz |
+| - One For All |
+| - URF |
+| - Ult Spellbook |
+| - Arena: Damage Dealt +0%, Damage Received +0% |
+
+**Fury of the North**
+
+| Innate - Icebreaker |
+| --- |
+| Enemies stunned by Sejuani are marked Frozen for the disable's duration. Sejuani's next basic attack or ability against a Frozen enemy will consume the mark to deal bonus magic damage equal to 10% of their maximum health, capped at 250 against epic monsters. |
+
+| Innate - Frost Armor |
+| --- |
+| Sejuani gains Frost Armor, which lingers for 3 seconds after taking damage from enemy champions or monsters. She restores it after 12 − 6 (based on level) seconds without taking damage from them. |
+
+| Frost Armor |
+| --- |
+| Sejuani gains slow immunity, cripple immunity, 10 (+ 50% bonus armor), and 10 (+ 50% bonus magic resistance). |
+
+**Arctic Assault**
+
+| Active |
+| --- |
+| Sejuani dashes to the target location until she collides with an enemy champion, dealing magic damage to enemies she passes through and knocking them up for 0.5 seconds. Sejuani can cast any of her abilities during the dash. Arctic Assault will cast at max range if cast beyond that. |
+
+| Map-Specific Differences |
+| --- |
+| Arena differences |
+| Damage health ratio changed to 12% of target's maximum health. |
+| Base damage changed to 110 / 170 / 230 / 290 / 350. |
+| AP ratio changed to 110% AP. |
+| Cooldown changed to 17 / 15.5 / 14 / 12.5 / 11 seconds. |
+| Winter's Wrath |
+| Swing: Damage 10 / 15 / 20 / 25 / 30 (+60% AP), Health ratio 12% of target's maximum health. |
+| Lash: Damage 20 / 60 / 100 / 140 / 180 (+60% AP), (+6% of her maximum health). |
+| Total damage: 30 / 75 / 120 / 165 / 210 (+80% AP), (+8% of her maximum health). |
+| Sejuani can move during Winter's Wrath's cast time. |
+| Map-Specific Differences |
+| Arena differences |
+| Champion Frost immunity changed to 5 seconds. |
+| Glacial Prison |
+| Base damage: 125 / 150 / 175. |
+| Ice storm shatter slow duration reduced to 1 second. |
+| Empowered and explosion base damage: 200 / 300 / 400. |
+| Ice storm shatter damage: 200 / 300 / 400. |
+| Enemy hit by the bola is not affected by the storm's effects. |
+| Map-Specific Differences |
+| Arena differences |
+| Cooldown changed to 80 / 70 / 60 seconds. |
+| Champion skins |
+| Original, Sabretusk, Darkrider, Death Sworn, Traditional, Sabretusk (Chromas), Poro Rider, Poro Rider (Chromas), Beast Hunter, Tenfold Triumph, Sejuani Dawnchaser, Firecracker, Hextech, PROJECT, Eclipse, Solar Eclipse, Victorious, Flex Challenger, Flex Diamond, Flex Grandmaster, Flex Master, Flex Platinum, Solo/Duo Challenger, Solo/Duo Diamond, Solo/Duo Grandmaster, Solo/Duo Master, Solo/Duo Platinum |
+
+**Patch history**
+
+* V13.15: Winter's Wrath: First hit base damage reduced to 10 / 15 / 20 / 25 / 30, Second hit base damage reduced to 20 / 60 / 100 / 140 / 180. Fury of the North: Damage cap against epic monsters reduced to 250. Arctic Assault: Cooldown increased to 19 / 17.5 / 16 / 14.5 / 13 seconds, Glacial Prison: Cooldown increased to 130 / 110 / 90 seconds. Permafrost: Bug Fix: Granting the Permafrost buff to allies no longer triggers Tear of the Goddess' Mana Charge. Arctic Assault: Bug Fix: VFX are now properly shown. Fury of the North: Bonus armor and bonus magic resistance ratios increased to 50% bonus armor and 50% bonus magic resistance. Resistance linger increased to 3 seconds. Permafrost: Base damage increased to 40 / 80 / 120 / 160 / 200. AP ratio increased to 60% AP. New Effect: Frost can now also be applied to medium monsters and large minions. New Effect: On-target cooldown now only applies to enemy champions. |
+* V13.7: Fury of the North: Damage cap against epic monsters reduced to 300. Arctic Assault: Cooldown increased to 18 / 16.5 / 15 / 13.5 / 12 seconds. Glacial Prison: Cooldown increased to 120 / 100 / 80. |
+* V12.17: Arctic Assault: Bug Fix: VFX are now properly shown. |
+* V12.14: Stats: Base magic resistance reduced to 32.1. |
+* V12.10: Stats: Base health increased to 560, Health growth increased to 100, Armor growth increased to 3, Base attack speed increased to 0.625, Fury of the North: Cooldown reduced to 12 - 6 (based on level), Arctic Assault: Cooldown reduced to 18 / 16 / 14.5 / 13 / 11.5 seconds, Base damage increased to 80 / 130 / 180 / 230 / 280, AP ratio increased to 60% AP. Permafrost: Bug Fix: Passive now properly resets its debuff duration when reapplying at max stacks. |
+* V11.19: Arctic Assault: Cooldown reduced to 18 / 16 / 14.5 / 13 / 11.5 seconds, Base damage increased to 90 / 140 / 190 / 240 / 290. |
+* V11.10: Permafrost: Targeting changed to "Prioritizes champions within 50 of cursor, then non-champions within 50 of cursor, then champions within 350 of cursor, then closest unit to cursor within 2500 (this only applies if there is no target directly under your cursor)". Winter's Wrath: Second hit health ratio increased to 6% of her maximum health. |
+* V11.1: Stats: Base magic resistance reduced to 32, Magic resistance growth reduced to 0.75. Fury of the North: Bonus armor ratio reduced to 35%, Bonus magic resistance ratio reduced to 35%. Permafrost: Base damage reduced to 40 / 80 / 120 / 160 / 200. |
+* V10.22: Glacial Prison: Base damage increased to 150 / 250 / 350, Empowered and explosion base damage increased to 150 / 250 / 350. |
+* V10.16: Arctic Assault: Bug Fix: Now properly triggers Electrocute after basic attacking an enemy champion after hitting them. |
+* V10.14: Permafrost: Base damage increased to 55 / 105 / 155 / 205 / 255, On-target cooldown reduced to 8 seconds at all levels. |
+* V10.3: Stats: Base attack speed increased to 0.67, Fury of the North: Bonus armor ratio reduced to 20 / 70 / 120 (based on level) (+100% total armor), Bonus magic resistance ratio reduced to 20 / 70 / 120 (based on level) (+100% total magic resistance). Permafrost: Stun duration reduced to 1 / 1.25 / 1.5 / 1.75 / 2 seconds, Target range reduced to 600, Base damage reduced to 40 / 60 / 80 / 100 / 120. |
+* V9.22: Permafrost: Base damage reduced to 30 / 45 / 60 / 75 / 90, Glacial Prison: Ice storm shatter slow duration reduced to 1 second. |
+* V8.14: Glacial Prison: Maximum stun duration reduced to 1.5 seconds. |
+* V8.12: Fury of the North: Damage against monsters changed to 10 / 15 / 20 (based on level) % of their maximum health, Damage is capped at 300 against epic monsters. Winter's Wrath: Mana cost reduced to 65, New Effect: Flail swing now scales with 20% AP, New Effect: Flail lash now scales with 60% AP. Permafrost: Base damage increased to 30 / 45 / 60 / 75 / 90, AP ratio increased to 60% AP, New Effect: Frost can now also be applied to medium monsters and large minions, New Effect: On-target cooldown now only applies to enemy champions. |
+* V8.7: Permafrost: Stun duration reduced to 1 / 1.25 / 1.5 / 1.75 / 2 seconds. |
+* V8.3: Arctic Assault: Cooldown increased to 17 / 15.5 / 14 / 12.5 / 11 seconds. |
+* V8.2: Permafrost: New Effect: Now draws nearby minion aggro when targeting an enemy champion. |
+* V7.23: Stats: Base armor reduced to 31. |
+* V7.22: Stats: Base attack damage increased to 64. |
+* V7.21: Stats: Base armor reduced to 22, Armor growth reduced to 3. |
+* V7.16: Poro Rider Sejuani: Bug Fix: Baby poro once again runs over to |Bristle's| during Sejuani's death. |
+* V7.14: Winter's Wrath: Bug Fix: The second hit no longer counts as a separate spellcast. |
+* V7.10: Fury of the North: Frost Armor bonus resistances reduced to 60 / 105 / 150 / 205 / 260 (based on level), Arctic Assault: Shifted slightly to address instances where Sejuani collided with targets behind her, Winter's Wrath: New Effect: Cooldown starts once both swings are complete instead of on-cast, Cooldown reduced to 9 / 8 / 7 / 6 / 5 seconds. |
+* V7.9: May 5th Hotfix: Fury of the North: Bug Fix: Fixed a bug causing it not to break from instances of damage that were entirely absorbed by a shield, Cooldown increased to 15 / 12 / 9 (based on level) seconds. |
+* V7.9: May 4th Hotfix: Stats: Base health reduced to 560, Winter's Wrath: Mana cost increased to 80, First hit base damage reduced to 20 / 25 / 30 / 35 / 40, Second hit base damage reduced to 30 / 65 / 100 / 135 / 170. |
+* V7.9: General: Title changed to Fury of the North, New splash artwork for Darkrider Sejuani, Sabretusk Sejuani, and Traditional Sejuani. |
+* V7.1: Stats: Base health regeneration reduced to 8.5, Base mana regeneration reduced to 7, Mana regeneration increased to 0.7. |
+* V7.0: Stats: Base health reduced to 560, Base health growth increased to 100, Base mana reduced to 600, Base mana growth increased to 10, Base attack damage reduced to 56, Base attack range increased to 150, Base attack speed reduced to 0.625, Base armor reduced to 31, Base magic resistance reduced to 32. |
+* V6.23: Stats: Base attack damage reduced to 55. |
+* V6.19: Stats: Base attack damage reduced to 54. |
+* V6.18: Stats: Base attack damage reduced to 53. |
+* V6.15: Stats: Base attack damage reduced to 52. |
+* V6.13: Stats: Base attack damage reduced to 51. |
+* V6.11: Stats: Base attack damage reduced to 50. |
+* V6.10: Stats: Base attack damage reduced to 49. |
+* V6.06: Stats: Base attack damage reduced to 48. |
+* V6.04: Stats: Base attack damage reduced to 47. |
+* V6.03: Stats: Base attack damage reduced to 46. |
+* V6.02: Stats: Base attack damage reduced to 45. |
+* V6.01: Stats: Base attack damage reduced to 44. |
+* V5.21: Stats: Base attack damage reduced to 43. |
+* V5.17: Stats: Base attack damage reduced to 42. |
+* V5.15: Stats: Base attack damage reduced to 41. |
+* V5.14: Stats: Base attack damage reduced to 40. |
+* V5.12: Stats: Base attack damage reduced to 39. |
+* V5.11: Stats: Base attack damage reduced to 38. |
+* V5.10: Stats: Base attack damage reduced to 37. |
+* V5.09: Stats: Base attack damage reduced to 36. |
+* V5.08: Stats: Base attack damage reduced to 35. |
+* V5.06: Stats: Base attack damage reduced to 34. |
+* V5.04: Stats: Base attack damage reduced to 33. |
+* V5.03: Stats: Base attack damage reduced to 32. |
+* V5.02: Stats: Base attack damage reduced to 31. |
+* V5.01: Stats: Base attack damage reduced to 30. |
+* V4.19: Stats: Base attack damage reduced to 29. |
+* V4.18: Stats: Base attack damage reduced to 28. |
+* V4.17: Stats: Base attack damage reduced to 27. |
+* V4.16: Stats: Base attack damage reduced to 26. |
+* V4.14: Stats: Base attack damage reduced to 25. |
+* V4.13: Stats: Base attack damage reduced to 24. |
+* V4.12: Stats: Base attack damage reduced to 23. |
+* V4.11: Stats: Base attack damage reduced to 22. |
+* V4.10: Stats: Base attack damage reduced to 21. |
+* V4.09: Stats: Base attack damage reduced to 20. |
+* V4.07: Stats: Base attack damage reduced to 19. |
+* V4.06: Stats: Base attack damage reduced to 18. |
+* V4.05: Stats: Base attack damage reduced to 17. |
+* V4.04: Stats: Base attack damage reduced to 16. |
+* V4.03: Stats: Base attack damage reduced to 15. |
+* V4.02: Stats: Base attack damage reduced to 14. |
+* V4.01: Stats: Base attack damage reduced to 13. |
+* V3.19: Stats: Base attack damage reduced to 12. |
+* V3.18: Stats: Base attack damage reduced to 11. |
+* V3.17: Stats: Base attack damage reduced to 10. |
+* V3.16: Stats: Base attack damage reduced to 9. |
+* V3.15: Stats: Base attack damage reduced to 8. |
+* V3.13: Stats: Base attack damage reduced to 7. |
+* V3.12: Stats: Base attack damage reduced to 6. |
+* V3.11: Stats: Base attack damage reduced to 5. |
+* V3.10: Stats: Base attack damage reduced to 4. |
+* V3.09: Stats: Base attack damage reduced to 3. |
+* V3.08: Stats: Base attack damage reduced to 2. |
+* V3.07: Stats: Base attack damage reduced to 1. |
+
+**Trivia**
+
+* Sejuani's name resembles that of Roman equestrian Sejanus.
+* Sejuani's direct ancestor Serylda's name comes from two Germanic roots: *sarwo* 'armor, equipment' and *hildiz* 'fight, battle'.
+* Sejuani's name might be inspired by the boar Gullinbursti from Norse mythology.
+* Sejuani is referenced in Assassin's Creed Valhalla.
+* Sejuani is currently the champion with the shortest time between their initial release and a full visual gameplay update, at 1 year and 3 months.
+* Sejuani was the first champion released in 2012.
+* In Sejuani's Art Spotlight, the artist names the layer that has the boar on it 'Piggles'.
+* If Ashe, Lissandra, and/or Sejuani are played on opposing teams, Battle for Freljord will trigger. This in-game quest consists in one killing the other to earn the title of 'Queen of Freljord' (complete with a floating ice crown floating above their heads) referencing the civil war taking place there, between the three tribes each lead.
+* Sejuani, Fury of the North is the only champion in the game that does not have a standard magic resistance scaling (30-38.5 or 32.1-53.35), though she does share this trait with Mega Gnar as he has different base stats to Gnar.
+* Sejuani, Karma, Lee Sin, and Trundle are the only champions to feature a 'traditional' skin representing them before their visual updates (hers was conceived after an unreleased 'Queen' skin).
+* Sejuani's animations were recycled for the Tuskbeard monster from Odyssey: Extraction, a rotating game mode.

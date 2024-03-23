@@ -1,0 +1,276 @@
+This document contains information about League of Legends.
+
+The source of this document is here: https://leagueoflegends.fandom.com/wiki/League_of_Legends
+
+League of Legends (or LoL; initially League of Legends: Clash of Fates) is a multiplayer online battle arena (MOBA) genre video game developed by Riot Games logo icon Riot Games. It was designed to operate on the Microsoft Windows operating system. The game was first announced on October 7, 2008 and released a year later on October 27, 2009. The game was in beta from April 10, 2009 to October 26th, 2009.
+
+Two main protagonists for the popular Warcraft III: The Frozen Throne mod, Defense of the Ancients: Allstars (commonly abbreviated as DotA), Steve 'Guinsoo' Feak and Steve 'Pendragon' Mescon are involved with Riot Games in the process of making of League of Legends. Guinsoo created DotA: Allstars from the original DotA, created by Eul, by adding his own mix of content, including over 40 heroes, numerous items, and various gameplay changes. Guinsoo then passed DotA: Allstars on to its current developer, Icefrog. Pendragon, who is the Director of Community Relations for Riot Games, helped create the DotA: Allstars website along with its forums, and is still currently working on DotA: Allstars alongside League of Legends. The core game is free to play, and new users can register an account here.
+
+Platform(s)
+Microsoft Windows, macOS
+Genre
+Role-Playing Game, Real-Time Strategy, Multiplayer Online Battle Arena
+Modes
+Singleplayer, Multiplayer
+Format
+Download, DVD Retail
+Input methods
+Keyboard, Mouse
+
+Gameplay
+General
+Players are formed into two even teams primarily comprised of five members. Each team starts at opposing sides of a map, near what is called a "Nexus". To win a match, a team must destroy the opposing team's Nexus. To do so, each team must work through a series of towers called 'turrets' that are placed along three paths to each base (commonly referred to as 'lanes') Along the way, each player gains power by completing game objectives, earning them experience points and gold that are used to increase the player's level and to purchase powerful items, potentially giving players an advantage over their opponents. Examples of these objectives include killing the opposing team's turrets, players, and 'minions' (small NPCs that constantly spawn and attack the other team).
+
+Matchmaking
+Main article: Queuing and Matchmaking
+League of Legends is a session-based game. Matchmaking occurs based on the average skill ratings of each player, determined by their recent win and loss record. Excluding private lobbies, the game can be currently played in four different queue types: Co-op vs. AI, normal, ranked, and Clash.
+
+Co-op queues create casual matches where players team up to defeat randomly selected bots of varying difficulty.
+Normal queues create casual, unranked matches between two teams of players. The matchmaker is not as strict for normal games, and Featured game modes are part of this casual part of League of Legends.
+Ranked queues create competitive matches. Ranked games are only available to players who have reached level 30, as players must have a fundamental familiarity with the game.
+Clash creates an adjacent competitive branch of League of Legends. It is meant to simulate the culmination of team-based competition that is tournaments.
+Custom games on the other hand are non-matchmade and allow players to create a private lobby and set its properties, or find an existing lobby to join. Unlike in co-op games, custom games allow for assembling teams of any range and size on either side. Empty spaces can be filled in by bots or players, or remain empty. The Practice Tool is a single-player custom game sandbox.
+
+Game Modes and Maps
+Main article: Maps
+There are currently two game modes: Classic and ARAM. The Classic game mode is a base defense in which one attempts to battle their way gradually to the opponents' Nexus with the help of minions, through turrets and inhibitors. The ARAM game mode, All Random All Mid, is a mode where base defense similar to Classic game mode but is situated on a smaller, single-path, or single-lane map.
+
+Maps in League of Legends were also called "Fields of Justice."[9]
+
+Classic
+Main article: Summoner's Rift (League of Legends)
+Summoner's Rift resembles the Defense of the Ancients map with three lanes and supports five players per side.
+
+The maps put two teams with a fixed number of players against each other. Each team has its base, which contains the re-spawn point, item shop, and Nexus. The two bases are connected by lanes. Periodically, waves of minions spawn from the Nexus. Minions are AI-controlled NPC's that move down the lanes, engaging any enemies they encounter. The lanes are lined with turrets that engage enemies within range. Once a turret is destroyed, it will not respawn. A new element in League of Legends is the inhibitors. Each lane has an inhibitor on both ends. If a team destroys the enemy inhibitor, more powerful 'super minions' will spawn for that side. Unlike turrets, inhibitors respawn after a few minutes.
+
+Besides the lanes, the maps also contain "jungle" areas, populated with neutral monster camps. These monsters can be killed by a champion for gold and experience. Some large monsters will grant the killer a buff, such as killing a Blue Sentinel grants its killer the ability to  Crest of Insight help them in battle. Another special terrain feature is the brush. A brush blocks the line of sight of units, allowing champions to hide and set up a surprise attack, or "gank".
+
+The goal of each team is to destroy the enemy Nexus, with the winner being the one who manages to do it first. Surrendering is possible through a voting system.
+
+All Random All Mid
+The Howling Abyss is exclusively available for ARAM. It has similar gameplay with the classic maps where players must destroy the Nexus to win here with a few changes.Unlike the classic maps, ARAM only has one lane and has no jungle, the re-spawn point will not restore health or mana, and players cannot purchase items after passing the Nexus. Players must die to purchase items again. With the lack of health and mana restoration from the re-spawn point, ARAM features Health Relics.
+
+Players will begin at level three, have an increase in starting gold and gold income, base XP generation, reduced respawn time, and a map-wide aura that increases mana regeneration, provides base armor/magic penetration, and reduces healing, as well as other changes to make it a different, faster-paced game. Some items have been added, removed and changed to fit the mode.
+
+Teamfight Tactics
+Teamfight Tactics is an 8-player free-for-all drafting tactics game available through the League Client, but also as a standalone game on mobile platforms, in which the player recruits powerful champions, deploys them, and battles to become the last player standing. It has a self-contained tab of the client, as well as being able to be selected from the change modes menu in the play tab like other gamemodes. Teamfight Tactics has its own normal and ranked queues, as well as missions and missions interface.
+
+Champions
+Main article: Champions
+Each player controls a single champion. While the game came out with 40 champions there are currently 167 different champions available in the game, each with unique characteristics. Certain champions are tagged with certain attributes such as 'tank', 'fighter', 'mage' or 'support' to describe their play style. Champions have more than one attribute, and can be played in a variety of ways, though some are more viable than others.
+
+At the start of each battle, every player must choose a champion to fight for him/her in battle. The choice of champions is limited by what the player has unlocked. Each week, fourteen champions are made temporarily free so that players can try them out without unlocking them, a service known as the free champion rotation.
+
+Champions gain experience by killing enemy minions, neutral monsters, champions, or structures. After reaching a certain amount of experience, the champion levels up. Each level increases the champion's stats and adds an ability point that can be spent to improve one of the champion's four unique abilities. Normally, each champion has three basic abilities that can be learned at any time, with a maximum rank of five (with some exceptions). They also have the ability to level up their ultimate ability at level 6, to a maximum rank of three. The maximum level for a champion is 18.
+
+Players can gain gold by landing the killing blow on an enemy minion/monster, by killing a champion/assisting in a kill, or will receive global gold from the destruction of structures, or killing of some epic monsters. Some abilities and items also generate extra gold. The acquired gold can be spent at the item shop for various items. These items boost stats of the champion. Some items can be combined into more powerful items by following predefined recipes.
+
+Champion Roster
+Aatrox
+Ahri
+Akali
+Akshan
+Alistar
+Amumu
+Anivia
+Annie
+Aphelios
+Ashe
+Aurelion Sol
+Azir
+Bard
+Bel'Veth
+Blitzcrank
+Brand
+Braum
+Briar
+Caitlyn
+Camille
+Cassiopeia
+Cho'Gath
+Corki
+Darius
+Diana
+Dr. Mundo
+Draven
+Ekko
+Elise
+Evelynn
+Ezreal
+Fiddlesticks
+Fiora
+Fizz
+Galio
+Gangplank
+Garen
+Gnar
+Gragas
+Graves
+Gwen
+Hecarim
+Heimerdinger
+Hwei
+Illaoi
+Irelia
+Ivern
+Janna
+Jarvan IV
+Jax
+Jayce
+Jhin
+Jinx
+K'Sante
+Kai'Sa
+Kalista
+Karma
+Karthus
+Kassadin
+Katarina
+Kayle
+Kayn
+Kennen
+Kha'Zix
+Kindred
+Kled
+Kog'Maw
+LeBlanc
+Lee Sin
+Leona
+Lillia
+Lissandra
+Lucian
+Lulu
+Lux
+Malphite
+Malzahar
+Maokai
+Master Yi
+Milio
+Miss Fortune
+Mordekaiser
+Morgana
+Naafiri
+Nami
+Nasus
+Nautilus
+Neeko
+Nidalee
+Nilah
+Nocturne
+Nunu & Willump
+Olaf
+Orianna
+Ornn
+Pantheon
+Poppy
+Pyke
+Qiyana
+Quinn
+Rakan
+Rammus
+Rek'Sai
+Rell
+Renata Glasc
+Renekton
+Rengar
+Riven
+Rumble
+Ryze
+Samira
+Sejuani
+Senna
+Seraphine
+Sett
+Shaco
+Shen
+Shyvana
+Singed
+Sion
+Sivir
+Skarner
+Smolder
+Sona
+Soraka
+Swain
+Sylas
+Syndra
+Tahm Kench
+Taliyah
+Talon
+Taric
+Teemo
+Thresh
+Tristana
+Trundle
+Tryndamere
+Twisted Fate
+Twitch
+Udyr
+Urgot
+Varus
+Vayne
+Veigar
+Vel'Koz
+Vex
+Vi
+Viego
+Viktor
+Vladimir
+Volibear
+Warwick
+Wukong
+Xayah
+Xerath
+Xin Zhao
+Yasuo
+Yone
+Yorick
+Yuumi
+Zac
+Zed
+Zeri
+Ziggs
+Zilean
+Zoe
+Zyra
+
+Summoner
+The Summoner acts as the persistent element in the game and is the common term used to describe the League of Legends players. Summoner accounts are used to track statistics and scores for each player.
+
+Summoners gain experience points after each battle they participate in. They level up after receiving enough experience, and can unlock new champions and Blue Essence.
+
+Summoner spells
+Main article: Summoner spell
+The Summoner can choose two summoner spells to use in battle. These spells significantly impact gameplay and have a high cooldown while costing no mana. All spells can be improved with summoner masteries.
+Runes
+Main article: Rune
+Runes are enhancements that the player select for their champion before a match on a field of justice begins to augment their champion's abilities.
+Terminology
+Main article: Terminology (League of Legends)
+League of Legends has its own share of keywords and terminologies used in and outside of the game, with some terms being used to simplify and facilitate rapid communication.
+
+Reception
+League of Legends received "generally favorable" reviews on Metacritic holding a metascore of 78/100 based on 37 critic reviews.
+
+Trivia
+League of Legends is Riot Games' take on the Multiplayer Battle Online Arena genre.
+
+The Origins
+The beginning of League of Legends' development was sparked at the close of 2005 with the idea of a standalone spiritual successor to the popular Warcraft III mod, Defense of the Ancients. League of Legends was born "when a couple of very active DotA community members believed that the gameplay was so much fun and so innovative that it represented the spawning of a new genre and deserved to be its own professional game with significantly enhanced features and around-game services."
+
+Riot Games was co-founded by Brandon Beck and Marc Merrill. Together, they partnered with some of the key creative minds behind the creation of DotA: Allstars, Steve "Guinsoo" Feak and Steve "Pendragon" Mescon, in League of Legends' core development. Riot Games officially opened its office in September 2006. The company currently has about one thousand employees working on League of Legends, "including their robust technology platform to service and operate the game as well as a team dedicated to community relations."
+
+According to Marc Merrill, when creating the various champions in the game, instead of leaving the champion creation to just a few people, they decided to open up the champion creation process to everyone in the company based upon a template in which they could vote on which champions made it into the game.
+
+Distribution
+Riot Games has signed deals regarding the distribution of League of Legends in Asia, Oceania, Europe, and America continents.
+
+In Asia, Tencent Inc. - China's largest Internet value-added services company, best known for its QQ Instant Messaging client - will be in charge of the distribution to Tencent's growing 300 million Internet user base through its leading QQ Game portal. The deal is one of only a handful of partnerships to bring a U.S.-developed online game directly to China.
+
+For distribution in Europe, Riot Games signed an international licensing partnership with GOA, the videogames department of Orange's Content Division and Europe's largest gaming portal after some issues with the European version of the game, Riot later decided to break the contract with GOA and self-publish the game instead.
+
+In North America, Riot Games self-publishes and operates the game and all of its customer service aspects.
+
+For distribution in South East Asia, Riot Games partners with Garena.
+
+

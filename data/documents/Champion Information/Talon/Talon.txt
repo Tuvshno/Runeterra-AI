@@ -1,0 +1,164 @@
+**Games**
+
+* Universe
+  + League of Legends
+  - Talon
+
+**Talon**
+
+* Release date: 2011-08-24
+* Last changed: V14.2
+* Class(es): Assassin, Legacy
+* Position(s): Middle, Jungle
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 3150 (790 for champion shard)
+* Crafting cost: +1890
+
+**Base statistics**
+
+| Statistic           | Value                          |
+|----------------------|--------------------------------|
+| Health               | 658 +109                       |
+| Mana                  | 400 +37                         |
+| Health regen. (per 5s)| 8.5 +0.75                       |
+| Mana regen. (per 5s)  | 7.6 +0.8                         |
+| Armor                | 30 + 4.7                        |
+| Attack damage        | 68 + 3.1                        |
+| Magic resist.        | 39 + 2.05                       |
+| Crit. damage         | 175%                            |
+| Move. speed          | 335                            |
+| Attack range         | 125                            |
+| Attack speed         | 0.625                           |
+| Unit radius          | 65                             |
+| Selection radius     | 120                             |
+| Pathing radius       | 35                             |
+| Acq. radius          | 400                             |
+
+**Special statistics**
+
+| Statistic               | Value                          |
+|--------------------------|--------------------------------|
+| ARAM                     | +5% Damage Dealt               |
+| Nexus Blitz             | N/A                            |
+| One For All            | N/A                            |
+| URF                      | +0% Damage Dealt               |
+| Ult Spellbook            | N/A                            |
+| Arena                    | -5% Damage Received            |
+| Tenacity & Slow Resist   | +20%                           |
+
+**Abilities**
+
+* **Blade's End**
+  + Innate: Talon's abilities apply a stack of Wound to enemy champions and large monsters hit for 6 seconds, refreshing on basic attacks and subsequent applications and stacking up to 3 times.
+  + Talon's next basic attack against an enemy with 3 Wound stacks is empowered to consume them all to cause the target to bleed, dealing [80 - 280 (based on level) (+ 210% bonus AD)] total physical damage over 2 seconds, increased to 120% damage against monsters. The target cannot gain Wound stacks during this time.
+  + Targeting input: Passive
+  + Damage type: Type: Physical, Sub-type: Default
+  + Counters: Spell shield, Parries (but the bleed effect still applies)
+  + Map-Specific Differences: Arena differences (Total bonus AD ratio changed to 300% bonus AD)
+
+* **Noxian Diplomacy**
+  + Cost: 40 Mana
+  + Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+  + Cast time: None / 0.25 seconds
+  + Target range: 575 / 170
+  + Speed: 1400 / 4000
+  + Active: Talon dashes toward the target enemy, dealing physical damage upon arrival. If Noxian Diplomacy is cast within close range, Talon instead stabs the target to critically strike for [(50% + 50%) bonus physical damage], as well as gain 75 bonus attack range on his next basic attack within 1 second.
+  + Physical Damage: 65 / 85 / 105 / 125 / 145 (+ 100% bonus AD)
+  + If Noxian Diplomacy kills the target, Talon heals for [9 - 55 (based on level)] and the ability's cooldown is reduced by 50%.
+  + Shadow Assault can be cast during the dash.
+  + Targeting input: Unit Target (Out-of-range override: Walk in range of the target)
+  + Damage type: Type: Physical, Sub-type: Spell damage
+  + Counters: Spell shield, Grounded, Knockdown, Blocked (but the heal still applies)
+  + Map-Specific Differences: Arena differences (Bonus AD ratio changed to 130% bonus AD, Initial base damage changed to 60 / 75 / 90 / 105 / 120, Return base damage changed to 75 / 112.5 / 150 / 187.5 / 225, Slow strength changed to 50 / 55 / 60 / 65 / 70%)
+
+* **Rake**
+  + Cost: 50 / 55 / 60 / 65 / 70 Mana
+  + Cooldown: 9 / 8.5 / 8 / 7.5 / 7 seconds
+  + Cast time: 0.25 seconds
+  + Range: 900 / 850
+  + Width: 150
+  + Angle: 22°
+  + Speed: 2571 / 2429 / 3000
+  + Active: Talon throws a fan of daggers in a cone in the target direction that deals physical damage to enemies hit.
+  + Physical Damage: 40 / 50 / 60 / 70 / 80 (+ 40% bonus AD)
+  + At maximum range, the daggers linger for 0.75 seconds before homing back to Talon, dealing physical damage to enemies hit and slowing them for 1 second.
+  + Physical Damage: 50 / 80 / 110 / 140 / 170 (+ 80% bonus AD)
+  + Total Physical Damage: 90 / 130 / 170 / 210 / 250 (+ 120% bonus AD)
+  + Slow: 40 / 45 / 50 / 55 / 60%
+  + Rake deals 105% damage against monsters.
+  + Enemies can be hit only once per pass.
+  + Targeting input: Direction
+  + Damage type: Type: Physical, Sub-type: Area damage
+  + Counters: Spell shield, Projectile, Blocked
+  + Map-Specific Differences: Arena differences (Initial base damage changed to 60 / 75 / 90 / 105 / 120, Return base damage changed to 75 / 112.5 / 150 / 187.5 / 225, Slow strength changed to 50 / 55 / 60 / 65 / 70%)
+
+**Champion skins**
+
+* Original
+* Renegade
+* Crimson Elite
+* Dragonblade
+* Lunar Revel: Warring Kingdoms
+* Blood Moon
+* Enduring Sword
+* Talon Blackwood
+* Withered Rose
+
+**Patch history**
+
+* V14.2: Withered Rose Talon - Rake: Bug Fix: VFX no longer extends past the spell's hitbox.
+* V13.24: Noxian Diplomacy - New Effect: Dash cast now resets his basic attack timer as well.
+* V13.6: Stats - Base mana increased to 400 from 377.
+* V12.22: Stats - Base mana reduced to 377 from 377.
+* V12.10: Stats - Base health increased to 658 from 588.
+* V12.3: Shadow Assault - Bug Fix: Blades no longer briefly disappear for a frame on cast of the VFX.
+* V12.2: Rake - Damage against monsters reduced to 105% from 130%.
+* V12.1: Noxian Diplomacy - Bug Fix: Fixed a bug where it could sometimes hit untargetable enemy champions.
+* V11.24: Noxian Diplomacy - Bug Fix: Fixed a bug where it would cancel his next basic attack.
+* V11.24: Rake - Damage against monsters reduced to 130% from 150%.
+* V11.24: Blade's End - Bug Fix: Abilities blocked by spell shields no longer improperly apply their mark VFX.
+* V11.18: Noxian Diplomacy - Base damage reduced to 65 / 85 / 105 / 125 / 145 from 65 / 90 / 115 / 140 / 165.
+* V11.12: Rake - Initial pass bonus AD ratio reduced to 55% bonus AD from 60%.
+* V11.10: Noxian Diplomacy - Bonus AD ratio reduced to 100% bonus AD from 110%.
+* V11.4: Rake - Cooldown reduced to 9 / 8.5 / 8 / 7.5 / 7 seconds from 9 seconds at all ranks.
+* V11.4: Shadow Assault - Bug Fix: No longer causes the caster to become visible while stealthed if they reset Duskblade of Draktharr's Nightstalker during the invisibility.
+* V11.1: Noxian Diplomacy - Bug Fix: Now properly grants a mana charge when equipped with Tear of the Goddess.
+* V10.25: Rake - Return base damage increased to 45 / 65 / 85 / 105 / 125 from 45 / 65 / 85 / 105 / 125.
+* V10.11: Noxian Diplomacy - Mana cost increased to 40 from 30.
+* V10.7: Rake - Base damage reduced to 45 / 60 / 75 / 90 / 105 from 50 / 65 / 80 / 95 / 110.
+* V10.6: General - Recommended items updated.
+* V10.4: Blade's End - New Effect: Now triggers against all monsters.
+* V8.14: Rake - Return base damage reduced 70 / 85 / 100 / 115 / 130 from 70 / 95 / 120 / 145 / 170.
+* V8.10: Assassin's Path - Bug Fix: Will now be less likely to vault him in the opposite direction than was intended.
+* V8.9: Noxian Diplomacy - Range increased to 575 from 500.
+* V8.6: Blade's End - Base damage increased to 75 - 245 (based on level) from 75 - 175 (based on level).
+* V8.4: Stats - Base magic resistance increased to 39 from 32.
+* V8.3: Stats - Base health regeneration reduced to 8.5 from 8.51.
+* V8.2: Noxian Diplomacy - New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+* V7.22: Stats - Base attack damage increased to 68 from 60.
+* V7.18: Blood Moon Talon - Blade's End - Bug Fix: VFX are now more visible on elevated terrain.
+* V7.14: Noxian Diplomacy - Changed several interactions where it overwrites any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+* V7.7: Noxian Diplomacy - Base damage reduced to 60 / 85 / 110 / 135 / 160 from 80 / 110 / 120 / 140 / 160.
+* V7.3: SSW Talon - Rake - Bug Fix: Blades no longer look like Talon's normal blades on the return trip for everyone else but him.
+* V7.1: Stats - Mana regeneration growth increased to 0.75 from 0.5.
+* V6.22: General - New ability icons.
+* V6.22: Stats - Base movement speed reduced to 335 from 350.
+* V6.22: Stats - Health growth increased to 90 from 85.
+* V6.22: Stats - Base attack damage increased to 60 from 55.
+* V6.22: Stats - Base attack speed reduced to 0.625 from 0.668.
+* V6.22: Stats - Attack speed growth increased to 2.9% from 2.7%.
+* V6.22: Blade's End - New Innate: Talon's abilities Wound enemy champions and epic monsters damaged for a 6 seconds, stacking up to 3 times. When Talon attacks a fully stacked enemy, they bleed for [60 - 160 (based on level)] (+ 200% bonus AD) physical damage over the next 2 seconds.
+* V6.22: Noxian Diplomacy - Revised Active: Talon strikes his target, dealing them [80 / 100 / 120 / 140 / 160] (+ 100% bonus AD) physical damage. If cast from melee range, Talon will critically strike the target instead for [120 / 150 / 180 / 210 / 240] (+ 150% bonus AD) physical damage. Whenever Noxian Diplomacy kills a unit, Talon restores [17 - 51 (based on level)] health and refunds 50% of its cooldown. Cooldown increased to 8 / 7.5 / 7 / 6.5 / 6 seconds from 8 / 7 / 6 / 5 / 4 seconds. Mana cost reduced to 30 at all ranks from 40 / 45 / 50 / 55 / 60.
+* V6.22: Rake - Cooldown reduced to 9 seconds at all ranks from 10 seconds.
+* V6.22: Rake - Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 60 / 65 / 70 / 75 / 80.
+* V6.22: Rake - Slow increased to 40 / 45 / 50 / 55 / 60% from 20 / 25 / 30 / 35 / 40%.
+* V6.22: Rake - New Effect: Slow now only applies when the blades return.
+* V6.22: Rake - New Effect: Now has a 0.7 seconds delay before returning to Talon.
+* V6.22: Rake - Range increased to 900 from 750.
+* V6.22: Rake - Arc reduced to 22° from 40°.
+* V6.22: Rake - Outgoing damage changed to 50 / 65 / 80 / 95 / 110 (+ 40% bonus AD) from 30 / 55 / 80 / 105 / 130 (+ 60% bonus AD).
+* V6.22: Rake - Return damage increased to 60 / 85 / 110 / 135 / 160 (+ 60% bonus AD) from 30 / 55 / 80 / 105 / 130 (+ 60% bonus AD).
+* V6.22: Rake - Total damage changed to 110 / 150 / 190 / 230 / 270 (+ 100% bonus AD) from 60 / 110 / 160 / 210 / 260 (+ 120% bonus AD).
+* V5.24: General - New champion: Talon, the Blade's Shadow, released.

@@ -1,0 +1,273 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Poppy
+
+**Poppy**
+
+* **Image**
+* **Gameplay**
+  * Cosmetics
+  * Audio
+  * Development
+  * Patch History
+  * History
+  * Trivia
+* **Base statistics**
+
+---
+
+**Poppy**
+
+* Released: 2010-01-13
+* Class(es): Warden, Legacy, Tank, Fighter
+* Position(s): Top, Jungle
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 450
+
+**Iron Ambassador**
+
+* Passive: Periodically, Poppy's next basic attack is empowered to throw her buckler, gaining 350 bonus range and dealing 20 − 180 (based on level) bonus magic damage. After it hits, the buckler then falls to a location near the target over 1 second, landing and remaining there for up to 4 seconds. Poppy can move over the buckler to retrieve it, gaining a shield for 13 / 15.5 / 18.5 / 21.5 / 25.5 of her maximum health for 3 seconds. If the buckler kills the target, or if the target is already dead when the buckler hits it, the buckler will bounce back to Poppy instead of falling. Enemy champions can move over the buckler to destroy it.
+
+---
+
+**Hammer Shock**
+
+* COST: 35 / 40 / 45 / 50 / 55 Mana
+* COOLDOWN: 8 / 7 / 6 / 5 / 4
+* CAST TIME: 0.25
+* RANGE: 460 / -120
+* WIDTH: 160
+* Active: Poppy smashes the area in the target direction, dealing physical damage to enemies hit. Against monsters, the damage based on their health ratio is capped. Physical Damage: 40 / 60 / 80 / 100 / 120 (+ 90% bonus AD) (+ 9% of target's maximum health). Capped Monster Health Damage: 30 / 60 / 90 / 120 / 150. Maximum Monster Damage: 70 / 120 / 170 / 220 / 270 (+ 90% bonus AD). The impact creates a field for 1 second that slows enemies within, which then ruptures to deal the same physical damage. Slow: 20 / 25 / 30 / 35 / 40%. Total Physical Damage: 80 / 120 / 160 / 200 / 240 (+ 180% bonus AD) (+ 18% of target's maximum health). Total Maximum Monster Damage: 140 / 240 / 340 / 440 / 540 (+ 180% bonus AD).
+
+---
+
+**Steadfast Presence**
+
+* COST: 50 Mana
+* COOLDOWN: 20 / 18 / 16 / 14 / 12
+* CAST TIME: none
+* EFFECT RADIUS: 400
+* Passive: Poppy increases her total armor and total magic resistance by 12%, doubled to 24% while she is below 40% maximum health.
+* Active: Poppy gains 40% bonus move speed and creates an aura around herself for 2 seconds, causing all enemies who attempt to dash into or within it to be dealt magic damage and knocked up for 0.5 seconds. If a target was successfully interrupted, they become grounded and slowed by 25% for 2 seconds. Magic Damage: 70 / 110 / 150 / 190 / 230 (+ 70% AP). Steadfast Presence can only block a single dash per enemy per cast.
+
+---
+
+**Map-Specific Differences**
+
+---
+
+**Arena differences**
+
+* Cooldown changed to 26 / 23.5 / 21 / 18.5 / 16 seconds.
+
+---
+
+**Heroic Charge**
+
+* COST: 70 Mana
+* COOLDOWN: 14 / 13 / 12 / 11 / 10
+* CAST TIME: none
+* TARGET RANGE: 475
+* Active: Poppy dashes to the target enemy's location. If they are in range upon arrival, she deals physical damage and carries them along with her for up to 400 units. Physical Damage: 60 / 80 / 100 / 120 / 140 (+ 50% bonus AD). If the target hits terrain, she stops to deal the same physical damage and stuns them for a duration. Stun Duration: 1.6 / 1.7 / 1.8 / 1.9 / 2 seconds. Total Physical Damage: 120 / 160 / 200 / 240 / 280 (+ 100% bonus AD).
+
+---
+
+**Keeper's Verdict**
+
+* COST: 100 Mana
+* COOLDOWN: 140 / 120 / 100
+* CAST TIME: 0.25
+* TARGET RANGE: 500
+* / 850 − 1200 (based on channel time)
+* EFFECT RADIUS: 180 / 225
+* WIDTH: 180
+* SPEED: 2500
+* Active: Poppy charges while being slowed by 15% for up to 4 seconds to increase Keeper's Verdict's range and knock back distance over 0.5 seconds after the first 0.5 seconds of the channel. Keeper's Verdict can be recast within the duration.
+* Recast: Poppy releases the charge to launch her hammer upwards, dealing physical damage to enemies nearby and in an area in front of her and knocking them up for 1 second. Physical Damage: 100 / 150 / 200 (+ 45% bonus AD). If Keeper's Verdict was charged for at least 0.5 seconds, it deals 100% increased damage and enemies hit are knocked back up-to 3400 units toward the enemy team's fountain. Additionally, if no enemies are hit in front of Poppy, she sends a shockwave that travels in the target direction until it collides with an enemy champion, causing a hammer to erupt. Targets hit by the shockwave or the eruption receive the charged effects.
+* Increased Damage: 200 / 300 / 400 (+ 90% bonus AD).
+* If the charge is interrupted or completes without reactivation, Keeper's Verdict is cancelled and the ability is put on a 15-second cooldown.
+* Enemies knocked airborne are revealed and are rendered untargetable while being displaced if Keeper's Verdict was charged for more than 0.5 seconds.
+
+---
+
+**Champion Skins**
+
+* Original
+* View in 3D
+* 260
+* 13.01.2010
+* Runeterra has no shortage of valiant champions, but few are as tenacious as Poppy. Bearing the legendary hammer of Orlon, a weapon twice her size, this determined yordle has spent untold years searching in secret for the fabled 'Hero of Demacia,' said to be its rightful wielder. Until then, she dutifully charges into battle, pushing back the kingdom’s enemies with every whirling strike.
+* Kate Higgins, Joshua 'HUGEnFAST' Brian Smith, Jason Chan
+* Loot eligible
+* Noxus
+* View in 3D
+* 520
+* 02.02.2010
+* Kate Higgins
+* Mist XG
+* Otherroads
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* Lollipoppy
+* View in 3D
+* 975
+* 19.10.2010
+* Lollipoppy is a legend to the people of the Candy Kingdom. Everyone remembers her face. Everyone.
+* Kate Higgins
+* Unknown artist
+* Sugar Rush
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* Blacksmith
+* View in 3D
+* 975
+* 24.08.2010
+* A famously gruff blacksmith working under the tutelage of Sir Ornn of the Freljord, Poppy wields a hammer imbued with a powerful magic that she believes is destined for the weapon for an unknown hero. Little does she know the hammer is the weapon, and the hero… is herself.
+* Kate Higgins
+* Xi Zhang
+* Medieval
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* Ragdoll
+* View in 3D
+* 975
+* 14.12.2010
+* Once an innocent cloth doll, Poppy watched helplessly as toy soldiers knocked over her peaceful block village. Now she leads her people to war, their cotton hearts filled with vengeance.
+* Kate Higgins
+* Bo 'chenbowow' Chen
+* Toy Box
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* Battle Regalia
+* View in 3D
+* 520
+* 15.03.2011
+* Kate Higgins
+* Shuohan Zhou
+* Legacy
+* Loot eligible
+* New SFX/VFX
+* Chromas
+* Battle Regalia Poppy Chromas
+* Amethyst
+* Emerald
+* Obsidian
+* Rose Quartz
+* Ruby
+* Sapphire
+* Scarlet Hammer
+* View in 3D
+* 975
+* 01.02.2012
+* Kate Higgins
+* Unknown artist
+* Dragon World
+* Loot eligible
+* New SFX/VFX
+* Star Guardian
+* View in 3D
+* 1350
+* 05.10.2016
+* Fierce and no-nonsense, Poppy is often the first Star Guardian on the battle lines, ready to put her duty before everything else. With her trusty hammer, Poppy sees the universe as black and white: you're either here to smash anything that threatens the sanctity of the cosmos, or you're getting smashed.
+* Kate Higgins
+* Esben Lash Rasmussen
+* Star Guardian Season 1
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Snow Fawn
+* View in 3D
+* 1350
+* 12.12.2017
+* The Poro King's right hand and loyal shield, Poppy enforces his decrees and protects him from all harm. She also enjoys Snowdown festivities, a holiday she discovered on one of her many colorful adventures.
+* Kate Higgins
+* Rudy Siswanto
+* Winter Wonder
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* New Animations/Recall
+* Hextech
+* View in 3D
+* Special
+* 23.07.2018
+* Artificers of the Hextech renaissance owe much to Poppy, an expert engineer of the delicate craft. Having perfected the infusion of life into the inanimate, she now feverishly researches the ultimate scientific breakthrough—the creation of an artificial soul.
+* Kate Higgins
+* Pan Chengwei
+* Hextech
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Astronaut
+* View in 3D
+* 1350
+* 28.05.2020
+* Commencing countdown, engines on. Check ignition, keep the Hammer safe with you...
+* Kate Higgins
+* David Villegas, West Studio
+* Astronauts
+* Loot eligible
+* Voice filter
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Astronaut Poppy Chromas
+* Amethyst
+* Aquamarine
+* Chrono
+* Citrine
+* Peridot
+* Rose Quartz
+* Ruby
+* Bewitching
+* View in 3D
+* 1350
+* 07.10.2021
+* Poppy leads the trick-or-treating charge. She's always the first to arrive, even at particularly creepy doorsteps, undaunted by whatever frightening spectre—or delicious treat—lies on the other side.
+* Kate Higgins
+* Horace 'Hozure' Hsu
+* Bewitching
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Bewitching Poppy Chromas
+* Citrine
+* Emerald
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Turquoise
+* Cafe Cuties
+* View in 3D
+* 1350
+* 25.10.2023
+* After stumbling upon a magical hammer said to leave behind the tastiest treats from every swing, Poppy discovered her true calling: feeding the cafe's hungry customers! Anybody who messes with her friends, though… might find out that those treats aren't always so sweet.
+* Kate Higgins
+* Lejia Chan, Kudos Productions
+* Cafe Cuties
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Cafe Cuties Poppy Chromas
+* Aquamarine
+* Catseye
+* Obsidian
+* Peridot
+* Rose Quartz
+* Ruby
+* Sandstone
+* Tanzanite

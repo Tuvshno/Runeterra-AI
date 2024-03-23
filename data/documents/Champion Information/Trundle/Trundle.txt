@@ -1,0 +1,171 @@
+**Games**
+
+* Universe
+  +-- League of Legends
+  +-- Teamfight Tactics
+  +-- Legends of Runeterra
+
+**Image**
+
+* Trundle
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+**Patch history**
+
+**Past versions**
+
+---
+
+**Trundle**
+
+**Release date:** 2010-12-01
+
+**Last changed:** V14.5
+
+**Class(es):** Juggernaut, Legacy, Fighter, Tank
+
+**Position(s):** Top, Jungle
+
+**Resource:** Mana
+
+**Range type:** Melee
+
+**Adaptive type:** Physical
+
+**Store price:** 3150 (790 for champion shard)
+
+| **Crafting:** +1890 gold
+
+**Ratings:**
+
+| **Damage:** 2
+| **Toughness:** 3
+| **Control:** 1
+| **Mobility:** 1
+| **Utility:** 2
+
+**Style:** Difficulty: **Champion Spotlight**
+---
+
+**Trundle Champion Spotlight**
+---
+
+**Trundle is a champion in League of Legends.**
+
+---
+
+**Base statistics**
+
+| **Health:** 650 (+110)
+| **Mana:** 340 (+45)
+| **Health regen. (per 5s):** 6
+| **Mana regen. (per 5s):** 0.6
+| **Armor:** 37 (+3.9)
+| **Attack damage:** 68 (+4)
+| **Magic resist.:** 32 (+2.05)
+| **Crit. damage:** 175%
+| **Move. speed:** 350
+| **Attack range:** 175
+| **Attack speed:** Base AS: 0.67, Attack windup: 20.833%, AS ratio: N/A, Bonus AS: +2.9%
+| **Unit radius:** Gameplay radius: 65, Selection radius: 135, Pathing radius: 26, Acq. radius: 400
+
+**Special statistics**
+
+| **ARAM:** No changes
+| **Nexus Blitz:** No changes
+| **One For All:** No changes
+| **URF:** No changes
+| **Ult Spellbook:** No changes
+| **Arena:** No changes
+| **Damage Dealt:** +0%
+| **Damage Received:** +5%
+| **Healing:** +0%
+| **Damage Dealt:** +0%
+| **Damage Received:** +0%
+| **Damage Dealt:** -5%
+| **Damage Received:** +7%
+| **Damage Dealt:** -5%
+| **Damage Received:** +0%
+| **Healing:** -20%
+| **Damage Dealt:** +0%
+| **Damage Received:** +5%
+| **Damage Dealt:** +0%
+| **Damage Received:** +0%
+
+---
+
+**Abilities**
+
+[**King's Tribute**]
+---
+
+**Effect radius:** 1400
+
+**Innate:** Whenever a nearby enemy dies, Trundle heals himself for 1.8% − 5.5% (based on level) of the target's maximum health.
+
+**Details:** King's Tribute does not trigger when an enemy structure is destroyed.
+---
+
+[**Chomp**]
+---
+
+**Cost:** 20 Mana
+
+**Cooldown:** 3.5 seconds
+
+**Cast time:** None
+
+**Active:** Trundle empowers his next basic attack within 7 seconds to have an uncancellable windup, gain 25 bonus range, deal bonus physical damage and slow the target by 75% for 0.1 seconds.
+
+**Bonus Physical Damage:** 10 / 30 / 50 / 70 / 90 (+ 15 / 25 / 35 / 45 / 55% AD)
+
+**After using the empowered attack, Trundle gains bonus attack damage for 5 seconds and reduces the target's attack damage by half that amount for the same duration. Chomp resets Trundle's basic attack timer.**
+
+**Details:** Chomp will still incur the attack damage increase for Trundle even if the attack is dodged, blocked, missed while he is blinded, or it is blocked by spell shield. Spell shield will only block the attack damage reduction and slow.
+---
+
+[**Frozen Domain**]
+---
+
+**Cost:** 40 Mana
+
+**Cooldown:** 16 / 15 / 14 / 13 / 12 seconds
+
+**Cast time:** None
+
+**Target range:** 750
+
+**Effect radius:** 775
+
+**Active:** Trundle coats the target location in ice for 8 seconds. While he is within the area, he gains bonus attack speed, bonus movement speed, and 25% increased healing from all sources.
+
+**Bonus Attack Speed:** 30 / 50 / 70 / 90 / 110%
+
+**Bonus Movement Speed:** 20 / 28 / 36 / 44 / 52%
+
+**Frozen Domain will cast at max range if cast beyond that.**
+---
+
+[**Pillar of Ice**]
+---
+
+**Cost:** 75 Mana
+
+**Cooldown:** 24 / 22 / 20 / 18 / 16 seconds
+
+**Cast time:** 0.25 seconds
+
+**Target range:** 1000
+
+**Effect radius:** 360 / 225 (pillar radius: 150)
+
+**Active:** Trundle erects a pillar of ice at the target location for 6 seconds, which knocks back units hit to 225 units from its center. The pillar acts as terrain and slows nearby enemies.
+
+**Slow:** 30 / 34 / 38 / 42 / 46%
+
+**Details:** Pillar of Ice displaces allied units away from the area but does not render them airborne. Allied channels (e.g., Recall, Teleport) will be interrupted. Pillar of Ice cannot be placed inside impassable terrain. Attempting to do so will cause the pillar to spawn in the nearest available spot of accessible terrain. Pillar Of Ice triggers effects such as drawing turret aggro, Sudden Impact, and applying Elixir of Sorcery by dealing 0 proc true damage.

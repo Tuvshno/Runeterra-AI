@@ -1,0 +1,163 @@
+**Games**
+
+* Universe
+* League of Legends
+	+ •
+	+ League of Legends Champions
+		- Aatrox
+			* Gameplay
+			* Collection
+			* Audio
+			* Patch history
+			* Past versions
+	+ •
+	+ Teamfight Tactics
+	+ •
+	+ Legends of Runeterra
+	+ Wild Rift
+* Image
+	+ Aatrox
+
+**Aatrox**
+
+* Release date: 2013-06-13
+* Last changed: V14.4
+* Class(es): Juggernaut, Legacy, Fighter, Tank
+* Position(s): Top
+* Resource: Manaless
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 4800
+* Crafting cost: +2880
+* Ratings
+	+ Damage: 3
+	+ Toughness: 3
+	+ Control: 2
+	+ Mobility: 2
+	+ Utility: 2
+* Style: Difficulty: Champion Spotlight
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Statistics**
+
+* Base statistics
+	+ Health: 650 (+114)
+	+ Resource: N/A
+	+ Health regen. (per 5s): 3 (+1)
+	+ Armor: 38 (+4.45)
+	+ Attack damage: 60 (+5)
+	+ Magic resist.: 32 (+2.05)
+	+ Crit. damage: 175%
+	+ Move. speed: 345
+	+ Attack range: 175
+	+ Attack speed: Base AS: 0.651, Bonus AS: +2.5%
+	+ Unit radius: Gameplay radius: 65, Selection radius: 135, Pathing radius: 35, Acq. radius: 475
+* Special statistics
+	+ ARAM: Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+	+ Damage Dealt: +5%, Damage Received: +0%
+	+ Damage Dealt: +0%, Damage Received: +0%
+	+ Damage Dealt: +0%, Damage Received: +0%
+	+ Damage Dealt: +15%, Damage Received: -30%
+	+ Damage Dealt: +0%, Damage Received: +0%
+	+ Damage Dealt: +0%, Damage Received: +0%
+
+**Abilities**
+
+* Deathbringer Stance
+	+ Static cooldown: 22 − 10 (based on level) seconds
+	+ Periodically empowers next basic attack to gain bonus range and deal bonus magic damage equal to 4% − 12% (based on level) of target's maximum health
+	+ Heals for 80% of post-mitigation bonus damage dealt, reduced to 25% against minions
+	+ Cooldown reduced when hitting at least one enemy champion or large monster with a basic attack or an ability
+* The Darkin Blade
+	+ Three-part ability
+	+ First cast: 625 × 180-unit rectangular area, with Aatrox centered on the back line and the Sweetspot at the farthest edge
+	+ Second cast: trapezoidal area, with the Sweetspot at the farthest edge and the hitbox beginning 100 units behind Aatrox
+	+ Third cast: 300-radius circular area centered on a target location that is 200 units in front of Aatrox, with a 180-radius Sweetspot within
+	+ Deals 55 / 60 / 65 / 70% (based on level) damage against minions and knocks up for 0.5 seconds longer against monsters
+	+ Maximum non-minion damage: 60 / 150 / 240 / 330 / 420 (+360 / 405 / 450 / 495 / 540% AD)
+
+**Infernal Chains**
+
+* Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+* Cast time: 0.25 seconds
+* Range: 825 / 765
+* Width: 160
+* Speed: 1800
+* Active: sends a chain in target direction that deals magic damage to the first enemy hit, doubled against minions, and slows them for 1.5 seconds
+* Magic damage: 30 / 40 / 50 / 60 / 70 (+40% AD)
+* Minion damage: 60 / 80 / 100 / 120 / 140 (+80% AD)
+* Slow: 25 / 27.5 / 30 / 32.5 / 35%
+
+**Umbral Dash**
+
+* Passive: heals for a portion of the non-persistent post-mitigation damage dealt to enemy champions, increased during World Ender
+* Healing: 18 / 19.5 / 21 / 22.5 / 24%
+* World Ender increased healing: 20 / 24 / 28 / 32 / 36%
+* Cast time: none
+* Target range: 75 / 300 / 500
+* Speed: 800 / Up to 1340
+
+**World Ender**
+
+* Cooldown: 120 / 100 / 80 seconds
+* Cast time: 0.25 seconds
+* Effect radius: 600
+* Active: unleashes true form for 10 seconds, fears nearby enemy minions and monsters for 3 seconds, and gains ghosting and bonus movement speed
+* Bonus movement speed: 60 / 80 / 100%
+* Healing: 25 / 35 / 45%
+* Bonus attack damage: 20 / 32.5 / 45% AD
+
+**Champion skins**
+
+* Original
+* Justicar
+* Mecha
+* Bilgewater: Burning Tides
+* Blood Moon
+* Prestige Blood Moon
+* Victorian
+* Victorious
+* DRX
+* Lunar Eclipse
+* World Champions: 2022
+
+**Map-Specific Differences**
+
+* Arena
+* Bilgewater: Burning Tides
+* Prestige Blood Moon
+* Eclipse
+* World Champions: 2022
+* DRX
+
+**Patch history**
+
+* V14.4: Deathbringer Stance cooldown reduced, bug fix for empowered attack no longer reducing cooldown
+* V13.20: World Ender bonus movement speed VFX no longer disappears prematurely when buff refreshes upon takedown
+* V13.17: World Ender bug fix: VFX for bonus movement speed no longer disappears prematurely when buff refreshes upon takedown
+* V13.15: The Darkin Blade first cast AD ratio reduced, second cast AD ratio reduced, third cast AD ratio reduced, first cast sweetspot AD ratio reduced, second cast sweetspot AD ratio reduced, third cast sweetspot AD ratio reduced, maximum AD ratio reduced
+* V13.14: General bug fix: Mecha Aatrox and Lunar Eclipse Aatrox no longer return to and freeze into their idle pose when Recall animation was paused, The Darkin Blade VFX of third cast on some skins no longer render above impassable terrain
+* V13.9: Deathbringer Stance damage health ratio increased, World Ender bonus movement speed increased, Infernal Chains slow increased, World Ender bonus attack damage increased
+* V13.5: Infernal Chains slow increased, cooldown reduced
+* V13.1: Deathbringer Stance damage health ratio reduced, Umbral Dash healing reduced, World Ender bonus movement speed reduced, World Ender healing amplification reduced, cooldown increased
+* V12.20: Deathbringer Stance heal reduced
+* V12.14: Stats health growth increased, Umbral Dash healing reduced, World Ender healing amplification reduced, cooldown increased
+* V12.10: Stats base health increased, health growth increased, armor growth increased, magic resistance growth increased, Umbral Dash healing reduced, World Ender healing amplification reduced, cooldown increased
+* V12.7: General bug fix: Voice lines now properly play when conditions are met
+* V12.4: The Darkin Blade sweetspot bonus damage increased
+* V11.19: Infernal Chains cooldown reduced
+* V11.2: Umbral Dash New Effect: healing against champions is now increased to 26 / 32 / 38 / 44 / 50% during World Ender, World Ender healing amplification reduced
+* V11.1: Stats base magic resistance reduced, World Ender healing amplification increased, World Ender cooldown reduced, new effect: after 0.25 seconds, Aatrox unleashes true demonic form for 10 seconds, fears nearby allied and enemy minions for 3 seconds, and gains increased size and 20 / 25 / 30% AD, World Ender generates Blood Well equal to 15% − 50% (based on duration) of Aatrox's maximum health over the duration, taking lethal damage during World Ender revives Aatrox over 3.25 seconds, during which he is untargetable, invulnerable, slowed by 25%, unable to basic attack, cast abilities, or use summoner spells or item actives and consumes the Blood Well to recover the same amount in health, World Ender cooldown reduced, World Ender passive removed, new effects: after 0.25 seconds, Aatrox unleashes true demonic form for 10 seconds, fears nearby allied and enemy minions for 3 seconds, and for the first second gains 120 / 180 / 240 bonus movement speed, World Ender passive removed, World Ender cooldown begins on cast, rather than after World Ender expires
+* V9.19: The Darkin Blade damage against minions increased
+* V9.18: Deathbringer Stance healing against minions reduced, The Darkin Blade damage against minions reduced
+* V9.14: General bug fix: Aatrox's walk animation for all his skins now performs correctly, Stats health regeneration growth increased, World Ender removed: if Aatrox takes lethal damage during World Ender, he no longer revives over 3.25 seconds, instead he becomes untargetable, invulnerable, slowed by 25%, unable to basic attack, cast abilities, or use summoner spells or item actives and heals for 30% of his maximum health, World Ender healing amplification increased, cooldown reduced
+* V9.12: Deathbringer Stance cooldown changed, World Ender bonus healing changed to self-healing only
+* V9.9: Base armor increased, health growth increased, Deathbringer Stance damage increased, The Darkin Blade AD ratio increased, Stats base health regeneration reduced, Deathbringer Stance removed: no longer inflicts Mutilator against enemy champions, instead now heals for bonus physical damage dealt, Stats maximum bonus damage against monsters reduced, attack frame adjusted to match other basic attacks, The Darkin Blade cooldown now begins after the most recent The Darkin Blade sequence finishes, rather than on first cast, cooldown reduced, base damage increased, Infernal Chains slow strength changed, cooldown increased, Umbral Dash removed: no longer grants bonus AD for 1.5 seconds, new effect: healing changed to all non-periodic champion damage from physical champion damage, World Ender new effect: cooldown now begins on cast, rather than after World Ender expires, cooldown reduced, removed: no longer removes buffs during revival, new effects: after 0.25 seconds, Aatrox unleashes true demonic form for 10 seconds, fears nearby allied and enemy minions for 3 seconds, and for the first second gains 120 / 180 / 240 bonus movement speed, World Ender generates Blood Well equal to 15% − 50% (based on duration) of Aatrox's maximum health over the duration, taking lethal damage during World Ender revives Aatrox over 3.25 seconds, during which he is untargetable, invulnerable, slowed by 25%, unable to basic attack, cast abilities, or use summoner spells or item actives and consumes the Blood Well to recover the same amount in health, World Ender cooldown locked during revival.

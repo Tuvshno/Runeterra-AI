@@ -1,0 +1,755 @@
+Games
+
+**Universe**
+
+•
+
+**League of Legends**
+
+• League of Legends Universe
+•
+
+• League of Legends Champions
+• Alistar
+
+**Image**
+
+Alistar
+
+**Gameplay**
+
+• Cosmetics
+• Audio
+• Development
+• Patch History
+• History
+• Trivia
+
+**Base statistics**
+
+Alistar
+
+**Edit**
+
+**Health** 685 +120
+
+**Mana** 350 +40
+
+**Health regen.** (per 5s) 8.5 +0.85
+
+**Mana regen.** (per 5s) 8.5 +0.8
+
+**Armor** 47 +4.7
+
+**Attack damage** 62 +3.75
+
+**Magic resist.** 32 +2.05
+
+**Crit. damage** 175%
+
+**Move. speed** 330
+
+**Attack range** 125
+
+**Attack speed**
+
+* Base AS 0.625
+* Attack windup 30%
+* AS ratio N/A
+* Bonus AS +2.125 %
+
+**Unit radius**
+
+* Gameplay radius 80
+* Selection radius 145
+* Pathing radius 50
+* Acq. radius 600
+
+**Special statistics**
+
+* ARAM Nexus Blitz One For All URF Ult Spellbook Arena
+
+**Damage Dealt**
+
+* -5%
+* Damage Received +5%
+
+**Healing**
+
+* -20%
+
+**Abilities**
+
+[
+]
+
+**Edit**
+
+**Triumphant Roar**
+
+**Triumphant Roar**
+
+**STATIC**
+
+**COOLDOWN:** 3
+
+**EFFECT RADIUS:** 1000/950
+
+**Innate:**
+
+Alistar generates a stack of Triumph for each enemy champion he stuns or displaces with his abilities, and each time a nearby enemy minion or non-epic monster dies. He generates 7 stacks if a nearby enemy champion or epic monster dies.
+
+At 7 stacks, Alistar consumes them all to heal himself for 5% of his maximum health and nearby allied champions for 7% of his maximum health.
+
+Triumphant Roar can occur only once every few seconds, though Alistar may still generate stacks before then.
+
+**Details**
+
+* If Alistar is at 7 stacks when Triumphant Roar comes off cooldown, he will roar as soon as it elapses.
+* Alistar does not gain stacks for unsuccessfully trying to apply crowd control, for instance against a crowd control immune target.
+* Alistar will still gain a stack for unsuccessfully trying to knock back a champion protected by a spell shield with Headbutt.
+* Healing occurs simultaneously for Alistar and his allies.
+* There is a VFX projectile (700 missile speed) that cannot be destroyed by Wind Wall and is unrelated to the actual heal.
+* Alistar loses all Triumph stacks upon dying.
+
+**Video**
+
+* <https://leagueoflegends.fandom.com/wiki/File:Alistar_Passive_Video.webm>
+
+**Edit**
+
+**Pulverize**
+
+**Pulverize**
+
+**COST:** 50 / 55 / 60 / 65 / 70 mana
+
+**COOLDOWN:** 14 / 13 / 12 / 11 / 10
+
+**CAST TIME:** 0.25/0.15
+
+**EFFECT RADIUS:** 375
+
+**Active:**
+
+Alistar smashes the ground, dealing magic damage to nearby enemies and stunning and knocking them up simultaneously for 1 second.
+
+Magic Damage: 60 / 100 / 140 / 180 / 220 (+ 80% AP)
+
+**Details**
+
+* Pulverize can be buffered during Headbutt to cast with reduced cast time when the dash ends.
+* Displacement immunity will also resist the application of the stun.
+* This ability will cast from wherever the caster is at the end of the cast time.
+* Video: <https://leagueoflegends.fandom.com/wiki/File:Alistar_Q_Video.webm>
+
+**Edit**
+
+**Headbutt**
+
+**Headbutt**
+
+**COST:** 50 / 55 / 60 / 65 / 70 mana
+
+**COOLDOWN:** 14 / 13 / 12 / 11 / 10
+
+**CAST TIME:** none
+
+**TARGET RANGE:** 650
+
+**SPEED:** 1200 / 1544 / ∞
+
+**Active:**
+
+Alistar dashes to the target enemy's location. If they are within 400 units upon arrival, he deals them magic damage and knocks them back 700 units over 0.5 seconds while also stunning them for 0.75 seconds.
+
+Magic Damage: 55 / 110 / 165 / 220 / 275 (+ 100% AP)
+
+**Tips & Tricks**
+
+* Map-Specific Differences
+* Ultra Rapid Fire differences: Stun now ends at the same time the displacement does.
+* Arena differences: Cooldown changed to 26 / 23.5 / 21 / 18.5 / 16 seconds.
+* Video: <https://leagueoflegends.fandom.com/wiki/File:Alistar_W_Video.mp4>
+
+**Edit**
+
+**Trample**
+
+**Trample**
+
+**COST:** 50 / 55 / 60 / 65 / 70 mana
+
+**COOLDOWN:** 12 / 11.5 / 11 / 10.5 / 10
+
+**CAST TIME:** none
+
+**EFFECT RADIUS:** 350
+
+**Active:**
+
+Alistar tramples the ground around him every 0.5 seconds over 5 seconds, becoming ghosted and dealing magic damage to nearby enemies. Each time this damages at least one enemy champion, he generates a stack of Trample that lasts for the remaining duration, stacking up to 5 times.
+
+Magic Damage Per Tick: 8 / 11 / 14 / 17 / 20 (+ 7% AP)
+
+Total Magic Damage: 80 / 110 / 140 / 170 / 200 (+ 70% AP)
+
+At 5 stacks, Alistar's next basic attack against a champion within 6 seconds is empowered to deal 20 − 275 (based on level) bonus magic damage and stun the target for 1 second. This will end Trample prematurely.
+
+**Details**
+
+* Trample deals persistent area damage damage around Alistar, while the bonus damage on the resulting attack is proc damage.
+* The stun and bonus damage are blocked by spell shields but the base attack damage is not.
+* The on-hit effect is consumed if the attack is blocked, but not if it is dodged or missed while Alistar is blinded. In all cases, the attack's effects are negated as normal.
+* As it is an on-hit effect, the bonus damage and stun can be applied by Guinsoo's Rageblade's Phantom Hit.
+* Video: <https://leagueoflegends.fandom.com/wiki/File:Alistar_E_Video.mp4>
+
+**Edit**
+
+**Unbreakable Will**
+
+**Unbreakable Will**
+
+**COST:** 100 mana
+
+**COOLDOWN:** 120 / 100 / 80
+
+**CAST TIME:** 0.25
+
+**Active:**
+
+Alistar cleanses himself of all crowd control and reduces incoming damage taken for the next 7 seconds.
+
+Damage Reduction: 55 / 65 / 75%
+
+**Map-Specific Differences**
+
+* Ultra Rapid Fire differences: Duration changed to 3.5 seconds.
+* Arena differences: Cooldown changed to 180 / 150 / 120 seconds.
+* Video: <https://leagueoflegends.fandom.com/wiki/File:Alistar_R_Video.mp4>
+
+**Champion skins**
+
+[ ]
+
+This article section only contains champion skins. For all associated collection items, see Alistar (Collection).
+
+Original
+
+View in 3D
+
+585
+
+21.02.2009
+
+Always a mighty warrior with a fearsome reputation, Alistar seeks revenge for the death of his clan at the hands of the Noxian empire. Though he was enslaved and forced into the life of a gladiator, his unbreakable will was what kept him from truly becoming a beast. Now, free of the chains of his former masters, he fights in the name of the downtrodden and the disadvantaged, his rage as much a weapon as his horns, hooves and fists.
+
+Harlan Hogan
+
+Unknown artist
+
+Loot eligible
+
+Black
+
+View in 3D
+
+Special
+
+13.06.2009
+
+Given to players who pre-ordered the Digital Collector's Edition of League of Legends.
+
+Harlan Hogan
+
+Unknown artist
+
+Collector's Edition
+
+Loot ineligible
+
+Golden
+
+View in 3D
+
+390
+
+13.01.2010
+
+Harlan Hogan
+
+Unknown artist
+
+Legacy
+
+Loot eligible
+
+Matador
+
+View in 3D
+
+975
+
+11.05.2010
+
+Man's greatest battle is the one he must fight within himself, unless he's a matador who is also a giant bull. Then the battle is more literal.
+
+Harlan Hogan
+
+Unknown artist
+
+Day Job
+
+Loot eligible
+
+Legacy
+
+Longhorn
+
+View in 3D
+
+520
+
+16.02.2011
+
+A handful of the Old West's more pragmatic individuals have integrated into human society—the hulking minotaur Alistar among them. Working as muscle for hire, he can be found breaking up saloon fights as often as knocking down bank vault doors. If it pays, the longhorn's on board.
+
+Harlan Hogan
+
+Unknown artist
+
+High Noon
+
+Loot eligible
+
+Legacy
+
+Unchained
+
+View in 3D
+
+Special
+
+22.09.2011
+
+Leading from the front of the Infernal invasion, Alistar is a lumbering juggernaut whose ponderous movements bely unimaginable strength and speed. Dozens of armies have fallen before him, overwhelmed suddenly and completely by his power.
+
+Harlan Hogan
+
+Concept Art House
+
+Infernal
+
+Loot eligible
+
+Sweeper
+
+View in 3D
+
+750
+
+18.06.2014
+
+They call him a sweeper, but Alistar is more of a mobile fortress with horns. If a rival player has the ball, just point Alistar in their direction for immediate and painful results.
+
+Harlan Hogan
+
+Unknown artist
+
+Soccer Cup
+
+Loot eligible
+
+Legacy
+
+Marauder
+
+View in 3D
+
+750
+
+30.09.2015
+
+Though the great armies of the Magelord Empire have vanished into antiquity, their modern descendants uphold the vicious brutality of their ancestors. Alistar, a prime specimen of the beastmen hordes, now fights for the same culture that conquered his own people so very long ago.
+
+Harlan Hogan
+
+Sixmorevodka Studio
+
+Marauder
+
+Loot eligible
+
+SKT T1
+
+View in 3D
+
+975
+
+17.08.2016
+
+Honoring Wolf's winning performance as Alistar during the 2015 World Championship.
+
+Harlan Hogan
+
+Victor '3rdColossus' Maury
+
+World Champions: 2015
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Moo Cow
+
+View in 3D
+
+975
+
+29.03.2017
+
+A rare cow-themed variant of the popular Alistar figurines, mint-in-box units have been known to go for several thousand dollars at auction. Yesterday, this one was submerged in the tub. Children don't deserve nice things.
+
+Harlan Hogan
+
+Pan Chengwei
+
+Toy Box
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Moo Cow Alistar Chromas
+
+Amethyst
+
+Aquamarine
+
+Catseye
+
+Citrine
+
+Jasper
+
+Peridot
+
+Rose Quartz
+
+Sapphire
+
+Hextech
+
+**Patch history**
+
+[ ]
+
+For the expanded patch notes, see here.
+
+V13.7
+
+* Stats
+	+ Base armor increased to 47 from 44.
+	+ Base health increased 685 from 670.
+
+V13.4
+
+* Triumphant Roar
+	+ Ally heal increased to 7% of his maximum health from 6%.
+	+ Pulverize AP ratio increased to 80% AP from 70%.
+	+ Headbutt AP ratio increased to 100% AP from 90%.
+
+V13.3
+
+* Triumphant Roar
+	+ Self heal changed to 5% of his maximum health from 23 − 142 (based on level).
+	+ Ally heal changed to 6% of his maximum health from 46 − 284 (based on level).
+	+ Pulverize mana cost reduced to 50 / 55 / 60 / 65 / 70 from 55 / 60 / 65 / 70 / 75.
+	+ Pulverize AP ratio increased to 70% AP from 50% AP.
+	+ Headbutt mana cost reduced to 50 / 55 / 60 / 65 / 70 from 65 / 70 / 75 / 80 / 85.
+	+ Headbutt AP ratio increased to 90% AP from 70% AP.
+	+ Trample mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+	+ Trample AP ratio per tick increased to 7% AP from 4% AP.
+	+ Maximum AP ratio increased to 70% AP from 40% AP.
+
+V12.14
+
+* Pulverize
+	+ Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 15 / 14 / 13 / 12 / 11.
+	+ Mana cost reduced to 55 / 60 / 65 / 70 / 75 from 65 / 70 / 75 / 80 / 85.
+
+V12.10
+
+* Stats
+	+ Base health increased to 670 from 600.
+	+ Health growth increased to 120 from 106.
+	+ Armor growth increased to 4.7 from 3.5.
+	+ Magic resistance growth increased to 2.05 from 1.5.
+
+V11.11
+
+* Pulverize
+	+ Bug Fix: No longer grants a stack of Triumphant Roar when used on a spell-shielded target.
+	+ The same issue is not yet fixed for Headbutt.
+
+V11.8
+
+* Trample
+	+ Bug Fix: Can now generate stacks against Morgana's Black Shield and Malzahar's Void Shift.
+
+V11.7
+
+* Pulverize
+	+ Base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 105 / 150 / 195 / 240.
+	+ Trample bonus damage reduced to 20 − 275 (based on level) from 35 − 290 (based on level).
+
+V11.1
+
+* Stats
+	+ Base magic resistance reduced to 32 from 32.1.
+
+V10.14
+
+* Pulverize
+	+ Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 17 / 16 / 15 / 14 / 13.
+
+V10.6
+
+* General
+	+ Recommended items updated.
+
+V10.5
+
+* Stats
+	+ Base health increased to 600 from 575.
+	+ Triumphant Roar
+		- New Effect: Can now gain stacks while on cooldown.
+
+V9.24b
+
+* Stats
+	+ Base health increased to 575 from 573.36.
+	+ Base attack damage increased to 62 from 61.11.
+	+ Attack damage growth increased to 3.75 from 3.68.
+	+ Triumphant Roar
+		- Self heal increased to 25 − 161 (based on level) from 20 − 139 (based on level).
+		- Allied champion heal increased to 50 − 322 (based on level) from 40 − 278 (based on level).
+
+V9.14
+
+* Stats
+	+ Base mana increased to 350 from 278.
+	+ Mana growth increased to 40 from 38.
+
+V9.6
+
+* Trample
+	+ New Effect: Now triggers effects that are triggered by DoT AoE abilities.
+
+V9.1
+
+* Trample
+	+ New Effect: Ability icon HUD now shows the remaining duration of the ability.
+	+ Unbreakable Will
+		- New Effect: Ability icon HUD now shows the remaining duration of the ability.
+
+V8.24b
+
+* Trample
+	+ Total base damage reduced to 80 / 110 / 140 / 170 / 200 from 100 / 125 / 150 / 175 / 200.
+	+ Basic attack at 5 Trample stacks damage reduced to 35 − 290 (based on level) from 55 − 310 (based on level).
+
+V8.24
+
+* Headbutt
+	+ Bug Fix: Fixed a bug causing it to stun his target without displacing them if he cast recall in the middle of his W+Q combo to cancel the combo.
+	+ New run animation during Trample.
+
+V8.21
+
+* Stats
+	+ Base health reduced to 573.36 from 613.
+
+V8.11
+
+* Trample
+	+ Undocumented: Now prematurely ends the trampling when triggering the stun.
+
+V8.7
+
+* Hextech Alistar
+	+ Triumphant Roar
+		- Bug Fix: The chain anchors in his recall animation no longer change positions if Triumphant Roar is triggered while recalling.
+
+V8.5
+
+* Headbutt
+	+ Bug Fix: Can now correctly queue up orders other than Pulverize during Headbutt.
+
+V8.3
+
+* Stats
+	+ Base health regeneration reduced to 8.5 from 8.67.
+	+ Headbutt
+		- New Effect: Draws nearby minion aggro when targeting an enemy champion.
+
+V7.22
+
+* Stats
+	+ Base armor increased to 24.1 from 24.
+	+ Base armor growth increased to 3.8 from 3.5.
+
+V7.14
+
+* Unbreakable Will
+	+ Damage reduction increased to 55 / 65 / 75% from 50 / 60 / 70%.
+	+ New Effect: Now displays how much damage the ability is mitigating per damage instance.
+		Visible only to Alistar and his attacker.
+
+V7.13
+
+* General
+	+ Basic attack and ability audio has been updated for all skins without skin-specific audio effects.
+
+V7.7
+
+* Triumphant Roar
+	+ New Effect: Now heals all nearby allied champions instead of only one.
+	+ Trample
+		- Cooldown reduced to 12 / 11.5 / 11 / 10.5 / 10 seconds from 16 / 15.5 / 15 / 14.5 / 14 seconds.
+		- Bonus damage at 5 Trample stacks increased to 55 − 310 (based on level) from 50 − 220 (based on level).
+		- Bug Fix: Minions affected by Trample now display the proper visual effects.
+
+V7.6
+
+* SKT T1 Alistar
+	+ General
+		- Bug Fix: Recall animation audio is no longer bullishly loud.
+		- Triumphant Roar
+			* Bug Fix: No longer slides around during animation.
+
+V6.22
+
+* Triumphant Roar
+	+ (new innate)
+		- New Effect: Alistar gains a stack of Triumph when he stuns or displaces enemy champions, or whenever a nearby enemy dies. At 7 stacks, Alistar roars, healing himself for 20 − 139 (based on level) and the nearest allied champion for twice that amount. Afterwards, Alistar cannot gain stacks again for 3 seconds. The death of enemy champions and epic monsters will grant full stacks.
+		- Pulverize
+			* Removed: Stun for 0.5 seconds after the knock-up.
+		- Trample
+			* (new E)
+				+ New Active: Alistar tramples the ground for the next 5 seconds, ghosting him and dealing 10 / 12.5 / 15 / 17.5 / 20 (± 4% AP) magic damage every half second to nearby enemies. Each pulse that damages at least one enemy champion grants Alistar a Trample stack. At 5 Trample stacks, Alistar empowers his next basic attack against an enemy champion to deal an additional 50 − 220 (based on level) bonus magic damage and stun them for 1 second.
+				+ Cooldown: 16 / 15.5 / 15 / 14.5 / 14 seconds
+				+ Mana cost: 50 / 60 / 70 / 80 / 90
+		- Unbreakable Will
+			* Removed: 50 / 75 / 90 bonus attack damage.
+
+V6.10
+
+* Unbreakable Will
+	+ Damage reduction reduced to 50 / 60 / 70% from 70% at all ranks.
+
+V6.7
+
+* General
+	+ Splash artwork for Longhorn Alistar updated to the Chinese art.
+
+V6.6
+
+* Triumphant Roar
+	+ Healing to allies reduced to 33% from 50%.
+	+ Ally heal reduced to 20.1 / 30.15 / 40.2 / 50.25 / 60.3 (± 6.7% AP) from 30 / 45 / 60 / 75 / 90 (± 10% AP).
+
+V6.3
+
+* Pulverize
+	+ New Effect: Goes immediately off upon Headbutt's arrival if cast during it.
+	+ Triumphant Roar
+		- Mana cost increased to 50 / 60 / 70 / 80 / 90 from 40 / 50 / 60 / 70 / 80.
+		- Cooldown increased to 16 seconds from 12.
+
+V5.22
+
+* Stats
+	+ Base mana regen increased to 8.5 from 6.
+
+V5.16
+
+* Stats
+	+ Health growth increased to 106 from 102.
+	+ Headbutt
+		- Dash speed reduced to 1200 from 1500 (for a larger enemy reaction window and for more efficient chaining with Pulverize, particularly at high latency).
+
+V5.1
+
+* Visual Update
+	+ General
+		- New models and textures for all skins.
+		- New splash artwork for Original Alistar.
+		- Unbreakable Will
+			* New particle effects.
+	+ Triumphant Roar
+		- Removed: Casting while rooted.
+		- Mana cost increased to 40 / 50 / 60 / 70 / 80 from 28 / 41 / 54 / 67 / 80.
+	+ Unbreakable Will
+		- New Effect: Removes all crowd control but not all debuffs.
+		- Renamed from Ferocious Howl.
+
+V4.15
+
+* Headbutt
+	+ Removed: Casting while rooted.
+
+V4.12
+
+* Trample
+	+ Removed: Double damage to monsters.
+	+ Pulverize
+		- Clarity: Now correctly matches its visuals by applying a 1 second knockup followed by a 0.5 second stun, rather than a 1.5 second knockup.
+		- Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 90 / 100 / 110 / 120.
+		- Headbutt
+			* Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 70 / 85 / 100 / 115 / 130.
+			* Triumphant Roar
+				+ Mana cost increased to 20 / 35 / 50 / 65 / 80 from 20 / 30 / 40 / 50 / 60.
+
+V4.5
+
+* Stats
+	+ Base armor increased to 18.5 from 14.5.
+
+V1.0.0.154
+
+* Movements speed increased to 330 from 325.
+* Headbutt
+	+ Range increased to 650 from 600.
+* Alpha Week 7
+	+ Unbreakable Will
+		- Bug Fix: Casting while disabled.
+* Alpha Week 6
+	+ Triumphant Roar
+		- Cooldown reduced to 4 seconds from 5.
+		- Base heal increased to 50 / 70 / 90 / 110 / 130 from 50 / 70 / 90 / 110 / 130.
+		- New Effect: Has an AP ratio.
+	+ Unbreakable Will
+		- Renamed from Ferocious Howl.
+* Alpha Week 4
+	+ Headbutt
+		- Tooltip updated.
+	+ Ferocious Howl
+		- Tooltip updated.
+* Alpha Week 2
+	+ Ferocious Howl
+		- Tooltip updated.
+* Trivia
+	+ [2] Alistar is voiced by Harlan Hogan.
+	+ Alistar is an alternative form of Alasdair, the Anglicized form of Scottish Gaelic Alasdair, ultimately from Ancient Greek Ἀλέξανδρος, meaning "Defender": from PIE roots *h₂lek- "to ward off, to defend" and *h₂nḗr "man".
+	+ During Alpha Test, he was simply called 'Minotaur'.
+	+ Alistar was deemed overpowered/obnoxious in the Ultra Rapid Fire game mode (available in April 2014) and was ultimately disabled in non-custom games.
+	+ Alistar's Series 1 Eternals make the following references: By the Horns references the phrase take the bull by the horns. Indomita-Bull is a pun on the words indomitable and bull. Matador is another term for bullfighter. See also League of Legends Wiki | Champions Cancelled Champions Ao Shin Avasha Averdrian CeeCee Cyborg Cowboy Eagle Rider Gavid Husk Ivan Omen Priscilla Rob Blackblade Seth Tabu Tiki Urf Well References [1] Alistar's profile page at LeagueOfLegends.com [2] Beekes. R.S.P. Etymologyical Dictionary of Greek. pp. 64-65, 103-104.

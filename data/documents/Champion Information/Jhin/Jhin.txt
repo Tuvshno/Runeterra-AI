@@ -1,0 +1,145 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Jhin
+        ****Format as follows****
+        ****Release date****
+        ****Last changed****
+        ****Class(es)***
+        ****Position(s)***
+        ****Resource****
+        ****Range type****
+        ****Adaptive type****
+        ****Store price****
+        * Gameplay
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+          * Base statistics
+          * Abilities
+        * Image
+      * Teamfight Tactics
+      * Legends of Runeterra
+      * Wild Rift
+* Image
+* Jhin
+
+**Jhin**
+
+* Release date: 2016-02-01
+* Last changed: V14.2
+* Class(es): Marksman, Catcher
+* Position(s): Bottom
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Physical
+* Store price: 4444
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+* Health: 655 + 107
+* Mana: 300 + 50
+* Health regen. (per 5s): 3.75 + 0.55
+* Mana regen. (per 5s): 6 + 0.8
+* Armor: 24 + 4.7
+* Attack damage: 59 + 4.7
+* Magic resist.: 30 + 1.3
+* Crit. damage: 175% ( ×  0.86)
+* Move. speed: 330
+* Attack range: 550
+* Attack speed: Base AS 0.625 + 3
+* Attack windup: 15.625%
+* AS ratio: 0
+* Bonus AS: 0%
+* Missile speed: 2600
+* Unit radius: Gameplay radius 65, Selection radius 120, Pathing radius 35, Acq. radius 800
+
+**Abilities**
+
+* [Basic Attack](#basic-attack)
+* [Whisper](#whisper)
+* [Dancing Grenade](#dancing-grenade)
+* [Deadly Flourish](#deadly-flourish)
+* [Captive Audience](#captive-audience)
+
+****
+
+**Basic Attack**
+
+* Attack range: 550
+* Acquisition range: 800
+* Speed: 2600 / 3000
+
+**Whisper**
+
+* Innate - Death In 4 Acts:
+  * Basic attacks consume ammunition within 4 rounds.
+  * He will reload over 2.5 seconds immediately after expending all rounds or withholding leftover rounds after 10 seconds of being out of combat and not being affected by crowd control.
+  * The latter reload can be interrupted by declaring an attack or casting an ability.
+  * Final round attack has an uncancellable windup versus champions, always critically strikes, including against structures, and deals bonus physical damage equal to 15 / 20 / 25% (based on level) of the target's missing health.
+* Innate - Every Moment Matters:
+  * Gains bonus attack damage equal to 4% − 44% (based on level).
+  * Critical strikes grant Jhin bonus movement speed for 2 seconds.
+
+****
+
+**Dancing Grenade**
+
+* Cost: 40 / 45 / 50 / 55 / 60 Mana
+* Cooldown: 7 / 6.5 / 6 / 5.5 / 5
+* Cast time: 0.25
+* Target range: 550
+* Effect radius: 450
+* Speed: 1800 / 600
+
+****
+
+**Deadly Flourish**
+
+* Cost: 50 / 55 / 60 / 65 / 70 Mana
+* Cooldown: 12
+* Cast time: 0.75
+* Range: 2520
+* Width: 90
+* Passive:
+  * Enemy champions that trigger a Lotus Trap to bloom or are damaged by Jhin or allied champions are marked for 4 seconds.
+* Active:
+  * Fires a shot in the target direction that deals physical damage to all enemies in a line until colliding with an enemy champion, reduced by 25% against minions.
+  * Physical Damage: 60 / 95 / 130 / 165 / 200 (+ 50% AD)
+  * Minion Damage: 45 / 71.25 / 97.5 / 123.75 / 150 (+ 37.5% AD)
+  * Hitting a marked champion roots them for a duration and grants Jhin Every Moment Matters' bonus movement speed.
+  * Root duration: 1.25 / 1.5 / 1.75 / 2 / 2.25
+
+****
+
+**Captive Audience**
+
+* Cost: 30 Mana + 1 Charge
+* Cooldown: 2
+* Cast time: 0.25
+* Target range: 750
+* Collision radius: 160
+* Effect radius: 260 / 260
+* Passive - Beauty in Death:
+  * Whenever Jhin kills an enemy champion, he summons a Blooming Lotus Trap on their corpse.
+* Active:
+  * Places a Lotus Trap at the target location which, upon landing, becomes stealthed after arming over 1 second, lasting for up to 180 seconds and granting sight within its radius. The Lotus Trap blooms upon enemy contact, with enemies in the area at the time of its trigger becoming revealed for 4 seconds.
+  * Jhin periodically stocks a Lotus Trap charge, up to a maximum of 2.
+  * Lotus Traps slow enemies within the area by 35% for 2 seconds before exploding, dealing magic damage to enemies.
+  * Lotus Traps deal 65% damage against minions as well as champions who have been struck by another Lotus Trap in the last 1 second.
+  * Magic Damage: 20 / 80 / 140 / 200 / 260 (+ 120% AD) (+ 100% AP)
+  * Reduced Damage: 13 / 52 / 91 / 130 / 169 (+ 78% AD) (+ 65% AP)

@@ -1,0 +1,231 @@
+**Games**
+
+* Universe
+* ─────────────────
+* League of Legends
+	+ • League of Legends
+	+ • Teamfight Tactics
+	+ • Wild Rift
+* ─────────────────────────────────────────────────
+* **Image**
+* Vex
+
+**Gameplay**
+
+* Collection
+* ─────────────────────────
+* Audio
+* Patch history
+* Past versions
+
+**Vex**
+
+* Release date: 2021-09-23
+* Last changed: V14.5
+* Class(es): Burst, Legacy, Mage
+* Position(s): Middle
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 3150
+| 790
+* Crafting: + 1890
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 2
+* Control: 2
+* Mobility: 2
+* Utility: 1
+
+**Style**
+
+* Difficulty: N/A
+
+**Base statistics**
+
+| Statistic | Value (based on level) |
+| --- | --- |
+| Health | 590 + 104 |
+| Mana | 490 + 32 |
+| Health regen. (per 5s) | 6.5 + 0.6 |
+| Mana regen. (per 5s) | 6 + 0.8 |
+| Armor | 23 + 4.45 |
+| Attack damage | 54 + 2.75 |
+| Magic resist. | 28 + 1.3 |
+| Crit. damage | 175% |
+| Move. speed | 335 |
+| Attack range | 550 |
+| Attack speed | Base AS: 0.669, Attack windup: 15.625% |
+| AS ratio | 0.625 |
+| Bonus AS | +1% |
+| Missile speed | 2000 |
+| Unit radius | Gameplay radius: 65, Selection radius: 100, Pathing radius: 35, Acq. radius: 750 |
+
+**Special statistics**
+
+| Game mode | Damage Dealt | Damage Received |
+| --- | --- | --- |
+| ARAM | -5% | +0% |
+| Nexus Blitz | +0% | +0% |
+| One For All | +0% | +0% |
+| URF | +0% | +0% |
+| Ult Spellbook | -10% | +0% |
+| Arena | +0% | +0% |
+
+**Abilities**
+
+* **Doom 'n Gloom**
+	+ Passive - Doom: Empowers next basic ability
+		- Knocks down and fears enemies hit, causing them to flee for 0.75/1/1.25/1.5/1.75 seconds, and slows them by 60%-99% (based on distance from Vex)
+		- Cooldown resets upon respawning
+	+ Innate - Gloom: Marks nearby enemy champions and monsters that dash or blink
+		- Vex's next basic attack or basic ability hit against an enemy with Gloom will detonate the mark
+		- Detonation deals 40-150 (+ 25% AP) bonus magic damage and refunds 25% of Doom's cooldown
+		- Against non-champions, this instead deals 40/45/50/55/60% (based on level) damage and refunds 10% of Doom's cooldown
+	+ Static cooldown: 25/22/19/16 (based on level) seconds
+	+ Effect radius: 1600
+
+* **Mistral Bolt**
+	+ Cost: 45/50/55/60/65 Mana
+	+ Cooldown: 8/7/6/5/4 seconds
+	+ Cast time: 0.15/0.1/0.075/0.05/0.025 seconds
+	+ Range: 1200
+	+ Width: 360/160
+	+ Speed: 600/3200
+	+ Active: Vex launches a wave of mist in the target direction that deals magic damage to enemies hit
+		- Magic damage: 70/115/160/205/250 (+ 70% AP)
+
+* **Personal Space**
+	+ Cost: 75 mana
+	+ Cooldown: 16/15/14/13/12 seconds
+	+ Cast time: 0.25 seconds
+	+ Effect radius: 475/550
+	+ Active: Vex emits a shockwave around her before the cast time, dealing magic damage to nearby enemies and granting herself a shield for 2.5 seconds
+		- Shield strength: 50/75/100/125/150 (+ 75% AP)
+		- Magic damage: 80/120/160/200/240 (+ 30% AP)
+
+* **Looming Darkness**
+	+ Cost: 70/80/90/100/110 mana
+	+ Cooldown: 13 seconds
+	+ Cast time: 0.25 seconds
+	+ Target range: 800
+	+ Effect radius: 200-300 (based on cast distance)
+	+ Speed: 1300
+	+ Active: Vex tosses her Shadow to explode at the target location, dealing magic damage to enemies hit and slowing them for 2 seconds
+		- Magic damage: 50/70/90/110/130 (+ 40/45/50/55/60% AP)
+		- Slow: 30/35/40/45/50%
+		- Killing an enemy with Looming Darkness refunds 10% of Doom's cooldown, increased to 25% for champion kills
+		- Looming Darkness will cast at max range if cast beyond that
+
+* **Shadow Surge**
+	+ Cost: 100 mana
+	+ Cooldown: 140/120/100 seconds
+	+ Range: 2000/2500/3000
+	+ Effect radius: Global
+	+ Width: 260
+	+ Speed: 1600/2200
+	+ Active: Vex sends her Shadow in the target direction that grants sight of the area along its path and deals magic damage to enemies hit
+		- Magic damage: 75/125/175 (+ 20% AP)
+		- Shadow stops upon hitting an enemy champion and marks them for 4 seconds, during which they are revealed
+		- Recast: Vex dashes towards the marked target with displacement immunity upon arrival, consuming their mark and dealing magic damage to them
+		- Magic damage: 150/250/350 (+ 50% AP)
+		- Total magic damage: 225/375/525 (+ 70% AP)
+		- If the target dies within 6 seconds of being marked, Vex can cast Shadow Surge again at no cost for the next 12 seconds after 0.5 seconds.
+
+**Champion skins**
+
+[Original](https://www.leagueoflegends.com/en-us/store/champions/vex/)
+[Dawnbringer](https://www.leagueoflegends.com/en-us/store/champions/dawnbringer-vex/)
+[Nightbringer](https://www.leagueoflegends.com/en-us/store/champions/nightbringer-vex/)
+[Empyrean](https://www.leagueoflegends.com/en-us/store/champions/empyrean-vex/)
+
+**Notes**
+
+- Vex is a champion in League of Legends.
+- For all associated collection items, see [Vex (Collection)](https://leagueoflegends.wiki.gg/vex_(collection)).
+- Original: <https://www.leagueoflegends.com/en-us/store/champions/vex/>
+- Dawnbringer: <https://www.leagueoflegends.com/en-us/store/champions/dawnbringer-vex/>
+- Nightbringer and Dawnbringer: <https://www.leagueoflegends.com/en-us/store/champions/nightbringer-vex/>
+- New SFX/VFX: <https://www.leagueoflegends.com/en-us/news/champions/vex-chromas/>
+- Chromas: <https://www.leagueoflegends.com/en-us/store/champions/vex-chromas/>
+- Voice filter: <https://www.leagueoflegends.com/en-us/store/champions/vex-voice-filter/>
+
+**Patch history**
+
+[Expanded patch notes](https://leagueoflegends.com/en-us/news/game-updates/patch-14-5-notes/)
+
+* **V14.5**
+	+ Doom 'n Gloom: Base damage increased to 40-150 (based on level) from 30-140 (based on level), AP ratio increased to 25% AP from 20% AP, and new effect: Doom's cooldown is now also partially refunded upon killing units with Looming Darkness
+		- Champion kills refund the cooldown by 25% and non-champion kills do so by 10%
+* **V13.21**
+	+ Shadow Surge: Bug fix: Now properly damages minions and monsters hit by the missile
+* **V13.17**
+	+ Mistral Bolt: Base damage increased to 70/115/160/205/250 from 60/105/150/195/240, cooldown reduced to 16/15/14/13/12 seconds from 20/18/16/14/12, and new effect: Pinging the ability now displays visible targets in chat
+* **V13.13**
+	+ Doom 'n Gloom: Bug fix: Now properly applies Gloom to a nearby enemy Galio casting Justice Punch
+* **V13.6**
+	+ Doom 'n Gloom: Bug fix: Can no longer mark an enemy Aurelion Sol dashing from Astral Flight with Gloom more than once
+* **V13.1**
+	+ Doom 'n Gloom: Bug fix: Ability icon is now properly displayed for its buff icon
+* **V12.13**
+	+ Mistral Bolt: AP ratio increased to 70% AP from 60% AP, and cooldown reduced to 8/7/6/5/4 seconds from 9/8/7/6/5
+* **V12.10**
+	+ Stats: Base health increased to 590 from 520, health growth increased to 104 from 90, armor growth increased to 4.45 from 3.25, and magic resistance growth increased to 1.3 from 0.5
+* **V12.5**
+	+ Doom 'n Gloom: Bug fix: Fixed a bug where marked enemies would sometimes fail to get feared by her Doom-empowered Looming Darkness
+* **V12.1**
+	+ Shadow Surge: Bug fix: Fixed a bug where, if she died while casting a consecutive Shadow Surge, its cooldown would not reset
+* **V11.20**
+	+ Doom 'n Gloom: Bug fix: Fixed a bug where it would incorrectly mark enemies moved by champion-created terrain, such as Anivia's Crystallize or Jarvan IV's Cataclysm
+	+ Shadow Surge: Bug fix: Fixed a bug where she was able to recast it on Gwen while she was in her Hallowed Mist
+* **V11.19**
+	+ Added Doom 'n Gloom (Innate)
+		- Passive - Doom: Periodically, Vex gains Doom, which empowers her next basic ability to knock down affected enemies and cause them to flee from her for 0.75/1/1.25/1.5/1.75 seconds, during which they are slowed by 60%-99% (based on distance from Vex)
+			* Doom's cooldown resets upon respawning
+			* If Looming Darkness triggers Doom, all targets will flee from the center of its area of effect instead
+		- Innate - Gloom: Nearby enemy champions that dash or blink, as well as targets hit by Looming Darkness, will be marked with Gloom for 6 seconds
+			* Vex's next basic attack, which becomes non-projectile, Mistral Bolt, or Personal Space against a marked target will consume the mark to deal 30-180 (based on level) (+ 25% AP) bonus magic damage and refund 25% of Doom's cooldown
+				+ Against marked non-champions, Gloom deals 40/45/50/55/60% (based on level) damage and refunds 10% of Doom's cooldown
+				+ Effect radius: 1600
+				+ Static cooldown: 25/22/19/16 (based on level) seconds
+* **V11.19**
+	+ Mistral Bolt: Base damage reduced to 60/105/150/195/240 from 60/110/160/210/260
+* **V11.19**
+	+ Removed Doom 'n Gloom (Q)
+* **V11.19**
+	+ Added Doom 'n Gloom (E)
+		- Cooldown: 13 seconds
+		- Target range: 800
+		- Effect radius: 200-300 (based on cast distance)
+		- Speed: 1300
+		- Active: Vex tosses her Shadow to explode at the target location, increasing the radius of the area as it travels. Upon arrival, Shadow deals magic damage to all nearby enemies and slows them for 2 seconds
+			* Magic damage: 50/70/90/110/130 (+ 40/45/50/55/60% AP)
+			* Slow: 30/35/40/45/50%
+			* Killing an enemy with Looming Darkness refunds 10% of Doom's cooldown, increased to 25% for champion kills
+			* Looming Darkness will cast at max range if cast beyond it
+* **V11.19**
+	+ Added Shadow Surge (R)
+		- Cost: 100 mana
+		- Cooldown: 140/120/100 seconds
+		- Range: 2000/2500/3000
+		- Effect radius: Global
+		- Width: 260
+		- Speed: 1600/2200
+		- Active: Vex commands Shadow to launch itself in the target direction, granting sight of the area along its path for 0.4 seconds each and dealing magic damage to all enemies hit
+			* Magic damage: 75/125/175 (+ 20% AP)
+			* Shadow stops upon colliding with an enemy champion and marks them for 4 seconds, during which they are revealed
+		- Recast: Vex commands Shadow to pull her towards the marked target with displacement immunity upon arrival, consuming the mark and dealing them magic damage
+			* Magic damage: 150/250/350 (+ 50% AP)
+			* Total magic damage: 225/375/525 (+ 70% AP)
+			* If the marked target dies within 6 seconds of being hit by Shadow Surge, Vex can cast Shadow Surge again at no additional cost for the next 12 seconds after 0.5 seconds.
+
+**Trivia**
+
+[1] Vex was the third of three champions released in 2021 tied to Viego's return and a continuation of the Ruined King's story.
+[2] Vex's Shadow cannot be disabled in game.
+[3] Vex shares a few similarities with Zato-ONE from Guilty Gear series. Both fight with a shadow companion. Her shadow baring a slight resemblance to Eddie's design in the game.
+[4] Vex's laugh animation references the Laughing Spongebob meme.
+[5] See also League of Legends Wiki, <https://leagueoflegends.wiki.gg/>
+[6] Cancelled Champions: Ao Shin, Avasha, Averdrian, CeeCee, Cyborg Cowboy, Eagle Rider, Gavid, Husk, Ivan, Omen, Priscilla, Rob Blackblade, Seth, Tabu, Tiki, Urf, Well.

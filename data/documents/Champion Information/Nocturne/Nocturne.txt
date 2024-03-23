@@ -1,0 +1,115 @@
+**Games**
+
+* Universe
+  *
+
+**League of Legends**
+  *
+
+    - **Champion:** Nocturne
+    
+        **Release date:** 2011-03-15
+        **Last changed:** V14.4
+        **Class(es):** Assassin, Legacy Assassin, Fighter
+        **Position(s):** Jungle
+        **Resource:** Mana
+        **Range type:** Melee
+        **Adaptive type:** Physical
+        **Store price:** 3150 (3790)
+        **Crafting cost:** 1890
+
+          ***Ratings:***
+
+          | **Damage:** 3 | **Toughness:** 1 | **Control:** 2 | **Mobility:** 2 | **Utility:** 2 |
+
+          ***Style:***
+
+          **Difficulty:** Champion
+
+        ***Champion Spotlight:***
+
+        [Nocturne Champion Spotlight](https://www.youtube.com/watch?v=eJH_28MzCe4)
+
+        ***Abilities:***
+
+        - **Passive: Umbra Blades**
+          - **Umbra Blades:** Nocturne's basic attacks slash in a circle, dealing physical damage to the target and nearby enemies and healing himself. The damage and healing are reduced by 50% against minions, and it applies on-hit effects to all targets at 100% effectiveness.
+            - **Damage:** 120% AD
+            - **Healing:** 13 - 30 (based on level) (+ 30% AP) per enemy hit
+
+        - **Q: Duskbringer**
+          - **Cost:** 60 / 65 / 70 / 75 / 80 Mana
+          - **Cooldown:** 8s / 7s / 6s / 5s / 4s
+          - **Range:** 1200
+          - **Effect radius:** 150
+          - **Width:** 120
+          - **Speed:** 1600
+          - **Active:** Nocturne casts out a shadow blade in the target direction, leaving a Dusk Trail in its wake. Enemy champions and large monsters hit will leave a Dusk Trail behind while moving, granting them bonus attack damage and bonus total movement speed.
+            - **Bonus attack damage:** 20 / 30 / 40 / 50 / 60
+            - **Bonus movement speed:** 15 / 20 / 25 / 30 / 35%
+
+        - **W: Shroud of Darkness**
+          - **Cost:** 50 Mana
+          - **Cooldown:** 20s / 18s / 16s / 14s / 12s
+          - **Passive:** Nocturne gains bonus attack speed.
+            - **Bonus attack speed:** 30 / 35 / 40 / 45 / 50%
+          - **Active:** Nocturne gains a spell shield for 1.5s. Upon successfully blocking a hostile effect, Shroud of Darkness' bonus attack speed is doubled for 5 seconds.
+
+        - **E: Unspeakable Horror**
+          - **Cost:** 60 / 65 / 70 / 75 / 80 Mana
+          - **Cooldown:** 15s / 14s / 13s / 12s / 11s
+          - **Range:** 425
+          - **Effect radius:** 1000
+          - **Tether radius:** 465
+          - **Passive:** Nocturne gains 90% bonus movement speed while facing nearby feared targets.
+          - **Active:** Nocturne torments the target, forming a tether between himself and the target for 2 seconds.
+            - **Total magic damage:** 80 / 125 / 170 / 215 / 260 (+ 100% AP)
+            - **Magic damage per tick:** 20 / 31.25 / 42.5 / 53.75 / 65 (+ 25% AP)
+          - **If the tether is not broken by the end of its duration, the target is feared for a duration while being slowed by 90%.**
+            - **Disable duration:** 1.25s / 1.5s / 1.75s / 2s / 2.25s
+
+        ***Champion skins:***
+
+        - [Original](https://www.leagueoflegends.com/en-us/store/champions/nocturne/)
+        - [Frozen Terror](https://www.leagueoflegends.com/en-us/store/champions/nocturne-frozenterror/)
+        - [Void](https://www.leagueoflegends.com/en-us/store/champions/nocturne-void/)
+        - [Ravager](https://www.leagueoflegends.com/en-us/store/champions/nocturne-ravager/)
+        - [Silver Age](https://www.leagueoflegends.com/en-us/store/champions/nocturne-silverage/)
+        - [Haunting](https://www.leagueoflegends.com/en-us/store/champions/nocturne-haunting/)
+        - [Trick-or-Treat](https://www.leagueoflegends.com/en-us/store/champions/nocturne-trickortreat/)
+        - [Eternum](https://www.leagueoflegends.com/en-us/store/champions/nocturne-eternum/)
+        - [Cursed Revenant](https://www.leagueoflegends.com/en-us/store/champions/nocturne-cursedrevenant/)
+        - [Broken Covenant](https://www.leagueoflegends.com/en-us/store/champions/nocturne-brokencovenant/)
+        - [Hextech](https://www.leagueoflegends.com/en-us/store/champions/nocturne-hextech/)
+        - [Old God](https://www.leagueoflegends.com/en-us/store/champions/nocturne-oldgod/)
+        - [Chromas](https://www.leagueoflegends.com/en-us/store/champions/nocturne-chromas/)
+
+**Image:**
+
+![Nocturne](https://ddragon.leagueoflegends.com/cdn/13.0.0/img/champion/Nocturne.png)
+
+**Nocturne**
+
+* A demonic amalgamation drawn from the nightmares that haunt every sentient mind, Nocturne has become a primordial force of pure evil.
+* It is liquidly chaotic in aspect, a faceless shadow with cold eyes and armed with wicked-looking blades.
+* After freeing itself from the spirit realm, Nocturne descended upon the waking world, to feed upon the kind of terror that can only thrive in true darkness.
+
+**Gameplay:**
+
+Nocturne is an assassin and fighter champion in League of Legends. He is primarily played in the jungle role and uses mana as his resource. His range type is melee, and his adaptive type is physical.
+
+**Collection:**
+
+Nocturne has various skins and chromas available in the League of Legends store.
+
+**Audio:**
+
+Nocturne's voiceover, sound effects, and music can be found on the League of Legends website or the Riot Games Music YouTube channel.
+
+**Patch history:**
+
+Nocturne's patch history includes changes to his abilities, stats, and visual effects. For the complete patch history, visit [LeagueofLegends.com](https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-4-notes/).
+
+**Past versions:**
+
+No further information is provided in the text.

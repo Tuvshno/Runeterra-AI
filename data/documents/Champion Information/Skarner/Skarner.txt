@@ -1,0 +1,740 @@
+**League of Legends**
+
+**Skarner**
+
+---
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+**Patch history**
+
+**Past versions**
+
+---
+
+**Skarner: The Primordial Sovereign**
+
+*Release date: 2011-08-09*
+*Last changed: V13.4*
+
+Class(es)
+------------
+
+Juggernaut
+Legacy
+Fighter
+Tank
+
+Position(s)
+----------
+
+Jungle
+
+Resource
+-------
+
+Mana
+
+Range type
+---------
+
+Melee
+
+Adaptive type
+-------------
+
+Physical
+
+Store price
+----------
+
+4800
+
+| 880
+
+Crafting
+--------
+
++ 2880
+
+---
+
+**Ratings**
+
+| Damage | Toughness | Control | Mobility | Utility |
+| --- | --- | --- | --- | --- |
+| 1 | 3 | 3 | 1 | 1 |
+
+---
+
+**Skarner**
+
+is a
+
+champion
+
+in
+
+League of Legends
+
+.
+[1]
+
+---
+
+**Base statistics**
+
+Health
+------
+
+650
++ 99
+
+Mana
+----
+
+320
++ 60
+
+Health regen. (per 5s)
+----------
+
+9
++ 0.85
+
+Mana regen. (per 5s)
+----------
+
+7.2
++ 0.45
+
+Armor
+-----
+
+38
++ 5
+
+Attack damage
+------------
+
+65
++ 4.5
+
+Magic resist.
+---------------
+
+32
++ 2.05
+
+Crit. damage
+------------
+
+175%
+
+Move. speed
+------------
+
+335
+
+Attack range
+------------
+
+125
+
+Attack speed
+------------
+
+Base AS
+-------
+
+0.625
+
+Attack windup
+--------------
+
+18% (mod. 0.5)
+
+AS ratio
+-------
+
+N/A
+
+Bonus AS
+--------
+
++ 2.1
+%
+
+Unit radius
+----------
+
+Gameplay radius
+---------------
+
+80
+
+Selection radius
+---------------
+
+130
+
+Pathing radius
+-------------
+
+50
+
+Acq. radius
+-----------
+
+600
+
+---
+
+**Special statistics**
+
+ARAM
+-----
+
+Nexus Blitz
+-----------
+
+One For All
+----------
+
+URF
+-----
+
+Ult Spellbook
+------------
+
+Arena
+------
+
+Damage Dealt
+------------
+
++ 0%
+
+Damage Received
+--------------
+
++ 0%
+
+Damage Dealt
+------------
+
++ 0%
+
+Damage Received
+--------------
+
++ 0%
+
+Damage Dealt
+------------
+
++ 0%
+
+Damage Received
+--------------
+
++ 0%
+
+Damage Dealt
+------------
+
++ 0%
+
+Damage Received
+--------------
+
++ 0%
+
+---
+
+**Abilities**
+
+[**Threads of Vibration**]
+
+*Innate: Skarner's basic attacks, Shattered Earth, and Impale apply a stack of Quaking to enemies hit for 4 seconds, refreshing on subsequent applications and stacking up to 3 times. Enemies afflicted with 3 stacks take magic damage equal to 7% − 12% (based on level) of their maximum health over the duration, capped at 75 − 300 (based on level) against monsters.*
+
+[**Shattered Earth**]
+
+*COST: 40 mana*
+*COOLDOWN: 13 / 11.5 / 10 / 8.5 / 7*
+*CAST TIME: 0.5*
+*EFFECT RADIUS: 300*
+
+Active: Skarner rips a boulder out of the ground, carrying it with his tails to empower up to three of his next basic attacks within 3.5 seconds to gain 25 bonus range, bonus attack speed, and deal bonus physical damage to the target and surrounding enemies. Each attack refreshes the duration. After 0.75 seconds have elapsed, Skarner gains the ability to cast Upheaval in the duration.
+
+Bonus Physical Damage per Hit: 10 / 20 / 30 / 40 / 50 (+ 70% bonus AD)
+(+ 6% of his bonus health)
+
+Total Bonus Physical Damage: 30 / 60 / 90 / 120 / 150 (+ 210% bonus AD)
+(+ 18% of his bonus health)
+
+Bonus Attack Speed: 25 / 30 / 35 / 40 / 45%
+
+The third attack ends Shattered Earth to cause Skarner to slam the rock onto the target, dealing additional bonus physical damage to enemies hit and slowing them by 40% for 1.25 seconds. The damage based on the target's health ratio is capped against monsters.
+
+Additional Bonus Damage: 12 / 13 / 14 / 15 / 16% of the target's maximum health
+
+Monster Percent Health Damage Cap: 100 / 200 / 300 / 400 / 500
+
+Skarner loses the ability to cast Upheaval if the third attack is used. Shattered Earth's duration is paused during Ixtal's Impact's charge.
+
+---
+
+[**Upheaval**]
+
+*COST: none*
+*CAST TIME: 0.25*
+*RANGE: 1050*
+*EFFECT RADIUS: 300*
+*WIDTH: 180*
+*SPEED: 1600*
+
+Active: Skarner ends Shattered Earth by throwing the boulder he picked up in the target direction, exploding upon colliding with the first enemy hit to deal physical damage to enemies hit and slow them by 40% for 1.25 seconds.
+
+Physical Damage: 10 / 20 / 30 / 40 / 50 (+ 70% bonus AD)
+(+ 6% of his bonus health)
+(+ 12 / 13 / 14 / 15 / 16% of the target's maximum health)
+
+The damage based on the target's health ratio is capped against monsters.
+
+Monster Percent Health Damage Cap: 110 / 220 / 330 / 440 / 550
+(+ 70% bonus AD)
+(+ 6% of his bonus health)
+
+---
+
+[**Seismic Bastion**]
+
+*COST: 30 mana*
+*COOLDOWN: 10 / 9 / 8 / 7 / 6*
+*CAST TIME: 0.3*
+*EFFECT RADIUS: 650*
+*SPEED: 1650*
+
+Active: Skarner slams his claws into the ground, shielding himself equal to 8% of his maximum health and releasing a shockwave that quickly expands in a radius around him to deal magic damage to enemies hit and slow them for 1 second.
+
+Magic Damage: 60 / 90 / 120 / 150 / 180 (+ 80% AP)
+
+Slow: 30 / 35 / 40 / 45 / 50%
+
+---
+
+[**Ixtal's Impact**]
+
+*COST: 50 mana*
+*COOLDOWN: 24 / 22 / 20 / 18 / 16*
+*CAST TIME: none*
+*COLLISION RADIUS: 160*
+
+Active: Skarner charges forward in the direction of the cursor for up to 2.75 seconds, during which he gains slow immunity, becomes ghosted, ignores terrain collision, and has unobstructed vision of the surrounding 650 units. He automatically navigates his movement along the way and is able to steer himself with a slow turn rate that increases over time, resetting upon changing direction.
+
+Ixtal's Impact can be recast after 1 second, and does so automatically after the duration. Skarner begins the charge at a static amount of 150 movement speed that increases by 100 every 0.264 seconds, up to 950 total movement speed by the end of the duration. If Skarner collides with an enemy champion or large monster, he grabs them with his claws for the time of the remaining charge, attaching them to himself, suppressing them, increasing the charge's turn rate to the maximum, and gaining 300 bonus movement speed, with a minimum total of 650 and a maximum total of 1150. If a target has been grabbed before the first 1.75 seconds of the charge, the remaining duration is set to 1 second, and set to 0.5 seconds otherwise. The charge does not ramp up in speed while a target is grabbed.
+
+If Skarner's attached target collides with terrain while being held, the charge ends, detaching them from him, dealing physical damage, stunning them for 1.5 seconds, and reducing Ixtal's Impact's cooldown by 35%.
+
+Physical Damage: 30 / 60 / 90 / 120 / 150 (+ 10% of his maximum health)
+
+Recast: Skarner ends Ixtal's Impact. If a target has been grabbed, he detaches them from himself.
+
+Ixtal's Impact ends immediately if Skarner becomes immobilized, grounded, or silenced during the charge, detaching any grabbed targets. While the target is grabbed, they are attached to Skarner in a position that is directly in front of him.
+
+---
+
+[**Impale**]
+
+*COST: 100 mana*
+*COOLDOWN: 120 / 105 / 90*
+*CAST TIME: 0.75*
+*RANGE: -50 - 625*
+*WIDTH: 350*
+
+Active: Skarner winds up his tails over the cast time, during which he is displacement immune, then lashes them forward in a cone in the target direction, impaling up to 3 of the closest enemy champions within the area to deal magic damage to all enemies hit and suppress the impaled champions for 1.5 seconds, during which they are attached to Skarner. If at least one target is hit, Skarner gains 40% bonus movement speed for the same duration.
+
+Magic Damage: 150 / 250 / 350 (+ 100% AP)
+
+If Impale is cast during Shattered Earth, Skarner automatically casts Upheaval in the direction of Impale's cast.
+
+Skarner is unable to basic attack, cast Shattered Earth or Ixtal's Impact, or use Flash during Impale. While the targets are impaled, they are attached to Skarner 300 units in front of him. Targets are placed 200 units in the same direction at the end of the effect.
+
+---
+
+**Champion skins**
+
+Original
+---------
+
+View in 3D
+--------
+
+880
+-------
+
+09.08.2011
+--------
+
+Skarner is an immense crystalline scorpion from a hidden valley in Shurima. Part of the ancient Brackern race, Skarner and his kin are known for their great wisdom and deep connection to the land, as their souls are fused with powerful life crystals which hold the living thoughts and memories of their ancestors. In an age long past, the Brackern entered hibernation to avoid untold magical destruction, but recent, threatening events have roused Skarner. As the only Brackern awake, he strives to protect his kind from those who seek to harm them.
+
+Imari Williams
+---------
+
+Terence 'Terrylefruit' Cantal
+---------
+
+Loot eligible
+---------
+
+Sandscourge
+---------
+
+View in 3D
+--------
+
+975
+-------
+
+09.08.2011
+--------
+
+Trust not the whispers on the prairie winds, humming and hymning of the way home. Lost souls hear the Demon of the Old Deserts, the supposed Savior of the Wayward, long before they feel his hellish tremor. His voice rings out, crooning of safety, of protection. Reject this demon's tune—or be embalmed with sin and sand to join his mummified masses.
+
+Imari Williams
+---------
+
+Herbie Wang, Kudos Productions
+---------
+
+High Noon
+---------
+
+Loot eligible
+---------
+
+New SFX/VFX
+-----------
+
+Earthrune
+---------
+
+View in 3D
+--------
+
+520
+-------
+
+09.08.2011
+--------
+
+Once the guardian of an ancient civilization, Skarner was forced to watch it collapse before his eyes. He clings to a desperate hope that one day he and his companion can rebuild what was ripped away. Until then, he vows to remain vigilant, deterring any trespassers who dare threaten the ruins and the magic that pulses through them.
+
+Imari Williams
+---------
+
+Fortune 'Fortuneee' K
+---------
+
+Legacy
+------
+
+Loot eligible
+---------
+
+New voiceover
+New SFX/VFX
+New Animations/Recall
+---------
+
+Guardian of the Sands
+---------
+
+View in 3D
+--------
+
+975
+-------
+
+26.04.2015
+--------
+
+Skarner, the forsaken sovereign, ancient guardian of the sands—we invoke thee to protect us from an evil of our own making. Let no man tread upon these hallowed grounds, lest in your wrath they are torn asunder.
+
+Imari Williams
+----------
+
+Sixmorevodka Studio
+---------
+
+Guardian of the Sands
+---------
+
+Loot eligible
+---------
+
+New SFX/VFX
+-----------
+
+New Animations/Recall
+---------
+
+Cosmic Sting
+---------
+
+View in 3D
+--------
+
+1350
+-------
+
+24.11.2020
+--------
+
+An ancient creature of deep, primal wisdoms from before the forming of the first galaxies, Skarner is composed of the very elements that are the building blocks of all the cosmos. His kind are the radiant antithesis of the ancient, squirming things that lurk in the deep darkness of space, and beyond it.
+
+Imari Williams
+----------
+
+Terence 'Terrylefruit' Cantal, West Studio
+---------
+
+Cosmic
+------
+
+Loot eligible
+---------
+
+Voice filter
+------------
+
+New SFX/VFX
+-----------
+
+New Animations/Recall
+---------
+
+Chromas
+-------
+
+Cosmic Sting Skarner Chromas
+---------
+
+Aquamarine
+---------
+
+Citrine
+---------
+
+Emerald
+---------
+
+Obsidian
+---------
+
+Rose Quartz
+---------
+
+Ruby
+---------
+
+Tanzanite
+---------
+
+Turquoise
+---------
+
+---
+
+**Patch history**
+
+[Expanded patch notes](https://leagueoflegends.fandom.com/wiki/Skarner/Patch_History)
+
+V13.4
+------
+
+* Crystal Slash: Bug Fix: Red glow on chainsaw teeth VFX after hitting an enemy has been stored.
+
+V13.3
+------
+
+* Crystal Spires: Bug Fix: Location and allegiance of spires is not visible to other players on the minimap once again.
+
+V12.23
+------
+
+* Crystal Slash: Undocumented: Damage is no longer capped against non-Epic monsters.
+* Crystalline Exoskeleton: Bug Fix: Casting it no longer interrupts his attack windup.
+
+V12.10
+------
+
+* Stats: Base health increased to 650 from 580.
+* Health growth increased to 99 from 85.
+* Armor growth increased to 5 from 3.
+* 8.:
+* Magic resistance growth increased to 2.05 from 1.25.
+
+V12.3
+------
+
+* Battlecast Alpha Skarner: Bug Fix: SFX of marking a minion with Crystal Venom by hitting Fracture and gaining Crystal Charge from triggering Crystal Venom now properly play correctly.
+* Fracture: Bug Fix: Consuming the mark now correctly deals bonus damage.
+
+V11.24
+------
+
+* December 15th Hotfix: Fracture: Bug Fix: Fixed a bug where immediately attacking a marked target would not consume the mark.
+
+V11.12
+------
+
+* Battlecast Alpha Skarner: Bug Fix: Iceborn Gauntlet's purchase lines now play for Frostfire Gauntlet's.
+
+V11.4
+------
+
+* Stats: Base health reduced to 580 from 601.
+* Health growth reduced to 85 from 90.
+
+V11.1
+------
+
+* Stats: Base magic resistance reduced to 32 from 32.
+* Base health reduced to 601 from 601.
+* 28.:
+
+V10.23
+------
+
+* Stats: Base mana regeneration reduced to 7.2 from 7.4.
+* Mana growth increased to 60 from 40.
+
+V10.16
+------
+
+* Crystal Slash: Mana cost reduced to 10 from 15.
+* AD ratio increased to 20% AD from 15% AD.
+* New Effect: Now deals 1 / 1.5 / 2 / 2.5 / 3% of target's maximum health as additional physical damage, and 1 / 1.5 / 2 / 2.5 / 3% of target's maximum health as additional magic damage while empowered.
+* Empowered ability duration increased to 5 seconds from 4.
+* Mana cost increased to 15 at all ranks from 12 / 14 / 16 / 18 / 20.
+
+V10.15
+------
+
+* Crystal Slash: AD ratio reduced to 15% AD at all ranks from 33 / 36 / 39 / 42 / 45%.
+* New Effect: Now deals 1 / 1.5 / 2 / 2.5 / 3% of target's maximum health as additional physical damage, and 1 / 1.5 / 2 / 2.5 / 3% of target's maximum health as additional magic damage while empowered.
+
+V9.7
+------
+
+* Battlecast Alpha Skarner: Bug Fix: Buffs aura now properly follows the model during certain animations.
+
+V9.5
+------
+
+* Crystal Spires: Removed: Spires are no longer shown on the minimap.
+* Spire radius increased to 1600 units from 1150.
+* Red side spire has been moved to be in the vicinity of the Krug and Raptor camps.
+
+V8.5
+------
+
+* Fracture: Stun duration reduced to 1.25 seconds from 1.5.
+
+V8.4
+------
+
+* Fracture: Bug Fix: Now correctly stuns targets afflicted by Fracture's Crystal Venom if they received the debuff in between when he began and initiated the attack.
+
+V8.3
+------
+
+* Stats: Base health regeneration increased to 9 from 8.
+
+V8.2
+------
+
+* Impale: New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+
+V8.1
+------
+
+* Stats: Base mana increased to 320 from 272.
+
+V7.22
+------
+
+* Stats: Base attack damage increased to 65 from 57.
+* Base armor increased to 38 from 29.
+* Base attack damage growth increased to 4.5 from 4.
+
+V7.21
+------
+
+* Battlecast Alpha Skarner: Bug Fix: No longer incorrectly plays classic VO lines in addition to the correct ones.
+
+V7.2
+------
+
+* General: Bug Fix: Guardian of the Sands Skarner no longer causes an insanely loud noise to play if certain actions were taken.
+
+V5.24
+------
+
+* Fracture: Removed: Being able to hit up to 6 units.
+* Impale: AD ratio reduced to 60% AD from 100%.
+
+V5.18
+------
+
+* Crystal Spires: Bug Fix: Bonus movement speed and bonus attack speed scaling too quickly during early game.
+* Fracture: Slow reduced to 30 / 35 / 40 / 45 / 50% from 45 / 50 / 55 / 60 / 65%.
+* Crystal Spires: Bonus movement speed changed to 70 − 120 (based on level) from 100 at all levels.
+* Bonus attack speed changed to 43 − 160 (based on level) % from 48 − 160 (based on level).
+* Per-second mana regen reduced to 2% maximum mana from 3%.
+* Bug Fix: Skarner gaining the bonuses despite target removing his disables.
+* Twisted Treeline: Spire positions changed to remove area of effect overlapping.
+
+August 26th Hotfix
+-------------------
+
+* Stats: Movement speed reduced to 335 from 345.
+* Attack damage reduced to 57.156 from 61.156.
+* Base health reduced to 580 from 601.
+* Crystalline Exoskeleton: Shield reduced to 12 / 13 / 14 / 15 / 16% maximum health from 80 / 135 / 190 / 245 / 300.
+* Fracture: Cooldown increased to 14 / 13.5 / 13 / 12.5 / 12 seconds from 12 / 11.5 / 11 / 10.5 / 10 seconds.
+* Projectile damage reduced to 40 / 65 / 90 / 115 / 140 from 40 / 75 / 110 / 145 / 180.
+* Crystal Venom mark damage reduced to 25 / 35 / 45 / 55 / 65 from 25 / 50 / 75 / 100 / 125.
+
+V5.16
+------
+
+* Gameplay Update: General: Recommended items updated.
+* Stats: Health growth reduced to 90 from 96.
+* Attack damage growth increased to 4.5 from 4.
+* Crystal Spires: (New Innate) Skarner's presence causes a number of Crystals to spawn. Crystals can be captured indefinitely by standing on top of them (neutral zones are unable to be captured until 1:30) granting 15 or 30 split among contributors, giving sight over the area for 1.5 seconds, and preventing recapture by the opposing team for 15 seconds. Defending champions can stand on the Crystal to prevent capture.
+* While near captured Crystals or a Crystallized enemy, Skarner gains Crystal Charge, granting him 100 bonus movement speed and 48 − 160 (based on level) % bonus attack speed as well as regenerating 3% maximum mana per second.
+* Crystal Slash: Physical damage changed to 33 / 36 / 39 / 42 / 45% AD from 20 / 30 / 40 / 50 / 60 (+ 40% Bonus AD).
+* Magic damage changed to 33 / 36 / 39 / 42 / 45% AD (+ 20% AP) from 20 / 30 / 40 / 50 / 60 (+ 20% AP).
+* Cooldown reduced to 3.5 / 3.25 / 3 / 2.75 / 2.5 seconds from 3.5 at all ranks.
+* Charge duration reduced to 4 seconds from 5.
+* On-hit cooldown reduction against non-champions reduced to 0.25 seconds from 0.5.
+* Mana cost reduced to 10 / 11 / 12 / 13 / 14 from 16 / 17 / 18 / 19 / 20.
+* Removed: Stacking bonus movement speed and attack speed bonuses.
+* Crystalline Exoskeleton: Base shield changed to 12 / 13 / 14 / 15 / 16% maximum health from 80 / 135 / 190 / 245 / 300.
+* Fracture: New Passive - Crystalize: Enemies hit are afflicted with Crystal Venom for 5 seconds, causing Skarner's next basic attack against them to deal 25 / 50 / 75 / 100 / 125 bonus physical damage and stun them for 1 second. Enemies afflicted with Crystal Venom's stun or Impale's suppression grant Skarner Crystal Charge as well as reduce Fracture's cooldown by each disable's respective duration.
+* New Effect: Projectile can hit up to 6 enemies but speed is reduced per hit landed.
+* Mana cost changed to 55 at all ranks from 50 / 55 / 60 / 65 / 70.
+* Cooldown increased to 13 / 12.5 / 12 / 11.5 / 11 seconds from 12 / 11.5 / 11 / 10.5 / 10 seconds.
+* Impale: Removed: Bonus magic damage to targets afflicted with Crystal Venom.
+* Cooldown changed to 120 / 100 / 80 seconds from 110 / 100 / 90.
+* Mana cost reduced to 100 at all ranks from 100 / 125 / 150.
+* Base damage reduced to 20 / 60 / 100 from 100 / 150 / 200.
+* New Effect: Has a (+ 100% AD) ratio.
+* Trivia: [Skarner's profile page](https://leagueoflegends.com/en-us/champions/skarner/)

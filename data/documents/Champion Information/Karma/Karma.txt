@@ -1,0 +1,304 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - •
+    - [League of Legends](#league-of-legends)
+      * Image
+        * Karma
+  + Teamfight Tactics
+  + Legends of Runeterra
+  + Wild Rift
+
+**Karma**
+
+* Gameplay
+  + Collection
+  + Audio
+  + Patch history
+  + Past versions
+* Image
+  + Karma
+
+**Karma, the Enlightened One**
+
+* Release date: 2011-02-01
+* Last changed: V14.4
+* Class(es): Burst, Enchanter, Legacy, Mage, Support
+* Position(s): Middle, Support, Top
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 3150 (790 for Champion Shard)
+
+|
+
+**Base statistics**
+
+| Statistic          | Value          |
+|---------------------|----------------|
+| Health              | 630 (+109)    |
+| Mana                | 374 (+40)      |
+| Health regen. (per 5s)| 5.5 (+0.55)    |
+| Mana regen. (per 5s)| 13 (+0.8)      |
+| Armor               | 28 (+5)        |
+| Attack damage       | 51 (+3.3)      |
+| Magic resist.       | 30 (+1.3)      |
+| Crit. damage        | 175%           |
+| Move. speed        | 335            |
+| Attack range       | 525            |
+| Attack speed        | Base AS: 0.625 |
+
+**Special statistics**
+
+* ARAM: Damage Dealt -5%, Damage Received +0%
+* Nexus Blitz: N/A
+* One For All: N/A
+* URF: N/A
+* Ultra Rapid Fire: N/A
+* Ult Spellbook: N/A
+* Arena: Damage Dealt +0%, Damage Received +0%
+
+**Abilities**
+
+[Gathering Fire](#gathering-fire)
+[Soulflare](#soulflare)
+[Inner Flame](#inner-flame)
+[Focused Resolve](#focused-resolve)
+[Renewal](#renewal)
+[Defiance](#defiance)
+[Inspire](#inspire)
+[Mantra](#mantra)
+
+---
+
+**Gathering Fire**
+
+* Passive
+* Innate: Mantra's current cooldown is reduced by 4 seconds for each enemy champion hit by Karma's damaging abilities.
+* Map-Specific Differences: Ultra Rapid Fire (on-damage cooldown reduction changed to 0.5/0.75/1)
+* Details: Map-Specific Differences: Ultra Rapid Fire (effects on-damage cooldown reduction)
+
+---
+
+**Inner Flame**
+
+* Cost: 40/50/60/70/80 Mana
+* Cooldown: 9/8/7/6/5 seconds
+* Cast Time: 0.25 seconds
+* Target Range: 950/890
+* Effect Radius: 280
+* Width: 120
+* Speed: 1700
+* Active: Karma fires a bolt in the target direction that explodes on the first enemy hit, dealing magic damage to nearby enemies and slowing them by 35% for 1.5 seconds.
+* Magic Damage: 70/120/170/220/270 (+70% AP)
+
+---
+
+**Soulflare**
+
+* Cost: 60/65/70/75/80 Mana
+* Cooldown: 12 seconds
+* Cast Time: 0.25 seconds
+* Target Range: 675
+* Tether Radius: 825
+* Mantra Bonus: Inner Flame deals increased damage, and fires a larger bolt that also explodes at maximum range.
+* Bonus Magic Damage: 40/100/160/220 (+30% AP)
+* Total Magic Damage: 70/120/170/220/270 (+100% AP)
+* The explosion creates a field for 1.5 seconds that slows enemies within by 50%, which then ruptures to deal magic damage.
+* Magic Damage: 40/130/220/310 (+50% AP)
+* Total Bonus Damage: 80/230/380/530 (+80% AP)
+* Total Damage: 70/120/170/220/270 (+150% AP)
+* Soulflare scales with Mantra's rank.
+
+---
+
+**Inner Flame Details**
+
+* Targeting Input: Direction
+* Damage Type: Type: Magic, Sub-type: Area Damage
+* Counters: Spell shield (blocks initial impact only), Projectile (blocked)
+* Notes: Spell shield will block the initial impact from Inner Flame.
+
+---
+
+**Focused Resolve**
+
+* Cost: 50/55/60/65/70 Mana
+* Cooldown: 12 seconds
+* Cast Time: 0.25 seconds
+* Target Range: 675
+* Tether Radius: 825
+* Active: Karma deals magic damage to the target enemy champion or monster and forms a tether between her and them for 2 seconds, during which they are revealed.
+* Magic Damage: 40/65/90/115/140 (+45% AP)
+* If the tether is not broken by the end of its duration, the target is dealt the same magic damage again and is rooted for a duration, during which they are revealed.
+* Total Magic Damage: 80/130/180/230/280 (+90% AP)
+* Root Duration: 1.4/1.55/1.7/1.85/2 seconds
+* Renewal: Heals Karma for 17% (+1% per 100 AP) of her missing health once on-cast, and again once the tether lasts its full duration or the target dies while tethered.
+* Root Duration Increase: 0.5/0.75/1/1.25/1.5 seconds
+* Renewal scales with Mantra's rank.
+
+---
+
+**Renewal Details**
+
+* Targeting Input: Unit, Target out-of-range override, Walk in range of the target
+* Damage Type: Type: Magic, Sub-type: Spell damage
+* Counters: Spell shield (blocks application and damage but not aftereffects), Projectile (not blocked)
+* Notes: Spell shield will block the tether's application and damage but not the aftereffects of one already applied.
+
+---
+
+**Focused Resolve: Renewal Details**
+
+* Targeting Input: Unit
+* Damage Type: Type: Magic, Sub-type: Spell damage
+* Minion Aggro: Drawn
+* Counters: Spell shield (blocks application and damage but not aftereffects), Projectile (not blocked)
+* Notes: Spell shield will block the tether's application and damage but not the aftereffects of one already applied.
+
+---
+
+**Inspire**
+
+* Cost: 50/55/60/65/70 Mana
+* Cooldown: 10/9.5/9/8.5/8 seconds
+* Cast Time: None
+* Target Range: 800
+* Active: Karma grants a shield to herself or the target allied champion for 2.5 seconds as well as 40% bonus movement speed for 1.5 seconds.
+* Shield Strength: 80/125/170/215/260 (+60% AP)
+
+---
+
+**Defiance**
+
+* Cost: 50/55/60/65/70 Mana
+* Cooldown: None
+* Cast Time: None
+* Active: Inspire's shield strength is increased and Inspire spreads to surrounding allied champions at 30% effectiveness.
+* Bonus Shield: 50/90/130/170 (+45% AP)
+* Total Shield: 80/125/170/215/260 (+50/90/130/170) (+105% AP)
+* Reduced Bonus Shield: 15/27/39/51 (+13.5% AP)
+* Reduced Total Shield: 24/37.5/51/64.5/78 (+15/27/39/51) (+31.5% AP)
+* Defiance scales with Mantra's rank.
+
+---
+
+**Mantra**
+
+* Cooldown: 40/38/36/34 seconds
+* Cast Time: None
+* Active: Karma empowers her next basic ability within 8 seconds for an additional effect.
+* Karma begins the game with one rank in Mantra. Her empowered abilities scale based on Mantra's rank.
+
+---
+
+**Champion skins**
+
+* Original
+* Sun Goddess
+* Worldbreaker
+* Sakura
+* Traditional
+* Order of the Lotus
+* Winter Wonder
+* Conqueror
+* Chromas: Conqueror Karma Chromas (Golden, Dark Star, Aquamarine, Meteorite, Pearl, Peridot, Rose Quartz, Ruby, Sapphire, Turquoise)
+* New voiceover
+* New SFX/VFX
+* Odyssey
+* Ruined
+* Tranquility Dragon
+* Faerie Queen
+* Loot eligible
+
+---
+
+**Patch history**
+
+* V14.4: Focused Resolve and Renewal no longer wait for every 8th server tick to check for valid range conditions.
+* V14.3: Soulflare's explosion base damage changed to 40/130/220/310 and AP ratio reduced to 50% AP.
+* V14.2: Base health increased to 630, Inner Flame's AP ratio increased to 70% AP, Inspire's base shield increased to 80/125/170/215/260, and its shield AP ratio increased to 60% AP.
+* V13.16: Inner Flame's AP ratio increased to 50% AP, and Soulflare's explosion AP ratio increased to 70% AP.
+* V13.6: Bug Fix: Focused Resolve's VFX now properly follows the targeted enemy's movements.
+* V12.23: Mantra no longer extends the duration of Focused Resolve or Inspire when cast outside of range of the target.
+* V12.10: Base health increased to 604, and Health growth increased to 109.
+* V11.18: Base armor increased to 28, and Inspire's base shield reduced to 80/120/160/200/240.
+* V11.16: Mantra's cooldown reduction from spells increased to 5 seconds at all levels, and Inner Flame's cooldown changed to 9/8.5/8/7.5/7 seconds and mana cost reduced to 45.
+* V11.14: Base attack damage reduced to 51.
+* V11.12: Traditional Karma's visual effects updated.
+* V11.11: General visual effects updated.
+* V11.7: Bug Fix: Defiance now correctly triggers Moonstone Renewer's Starlit Grace.
+* V11.5: Inner Flame's mana cost reduced to 55, and Soulflare's base detonation damage reduced to 35/140/245/350.
+* V11.3: Base mana regeneration increased to 13.5.
+* V11.1: Base attack damage increased to 54.5, Inspire's base shield increased to 80/110/140/170/200, and its shield AP ratio reduced to 45% AP.
+* V10.23: Renewal now has an "incoming health" UX added to the health bar.
+* V10.21: Mantra's cooldown reduction from spells increased to 2/3.5/4.5 (based on level) seconds, and Mantra's cooldown reduction from basic attacks reduced to 1 second at all levels.
+* V10.16: Inner Flame's mana cost changed to 65 at all ranks, and its cooldown increased to 9/8.5/8/7.5/7 seconds.
+* V10.2: Inner Flame's base damage increased to 90/135/180/225/270, and Focused Resolve's base damage increased to 40/65/90/115/140.
+* V9.24b: Soulflare's tooltip corrected to display the actual value (60% AP).
+* V9.24: Inspire's base shield strength reduced to 70/100/130/160/190, and its percentage of original shield to nearby allied champions reduced to 30%.
+* V9.19: Inner Flame's AP ratio reduced to 40% AP.
+* V9.16: Bug Fix: Focused Resolve now properly lowers Mantra's cooldown while damaging enemy champions.
+* V9.15: Defiance's bonus shield strength reduced to 25/90/150/210, and its bonus shield AP ratio reduced to 50% AP.
+* V9.14: New Effect: Focused Resolve now grants true sight for the duration of the root, and Renewal also grants true sight for the duration of the root.
+* V9.13: Inspire's bonus movement speed duration reduced to 1.5 seconds.
+* V9.12: Inner Flame's slow strength increased to 35%, Inspire's mana cost reduced to 50/55/60/65/70, and its bonus movement speed duration increased to 2.5 seconds.
+* V9.6: Traditional Karma's Inspire voiceover no longer uses her base skin's audio.
+* V8.24: New fast run animation added.
+* V8.21: Focused Resolve's root duration increased to 1.4/1.55/1.7/1.85/2 seconds.
+* V8.14: Base mana regeneration increased to 11.5, and Inner Flame's splash radius increased to 280.
+* V8.12: Inspire's shield duration reduced to 2.5 seconds, and Defiance's shield duration reduced to 2.5 seconds.
+* V8.8: Conqueror Karma's unique particles have been restored for all of her spells.
+* V8.3: Base health regeneration reduced to 5.5, and Focused Resolve now draws nearby minion aggro when targeting an enemy champion.
+* V7.23/V7.22: Soulflare's VFX are no longer cut off on elevated terrain, and Winter Wonder Karma's Inspire and Defiance are better differentiated from Winter Wonder Lulu's Help, Pix!.
+* V7.18: Bug Fix: Karma now correctly has recommended item pages for both mid and support.
+* V7.15: Winter Wonder Karma's Inspire and Defiance are better differentiated from Winter Wonder Lulu's Help, Pix!.
+* V7.12: Inspire's base shield strength reduced to 70/100/130/160/190, and Defiance's percentage of original shield to nearby allied champions reduced to 50%.
+* V7.9: Splash artwork for Sun Goddess Karma and Sakura Karma updated to the Chinese art, and adjusted splash artwork for Order of the Lotus Karma.
+* V7.1: Focused Resolve/Renewal: Number of damage ticks reduced to 2, base damage per tick increased to 30/55/80/105/130, and total damage unchanged.
+* V6.24: Bug Fix: Spectator mode bug preventing Order of the Lotus Karma's Soulflare explosion circle indicator from displaying fixed.
+* V6.15: Inspire's shield reduced to 70/100/130/160/190, its mana cost reduced to 60/65/70/75/80, and its cooldown reduced to 10/9.5/9/8.5/8 seconds. Defiance's bonus movement speed reduced to 40/45/50/55/60%.
+* V6.7: Splash artwork for Sun Goddess Karma and Sakura Karma updated.
+* V6.6: Defiance's base shield strength increased to 30/90/150/210, and its AP ratio increased to 60% AP.
+* V6.2: Focused Resolve's mana cost reduced to 70/75/80/85/90.
+* V5.22: Base mana regeneration increased to 8.5.
+* V5.17: Focused Resolve's cooldown reduced to 12 seconds at all ranks.
+* V5.10: Mantra's cooldown refund on spell hit increased to 2/2.5/3 (based on level) seconds, and Mantra's cooldown refund on basic attack increased to 1/1.25/1.5 (based on level) seconds.
+* V5.1: Mantra's cooldown reduced to 45/42/39/36 seconds, and Soulflare's application changed to per-tick from on-cast.
+* V5.5: Defiance: Bug Fix: Allied champions were granted the inspire portion of the shield instead of half of the defiance damage.
+* V4.17: Soulflare: Bug Fix: Area of effect visual fizzling when Karma dies.
+* V4.5: Base armor increased to 14.
+* V3.8: Inner Flame's mana cost reduced to 50/55/60/65/70, and Explosion radius increased to 250.
+* V3.7: Soulflare: New Effect: Slow area spawns directly under primary target.
+* V3.6: Inner Flame's base damage increased to 80/125/170/215/260, and Focused Resolve's cooldown reduced to 16/15.5/15/14.5/14 seconds.
+* V3.5: Inspire: Cooldown reduced to 10 seconds, bonus movement speed increased to 40/45/50/55/60%, and Mantra's cooldown reduced to 45/42/39/36 seconds.
+* V3.5 (balance update): Gathering Fire: Mantra on-spell cooldown reduction increased to 2 seconds at all levels, on-hit cooldown reduction increased to 1 second at all levels, Inner Flame's detonation area-of-effect focus changed to point of impact from the center of impacted target, Focused Resolve's mana cost reduced to 70/75/80/85/90, Gathering Fire's application changed to per-tick from on-cast, and ticks reduced to 3 from 6. Inspire: Bonus movement speed duration increased to 1.5 seconds, and its mana cost reduced to 60/65/70/75/80. Defiance: Bonus movement speed increased to 60% at all ranks, allied area-of-effect shield/haste range increased to 700, and 60/140/220/300 + 60% AP damage over time removed.
+* V3.5 rework: Full relaunch: Complete visual upgrade across all skins, new splash artwork for Original Karma, new voice over, new lore, and Gathering Fire (Innate): Reduces Mantra's cooldown every time Karma damages an enemy with one of her abilities (Half-effect for Karma's basic-attacks). Inner Flame (Q): Fires a blast of energy that explodes upon enemy contact, dealing magic damage and slowing all enemies in the area. Mantra Bonus: deals additional magic damage and leaves a circle of flame at the impact area (or upon reaching maximum range), heavily slowing all enemies inside the circle. After a brief delay the circle erupts, dealing heavy magic damage to all enemies in the area. Focused Resolve (W): Links Karma to target enemy champion, revealing them and dealing magic damage over 2 seconds. If the link is not broken, the enemy is rooted. Mantra Bonus: Focused Resolve deals bonus magic damage over time and heals Karma for a percent of her missing health while linked to her target. Inspire (E): Target ally gains a shield, granting movement speed for a brief duration and absorbing damage. Mantra Bonus: the shield overflows with energy, dealing magic damage to all enemies around the shielded unit. Allied champions near the shielded unit gain half of that amount as a shield and are hasted. Mantra: (Ultimate) Karma empowers her next ability within 8 seconds for an additional effect.
+
+---
+
+**Trivia**
+
+* Karma was named after the eponymous cause-and-effect principle.
+* Her title, The Enlightened One, references Gautama Buddha & Awakening.
+* Mantra was named after the eponymous Hindu sacred utterances.
+* The 'translation' for Mantra's Ancient Ionian language was provided by Player Support Escalation Specialist 'Marowe'.
+* Karma was the first champion to feature an 'Art Spotlight' before release and the first to be fully relaunched.
+* She was the fifth to have more than four abilities (Elise, Gnar, Heimerdinger, Jayce, Lee Sin, and Nidalee).
+* Like Jayce, Karma used to have six ranks on each basic ability and only one on her ultimate.
+* Renewal's root has the longest duration in-game (3.25 seconds with Focused Resolve and Mantra both fully-ranked).
+* In the minigame Astro Teemo, the most expensive upgrade in the game that Teemo's can purchase, Soul Shield, is a reference to one of Karma's pre-rework skills of the same name.
+* In Karma's most current lore, Karma's spirit has lived countless lives only to be re-incarnated within new bodies, inspired by the eponynous concept in Dharmic religions.
+* The name of her current incarnation, Darha, comes from Sanskrit adjective dṛḍhá meaning firm, steadfast, sharing PIE root dʰer- 'to uphold' with Darius.
+* Karma was the fourth champion to feature two 'Champion Spotlights' due to significant gameplay changes (Ezreal, Katarina, Lee Sin, and Sivir).
+* Inspire's speed buff reads “Vroom Vroom!”
+
+---
+
+**References**
+
+* [Karma's profile page](https://www.leagueoflegends.com/en-US/champions/karma/)
+* [palaeolexicon.com](http://www.palaeolexicon.com/Word/Show/28990/)
+* [Etymological Dictionary of Latin](https://books.google.com/books?id=r4TbAAAAMAAJ&pg=PA223)
+* [Etymological Dictionary of Iranian verbs](https://books.google.com/books?id=o1oEAAAAMBAJ&pg=PA57-59)

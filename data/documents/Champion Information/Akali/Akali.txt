@@ -1,0 +1,536 @@
+**Games**
+
+* Universe
+* League of Legends
+	+ •
+	+ League of Legends: Wild Rift
+	+ •
+	+ Teamfight Tactics
+* Image
+* Akali
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Akali**
+
+* Release date: 2010-05-11
+* Last changed: V14.2
+* Class(es): Assassin, Legacy Assassin
+* Position(s): Top, Middle
+* Resource: Energy
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 3150
+* Crafting: +1890
+* Ratings
+	+ Damage: 3
+	+ Toughness: 1
+	+ Control: 1
+	+ Mobility: 3
+	+ Utility: 1
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Base statistics**
+
+| Statistic | Value |
+| --- | --- |
+| Health | 570 +119 |
+| Energy | 200 +0 |
+| Health regeneration (per 5s) | 9 +0.9 |
+| Energy regeneration (per 5s) | 50 |
+| Armor | 23 +4.7 |
+| Attack damage | 62 +3.3 |
+| Magic resist. | 37 +2.05 |
+| Crit. damage | 175% |
+| Move. speed | 345 |
+| Attack range | 125 |
+| Attack speed (base AS) | 0.625 |
+| Attack windup | 13.9% |
+| AS ratio | N/A |
+| Bonus AS % | +3.2 |
+| Unit radius | Gameplay radius |
+| Selection radius | 100 |
+| Pathing radius | 30 |
+| Acq. radius | 400 |
+
+**Special statistics**
+
+* ARAM
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena
+* Damage Dealt: +5%
+* Damage Received: -10%
+* Energy Regen: +20%
+* Tenacity & Slow Resist: +20%
+
+**Abilities**
+
+[Assassin's Mark]
+Effect radius: 500
+Innate:
+
+* When Akali damages an enemy champion with an ability, she creates a ring around them for 4 seconds, refreshing on subsequent damaging abilities against champions.
+* For 2 seconds, she gains 30 / 40 / 50 / 60% (based on level) bonus movement speed while moving away from the center of the ring.
+* When Akali exits the ring, for 2 seconds, she regains the bonus movement speed while facing nearby enemy champions and becomes empowered with Swinging Kama for 4 seconds.
+* Swinging Kama:
+	+ Akali's next basic attack is empowered to have its range doubled and deal 35 − 182 (based on level) (+ 60% bonus AD) (+ 55% AP) bonus magic damage.
+
+[Five Point Strike]
+Cost: 110 / 100 / 90 / 80 / 70 energy
+Cooldown: 1.5 / 1.2 / 1 / 0.9 / 0.8 seconds
+Target range: 500 / 120
+Width: 350
+Angle: 20°
+Active:
+
+* Akali unleashes kunais in a cone in the target direction, dealing magic damage to enemies hit.
+* Targets at maximum range are also slowed by 50% for 0.5 seconds.
+* Magic Damage: 45 / 70 / 95 / 120 / 145 (+ 65% AD) (+ 60% AP)
+
+**Map-Specific Differences**
+
+* In Arena, differences:
+	+ Base damage changed to 60 / 90 / 120 / 150 / 180.
+	+ Bonus AD ratio changed to 75% bonus AD.
+	+ AP ratio changed to 60% AP.
+	+ Video: [File:Akali_Q_Video.webm]
+
+[Twilight Shroud]
+Cooldown: 20 seconds
+Cast time: 0.25 seconds
+Target range: 250
+Effect radius: 350 / 1175
+Active:
+
+* Akali restores 100 energy over 0.4 seconds and gains bonus movement speed that decays over 2 seconds.
+* She also detonates a smoke bomb a fixed distance away in the target direction, creating a circular shroud that expands over the next 5 seconds into a ring.
+* The shroud does not permeate terrain, and will expand toward nearby enemy champions.
+* While the shroud is active, Akali's maximum energy is increased by 100.
+* Bonus Movement Speed: 30 / 35 / 40 / 45 / 50%
+* Entering the shroud renders Akali invisible, unless she is dashing.
+* Declaring a basic attack or casting an ability will break the invisibility and prevent Akali from entering it for 1 - 0.625 (based on minutes) seconds, refreshing on subsequent attacks and casts.
+* The marked section of Twilight Shroud will linger for the mark's duration, even after the shroud ends.
+
+**Map-Specific Differences (Arena)**
+
+* Energy restoration changed to 150.
+* Cooldown changed to 10 seconds from 20.
+* Video: [File:Akali_W_Video.webm]
+
+[Shuriken Flip]
+Cost: 30 energy
+Cooldown: 16 / 14.5 / 13 / 11.5 / 10 seconds
+Cast time: 0.4 / 0.25 seconds (empowered)
+Target range: 825
+Effect radius: Global
+WIDTH: 120
+SPEED: 1800 / 1500
+Active:
+
+* Akali flips backward and, after the cast time, throws a shuriken in the target direction that deals magic damage to the first enemy hit.
+* The shuriken marks and reveals the enemy or the last smoke section hit for 3 seconds.
+* During this time, Shuriken Flip can be recast to consume the mark and dash towards the marked target or smoke section.
+* Against enemies, she deals magic damage upon arrival.
+* Magic Damage: 70 / 131.25 / 192.5 / 253.75 / 315 (+ 59.5% AD) (+ 84% AP)
+
+**Passive - Assassin's Mark**
+
+* Empowered attack can no longer expire during its windup against a target.
+* Bug Fix: Akali no longer becomes unable to cast abilities for about 1.5 seconds if she uses the empowered attack at the last second.
+
+**Patch history**
+
+[V14.2]
+Assassin's Mark
+
+* New Effect: Empowered attack can no longer expire during its windup against a target.
+* Bug Fix: Akali no longer becomes unable to cast abilities for about 1.5 seconds if she uses the empowered attack at the last second.
+
+[V13.16]
+Five Point Strike
+
+* Base damage increased to 45 / 70 / 95 / 120 / 145 from 40 / 65 / 90 / 115 / 140.
+* Energy cost reduced to 110 / 100 / 90 / 80 / 70 from 130 / 115 / 100 / 85 / 70.
+
+[V13.11]
+Five Point Strike
+
+* Base damage increased to 40 / 65 / 90 / 115 / 140 from 30 / 55 / 80 / 105 / 130.
+
+[...]
+
+**Champion skins**
+
+[...]
+
+**Original**
+[...]
+
+**Krizia Bajos**
+[...]
+
+**Loot eligible**
+[...]
+
+**Abandoning the Kinkou Order and her title of the Fist of Shadow, Akali now strikes alone, ready to be the deadly weapon her people need. Though she holds onto all she learned from her master Shen, she has pledged to defend Ionia from its enemies, one kill at a time. Akali may strike in silence, but her message will be heard loud and clear: fear the assassin with no master.**
+
+[Krizia Bajos]
+[File: Akali_Passive_Video.webm]
+
+[Stinger]
+[...]
+
+[Infernal]
+[...]
+
+[Soccer Cup]
+[...]
+
+[Rift Hospital]
+[...]
+
+[Nurse]
+[...]
+
+[New SFX/VFX]
+[...]
+
+[New Animations/Recall]
+[...]
+
+[All-star]
+[...]
+
+[Soccer Cup]
+[...]
+
+[Prestige KDA]
+[...]
+
+[PROJECT]
+[...]
+
+[Star Guardian]
+[...]
+
+[Horace 'Hozure' Hsu]
+[World Champions: 2022]
+[Loot eligible]
+[New SFX/VFX]
+[New Animations/Recall]
+[Chromas]
+[DRX Akali Chromas]
+[Elite]
+[Coven]
+[...]
+
+[Roanna Peroz]
+[Coven]
+[Loot eligible]
+[Voice filter]
+[New SFX/VFX]
+[New Animations/Recall]
+[Chromas]
+[Coven Akali Chromas]
+[Catseye]
+[Emerald]
+[Destined]
+[Emerald]
+[Profane]
+[Rose Quartz]
+[Ruby]
+[Sapphire]
+[Tanzanite]
+[Turquoise]
+[True Damage]
+[...]
+
+**Patch history**
+
+[V14.2]
+Assassin's Mark
+
+* New Effect: Empowered attack can no longer expire during its windup against a target.
+* Bug Fix: Akali no longer becomes unable to cast abilities for about 1.5 seconds if she uses the empowered attack at the last second.
+
+[V13.16]
+Five Point Strike
+
+* Base damage increased to 45 / 70 / 95 / 120 / 145 from 40 / 65 / 90 / 115 / 140.
+* Energy cost reduced to 110 / 100 / 90 / 80 / 70 from 130 / 115 / 100 / 85 / 70.
+
+[V13.11]
+Five Point Strike
+
+* Base damage increased to 40 / 65 / 90 / 115 / 140 from 30 / 55 / 80 / 105 / 130.
+
+[V13.10]
+Shuriken Flip
+
+* Bug Fix: Can now properly cross walls with the dash.
+
+[V13.5]
+Shuriken Flip
+
+* Bug Fix: Recast can no longer bypass the boundaries of Mordekaiser's Realm of Death.
+
+[V12.18]
+Shuriken Flip
+
+* New Effect: Now applies true sight instead of a standard reveal.
+
+[V12.15]
+Twilight Shroud
+
+* Bonus maximum energy increased to 100 from 80.
+* Energy restore increased to 100 from 80.
+
+[V12.14]
+Assassin's Mark
+
+* Bug Fix: Spinning animation while the empowered attack is active no longer is delayed when issuing a movement command.
+
+[V12.10]
+Stats
+
+* Base health increased to 570 from 500.
+* Health growth increased to 119 from 105.
+* Armor growth increased to 4.7 from 3.5.
+* Magic resistance growth increased to 2.05 from 1.75.
+* Base attack damage increased to 62 from 58.3.
+
+[V11.22]
+Assassin's Mark
+
+* Base damage increased to 35 - 182 (based on level) from 29 - 170 (based on level).
+* AP ratio increased to 55% AP from 40% AP.
+
+[V11.19]
+Stats
+
+* Base health regeneration increased to 9 from 8.
+* Health regeneration growth increased to 0.9 from 0.5.
+
+[V11.14]
+Five Point Strike
+
+* Removed: Can no longer be cast during Shuriken Flip's recast.
+* Attempting to cast the ability during either dash will buffer it to cast as soon as the dash ends.
+
+[V11.10]
+Shuriken Flip
+
+* Bug Fix: Fixed a bug where she would deal double damage if her target was very close to a wall.
+
+[V11.7]
+Shuriken Flip
+
+* Bug Fix: Fixed an issue where the tooltip would not update its damage numbers when buying or selling items.
+
+[V11.6]
+Stats
+
+* Base health reduced to 500 from 575.
+* Health growth increased to 105 from 95.
+
+[V11.1]
+Assassin's Mark
+
+* Removed: No longer restores 10 / 15 / 20 (based on level) energy.
+* Fixed a bug where the empowered attack's range was not affected by items like Rapid Firecannon.
+
+[V11.0]
+Assassin's Mark
+
+* Fixed a bug where the empowered attack was causing Akali to gain an extra stack of on-hit effects.
+
+[V10.25]
+Twilight Shroud
+
+* Bonus movement speed reduced to 40 / 50 / 60 / 70% (based on level) from 40 / 50 / 60 / 70% / 80% (based on level).
+* Base damage reduced to 29 - 170 (based on level) from 39 - 180 (based on level).
+* AP ratio reduced to 50% AP from 60% AP.
+
+[V10.24]
+K/DA ALL OUT Akali
+
+* Akali's helmet visual effect has been updated to match her helmet.
+
+[V10.23]
+Five Point Strike
+
+* Energy cost reduced to 120 / 110 / 100 / 90 / 80 from 120 / 115 / 110 / 105 / 100.
+
+[V10.22]
+Shuriken Flip
+
+* Bug Fix: Recast will no longer fizzle if she tries to reactivate it too quickly after marking her Twilight Shroud.
+
+[V10.19]
+Five Point Strike
+
+* Base damage reduced 30 / 55 / 80 / 105 / 130 from 35 / 60 / 85 / 110 / 135.
+* AP ratio reduced to 60% AP from 65% AP.
+
+[V10.16]
+Five Point Strike
+
+* Base damage increased to 35 / 60 / 85 / 110 / 135 from 30 / 55 / 80 / 105 / 130.
+* Damage type changed to magic from physical.
+
+[V10.13]
+Nurse Akali
+
+* Updated visual effects.
+
+[V10.12]
+Five Point Strike
+
+* Base damage increased to 30 / 55 / 80 / 105 / 130 from 25 / 50 / 75 / 100 / 125.
+* AP ratio increased to 65% AP from 60% AP.
+
+[V10.7]
+Perfect Execution
+
+* Cooldown reduced to 100 / 85 / 70 seconds from 120 / 110 / 100.
+
+[V10.3]
+Shuriken Flip
+
+* Base damage increased to 50 / 80 / 110 / 140 / 170 from 40 / 70 / 100 / 130 / 160.
+* Cooldown reduced to 120 / 90 / 60 seconds from 160 / 130 / 100.
+* First dash base damage increased to 125 / 225 / 325 from 85 / 150 / 215.
+
+[V10.3]
+Five Point Strike
+
+* Energy cost increased to 120 / 115 / 110 / 105 / 100 from 100 / 95 / 90 / 85 / 80.
+
+[V10.19]
+Twilight Shroud
+
+* Removed: No longer causes all sources of true sight (except for turret targeting) to grant obscured vision instead.
+* Cooldown increased to 21 / 18.5 / 17 / 15.5 / 14 seconds from 21 / 18 / 16 / 14 / 12 seconds.
+* Energy restore increased to 80 at all ranks from 40 / 50 / 60 / 70 / 80.
+
+[V9.24]
+Five Point Strike
+
+* Removed: If cast at 180 energy or above, no longer heals for 5 / 10 / 15 / 20 / 25 (+ 20 / 25 / 30 / 35 / 40% AD) (+ 20 / 25 / 30 / 35 / 40% AP).
+
+[V9.23]
+True Damage Akali
+
+* Loading screen border is now uniquely colored per True Damage skin.
+
+[V9.19]
+Perfect Execution
+
+* Second cast base minimum base damage increased to 75 / 145 / 215 from 65 / 140 / 215.
+* Second cast maximum base damage increased to 225 / 435 / 645 from 195 / 420 / 645.
+
+[V9.18]
+Perfect Execution
+
+* Removed: No longer stuns for 0.5 seconds on first cast.
+* Second cast minimum base damage reduced to 65 / 140 / 215 from 85 / 150 / 215.
+* Second cast maximum base damage reduced to 195 / 420 / 645 from 255 / 450 / 645.
+* Cooldown increased to 160 / 130 / 100 seconds from 120 / 110 / 100.
+
+[V9.16]
+General
+
+* Adjusted splash artwork for Sashimi Akali.
+
+[V9.14]
+- July 22nd Hotfix
+* Twilight Shroud
+* Bug Fix: Fixed a bug where she wasn't immediately stealthed after casting.
+- July 18th Hotfix
+* Stats
+* Base health increased to 575 from 550.
+* Base health regeneration increased to 8 from 6.
+* July 17th Hotfix
+* Perfect Execution
+* Bug Fix: Travel speed when casting Perfect Execution is no longer slower than intended.
+* July 17th Hotfix
+* Stats
+* Base magic resistance increased to 37 from 32.
+* Health growth increased to 95 from 85.
+
+[V9.14]
+- July 16th Hotfix
+* Five Point Strike
+* Bug Fix: Fixed a bug where the second cast was not dealing damage to enemy champions.
+
+[V9.14]
+- July 16th Hotfix
+* Five Point Strike
+* Bug Fix: Fixed a bug where the second cast was not marking enemy champions.
+
+[V9.14]
+- July 15th Hotfix
+* Twilight Shroud
+* Bug Fix: Fixed a bug where her passive was not being applied when using her W ability.
+
+[V9.13]
+- June 27th Hotfix
+* Twilight Shroud
+* Bug Fix: Fixed a bug where the stealth duration was not being extended correctly when breaking and re-entering the stealth.
+
+[V9.12]
+- June 21st Hotfix
+* Twilight Shroud
+* Bug Fix: Fixed a bug where her passive was not being applied when using her W ability.
+
+[V9.12]
+- June 21st Hotfix
+* Twilight Shroud
+* Bug Fix: Fixed a bug where her passive was not being applied when using her E ability.
+
+[V9.11]
+Assassin's Mark
+
+* Energy restoration reduced to 10 / 15 / 20 (based on level) from 10 / 20 / 30 (based on level).
+* Bonus AD ratio reduced to 60% bonus AD from 90%.
+* AP ratio reduced to 50% AP from 70%.
+
+[V9.9]
+Twilight Shroud
+
+* Bonus duration reduced to 2 seconds from 3.
+* Maximum duration reduced to 7 / 7.5 / 8 / 8.5 / 9 seconds from 8 / 8.5 / 9 / 9.5 / 10 seconds.
+* Cooldown increased to 21 / 18.5 / 17 / 15.5 / 14 seconds from 21 / 18 / 16 / 14 / 12 seconds.
+
+[V9.7]
+Twilight Shroud
+
+* Bug Fix: Fixed a bug where the cooldown was incorrectly calculated with her cooldown reduction.
+
+[V9.5]
+Assassin's Mark
+
+* Movement speed duration gained from moving towards the edge of the ring increased to 2 seconds from 1.25 seconds.
+* Movement speed duration gained from moving towards enemies increased to 2 seconds from 1.25 seconds.
+
+[V9.3]
+Twilight Shroud
+
+* New Effect: Is now only revealed by towers if she is within attack range rather than sight range.
+* New Effect: Now only needs to exit and re-enter the shroud once to extend the duration by 3 seconds, instead of 6 times.
+* Shuriken Flip
+* Shuriken base damage increased to 60 / 90 / 120 / 150 / 180 from 70 / 105 / 140 / 175 / 210.
+* Dash base damage reduced to 50 / 80 / 110 / 140 / 170 from 60 / 90 / 120 / 150 / 180.
+* Perfect Execution
+* Cooldown reduced to 120 / 100 / 80 seconds from 140 / 120 / 100.

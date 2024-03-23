@@ -1,0 +1,794 @@
+**Games**
+
+* Universe
+  + League of Legends
+  + Teamfight Tactics
+  + Legends of Runeterra
+  + Wild Rift
+* Image
+  + Renekton
+* Gameplay
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Renekton**
+
+* Release date: 2011-01-18
+* Last changed: V14.4
+* Class(es): Diver, Legacy, Fighter, Tank
+* Position(s): Top
+* Resource: Fury
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 4800
+* Ratings
+  + Damage: 2
+  + Toughness: 2
+  + Control: 2
+  + Mobility: 2
+  + Utility: 1
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Renekton Champion Spotlight**
+
+**Renekton**
+
+* is a champion in League of Legends.
+
+---
+
+**Base statistics**
+
+| Statistic          | Value                        |
+|---------------------|------------------------------|
+| Health               | 660 + 111                    |
+| Resource             | N/A                           |
+| Health regen. (per 5s)| 8                             |
+| Secondary Bar        | Fury                          |
+| Armor                | 35 + 5.2                      |
+| Attack damage        | 69 + 4.15                     |
+| Magic resist.        | 28 + 2.05                     |
+| Crit. damage         | 175%                          |
+| Move. speed         | 345                           |
+| Attack range         | 125                           |
+| Attack speed         | Base AS: 0.665                 |
+| Attack windup       | 17.73%                        |
+| AS ratio             | N/A                           |
+| Bonus AS %           | +2.75%                         |
+| Unit radius          | Gameplay radius: 80            |
+| Selection radius     | 125                           |
+| Pathing radius       | 50                            |
+| Acq. radius         | 600                           |
+
+---
+
+**Special statistics**
+
+| Statistic                      | Value                                                                            |
+|----------------------------------|----------------------------------------------------------------------------------|
+| ARAM                             | N/A                                                                              |
+| Nexus Blitz                       | N/A                                                                              |
+| One For All                       | N/A                                                                              |
+| URF                              | N/A                                                                              |
+| Ult Spellbook                     | N/A                                                                              |
+| Arena                            | N/A                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+| Healing                           | +5%                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+| Damage Dealt                      | +0%                                                                              |
+| Damage Received                   | +0%                                                                              |
+
+---
+
+**Abilities**
+
+[Reign of Anger]
+
+* Passive
+* Renekton's basic attacks generate 5 Fury.
+* After 12 seconds of being out of combat, he loses 1 Fury every 0.25 seconds.
+* While Renekton has at least 50 Fury, his next basic ability consumes 50 Fury to become empowered with an additional effect. Empowered abilities do not generate Fury.
+* Renekton generates 50% bonus Fury from all sources while below 50% of his maximum health.
+
+[Cull the Meek]
+
+* Cooldown: 7 seconds
+* Cast time: none
+* Effect radius: 400 / 480
+* Active:
+  + Renekton cleaves around himself, dealing physical damage to nearby enemies and healing himself for each enemy hit, up to a cap.
+  + Physical Damage: 60 / 90 / 120 / 150 / 180 (+ 100% bonus AD)
+  + Enhanced Damage: 90 / 135 / 180 / 225 / 270 (+ 140% bonus AD)
+  + Healing Cap: 50 / 75 / 100 / 125 / 150
+  + Enhanced Healing Cap: 200 / 300 / 400 / 500 / 600
+  + Non-Champion Healing: 2 / 3 / 4 / 5 / 6 (+ 2% bonus AD)
+  + Enhanced Non-Champion Healing: 6 / 9 / 12 / 15 / 18 (+ 6% bonus AD)
+  + Against champions, the healing is increased.
+  + Champion Healing: 12 / 20 / 28 / 36 / 44 (+ 17% bonus AD)
+  + Enhanced Champion Healing: 36 / 60 / 84 / 108 / 132 (+ 51% bonus AD)
+  + Renekton generates 2.5 Fury for each non-champion hit and 10 Fury for each champion hit, with the Fury generated per cast capped at 30.
+* Reign of Anger Bonus:
+  + Cull the Meek has increased damage, tripled total healing, and a quadrupled healing cap.
+  + Renekton cannot basic attack nor cast Slice, Dice, or Dominus for 0.25 seconds after Cull the Meek's activation.
+* Targeting input: Auto
+* Damage type: Type: Sub-type: Area damage, Physical
+* Counters: Spell shield, Healing modifiers such as Spirit Visage and Grievous Wounds take effect after Cull the Meek's healing cap.
+
+[Ruthless Predator]
+
+* Cooldown: 16 / 14.5 / 13 / 11.5 / 10 seconds
+* Cast time: none
+* Range: 450
+* Active:
+  + Renekton dashes a fixed distance in the target direction, dealing physical damage to enemies he passes through.
+  + Physical Damage: 40 / 70 / 100 / 130 / 160 (+ 90% bonus AD)
+  + If Renekton hits an enemy, he can cast Dice within the next 4 seconds.
+* Dice
+  + Active:
+    - Renekton dashes a fixed distance in the target direction, dealing the same physical damage to enemies he passes through.
+  + Total Physical Damage: 80 / 140 / 200 / 260 / 320 (+ 180% bonus AD)
+  + Both Slice and Dice generate 2 Fury for each non-champion hit and 10 Fury for each champion hit, with the Fury generated per dash capped at 30.
+* Reign of Anger Bonus:
+  + Dice deals bonus physical damage and inflicts armor reduction to enemies hit for 4 seconds.
+  + Bonus Physical Damage: 30 / 45 / 60 / 75 / 90 (+ 45% bonus AD)
+  + Total Bonus Damage: 70 / 115 / 160 / 205 / 250 (+ 135% bonus AD)
+  + Armor Reduction: 25 / 27.5 / 30 / 32.5 / 35% of target's armor
+
+[Slice]
+
+* Cooldown: 16 / 15 / 14 / 13 / 12 seconds
+* Cast time: none
+* Range: 450
+* SPEED: 760 + 100% movement speed
+* Active:
+  + Renekton dashes a fixed distance in the target direction, dealing physical damage to enemies he passes through.
+  + Physical Damage: 40 / 70 / 100 / 130 / 160 (+ 90% bonus AD)
+
+[Dice]
+
+* Cooldown: same as Slice
+* Cast time: none
+* Range: same as Slice
+* Active:
+  + Renekton dashes a fixed distance in the target direction, dealing the same physical damage to enemies he passes through.
+  + Total Physical Damage: 80 / 140 / 200 / 260 / 320 (+ 180% bonus AD)
+* Map-Specific Differences:
+  + Arena: Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.
+
+---
+
+**Map-Specific Differences - Arena**
+
+* Cooldown changed to 18 / 16 / 14 / 12 / 10 seconds.
+
+---
+
+**Champion skins**
+
+[Original]
+[Galactic]
+[Legacy]
+[Wonders of the World]
+[Bloodfury]
+[Rune Wars]
+[Scorched Earth]
+[Pool Party]
+[Prehistoric]
+[SKT T1]
+[Toy Box]
+
+---
+
+**Chromas**
+
+[Renektoy Chromas]
+[Amethyst]
+[Aquamarine]
+[Catseye]
+[Obsidian]
+[Pearl]
+[Rose Quartz]
+[Tanzanite]
+[Hextech]
+
+---
+
+**Transcending**
+
+[20.12.2018]
+[As is so often the way, artificers of the Hextech Renaissance pushed too far and too fast into their new science, without fully considering the possible consequences. Renekton—a half-mad monster of flesh and metal—is the result of that shortsightedness.]
+
+---
+
+**Blackfrost**
+
+[05.03.2020]
+[In life, Renekton stood against the tyranny of the Ice Witch, fighting an inevitable, endless winter until his last breath. In death, the virtuous warrior was cursed with resurrection—brought back to life as a vicious warmonger cased in rock and ice. Now a general leading the onslaught of the Black Frost army, Renekton loyally serves the very queen he once thought to destroy.]
+
+---
+
+**Project**
+
+[1820]
+[A hybridized warrior taking inspiration from extinct fauna, Renekton is the perfected version of PROJECT's crossbreed superweapon project. Released to aid the City in its fight against the Program virus, Renekton's seemingly endless rage is useful for now… though his belief that he can “see beyond the soul” is increasingly disconcerting.]
+
+---
+
+**Nightbringer and Dawnbringer**
+
+[20.04.2023]
+[In the aftermath of chaos slaying order, two brothers were born: the embodiments of cause, Renekton, and effect, Nasus.]
+
+---
+
+**Worlds 2023**
+
+[11.10.2023]
+[Celebrating Worlds 2023 in Korea.]
+
+---
+
+**Patch history**
+
+[For the expanded patch notes, see here.]
+
+[V14.4]
+[Cull the Meek]
+[Champion base heal increased to 12 / 20 / 28 / 36 / 44 from 12 / 18 / 24 / 30 / 36.]
+[Empowered champion base heal increased to 36 / 54 / 72 / 90 / 108 from 36 / 54 / 72 / 90 / 108.]
+[Champion heal bonus AD ratio increased to 17% bonus AD from 15%.]
+[Empowered champion heal bonus AD ratio increased to 51% bonus AD from 45%.]
+
+[V13.19]
+[Stats]
+[Base magic resistance reduced to 28 from 32.]
+
+[V13.11]
+[Slice]
+[Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 18 / 17 / 16 / 15 / 14.]
+[Dominus]
+[Cooldown reduced to 120 / 100 / 80 seconds from 120 at all ranks.]
+[Base damage per tick increased to 30 / 60 / 90 from 25 / 50 / 75.]
+
+[V12.17]
+[Cull the Meek]
+[Base damage reduced to 60 / 90 / 120 / 150 / 180 from 65 / 100 / 135 / 170 / 205.]
+[Empowered base damage reduced to 90 / 135 / 180 / 225 / 270 from 100 / 150 / 200 / 250 / 300.]
+[Bonus AD ratio increased to 100% bonus AD from 80%.]
+[Empowered bonus AD ratio increased to 140% bonus AD from 120%.]
+
+[V12.14]
+[Ruthless Predator]
+[Typo in the tooltip fixed.]
+
+[V12.13]
+[Dominus]
+[New Effect: Damage now scales off of 5% bonus AD per tick.]
+
+[V12.10]
+[- May 25th Hotfix]
+[Cull the Meek]
+[Cooldown reduced to 7 seconds from 8.]
+[Champion base heal increased to 12 / 18 / 24 / 30 / 36 from 10 / 14 / 18 / 22 / 26.]
+[Empowered champion base heal increased to 36 / 54 / 72 / 90 / 108 from 30 / 42 / 54 / 66 / 78.]
+[Base health increased to 660 from 590.]
+[Health growth increased to 111 from 97.]
+[Armor growth increased to 5.2 from 4.]
+[Magic resistance growth increased to 2.05 from 1.25.]
+[Cull the Meek]
+[Heal bonus AD ratio reduced to 2% bonus AD from 3%.]
+[Empowered heal bonus AD ratio reduced to 6% bonus AD from 9%.]
+[Champion base heal reduced to 10 / 14 / 18 / 22 / 26 from 12 / 18 / 24 / 30 / 36.]
+[Champion heal bonus AD ratio reduced to 15% bonus AD from 16%.]
+[Empowered champion base heal reduced to 30 / 42 / 54 / 66 / 78 from 36 / 54 / 72 / 90 / 108.]
+[Empowered champion heal bonus AD ratio reduced to 45% bonus AD from 48%.]
+
+[V12.9]
+[Stats]
+[Health growth increased to 97 from 92.]
+[Attack damage growth increased to 4.15 from 3.75.]
+
+[V12.18]
+[Ruthless Predator]
+[Empowered stun duration increased to 1.5 seconds from 1 second.]
+[Empowered self-lock out duration increased to 0.75 seconds from 0.525 seconds.]
+
+[V12.16]
+[Stats]
+[Base health increased to 590 from 575.]
+[Health growth increased to 92 from 87.]
+[Attack damage growth increased to 3.75 from 3.5.]
+[Armor growth increased to 4 from 3.5.]
+[Magic resistance growth increased to 2 from 1.5.]
+
+[V12.15]
+[Ruthless Predator]
+[Empowered stun duration reduced to 1 second from 1.5 seconds.]
+[Empowered self-lock out duration reduced to 0.525 seconds from 0.75 seconds.]
+
+[V12.11]
+[PROJECT: Renekton]
+[Bug Fix: Fixed VFX bugs.]
+
+[V12.9]
+[Cull the Meek]
+[Non-champion base heal reduced to 3 / 4 / 5 / 6 / 7 from 3 / 4.5 / 6 / 7.5 / 9.]
+[Non-champion heal bonus AD ratio reduced to 3% bonus AD from 4%.]
+[Empowered non-champion base heal reduced to 9 / 12 / 15 / 18 / 21 from 9 / 13.5 / 18 / 22.5 / 27.]
+[Empowered non-champion heal bonus AD ratio reduced to 9% bonus AD from 12%.]
+[Champion healing changed to 9 / 13.5 / 18 / 22.5 / 27 from 12 / 16.5 / 21 / 26.5 / 32.]
+[Champion heal bonus AD ratio changed to 15% bonus AD from 17%.]
+[Empowered champion healing changed to 27 / 40.5 / 54 / 68.5 / 83 from 33 / 48 / 63 / 78 / 93.]
+[Empowered champion heal bonus AD ratio changed to 48% bonus AD from 54%.]
+
+[V11.22]
+[Ruthless Predator]
+[Empowered stun duration increased to 1.5 seconds from 1 second.]
+[Empowered self-lock out duration increased to 0.75 seconds from 0.525 seconds.]
+
+[V11.19]
+[Stats]
+[Base health increased to 575 from 572.]
+[Health growth increased to 92 from 87.]
+[Cast animation time reduced.]
+
+[V11.18]
+[Ruthless Predator]
+[Empowered stun duration reduced to 1 second from 1.5 seconds.]
+[Empowered self-lock out duration reduced to 0.52 seconds from 0.75 seconds.]
+
+[V11.14]
+[PROJECT: Renekton]
+[Bug Fix: Fixed VFX bugs.]
+
+[V11.12]
+[Cull the Meek]
+[Non-champion base heal reduced to 3 / 4 / 5 / 6 / 7 from 3 / 4.5 / 6 / 7.5 / 9.]
+[Non-champion heal bonus AD ratio reduced to 3% bonus AD from 4%.]
+[Empowered non-champion base heal reduced to 9 / 12 / 15 / 18 / 21 from 9 / 13.5 / 18 / 22.5 / 27.]
+[Empowered non-champion heal bonus AD ratio reduced to 9% bonus AD from 12%.]
+
+[V11.6]
+[Dominus]
+[Bonus health reduced to 250 / 400 / 550 from 250 / 500 / 750.]
+
+[V11.4]
+[Cull the Meek]
+[Base heal against non-champions reduced to 3 / 4 / 5 / 6 / 7 from 3 / 4.5 / 6 / 7.5 / 9.]
+[Base damage increased to 65 / 95 / 125 / 155 / 185 from 60 / 90 / 120 / 150 / 180.]
+[Empowered base damage increased to 95 / 140 / 185 / 230 / 275 from 90 / 135 / 180 / 225 / 270.]
+[Slice and Dice]
+[Base damage increased to 40 / 70 / 100 / 130 / 160 from 30 / 60 / 90 / 120 / 150.]
+[Enhanced damage increased to 55 / 100 / 145 / 190 / 235 from 45 / 90 / 135 / 180 / 225.]
+
+[V11.2]
+[Ruthless Predator]
+[Empowered stun duration increased to 1.5 seconds from 1 second.]
+[Empowered self-lock out duration increased to 0.75 seconds from 0.525 seconds.]
+
+[V11.1]
+[Stats]
+[Base magic resistance reduced to 32 from 32.1.]
+
+[V10.25]
+[General]
+[Bug Fix: Renekton's Death VO is readded to his sound bank.]
+
+[V10.15]
+[Reign of Anger]
+[Bug Fix: Now properly gains increased passive Rage generation as well as Rage gained from casting Dominus when below 50% of his maximum health.]
+
+[V10.14]
+[Dominus]
+[Bug Fix: No longer continues to damage nearby enemies while the champion is in a revive state (like from Guardian Angel).]
+
+[V10.9]
+[General]
+[New voice lines from Ascension added.]
+[Undocumented: Renekton's death VO is removed from his sound bank.]
+
+[V10.6]
+[Recommended items updated.]
+
+[V10.5]
+[Slice and Dice]
+[Bug Fix: No longer plays its on-hit audio if it doesn't hit anything.]
+
+[V9.14]
+[Ruthless Predator]
+[Bug Fix: Fixed a bug where Renekton's abilities failed to grant him the correct amount of Fury when initiating combat.]
+[Cull the Meek]
+[Base damage increased to 65 / 95 / 125 / 155 / 185 from 60 / 90 / 120 / 150 / 180.]
+[Empowered base damage increased to 95 / 140 / 185 / 230 / 275 from 90 / 135 / 180 / 225 / 270.]
+
+[V9.9]
+[General]
+[New sound effects.]
+[Reign of Anger]
+[Made his growl cleaner and the cast punchier.]
+[Cull the Meek]
+[Emphasize the blade sounds when it hits on the target.]
+[Ruthless Predator]
+[Added more "shwing" and cleaned up the sounds.]
+[Slice and Dice]
+[Made punchier.]
+[Dominus]
+[Added more debris sounds and cleaned up on unnecessary sounds.]
+
+[V9.8]
+[Stats]
+[Base health increased to 575 from 572.]
+[Health growth increased to 92 from 87.]
+[Attack speed growth increased to 2.75% from 2.5%.]
+[Armor growth increased to 4 from 3.5.]
+
+[V9.7]
+[Cull the Meek]
+[Base healing against champions increased to 12 / 18 / 24 / 30 / 36 from 9 / 13.5 / 18 / 22.5 / 27.]
+[Empowered base healing against champions increased to 27 / 40.5 / 54 / 68.5 / 83 from 21 / 30 / 39 / 48 / 57.]
+
+[V9.5]
+[Ruthless Predator]
+[Base damage per hit increased to 5 / 20 / 35 / 50 / 65 from 5 / 15 / 25 / 35 / 45.]
+[Unempowered total base damage increased to 10 / 40 / 70 / 100 / 130 from 10 / 30 / 50 / 70 / 90.]
+[Empowered total base damage increased to 15 / 60 / 105 / 150 / 195 from 15 / 45 / 75 / 105 / 135.]
+
+[V9.3]
+[Dominus]
+[Bonus health reduced to 250 / 400 / 550 from 300 / 500 / 750.]
+
+[V9.1]
+[Dice]
+[New Effect: Ability icon border now shows the remaining time to recast the ability.]
+[Dominus]
+[New Effect: Ability icon HUD now shows the remaining duration of the ability.]
+
+[V8.24]
+[General]
+[Updated sound and visual effects.]
+[New basic attack hit VFX.]
+[Reign of Anger]
+[Glowing hand VFX are more clear when empowered.]
+[Eyes now glow red as well.]
+[Cull the Meek]
+[VFX more clearly indicate area of effect, scaling with Dominus.]
+[Ruthless Predator]
+[Mostly unchanged.]
+[Slice and Dice]
+[VFX cleaned up; ground sand added.]
+[Empowered cast VFX are much clearer.]
+[Dominus]
+[New sandstorm and range indicator VFX.]
+[Dragonflies changed to scarabs.]
+[Outback and Prehistoric use base VFX.]
+[Galactic and Bloodfury use recolored base VFX.]
+[Rune Wars, Scorched Earth, Pool Party, SKT T1, and Renektoy have unique ult effects.]
+[Pool Party Renekton and SKT T1 Renekton]
+[Cull the Meek]
+[Unempowered casts are recolored.]
+
+[V8.18]
+[Slice and Dice]
+[Fury-enhanced base damage increased to 70 / 115 / 160 / 205 / 250 from 60 / 105 / 150 / 195 / 240.]
+[Fury-enhanced armor reduction increased to 25 / 27.5 / 30 / 32.5 / 35% from 15 / 20 / 25 / 30 / 35%.]
+
+[V8.8]
+[Renektoy]
+[Bug Fix: Seams have been minimized on his chromas when on lower graphics settings.]
+
+[V8.4]
+[Reign of Anger]
+[Bug Fix: Fixed a bug where Renekton's abilities failed to grant him the correct amount of Fury when initiating combat.]
+[Cull the Meek]
+[Base damage increased to 65 / 95 / 125 / 155 / 185 from 60 / 90 / 120 / 150 / 180.]
+[Empowered base damage increased to 95 / 140 / 185 / 230 / 275 from 90 / 135 / 180 / 225 / 270.]
+
+[V8.3]
+[Stats]
+[Base health increased to 575 from 572.]
+[Health growth increased to 92 from 87.]
+[Attack damage growth increased to 4.15 from 3.75.]
+[Armor growth increased to 4 from 3.5.]
+
+[V8.2]
+[Dominus]
+[Base damage per tick increased to 30 / 60 / 90 from 25 / 50 / 75.]
+
+[V8.1]
+[General]
+[New ability icons.]
+
+[V8.0]
+[Stats]
+[Base health increased to 572 from 566.]
+[Health per level increased to 87 from 85.]
+[Movement speed increased to 345 from 340.]
+[Base armor increased to 35 from 33.]
+[Armor per level increased to 3.5 from 3.]
+[Magic resistance per level increased to 1.5 from 1.]
+[Armor growth increased to 3.5 from 3.]
+[Magic resistance growth increased to 1.5 from 1.]
+
+[V7.24b]
+[Stats]
+[Base attack damage increased to 66 from 62.]
+[Attack damage growth increased to 3.75 from 3.5.]
+
+[V7.24]
+[General]
+[New ability icons.]
+
+[V7.22]
+[Stats]
+[Base attack damage increased to 62 from 57.]
+[328]
+
+[V7.21]
+[General]
+[New particle effects for abilities.]
+
+[V7.19]
+[Cull the Meek]
+[Base damage increased to 60 / 90 / 120 / 150 / 180 from 55 / 85 / 115 / 145 / 175.]
+[Empowered base damage increased to 90 / 135 / 180 / 225 / 270 from 85 / 125 / 165 / 205 / 245.]
+
+[V7.18]
+[General]
+[New animations for abilities.]
+
+[V7.16]
+[General]
+[New recall animation.]
+
+[V7.14]
+[Dominus]
+[Base damage increased to 50 / 75 / 100 from 45 / 70 / 95.]
+
+[V7.10]
+[General]
+[Reign of Anger]
+[Bug Fix: Fixed a bug where Renekton's abilities failed to grant him the correct amount of Fury when initiating combat.]
+[Cull the Meek]
+[Base damage reduced to 60 / 90 / 120 / 150 / 180 from 65 / 95 / 125 / 155 / 185.]
+[Empowered base damage reduced to 90 / 135 / 180 / 225 / 270 from 95 / 140 / 185 / 230 / 275.]
+[Slice and Dice]
+[Base damage reduced to 30 / 60 / 90 / 120 / 150 from 35 / 65 / 95 / 125 / 155.]
+[Enhanced damage reduced to 45 / 90 / 135 / 180 / 225 from 55 / 100 / 145 / 190 / 235.]
+[Cooldown changed to 18 / 17 / 16 / 15 / 14 seconds from 20 / 18 / 16 / 14 / 12.]
+[Dominus]
+[Base damage reduced to 45 / 70 / 95 from 50 / 75 / 100.]
+
+[V7.8]
+[Slice and Dice]
+[Bug Fix: Renekton can no longer cast Dice when attacking minions he does not have sight of.]
+[Cull the Meek]
+[Range no longer scales with all size-modifying effects.]
+[Re-added a bug where it wasn't hitting invisible units.]
+[Re-added a bug where he could basic attack at the same time as Cull the Meek's damage was dealt.]
+[Ruthless Predator]
+[Re-added a bug where the lockout time was shorter than intended (0.525 seconds instead of 0.75).]
+[Fury-empowered casts once again generate Fury.]
+[Re-added a bug where, when casting Ruthless Predator and queueing either Cull the Meek or Dice while at 100 Fury, the queued ability would sometimes not be empowered or consume Fury.]
+[Slice and Dice]
+[Re-added a timing issue that could inconsistently cause Slice and Dice to not hit enemies Renekton passes through.]
+[Re-added a bug where the ranges were shorter than intended (400 instead of 450).]
+[Re-added a bug where the dash speeds were slower than intended (650 instead of 750).]
+
+[V7.7]
+[General]
+[New voiceover lines.]
+
+[V7.3]
+[Dominus]
+[Now takes up to 0.25 seconds to grant the bonus health.]
+
+[V7.1]
+[General]
+[New splash artwork for Original Renekton.]
+
+[V6.15]
+[Dominus]
+[Damage per second increased to 40 / 80 / 120 from 30 / 60 / 120.]
+[New Effect: Grants 20 fury upon activation.]
+
+[V6.8]
+[General]
+[New splash artwork for Galactic Renekton.]
+
+[V6.5]
+[Ruthless Predator]
+[Bug Fix: Occasionally fizzling.]
+[Slice]
+[New Effect: Generates Fury for each unit hit (2 for non-champions, 10 for champions)]
+[Dice]
+[Fury per non-champion hit reduced to 2.5 from 2.55.]
+
+[V6.1]
+[Dominus]
+[Bonus health changed to 300 / 500 / 800 from 250 / 450 / 800.]
+[Damage per second changed to 30 / 60 / 120 from 40 / 70 / 100.]
+
+[V5.22]
+[Ruthless Predator]
+[Targets hit not being stunned if they Flash during cast time.]
+
+[V5.9]
+[Ruthless Predator]
+[New Effect: Empowered attack gains 50 bonus range.]
+[Cast time when Fury-enhanced reduced to 0.5 seconds from 0.75.]
+
+[V5.1]
+[Reign of Anger]
+[Fury decay rate increased to 4 per second from 2.]
+[Cull the Meek]
+[Removed: Healing being affected by armor.]
+[Non-champion healing changed to 3 / 4.5 / 6 / 7.5 / 9 (+ 4% bonus AD) from 5% of damage dealt.]
+[Fury-enhanced Non-champion healing changed to 9 / 13.5 / 18 / 22.5 / 27 (+ 12% bonus AD) from 10% of damage dealt.]
+[Champion healing changed to 9 / 13.5 / 18 / 22.5 / 27 (+ 12% bonus AD) from 20% of damage dealt.]
+[Fury-enhanced champion healing changed to 27 / 40.5 / 54 / 68.5 / 83 (+ 36% bonus AD) from 40% of damage dealt.]
+[Healing cap unchanged.]
+[Fury per non-champion hit reduced to 2.5 from 5.]
+[Fury per champion hit increased to 10 from 5.]
+
+[V5.7]
+[Ruthless Predator]
+[New Effect: Generates 10 bonus Fury when hitting champions.]
+[Dice]
+[New Effect: Generates Fury for each unit hit (2.5 for non-champions, 10 for champions)]
+
+[V5.4]
+[Stats]
+[Base armor increased to 19.2 from 18.5.]
+[Armor per level increased to 3.5 from 3.]
+
+[V5.2]
+[Ruthless Predator]
+[Empowered casts no longer consume Fury.]
+[Fury-empowered casts now grant 10 Fury upon casting.]
+[Slice and Dice]
+[Bug Fix: Renekton can no longer use abilities during the cast time of Slice and Dice.]
+[Dice]
+[Bug Fix: Fury-empowered casts no longer grant 10 Fury upon casting.]
+
+[V5.1]
+[General]
+[Bug Fix: Renekton's death VO is readded to his sound bank.]
+[Reign of Anger]
+[First attack when (re)entering combat no longer grants the full 5 Fury.]
+[Cull the Meek]
+[Range no longer scales with all size-modifying effects.]
+[Re-added a bug where it wasn't hitting invisible units.]
+[Re-added a bug where he could basic attack at the same time as Cull the Meek's damage was dealt.]
+[Slice and Dice]
+[Re-added a timing issue that could inconsistently cause Slice and Dice to not hit enemies Renekton passes through.]
+[Dominus]
+[No longer deals an extra tick of damage on-cast.]
+
+[V4.16]
+[General]
+[Model and texture upgrade to all skins.]
+[New splash artwork for Original Renekton.]
+[New voice over, including special quotes for Ascension.]
+[New lore.]
+
+[V4.5]
+[Stats]
+[Base armor increased to 19 from 15.2.]
+[Dominus]
+[Bonus health changed to 200 / 400 / 800 from 300 / 450 / 800.]
+[Damage per second changed to 30 / 60 / 120 from 40 / 70 / 100.]
+
+[V4.4]
+[Twisted Treeline]
+[Dominus]
+[Bonus health reduced to 200 / 350 / 500 from 300 / 450 / 600.]
+[Damage per second reduced to 30 / 60 / 90 from 40 / 70 / 100.]
+
+[V3.03]
+[Ruthless Predator]
+[First hit can critically strike.]
+
+[V3.02]
+[Slice]
+[Bug Fix: Renekton can now cast Dice when hitting minions he does not have sight of.]
+
+[V1.0.0.152]
+[Stats]
+[Movement speed increased to 345 from 335.]
+
+[V1.0.0.151]
+[Dice]
+[Fury armor reduction affecting Dragon removed.]
+
+[V1.0.0.140b]
+[Dice]
+[Fury armor reduction increased to 15 / 17.5 / 20 / 22.5 / 25% from 15 / 17 / 20 / 22.5 / 25%.]
+
+[V1.0.0.141]
+[General]
+[New splash artwork for Bloodfury Renekton.]
+[Splash artwork for Original Renekton updated to the Chinese art.]
+
+[V1.0.0.140]
+[Cull the Meek]
+[New Effect: Fury-enhanced swipe trail is red.]
+
+[V1.0.0.123]
+[Dice]
+[Fury armor reduction only affecting the target's base armor rather than the intended total amount.]
+
+[V1.0.0.120]
+[General]
+[Bug Fix: Renekton not generating Fury when attacking a target affected by a shield.]
+[Cull the Meek]
+[Removed: Shields reducing healing when absorbing damage dealt.]
+[Healing reduced to 7.5% from 10%.
+](/): Fury-enhanced healing reduced to 12.5% from 15%.
+
+[V1.0.0.115]
+[Cull the Meek]
+[Healing reduced to 7.5% from 10%.
+](/): Fury-enhanced healing reduced to 12.5% from 15%.
+[Slice / Dice]
+[Base damage reduced to 30 / 60 / 90 / 120 / 150 from 45 / 75 / 105 / 135 / 165.]
+[AD ratio increased to (+ 90% bonus AD) from (+ 60% bonus AD).]
+[Cooldown changed to 18 / 17 / 16 / 15 / 14 seconds from 20 / 18 / 16 / 14 / 12.]
+[Dominus]
+[Base damage reduced to 45 / 75 / 105 from 50 / 75 / 100.]
+
+[V1.0.0.111]
+[Slice / Dice]
+[Bug Fix: Renekton following pre-cast movement commands and walking backwards post-cast.]
+
+[V1.0.0.110]
+[General]
+[Bug Fix: Renekton gaining bonus attack damage from missing health.]
+
+[V1.0.0.109]
+[Added Trivia]
+
+[Renekton's profile page at LeagueOfLegends.com]
+[FeralPony on Renekton being a crocodile]
+[Renekton's title used to be 'the Eater of Souls' (was changed to the current one after his sneak peek)]
+[In Legends of Runeterra, he clarifies himself as a crocodile, and not an alligator.]
+[When he closes his jaw you can see his upper and lower teeth, alligators would only show top teeth due to a strong overbite.]
+[Crocodiles are much more aggressive than alligators, and Renekton has a literal rage meter.]
+
+[Cull the Meek used to be called 'Tyrant's Reach' (was changed for unknown reasons when his Champion Spotlight was released)]
+[Renekton - Nasus is one of seven pairs of sibling champions (the others being Cassiopeia - Katarina, Kayle - Morgana, Garen - Lux, Yasuo - Yone, Darius - Draven, and Vi - Jinx).]
+[Though not a pair, Anivia, Ornn, and Volibear are also siblings.]
+[Slice and Dice reference the eponymous expression.]
+[The motion Renekton performs when using the abilities references the 'death roll'.]
+[Slice's original icon resembles Ace in the Hole's.]
+[Dominus comes from the Roman title, from domus 'home, house', thus 'Household's Master']
+[Dominus and Fury of the Sands both granting almost the same effects references Renekton and Nasus' brotherhood.]
+
+[References]
+[↑ Renekton's profile page at LeagueOfLegends.com]
+[↑ FeralPony on Renekton being a crocodile]
+[↑ In Legends of Runeterra, he clarifies himself as a crocodile, and not an alligator.]
+[↑ When he closes his jaw you can see his upper and lower teeth, alligators would only show top teeth due to a strong overbite.]
+[↑ Crocodiles are much more aggressive than alligators, and Renekton has a literal rage meter.]
+[Cull the Meek used to be called 'Tyrant's Reach' (was changed for unknown reasons when his Champion Spotlight was released)]
+[Renekton - Nasus is one of seven pairs of sibling champions (the others being Cassiopeia - Katarina, Kayle - Morgana, Garen - Lux, Yasuo - Yone, Darius - Draven, and Vi - Jinx).]
+[Though not a pair, Anivia, Ornn, and Volibear are also siblings.]
+[Slice and Dice reference the eponymous expression.]
+[The motion Renekton performs when using the abilities references the 'death roll'.]
+[Slice's original icon resembles Ace in the Hole's.]
+[Dominus comes from the Roman title, from domus 'home, house', thus 'Household's Master']
+[Dominus and Fury of the Sands both granting almost the same effects references Renekton and Nasus' brotherhood.]

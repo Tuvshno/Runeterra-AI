@@ -1,0 +1,1528 @@
+**Games**
+
+**Universe**
+
+-
+
+**League of Legends**
+
+•
+
+-
+
+**Teamfight Tactics**
+
+**Image**
+
+*Zac*
+
+**Gameplay**
+
+-
+
+**Collection**
+
+-
+
+**Audio**
+
+-
+
+**Patch history**
+
+-
+
+**Past versions**
+
+**Zac**
+
+**the Secret Weapon**
+
+**Release date**
+
+2013-03-29
+
+**Last changed**
+
+V14.5
+
+**Class(es)**
+
+Vanguard
+
+Legacy
+
+Tank
+
+Fighter
+
+**Position(s)**
+
+Top
+
+Jungle
+
+Mid
+
+Support
+
+**Resource**
+
+Health
+
+**Health costs**
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Magic
+
+**Store price**
+
+4800
+|
+
+880
+
+**Crafting**
+
++
+
+2880
+
+**Ratings**
+
+| **Damage** | **Toughness** | **Control** | **Mobility** | **Utility** |
+| --- | --- | --- | --- | --- |
+| 2 | 3 | 3 | 2 | 1 |
+
+**Style**
+
+Difficulty
+
+**Champion Spotlight**
+
+[Zac Champion Spotlight](https://www.youtube.com/watch?v=hg-rL43NHjY)
+
+**Zac**
+
+is a
+
+champion
+
+in
+
+League of Legends
+
+.
+
+[1]
+
+**Gameplay**
+
+•
+
+**Cosmetics**
+
+•
+
+**Audio**
+
+•
+
+**Development**
+
+•
+
+**Patch History**
+
+•
+
+**History**
+
+•
+
+**Trivia**
+
+**Base statistics**
+
+**Zac**
+
+**Edit**
+
+| Health | Resource | Health regen. (per 5s) | Armor | Attack damage | Magic resist. | Crit. damage | Move. speed | Attack range | Attack speed | Base AS | Attack windup | AS ratio | Bonus AS |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 685 | N/A (Uses Health) | 8 | 33 | 60 | 32 | 175% | 340 | 175 | 0.736 | 23.151% | 0.638 | 1.6 | - |
+
+**Special statistics**
+
+ARAM
+
+Nexus Blitz
+
+One For All
+
+URF
+
+Ult Spellbook
+
+Arena
+
+Damage Dealt
+
++0%
+
+Damage Received
+
+-4%
+
+Healing
+
++10%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+**Abilities**
+
+**[**]**
+
+**Cell Division**
+
+**Cell Division**
+
+STATIC
+
+**COOLDOWN:**
+
+300
+
+Innate - The Secret Weapon:
+
+Zac
+
+gains increased percentage
+
+size
+
+equal to
+
+1.5%
+
+of his
+
+bonus
+
+health
+
+, capped at 35% increased size at 2333.3.
+
+3.3
+
+bonus
+
+health
+
+.
+
+Zac's
+
+size also reduces based on his
+
+missing
+
+health
+
+, down to 70%
+
+total
+
+size while at 0% health
+
+.
+
+Innate - Goo:
+
+Whenever
+
+Zac
+
+damages at least one enemy with an
+
+ability
+
+, he sheds a number of chunks of himself to a nearby location, landing towards nearby
+
+visible
+
+enemy
+
+champions
+
+and lasting for 6 seconds.
+
+Stretching Strikes
+: 1 chunk for each strike hit (excluding the collision) on different targets, up to 2
+
+Unstable Matter
+: 1 chunk if it hits at least one target
+
+Elastic Slingshot
+: 1 chunk for each enemy champion hit
+
+Let's Bounce!
+: 1 chunk for each bounce that hits an enemy champion, up to 4
+
+Both
+
+Zac
+
+and enemy champions can interact with a chunk by being within 50 units of it: an enemy will destroy it, while
+
+Zac
+
+will consume it to
+
+heal
+
+for
+
+5 / 6 / 7 / 8% (based on
+Let's Bounce!'s Rank)
+
+of his
+
+maximum
+
+health
+
+.
+
+Innate - Cell Division:
+
+Periodically, upon taking fatal damage,
+
+Zac
+
+enters resurrection for 8 / 7 / 6 / 5 / 4 (based on level) seconds and restores 50% of his
+
+maximum
+
+health
+
+, splitting into 4 uncontrollable
+
+Bloblets
+
+. Each
+
+bloblet
+
+has
+
+12%
+
+of his
+
+maximum
+
+health
+
+and moves towards
+
+Zac's
+
+location over the duration. Any damage the
+
+bloblets
+
+receive, excluding damage dealt in excess of their
+
+total
+
+health
+
+, is also redirected to
+
+Zac
+
+in
+
+true damage
+
+. While in resurrection,
+
+Zac
+
+is
+
+untargetable
+
+and
+
+unable to act
+
+, and cannot take damage from sources other than the redirected damage from his
+
+bloblets
+
+.
+
+After the duration,
+
+Zac
+
+is revived with 10 - 50%
+
+maximum
+
+health
+
+.
+
+Zac
+
+will die once all bloblets are killed.
+
+See
+
+Pets
+
+for more details about bloblets.
+
+**Hide Details**
+
+**Map-Specific Differences**
+
+Info
+
+Targeting input
+
+Passive
+
+The damage directed to
+
+Zac
+
+is
+
+internal raw damage
+
+.
+
+The
+
+bloblets
+
+are
+
+untargetable
+
+while splitting, and will not split over terrain.
+
+Zac's
+
+increased size does not consider his base stats.
+
+Cell Division's
+
+chunks spawn in two versions:
+
+Contestable:
+
+They will fall to the ground at a point which is roughly equidistant from
+
+Zac
+
+and the nearest
+
+visible
+
+enemy champion within 1000 range of him (dropping slightly in
+
+Zac's
+
+favor). The location at which they fall to the ground is influenced by the direction in which
+
+Zac
+
+is currently facing. Cannot be interacted with for the first 0.25 seconds (except during
+
+Let's Bounce!
+
+).
+
+Uncontestable:
+
+They will fall to the ground near
+
+Zac
+
+and can be picked up immediately (version used by default).
+
+Zac's
+
+untargetability
+
+upon triggering
+
+Cell Division
+
+does not
+
+destroy
+
+in-flight
+
+projectiles
+
+.
+
+Chronoshift
+
+and
+
+Guardian Angel
+
+will take priority over
+
+Cell Division
+
+.
+
+Spirit Visage
+
+and
+
+Heal Power
+
+increases the healing of both
+
+chunks
+
+and
+
+bloblets
+
+.
+
+Ryze's
+
+Realm Warp
+
+is able to individually teleport
+
+Zac
+
+or his
+
+bloblets
+
+during
+
+Cell Division
+
+.
+
+If
+
+Zac
+
+is transported to a new location before the
+
+bloblets
+
+landed, they will travel to form at his new position, adjusting their speed accordingly. If
+
+Cell Division's
+
+duration permits during this time,
+
+Zac
+
+will be revived even if the
+
+bloblets
+
+fail to recombine.
+
+Cell Division's
+
+bloblets
+
+can be targeted by
+
+Teleport
+
+and
+
+Syndra's
+
+Force of Will
+
+.
+
+Other
+
+bloblets
+
+are not interrupted by the conditions above and will continue to recombine instinctively.
+
+Zac's
+
+health when the
+
+bloblets
+
+are sent out is set to what it would be if all
+
+bloblets
+
+recombined, and is actively updated when the
+
+bloblets
+
+take damage.
+
+If
+
+Zac's
+
+health is higher than it is supposed to be when the
+
+bloblets
+
+converge on him, his health will be set to the correct value.
+
+The following table refers for interactions while
+
+Zac
+
+is in resurrection:
+
+Attacking
+
+Disabled
+
+Abilities
+
+Disabled
+
+Movement
+
+Disabled
+
+Items
+
+Usable
+
+N/A
+
+Disabled
+
+All items are disabled
+
+Interrupted by
+
+N/A
+
+Consumables
+
+Disabled
+
+Spells
+
+Usable
+
+N/A
+
+Disabled
+
+Barrier
+
+Clarity
+
+Cleanse
+
+Exhaust
+
+Ghost
+
+Heal
+
+Ignite
+
+Smite
+
+Flash
+
+Teleport
+
+Recall
+
+Hexflash
+
+Mark
+
+Dash
+
+Interrupted by
+
+N/A
+
+Interrupted by
+
+Death, unless protected by
+
+Resurrection
+
+**Ultra Rapid Fire differences**
+
+edit
+
+Cooldown set to 60 seconds.
+
+**Arena differences**
+
+edit
+
+Bloblets are damaged by the Ring of Fire.
+
+**Stretching Strikes**
+
+**Stretching Strikes**
+
+COST:
+
+8%
+
+Current
+
+Health
+
+COOLDOWN
+:
+
+14 / 12.5
+
+/ 11 / 9.5
+
+/ 8
+
+CAST TIME:
+
+0.25
+
+TARGET RANGE:
+
+951
+
+WIDTH:
+
+160
+
+TETHER RADIUS:
+
+900
+
+SPEED:
+
+2800
+
+Active:
+
+Zac
+
+stretches his left arm in the target direction that catches the first enemy hit, dealing
+
+magic damage
+
+,
+
+slowing
+
+them by 40% for 0.5 seconds, and forming a
+
+tether
+
+between
+
+Zac
+
+and the target for 2 seconds, during which they are
+
+revealed
+
+.
+
+Magic Damage:
+
+40 / 55 / 70 / 85 / 100
+
+(+ 30% AP)
+
+(+ 4% of
+Zac's
+maximum
+health)
+
+Total Magic Damage:
+
+80 / 110 / 140 / 170 / 200
+
+(+ 60% AP)
+
+(+ 8% of
+Zac's
+maximum
+health)
+
+While the tether persists,
+
+Zac's
+
+next
+
+basic attack
+
+is replaced by a second
+
+Stretching Strike
+
+, empowering it to have a 0.25-second cast time and gain 25 bonus attack range. This attack cannot
+
+critically strike
+
+.
+
+If the two
+
+Stretching Strikes
+
+affect different targets, both are
+
+rooted
+
+for 0.5 seconds and receive the same
+
+slow
+
+. After a 0.4-second delay,
+
+Zac
+
+displaces them toward each other over 300-units, though not through terrain.
+
+If the two targets are
+
+near
+
+each other, they are instead slammed together through the displacement, dealing the initial
+
+magic damage
+
+and
+
+knocking them up
+
+and
+
+stunning
+
+them for 0.25 seconds upon impact. Surrounding enemies are also dealt the initial
+
+magic damage
+
+.
+
+Both Stretching Strikes (the cast and the empowered attack)
+
+reset
+
+Zac's
+
+basic attack timer.
+
+Zac
+
+is unable to move or attack while his left arm is in flight.
+
+**Hide Details**
+
+**Info**
+
+**Targeting input**
+
+Direction
+
+Damage type
+
+Type
+
+Sub-type
+
+Spell damage
+
+Magic
+
+Counters
+
+Spell shield
+
+Parries
+
+Projectile
+
+Blocked
+
+Blocked
+
+Blocked
+
+**Spell shield**
+
+only blocks a single instance of damage.
+
+**Entering**
+
+stasis
+
+will end
+
+Let's Bounce!
+
+prematurely.
+
+While
+
+Let's Bounce!
+
+is active,
+
+Zac
+
+consumes
+
+Chunks
+
+within
+
+300 range.
+
+**Pets**
+
+[**]**
+
+**Bloblet**
+
+**Bounty**
+
+**Gold**
+
+**Exp**
+
+**CS**
+
+0
+
+0
+
+**Statistics**
+
+| Health | Armor | Magic resist. | AoE resist. | CC resist. | Immune to crowd control (except stasis) | Mov. speed | Control type | Target type |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 12% | 50% | 50% | 33% | N/A | Yes | Variable | Autonomous | Minion |
+
+**Bloblets**
+
+can be targeted by
+
+Smite
+
+and
+
+Force of Will
+
+.
+
+A grabbed
+
+Bloblet
+
+, while visually separated from the others, will not delay
+
+Zac's
+
+revival or cause him to recombine with less
+
+current
+
+health
+
+.
+
+Bloblets
+
+can be targeted by
+
+Teleport
+
+, becoming
+
+invulnerable
+
+for the channel's duration.
+
+**Taste Their Fear**
+
+considers
+
+Bloblets
+
+'isolated' when being the last one alive or after having merged with the others right before
+
+Zac
+
+recombines (A
+
+Bloblet
+
+is not considered 'isolated' when close enough to the others)
+
+**Turrets**
+
+will prioritize
+
+Bloblets
+
+over other minions.
+
+**Champion skins**
+
+[**]**
+
+This article section only contains champion skins. For all associated collection items, see [Zac (Collection)](https://leagueoflegends.fandom.com/wiki/Zac_(Collection)).
+
+**File:Zac ZestyDipCircle.png**
+
+Original
+
+View in 3D
+
+880
+
+29.03.2013
+
+Zac is the product of a toxic spill that ran through a chemtech seam and pooled in an isolated cavern deep in Zaun’s Sump. Despite such humble origins, Zac has grown from primordial ooze into a thinking being who dwells in the city's pipes, occasionally emerging to help those who cannot help themselves or to rebuild the broken infrastructure of Zaun.
+
+Unknown voice actor
+
+Christian Fell
+
+Loot eligible
+
+**Chromas**
+
+Original Zac Chromas
+
+Bubblegum
+
+Honey
+
+Orange
+
+**Special Weapon**
+
+View in 3D
+
+975
+
+29.03.2013
+
+Unknown voice actor
+
+Unknown artist
+
+Legacy
+
+Loot eligible
+
+**New SFX/VFX**
+
+New SFX/VFX
+
+New Animations/Recall
+
+Pool Party
+
+View in 3D
+
+1350
+
+25.06.2015
+
+If a guy made of water jumps into the pool, does he become the pool? Or just… part of the pool? Or does the pool become him? This is a very serious question.
+
+Unknown voice actor
+
+Sixmorevodka Studio
+
+Pool Party
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+SKT T1
+
+View in 3D
+
+1350
+
+27.06.2017
+
+Honoring Blank's winning performance as Zac during the 2016 World Championship.
+
+Unknown voice actor
+
+Alvin Lee
+
+World Champions: 2016
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Battlecast
+
+View in 3D
+
+1350
+
+12.11.2020
+
+Never content with his extant creations, Viktor's latest innovation has forged an experimental alloy that shifts between liquid and solid states. Incredibly flexible yet nigh-indestructible, the new zoophagus assault constructs, or ZACs, spring onto the battlefield, harvesting and consuming any resistance that stands in their way.
+
+Unknown voice actor
+
+Unknown artist
+
+Battlecast
+
+Loot eligible
+
+**Voice filter**
+
+New SFX/VFX
+
+New Animations/Recall
+
+**Chromas**
+
+Battlecast Zac Chromas
+
+Amethyst
+
+Emerald
+
+Obsidian
+
+Pearl
+
+Ruby
+
+Tanzanite
+
+Empyrean
+
+View in 3D
+
+1350
+
+03.11.2022
+
+The Foreglow affects everyone differently. For Zac, it burned away all of his insecurities, but opened up his senses to the loneliness felt by the other Zacs across the realms. They needed him, and now he has the power to bring everyone together as one. A family reunion for the ages.
+
+Unknown voice actor
+
+David Villegas, West Studio
+
+Empyrean
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+**Chromas**
+
+Empyrean Zac Chromas
+
+Citrine
+
+Emerald
+
+Neon Flare
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Tanzanite
+
+Turquoise
+
+**File:Zac ZestyDipSkin.jpg**
+
+Zesty Dip
+
+View in 3D
+
+1350
+
+..
+
+Zac is “nacho” average ooze monster—he's the snack that fights back! Topped with jalapeños, chips, and bacon bits, this sentient cheese-blob is the life of the party... and a nightmare for lactose intolerant eaters everywhere.
+
+Unknown voice actor
+
+Unknown artist
+
+Food Fight
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+**Patch history**
+
+[**]**
+
+For the expanded patch notes, see [here](https://www.surrenderatsv5.net/2023/02/25/patch-14-5-notes).
+
+V14.5
+
+Unstable Matter
+
+Base damage changed to 40 / 50 / 60 / 70 / 80 from 35 / 50 / 65 / 80 / 95.
+
+V14.4
+
+Stretching Strikes
+
+Tether range reduced to 900 units from 1000.
+
+Tether range type changed to edge from center.
+
+Tether now innately checks every 0.05 seconds for valid range conditions, and no longer waits for every 8th server tick.
+
+V14.2
+
+Elastic Slingshot
+
+Bug Fix:
+
+No longer has an error in its internal cast range values that sometimes caused it to cast backwards at rank 5 of the ability while Clamp Cast Targeting was enabled.
+
+V14.1
+
+- January 12th Hotfix
+
+Cell Division
+
+Heal increased to 5 / 6 / 7 / 8% (based on Let's Bounce!'s Rank) of his maximum health from 4 / 5 / 6 / 7%.
+
+Elastic Slingshot
+
+Cooldown reduced to 22 / 19 / 16 / 13 / 10 seconds from 24 / 21 / 18 / 15 / 12.
+
+Let's Bounce!
+
+Cooldown reduced to 120 / 105 / 90 seconds from 130 / 115 / 100.
+
+V13.9
+
+Elastic Slingshot
+
+Bug Fix:
+
+Is now properly disabled when grounded.
+
+V13.3
+
+Unstable Matter
+
+AP ratio reduced to 3% per 100 AP from 4% per 100 AP.
+
+Elastic Slingshot
+
+Base damage reduced to 60 / 105 / 150 / 195 / 240 from 60 / 110 / 160 / 210 / 260.
+
+AP ratio reduced to 80% AP from 90% AP.
+
+V12.23
+
+Cell Division
+
+Heal per chunk increased to 4 / 5 / 6 / 7% (based on Let's Bounce!'s rank) of his maximum health from 4 / 4.75 / 5.5 / 6.25 / 7%.
+
+Stretching Strikes
+
+Cooldown reduced to 14 / 12.5 / 11 / 9.5 / 8 seconds from 15 / 13.5 / 12 / 10.5 / 9.
+
+Health ratio increased to 4% maximum health from 2.5%.
+
+V12.22
+
+Let's Bounce!
+
+Bug Fix:
+
+Last tick of the effect now properly always deals damage.
+
+V12.16
+
+Cell Division
+
+Bug Fix:
+
+Can no longer revive from the resurrection even after all bloblets have died while having Mountain Dragon Soul.
+
+V12.10
+
+Stats
+
+Base health increased to 685 from 615.
+
+Health growth increased to 109 from 95.
+
+Armor growth increased to 4.7 from 3.5.
+
+Magic resistance growth increased to 2.05 from 1.5.
+
+Cell Division
+
+Heal per chunk reduced to 4 / 4.75 / 5.5 / 6.25 / 7% (based on Let's Bounce!'s rank) of his maximum health from 5 / 6 / 7 / 8% / 9%.
+
+Let's Bounce!
+
+Cell Division
+
+bonus heal reduced to 0.75 / 1.5 / 2.25 / 3 / 3.75% maximum health from 1 / 2 / 3% / 4% / 5%.
+
+V11.12
+
+General
+
+Adjusted splash artwork for Pool Party Zac.
+
+V11.8
+
+Unstable Matter
+
+Base damage increased to 35 / 50 / 65 / 80 / 95 from 25 / 40 / 55 / 70 / 85.
+
+AP ratio increased to 4% per 100 AP from 2% per 100 AP.
+
+V10.18
+
+- September 2nd Hotfix
+
+Unstable Matter
+
+Bug Fix:
+
+Cooldown is now properly reduced for picking Cell Division chunks.
+
+V9.19
+
+Cell Division
+
+Heal increased to 4 / 5 / 6 / 7% (based on Let's Bounce!'s rank) of his maximum health from 4% at all Let's Bounce!'s ranks.
+
+New Effect:
+
+Cooldown is now pingable.
+
+Let's Bounce!
+
+New Effect:
+
+Now increases Cell Division's chunk heal to 5 / 6 / 7% of his maximum health.
+
+V9.17
+
+Elastic Slingshot
+
+Bug Fix:
+
+Is now properly disabled when grounded.
+
+V9.12
+
+Unstable Matter
+
+Base damage increased to 25 / 40 / 55 / 70 / 85 from 15 / 30 / 45 / 60 / 75.
+
+Let's Bounce!
+
+Knockback changed to 250 units away from where target is hit from 400 units away from Zac's center.
+
+New Effect:
+
+Each bounce that hits one or more enemy champions spawns a chunk (hitting the same enemy still spawns a chunk), instead of each enemy champion spawns a chunk the first time they're hit by a bounce (subsequent bounces on the same enemy won't spawn additional chunks).
+
+V9.11
+
+Stretching Strikes
+
+Slow strength reduced to 40% from 60%.
+
+Cooldown increased to 15 / 13.5 / 12 / 10.5 / 9 seconds from 13 / 12 / 11 / 10 / 9.
+
+Unstable Matter
+
+New Effect:
+
+Health ratio now scales for 2% per 100 AP.
+
+Let's Bounce!
+
+- Rework
+
+New Effect:
+
+Active:
+
+After a small delay, Zac bounces 4 times over 3 seconds, gaining 20% − 50% (based on duration) bonus movement speed as he does so but becoming unable to use basic attacks, Stretching Strikes, or Elastic Slingshot for the duration. There is a 1-second delay between each bounce.
+
+Each bounce deals 140 / 210 / 280 (± 40% AP) magic damage to all nearby enemies, knocking them back for 1 second and subsequently slowing them by 20% for the same duration.
+
+Enemies can be damaged by multiple bounces, with each beyond the first dealing 50% damage but not displacing them.
+
+Effect Radius:
+
+300 / 400.
+
+Cooldown:
+
+130 / 115 / 100 seconds.
+
+Old Effect:
+
+Active - First Cast:
+
+Zac squishes himself down while charging for up to 2.5 seconds, during which he is unstoppable, and slowing by 30/40/50% any enemies standing on top of him.
+
+Second Cast:
+
+Zac knocks back nearby enemies 275 units over 1 second and deals 150/250/350 (± 90% AP) magic damage. If charged for at least 1 second before recasting, Zac instead scoops up enemies on top of him, carrying them towards the target location. While flying through the air, Zac is immune to crowd control.
+
+Upon landing, nearby and transported enemies take the same magic damage and are slowed by 25% for 0.5 seconds.
+
+Target Range:
+
+700 / 850 / 1000.
+
+Effect Radius:
+
+300.
+
+Cooldown:
+
+130 / 115 / 100 seconds.
+
+**Trivia**
+
+[**]**
+
+Zac stands for Zaun Amorphous Combatant.
+
+Zac made a cameo in Battle Bunny Riven's artwork and maybe even in the game's Mac Version trailer (all before he was released).
+
+Zac is the only champion that can be damaged by regular Smite (due to Cell Division's chunks being coded as minions) and to have 2 laugh animations.
+
+Let's Bounce! references Tigger from Winnie-the-Pooh by A. A. Milne.
+
+Zac is one of the six champions who use health as a resource for their abilities, the other five being Briar, Dr. Mundo, Olaf, Soraka, and Vladimir.
+
+See also
+
+[**]**
+
+League of Legends Wiki
+
+| Champions | Cancelled Champions |
+| --- | --- |
+| [Ao Shin](https://leagueoflegends.fandom.com/wiki/Ao_Shin) | [Avasha](https://leagueoflegends.fandom.com/wiki/Avasha) |
+| [Averdrian](https://leagueoflegends.fandom.com/wiki/Averdrian) | [CeeCee](https://leagueoflegends.fandom.com/wiki/CeeCee) |
+| [Cyborg Cowboy](https://leagueoflegends.fandom.com/wiki/Cyborg_Cowboy) | [Eagle Rider](https://leagueoflegends.fandom.com/wiki/Eagle_Rider) |
+| [Gavid](https://leagueoflegends.fandom.com/wiki/Gavid) | [Husk](https://leagueoflegends.fandom.com/wiki/Husk) |
+| [Iron Engineer](https://leagueoflegends.fandom.com/wiki/Iron_Engineer) | [Ivan](https://leagueoflegends.fandom.com/wiki/Ivan) |
+| [Omen](https://leagueoflegends.fandom.com/wiki/Omen) | [Priscilla](https://leagueoflegends.fandom.com/wiki/Priscilla) |
+| [Rob Blackblade](https://leagueoflegends.fandom.com/wiki/Rob_Blackblade) | [Seth](https://leagueoflegends.fandom.com/wiki/Seth) |
+| [Tabu](https://leagueoflegends.fandom.com/wiki/Tabu) | [Tiki](https://leagueoflegends.fandom.com/wiki/Tiki) |
+| [Urf](https://leagueoflegends.fandom.com/wiki/Urf) | [Well](https://leagueoflegends.fandom.com/wiki/Well) |
+
+References
+
+[**]**
+
+↑
+
+Zac's profile page at [LeagueOfLegends.com](https://www.leagueoflegends.com/en-us/champions/zac/).

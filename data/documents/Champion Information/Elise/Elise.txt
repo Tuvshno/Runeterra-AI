@@ -1,0 +1,159 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Elise
+        **Image**
+        **Gameplay**
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        **Base statistics**
+          * Health: 650 (+109)
+          * Mana: 324 (+50)
+          * Health regeneration (per 5s): 5.5 (+0.6)
+          * Mana regeneration (per 5s): 6 (+0.8)
+          * Armor: 30 (+5.2)
+          * Attack damage: 55 (+3)
+          * Magic resist.: 30 (+1.3)
+          * Crit. damage: 175%
+          * Move. speed: 330
+          * Attack range: 550
+          * Attack speed: Base AS 0.625, Bonus AS +1.75%
+          * Missile speed: 1600
+          * Unit radius: Gameplay radius 65, Selection radius 120, Pathing radius 35, Acq. radius 550
+        **Special statistics**
+          * ARAM: +5% Damage Dealt, -10% Damage Received, +20% Tenacity & Slow Resist
+          * Nexus Blitz: N/A
+          * One For All: N/A
+          * URF: +0% Damage Dealt, +0% Damage Received
+          * Ult Spellbook: N/A
+          * Arena: +5% Damage Dealt, -8% Damage Received, -5% Damage Received
+        **Abilities**
+          * Spider Queen (Passive)
+          * Neurotoxin (Q)
+          * Volatile Spiderling (W)
+          * Cocoon (E)
+          * Venomous Bite (Q)
+          * Skittering Frenzy (W)
+          * Rappel (E)
+          * Spider Form / Human Form (R)
+        **Pets**
+          * Spiderling
+        **Champion skins**
+          * Original
+          * Death Blossom
+          * Victorious
+          * Blood Moon
+          * SKT T1
+          * Super Galaxy
+          * Bewitching
+          * Withered Rose
+          * Coven
+        **Chromas**
+          * Bewitching Elise Chromas
+          * Withered Rose Elise Chromas
+        **Voice filter**
+        **New SFX/VFX**
+        **New Animations/Recall**
+        **Chromas**
+          * Bewitching Elise Chromas
+          * Withered Rose Elise Chromas
+        **Patch history**
+          * V13.24: Venomous Bite (Hit SFX now plays correctly while in Spider Form)
+          * V13.23: Rappel (Bug Fix: Spider Queen bonuses no longer incorrectly calculate their values as a 60 / 80 / 100 / 120 / 140% increase due to using Cocoon's stun duration as a multiplier)
+          * V13.20: Bewitching Elise, Rappel (Bug Fix: Ground VFX now properly follows a moving target)
+          * V13.17: Spider Queen (Base damage increased to 12 / 22 / 32 / 42, Base heal increased to 6 / 8 / 10 / 12)
+          * V13.4: Spider Queen (Spiderling base damage changed to 8 / 14 / 20 / 26)
+          * V12.20: Neurotoxin (Cast range reduced to 575 units, Cast range changed to edge range, Base damage reduced to 40 / 75 / 110 / 145 / 180)
+          * V12.14: General (Bug Fix: Knocked up/stunned animation is now correctly played)
+          * V12.13: Stats (Base armor increased to 30, Base health increased to 625)
+          * V12.10: Stats (Base health increased to 625, Health growth increased to 107)
+          * V12.9: Volatile Spiderling (Bug Fix: Spiderling now properly collides with and will explode against Baron Nashor)
+          * V12.8: Rappel (Bug Fix: If self-cast while an enemy champion was in very close proximity, no longer causes the caster to ascend and then immediately descend on them despite not having recasted the ability)
+          * V12.5: March 10th Hotfix (Rappel) (Bug Fix: Now only descends if the second cast is on a target within the ability's range)
+          * V12.5: March 4th Hotfix (Rappel) (Bug Fix: Can no longer be cast globally)
+          * V12.5: General (Updated visual effects)
+          * V11.20: Stats (Base health increased to 555)
+          * V11.11: Spider Queen (Damage AP ratio reduced to 20% AP)
+          * V11.3: Neurotoxin (Base damage reduced to 40 / 70 / 100 / 130 / 160)
+          * V11.2: Venomous Bite (Base damage reduced to 70 / 110 / 150 / 190 / 230)
+          * V10.25: Rappel (Bug Fix: Now properly increases the effects of her Spider Queen)
+          * V10.24: Hotfix (Venomous Bite) (Bug Fix: Now properly deals damage again)
+          * V10.23: Venomous Bite (New Effect: Now applies on-hit effects)
+          * V10.15: Spider Queen (Bug Fix: Spiderlings' basic attacks now properly benefit from any adaptive force she gains from runes)
+          * V10.10: Rappel (Bug Fix: Is now properly able to cast onto targets like wards, Blast Cones, Scryer's Bloom, etc.)
+          * V10.3: General (Undocumented: No longer swaps out Ultimate Hunter with Relentless Hunter)
+          * V10.2: General (Undocumented: Now swaps out Ultimate Hunter with Relentless Hunter)
+          * V9.6: Spiderlings (New Effect: Now triggers effects that are triggered by pets (i.e. on-ability-hit effects))
+          * V8.19: Skittering Frenzy (Cooldown reduced to 10 seconds)
+          * V8.14: Stats (Health growth increased to 93)
+          * V8.12: Stats (Human base movement speed increased to 330, Spider base movement speed increased to 355)
+          * V8.11: Volatile Spiderling (Base damage increased to 60 / 105 / 150 / 195 / 240, AP ratio increased to 95% AP)
+          * V8.7: Venomous Bite (Base damage increased to 70 / 110 / 150 / 190 / 230)
+          * V8.3: Spider Form (Bug Fix: If she casts Spider Form at the same time Thresh's Death Sentence connects, she no longer cleanses the effect)
+          * V7.22: Stats (Base attack damage increased to 55)
+          * V7.18: Volatile Spiderling (Base magic damage reduced to 55 / 95 / 135 / 175 / 215, AP ratio increased to 80% AP)
+          * V7.15: July 27th Hotfix (Stats) (Bug Fix: Fixed a bug where her Spider Form was not properly affected by this patch's base AD reduction (50.54 to 47))
+          * V7.15: Stats (Base attack damage reduced to 47 from 50.54)
+          * V7.14: Venomous Bite (Changed several interactions where it overwrites any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed)
+          * V7.11: Spider Queen (Removed: Spiderlings killed increasing the minion killed stat)
+          * V7.9: Stats (Magic resistance growth increased to 0.5)
+          * V7.7: Spider Form (Bug Fix: If Elise casts Spider Form at the same time Thresh's Death Sentence connects, she no longer cleanses the effect)
+          * V7.4: Rappel (Bug Fix: Now correctly is not hit by turret missile projectiles during her invulnerability phase)
+          * V6.18: Cocoon (Bug Fix: Blood Moon and SKT T1 Elise's wispy trail particles on Cocoon no longer show through objects they pass behind (ex. turrets))
+          * V6.17: General (Bug Fix: Fixed a bug where buff VFX (ex. Banshee's Veil) weren't following SKT T1 Elise's movements during several of her animations)
+          * V6.12: Cocoon (Bug Fix: Fixed a bug where the stun was cut short if, after casting Cocoon, Elise instantly switched to Spider Form and cast Rappel on the Cocoon'd target)
+          * V6.2: Human Form (Movement speed reduced to 325 from 330)
+          * Spider Form (Movement speed reduced to 350 from 355)
+          * Volatile Spiderling (Base damage reduced to 60 / 110 / 160 / 210 / 260)
+          * V6.1 (Rappel) (Bug Fix: Elise would occasionally automatically targeting a nearby enemy when self-casting Rappel)
+          * V5.18: Spider Queen (Spiderling damage reduced to 10 / 15 / 20 / 25)
+          * V5.16: Neurotoxin (Base damage reduced to 4% of target's current health)
+          * V5.14: Spider Queen (Spiderling damage changed to magic from physical, Spiderling damage AP ratio increased to (+15% AP), Spiderling movement speed increased to 355 from 345)
+          * V5.13: Volatile Spiderling (Bug Fix: Sometimes becoming invisible)
+          * V5.12: Spider Queen (Renamed from Spider Swarm, New Effect: Spider Form awakens dormant Spiderlings, New Effect: Human Form puts Spiderlings back into dormant state)
+          * V5.12: Spider Form (New Effect: Elise's basic attacks deal 10 × Spider Form's Rank bonus magic damage and restore 2 + (2 × Spider Form's Rank) health)
+          * V5.12: Skittering Frenzy (Removed: On-hit heal (moved to Spider Form)
+          * V5.12: Rappel (Active: After descending Spider Form's bonus magic damage and healing are increased by 40 / 55 / 70 / 85 / 100% for 5 seconds)
+          * V5.6: General (Movement speed decreased to 330 from 335)
+          * Rappel (New Effect: Elise can right-click while in the air to descend on a target (in addition to pressing E again))
+          * Cocoon (Projectile speed increased to 1600 from 1450)
+          * Spider Form (Bonus movement speed increased to 25 from 10)
+          * V5.1 (Neurotoxin / Venomous Bite) (Maximum damage to monsters increased to 75 / 100 / 125 / 150 / 175)
+          * V4.13: Cocoon (Projectile width reduced to 55 from 70)
+          * V4.9: General (Bug Fix: Recall animation occasionally canceling)
+          * V4.5: Stats (Armor increased to 16.5 from 12.5)
+          * V4.4: Neurotoxin / Venomous Bite (Base damage reduced to 60 / 110 / 160 / 210 / 260, Maximum damage to monsters reduced to 50 / 75 / 100 / 125 / 150)
+          * V4.4: Cocoon (Stun duration changed to 1 / 1.25 / 1.5 / 1.75 / 2 seconds from 1.5 at all ranks)
+          * V4.4: Rappel (Cooldown reduced to 26 / 23 / 20 / 17 / 14 seconds from 26 / 24 / 22 / 20 / 18)
+          * V4.2: Spider Form (Bug Fix: Hitbox being smaller than intended)
+          * V3.10: Spider Swarm (Spiderling health reduced to 90 - 260, Spiderling armor increased to 30 / 50 / 70 / 90 based on Spider Form's Rank, Spiderling magic resistance increased to 50 / 70 / 90 / 110 based on Spider Form, Area-of-effect damage reduction changed to 20% from 10 / 20 / 30 / 40, Removed: Spiderlings continuing to take actions before vanishing once Elise turns to Human Form)
+          * V3.10: Volatile Spiderling (Spiderling movement speed reduced)
+          * V3.7: Spider Form (Removed: Bonus resistances while active)
+          * V3.04: Neurotoxin (Cast range reduced to 625 from 650, Base damage reduced to 50 / 95 / 140 / 185 / 230)
+          * V3.01: Neurotoxin (Mana cost increased to 80 / 85 / 90 / 95 / 100 from 60)
+          * V1.0.0.153: Volatile Spiderling (Bug Fix: Lasting 2.5 seconds instead of the intended 3)
+          * V1.0.0.152: Stats (Movement speed increased to 335 from 310)
+          * V1.0.0.151: Neurotoxin / Venomous Bite (Ability power ratio increased to 3% per 100 ability power from 2%)
+          * V1.0.0.150: Abilities in Human Form (Spider Swarm, Neurotoxin, Volatile Spiderling, Cocoon), Abilities in Spider Form (Spider Swarm, Venomous Bite, Skittering Frenzy, Rappel), Human Form (R)
+    
+      * **Trivia**
+        * Elise, Nidalee, Gnar, Jayce, Kayle, and Samira are the only champions to be conditionally considered both ranged and melee.
+        * She was the first champion to have a monologue during her login screen.
+        * She is one of few to have access both her ultimate and a basic ability at Level 1 (the others being Karma, Jayce, and Nidalee).
+        * She has a total of 19 ranks on her whole abilities at Level 18 (the others being Karma, Jayce, Yuumi, and Nidalee).
+        * Her transformation is available before Level 6 (the others being Nidalee and Jayce).
+        * She has more than four abilities (the others being Gnar, Jayce, Lee Sin, Lulu, Nidalee, and Rek'Sai).
+        * Her title as the name of one of her abilities (the other being Vayne / Night Hunter).
+        * Elise's dance is the Can-can.
+        * A side-by-side comparison of both her forms can be seen [here](https://www.youtube.com/watch?v=B_NWyAq4vGs).
+        * She shares this dance with Final Boss Veigar and Urgot.
+        * Elise's Spider Form recalling might be referencing Skulltula from The Legend of Zelda.
+        * Elise is a truncation for Elisabeth(h) the Romanised form of the Hebrew name אֱלִישֶׁבַע.
+        * Elise was the base for Twisted Treeline's update, at whose center her god now resides.
+        * Elise is the final incarnation of Priscilla, a cancelled champion brought back by playerbase request.

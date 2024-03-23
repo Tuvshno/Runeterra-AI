@@ -1,0 +1,748 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Irelia
+      * **Gameplay**
+        * Cosmetics
+        * Audio
+        * Development
+        * Patch History
+        * History
+        * Trivia
+      * Base Statistics
+      * Abilities
+        * Ionian Fervor
+        * Bladesurge
+        * Defiant Dance
+        * Flawless Duet
+        * Vanguard's Edge
+      * Map-Specific Differences (Arena)
+      * Champion Skins
+        * Original
+        * Nightblade
+        * Aviator
+        * Day Job
+        * Infiltrator
+        * Frostblade
+        * Order of the Lotus
+        * Divine Sword
+        * Immortal Journey
+        * PROJECT
+        * High Noon
+        * Transforming (High Noon)
+        * Sentinels of Light
+        * Prestige PROJECT (2022)
+        * Mythmaker
+        * Porcelain
+      * Patch History
+        * V14.4
+        * V14.2
+        * V13.18
+        * V12.16
+        * V12.14
+        * V12.11
+        * V12.10
+        * V12.9
+        * V11.20
+        * V11.19
+        * V11.17
+        * V11.15
+        * V11.14
+        * V11.13
+        * V11.12
+        * V11.11
+        * V11.10
+        * V11.9
+        * V11.8
+        * V11.7
+        * V11.6
+        * V11.5
+        * V11.4
+        * V11.3
+        * V11.2
+        * V11.1
+        * V11.0
+        * V10.25
+        * V10.23
+        * V10.19
+        * V10.18
+        * V10.15
+        * V10.14
+        * V10.13
+        * V10.12
+        * V10.11
+        * V10.10
+        * V10.9
+        * V10.8
+        * V10.7
+        * V10.6
+        * V10.5
+        * V10.4
+        * V10.3
+        * V10.2
+        * V10.1
+        * V10.0
+        * V9.15
+        * V9.12
+        * V9.9
+        * V9.3
+        * V9.2
+        * V9.1
+        * V8.24
+        * V8.21
+        * V8.17
+        * V8.15
+        * V8.13
+        * V8.12
+        * V8.11
+        * V8.10
+        * V8.9
+        * V8.8
+        * V8.7 (April 5th Hotfix)
+        * V8.7 (Full Relaunch)
+        * V8.6
+        * V8.5
+        * V8.4
+        * V8.3
+        * V8.2
+        * V8.1
+        * V8.0
+        * V7.24
+        * V7.23
+        * V7.22
+        * V7.21
+        * V7.20
+        * V7.19
+        * V7.18
+        * V7.17
+        * V7.16
+        * V7.15
+        * V7.14
+        * V7.13
+        * V7.12
+        * V7.11
+        * V7.10
+        * V7.9
+        * V7.8
+        * V7.7
+        * V7.6
+        * V7.5
+        * V7.4
+        * V7.3
+        * V7.2
+        * V7.1
+        * V7.0
+        * V6.24
+        * V6.23
+        * V6.22
+        * V6.21
+        * V6.20
+        * V6.19
+        * V6.18
+        * V6.17
+        * V6.16
+        * V6.15
+        * V6.14
+        * V6.13
+        * V6.12
+        * V6.11
+        * V6.10
+        * V6.9
+        * V6.8
+        * V6.7
+        * V6.6
+        * V6.5
+        * V6.4
+        * V6.3
+        * V6.2
+        * V6.1
+        * V6.0
+        * V5.24
+        * V5.23
+        * V5.22
+        * V5.21
+        * V5.20
+        * V5.19
+        * V5.18
+        * V5.17
+        * V5.16
+        * V5.15
+        * V5.14
+        * V5.13
+        * V5.12
+        * V5.11
+        * V5.10
+        * V5.9
+        * V5.8
+        * V5.7
+        * V5.6
+        * V5.5
+        * V5.4
+        * V5.3
+        * V5.2
+        * V5.1
+        * V5.0
+        * V4.22
+        * V4.21
+        * V4.20
+        * V4.19
+        * V4.18
+        * V4.17
+        * V4.16
+        * V4.15
+        * V4.14
+        * V4.13
+        * V4.12
+        * V4.11
+        * V4.10
+        * V4.9
+        * V4.8
+        * V4.7
+        * V4.6
+        * V4.5
+        * V4.4
+        * V4.3
+        * V4.2
+        * V4.1
+        * V4.0
+        * V3.21
+        * V3.20
+        * V3.19
+        * V3.18
+        * V3.17
+        * V3.16
+        * V3.15
+        * V3.14
+        * V3.13
+        * V3.12
+        * V3.11
+        * V3.10
+        * V3.9
+        * V3.8
+        * V3.7
+        * V3.6
+        * V3.5
+        * V3.4
+        * V3.3
+        * V3.2
+        * V3.1
+        * V3.0
+        * V2.22
+        * V2.21
+        * V2.20
+        * V2.19
+        * V2.18
+        * V2.17
+        * V2.16
+        * V2.15
+        * V2.14
+        * V2.13
+        * V2.12
+        * V2.11
+        * V2.10
+        * V2.9
+        * V2.8
+        * V2.7
+        * V2.6
+        * V2.5
+        * V2.4
+        * V2.3
+        * V2.2
+        * V2.1
+        * V2.0
+        * V1.21
+        * V1.20
+        * V1.19
+        * V1.18
+        * V1.17
+        * V1.16
+        * V1.15
+        * V1.14
+        * V1.13
+        * V1.12
+        * V1.11
+        * V1.10
+        * V1.9
+        * V1.8
+        * V1.7
+        * V1.6
+        * V1.5
+        * V1.4
+        * V1.3
+        * V1.2
+        * V1.1
+        * V1.0
+      * Chromas
+        * Frostblade Irelia Chromas
+        * Golden
+        * Order of the Lotus
+        * Divine Sword Irelia Chromas
+        * Emerald
+        * Aquamarine
+        * Emerald
+        * Meteorite
+        * Obsidian
+        * Rose Quartz
+        * Ruby
+        * Unflinching Zeal
+        * iG
+        * Mythmaker Irelia Chromas
+        * Emerald
+        * Gilded
+        * Rose Quartz
+        * Ruby
+        * Sapphire
+        * Tanzanite
+        * Pearl
+        * Resolute
+        * Rose Quartz
+        * Ruby
+        * Sapphire
+        * Tanzanite
+        * Turquoise
+        * Prestige PROJECT (2022)
+        * Emerald
+        * Obsidian
+        * Pearl
+        * Resolute
+        * Rose Quartz
+        * Ruby
+        * Sapphire
+        * Tanzanite
+      * Loot eligible
+      * New SFX/VFX
+      * New Animations/Recall
+      * Voice filter
+      * Additional/unique quotes
+  * Wild Rift
+  * Teamfight Tactics
+  * Legends of Runeterra
+
+**Irelia**
+
+* Release date: 2010-11-16
+* Last changed: V14.4
+* Class(es): Diver, Legacy, Fighter, Assassin
+* Position(s): Top, Middle
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 3150
+* | 790
+
+**Cosmetics**
+
+* Crafting: + 1890
+
+**Audio**
+
+**Gameplay**
+
+* Ionian Fervor
+  * Innate: Irelia generates a stack of Ionian Fervor for each enemy champion hit by her abilities, or if she hits at least one non-champion, lasting for 6 seconds and refreshing on basic attacks and ability hits against enemy champions and large monsters, stacking up to 4 times.
+  * Ionian Fervor: For each stack, Irelia gains 7.5% - 20% (based on level) bonus attack speed, up to a maximum of 30% - 80% (based on level). At maximum stacks, Irelia's basic attacks are empowered to deal 10 - 61 (based on level) (+ 20% bonus AD) bonus magic damage on-hit.
+  * Innate - Unsteady: Enemy champions and large monsters hit by Flawless Duet and Vanguard's Edge's initial barrage are marked as Unsteady for 5 seconds. The mark can be consumed by Bladesurge.
+
+* Bladesurge
+  * Cost: 20 Mana
+  * Cooldown: 11 / 10 / 9 / 8 / 7
+  * Cast time: none
+  * Target range: 600
+  * Speed: 1400 + 100% movement speed
+  * Active: Irelia dashes 100 units through the target enemy's location and upon collision or dash completion, deals physical damage, applies on-hit effects, and heals herself. Bladesurge deals 55 - 259 (based on level) bonus physical damage to minions. The current cooldown is reduced to 0.2 seconds upon collision of targets marked as Unsteady, and is reset if the target dies to or during Bladesurge's dash. Flawless Duet can be cast during the dash.
+
+* Defiant Dance
+  * Cost: 70 / 75 / 80 / 85 / 90 Mana
+  * Cooldown: 20 / 18 / 16 / 14 / 12
+  * Cast time: none / 0.25
+  * Range: 775 / 895
+  * Effect radius: 300 / 120
+  * Width: 240
+  * Active: Irelia charges for up to 1.5 seconds, during which she increases Defiant Dance's damage over the first 0.75 seconds of the channel and reduces incoming physical damage by 40% - 70% (based on level) (+ 7% per 100 AP) and incoming magic damage by 20% - 35% (based on level) (+ 3.5% per 100 AP). Defiant Dance's charge cannot be interrupted, and recast automatically afterward.
+  * Recast: Irelia swipes her blades in the target direction, dealing physical damage to enemies around her and within a line, increased by 0% - 200% (based on channel time). She also retains the damage reduction for 0.5 seconds. Minimum Physical Damage: 10 / 25 / 40 / 55 / 70 (+ 40% AD) (+ 40% AP). Maximum Physical Damage: 30 / 75 / 120 / 165 / 210 (+ 120% AD) (+ 120% AP). Defiant Dance's recast can be used while affected by cast-inhibiting crowd control. If Ionian Fervor would expire during the charge, it will instead refresh every 0.25 seconds for the remaining charge and be retained for 0.5 seconds after the recast is initiated.
+
+**Abilities**
+
+* Ionian Fervor
+* Bladesurge
+* Defiant Dance
+* Flawless Duet
+* Vanguard's Edge
+
+**Details**
+
+* Info
+* Targeting input
+* Passive
+* Damage type
+* Type
+* Sub-type
+* Proc damage
+* Counters
+* The attacks do not deal the bonus damage against structures.
+* PENDING FOR TEST: Parry interactions (block, dodge, and blind).
+
+* Bladesurge
+* Targeting input
+* Unit target out-of-range override
+* Walk in range of the target
+* Damage type
+* Type
+* Sub-type
+* Minion aggro
+* Basic damage
+* Physical
+* Drawn
+* Counters
+* Spell shield
+* Parries
+* Grounded
+* Blocked
+* Disabled
+* Knockdown
+* Interrupted
+* Bladesurge will be buffered and cast when the cooldown ends or is reset if the player attempts to cast it within 0.5 seconds of the cooldown ending/resetting.
+* Bladesurge deals basic damage, but also triggers spell effects by dealing an additional 0 spell damage.
+* If the target dies during Bladesurge's dash, the cooldown is fully refunded and Irelia may also cast her other abilities during the dash.
+* If the target dies to Bladesurge and was also marked, the cooldown is still fully refunded.
+* Bladesurge will only allow Irelia to dash through walls if there is enough space for her on the other side.
+* Bladesurge deals its damage and consumes marks when Irelia collides with the target, or at the end of the dash if the target moves away.
+* Bladesurge will not deal damage if the dash is interrupted beforehand.
+* The damage will be dealt if the target is in collision range when the dash is interrupted however.
+* Flash will interrupt the dash but Irelia will still collide with and deal damage to her target if the blink leaves her in contact with it at the new location.
+* Irelia will complete her remaining dash distance even if the damage is dealt earlier.
+* If the target is untargetable, Bladesurge will instead deal its damage at the end of the dash, rather than on collision.
+* If no other command is issued during Bladesurge: And also no target was selected and acquired for her basic attack, Irelia will automatically be ordered to basic attack Bladesurge's target as soon as the dash completes. And a target was acquired for her basic attack, Irelia will automatically be ordered to continue basic attacking that target as soon as the dash completes, even if her basic attack's target is different from Bladesurge's target.
+
+* Defiant Dance
+* Targeting input
+* Auto / direction
+* Damage type
+* Type
+* Sub-type
+* Area damage
+* Physical
+* Counters
+* Spell shield
+* Projectile
+* Disruption
+* Blocked
+* Not blocked
+* Not interrupted
+* Enemies around Irelia will be dealt the damage once the recast's cast time ends, while enemies within the line are dealt the damage via a missile that reaches the furthest targets after a 0.066 seconds delay after the recast's cast time.
+* Defiant Dance reaches 100% physical damage reduction at 857.14 - 428.57 (based on level) AP.
+* Defiant Dance reaches 100% magic damage reduction at 2285.71 - 1857.14 (based on level) AP.
+* Defiant Dance will also recast automatically upon entering resurrection.
+* The following table refers for interactions while Irelia is channeling:
+  * Type
+  * Charge channel
+  * Attacking
+  * Disabled
+  * Abilities
+  * Disabled
+  * Movement
+  * Disabled
+  * Items
+  * Usable
+  * N/A
+  * Disabled
+  * Interrupted by
+  * N/A
+  * Consumables
+  * Disabled, but can still use trinkets
+  * Spells
+  * Usable
+  * Barrier
+  * Clarity
+  * Cleanse
+  * Exhaust
+  * Ghost
+  * Heal
+  * Ignite
+  * Smite
+  * Disabled
+  * Flash
+  * Teleport
+  * Recall
+  * Interrupted by
+  * Hexflash
+  * (Recasts)
+  * Interrupted by
+  * Death
+
+* Flawless Duet
+* Targeting input
+* Location
+* Damage type
+* Type
+* Sub-type
+* Area damage
+* Magic
+* Counters
+* Spell shield
+* Projectile
+* Blocked
+* Blocked
+* Both casts count as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+* If the ability is not manually recasted, the secondary effect will trigger and it will be considered as an ability activation. This is the only ability with this interaction in the game.
+* Flawless Duet will recast automatically at its end during Defiant Dance, despite being disabled.
+* The outgoing blades will stop flight upon touching projectile blocking effects. The converging blades will instead be destroyed upon contact with such effects.
+* The blades will not stun nor deal damage if they fail to converge (i.e Yasuo's Wind Wall).
+* Both of Flawless Duet's casts will be buffered and cast when their cooldowns end if the player attempts to cast each within 0.3 seconds of their cooldown ending.
+
+* Vanguard's Edge
+* Targeting input
+* Direction
+* Damage type
+* Type
+* Sub-type
+* Area damage
+* Magic
+* Counters
+* Spell shield
+* Projectile
+* Blocked
+* Blocked
+* Bladesurge's cooldown reduction applies before ability haste.
+* Enemies that cross the perimeter are not marked for Bladesurge.
+* This ability will cast from wherever the caster is at the end of the cast time.
+
+**Map-Specific Differences**
+
+* Arena differences
+  * Bladesurge cooldown reduction changed to 1.5 / 2.5 / 3.5.
+
+**Champion Skins**
+
+* Original
+* View in 3D
+* 880
+* 16.11.2010
+* The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practised movements to levitate a host of deadly blades. After proving herself as a fighter, she was thrust into the role of resistance leader and figurehead, and to this day remains dedicated to the preservation of her homeland.
+* Cherami Leigh
+* Jessic
+a 'OwleyCat' Oyhenart
+* Loot eligible
+* Nightblade
+* View in 3D
+* 520
+* 16.11.2010
+* In exchange for the power to expel Noxus from Ionia, Irelia struck a bargain with an evil spirit—a decision that would prove costly when her humanity began to slip away...
+* Cherami Leigh
+* Choe HeonHwa
+* Legacy
+* Loot eligible
+* Voice filter
+* Additional/unique quotes
+* New SFX/VFX
+* Aviator
+* View in 3D
+* 520
+* 16.11.2010
+* Few war pilots were as skilled as Irelia, whose flashy dogfighting earned her a place among the greatest soldiers in history. After the war she continued to fly fighter planes, never once losing her spark.
+* Cherami Leigh
+* Jana Schirmer
+* Day Job
+* Loot eligible
+* Additional/unique quotes
+* New SFX/VFX
+* Infiltrator
+* View in 3D
+* 975
+* 11.10.2011
+* Using technologically superior cracking devices and hard-light blades, Irelia's nefarious activity is surprisingly hard to follow. She's responsible for a string of heists and high-profile espionage missions.
+* Cherami Leigh
+* Zeen Chin
+* Silver Age
+* Loot eligible
+* Legacy
+* Additional/unique quotes
+* New SFX/VFX
+* New Animations/Recall
+* Frostblade
+* View in 3D
+* 975
+* 30.04.2012
+* An ice sprite hailing from the mythical Winterlands, Irelia's demeanor is surprisingly stoic considering her mischievous brethren. Despite this, she aspires to one day serve in the court of the Poro King.
+* Cherami Leigh
+* Viktor Titov, Grafit Studio
+* Winter Wonder
+* Loot eligible
+* Additional/unique quotes
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Frostblade Irelia Chromas
+* Golden
+* Order of the Lotus
+* View in 3D
+* 750
+* 03.06.2015
+* A chance encounter with the Order of the Lotus changed Irelia's life forever, as she opened her mind to the cosmic cycles of death and rebirth over many human lifetimes. She is still a fierce warrior, but now fights knowing her soul can never truly die.
+* Cherami Leigh
+* Michelle Hoefener
+* Order of the Lotus
+* Loot eligible
+* Additional/unique quotes
+* New SFX/VFX
+* New Animations/Recall
+* Divine Sword
+* View in 3D
+* 1350
+* 13.09.2018
+* Long ago, the demigoddess Irelia challenged a headstrong dragon king to a duel, defeating him before all the members of his assembled court. In his hubris, he lashed out at her, and in return she sealed his power within her sacred blade, so that he might find humility among humankind.
+* Cherami Leigh
+* Bo 'chenbowow' Chen
+* Immortal Journey
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Divine Sword Irelia Chromas
+* Amethyst
+* Aquamarine
+* Emerald
+* Meteorite
+* Obsidian
+* Rose Quartz
+* Ruby
+* Unflinching Zeal
+* iG
+* View in 3D
+* 1350
+* 23.04.2019
+* Honoring Duke's winning performance as Irelia during the 2018 World Championship. This is Duke's second World Champion skin, following his win with SKT at the 2016 World Championship.
+* Cherami Leigh
+* Pan Chengwei
+* World Champions: 2018
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* New Animations/Recall
+* PROJECT
+* View in 3D
+* 1350
+* 01.08.2019
+* A PROJECT castoff who found sanctuary in the lawless wastes, Irelia has led other outcasts like her as they attempt to survive corporate assassins, murderous old-world technology, and widespread ecological collapse. Knowing Warwick could destroy everything she holds dear, she joins the attack on the City to end PROJECT once and for all.
+* Cherami Leigh
+* Maki Planas Mata
+* PROJECT
+* Loot eligible
+* Voice filter
+* New SFX/VFX
+* New Animations/Recall
+* Prestige PROJECT
+* View in 3D
+* Special
+* 01.08.2019
+* There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity.
+* Cherami Leigh
+* Xuning Cui, Kudos Production
+* PROJECT
+* Loot inelgible
+* Voice filter
+* New SFX/VFX
+* New Animations/Recall
+* This skin is a variant of PROJECT. Store variants are discounted for multiple purchases.
+* High Noon
+* View in 3D
+* 1350
+* 18.06.2020
+* A fallen angel who escaped the destruction of Heaven, now tainted by ineffable darkness. Irelia has spent years in hiding, thus her return alongside a newly resurrected Senna attests to the presence of powers who would see the heavenly kingdom restored… perhaps for the continued benefit of man, or perhaps for their final damnation.
+* Cherami Leigh
+* Kudos Production
+* High Noon
+* Loot eligible
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* High Noon Irelia Chromas
+* Emerald
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Sentinel
+* View in 3D
+* 1350
+* 08.07.2021
+* After the fall of the Ionian Grand Temple, Irelia could not stand idly by while her home was ravaged by the Black Mist. Deputized by the Sentinels, she fights the Ruination as one of their comrades: a natural-born leader who understands the threat that Ruined Karma poses, she will stop at nothing to save the Spirit of Ionia.
+* Cherami Leigh
+* Bo 'chenbowow' Chen
+* Sentinels of Light
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Sentinel Irelia Chromas
+* Citrine
+* Emerald
+* Pearl
+* Resolute
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Turquoise
+* Prestige PROJECT (2022)
+* Special
+* 01.04.2022
+* There are moments when Irelia and the other outcasts remember who they once were, before PROJECT exiled them into a wasteland filled with sand-blasted monuments to corporate greed. These memories are fleeting, the last flickering images of a long-compromised humanity.
+* Cherami Leigh
+* Xuning Cui, Kudos Production
+* PROJECT
+* Loot inelgible
+* Voice filter
+* New SFX/VFX
+* New Animations/Recall
+* This skin is a variant of Prestige PROJECT. Store variants are discounted for multiple purchases.
+* Mythmaker
+* View in 3D
+* 1820
+* 12.01.2023
+* Irelia was always a bystander in the story of “The Great Beast Galio”, watching from the sidelines each year as the story was told again and again… until the day that the Lunar Players crashed into their myth-world, and she found out that her story could change. Now it's time for Irelia to become the hero she wished she could be and write her own destiny.
+* Cherami Leigh
+* Bo 'chenbowow' Chen
+* Mythmaker
+* Loot eligible
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Mythmaker Irelia Chromas
+* Emerald
+* Gilded
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Porcelain
+* View in 3D
+* 1350
+* 22.02.2024
+* Irelia was dedicated to the preservation of ancient relics long before she became a protector. Her first year at university, she interned at the renowned Archeology Institute. It was the highlight of her short life... until she was granted mythical powers by the Ram Relic and thrust into a centuries-old war. Schoolwork sort of pales in comparison.
+* Cherami Leigh
+* Alsie Lau
+* Porcelain
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Porcelain Irelia Chromas
+* Catseye
+* Emerald
+* Obsidian
+* Opulent
+* Pearl
+* Rose Quartz
+* Ruby
+* Tanzanite
+* Turquoise
+
+**Lore**
+
+According to Kuo-Yen 'Xypherous' Lo, Irelia is based on Himura Kenshin from Rurouni Kenshin.

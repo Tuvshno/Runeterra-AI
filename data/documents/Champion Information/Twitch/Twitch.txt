@@ -1,0 +1,785 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Twitch
+        **Format:**
+        ```vbnet
+        •
+        •
+        Image
+        Twitch
+        Gameplay
+        Collection
+        Audio
+        Patch history
+        Past versions
+        Twitch
+        •
+        Release date: 2009-05-01
+        •
+        Class(es): Marksman, Legacy Marksman
+        •
+        Position(s): Bottom, Support
+        •
+        Resource: Mana
+        •
+        Range type: Ranged
+        •
+        Adaptive type: Physical
+        •
+        Store price: 3150
+        •
+        Crafting cost: +1890
+        •
+        Ratings:
+          * Damage: 3
+          * Toughness: 1
+          * Control: 1
+          * Mobility: 2
+          * Utility: 1
+        •
+        Style: Difficulty: Champion Spotlight
+        Twitch Champion Spotlight
+        •
+        Base statistics:
+          * Health: 682 (+100)
+          * Mana: 300 (+40)
+          * Health regeneration (per 5s): 3.75 (+0.6)
+          * Mana regeneration (per 5s): 7.25 (+0.7)
+          * Armor: 27 (+4.2)
+          * Attack damage: 59 (+3.1)
+          * Magic resist.: 30 (+1.3)
+          * Crit. damage: 175%
+          * Move. speed: 330
+          * Attack range: 550
+          * Attack speed (base AS): 0.679
+          * Attack windup: 20.192%
+          * Attack speed ratio: N/A
+          * Bonus attack speed: +3.38%
+          * Missile speed: 2500
+          * Unit radius: Gameplay radius: 65
+          * Selection radius: 135
+          * Pathing radius: 35
+          * Acq. radius: 575
+        •
+        Special statistics:
+          * ARAM: Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+          * Damage Dealt: +0%
+          * Damage Received: -5%
+          * Damage Dealt: +0%
+          * Damage Received: +0%
+          * Damage Dealt: -2%
+          * Damage Received: +0%
+          * Damage Dealt: -8%
+          * Damage Received: +5%
+          * Damage Dealt: +0%
+          * Damage Received: +0%
+          * Damage Dealt: +0%
+          * Damage Received: +0%
+          * Abilities:
+            * Deadly Venom
+              **Format:**
+              ```vbnet
+              [
+              ]
+              •
+              Deadly Venom
+              Innate: Twitch's basic attacks on-hit apply a stack of Deadly Venom for 6 seconds, refreshing on subsequent applications and stacking up to 6 times.
+              •
+              Deadly Venom: For each stack, the target is dealt 1 / 2 / 3 / 4 / 5 (based on level) (+ 3% AP) true damage per second over the duration, 6 / 12 / 18 / 24 / 30 (based on level) (+ 18% AP) total true damage over the duration, and 36 / 72 / 108 / 144 / 180 (based on level) (+ 108% AP) total true damage with each tick.
+              •
+              This effect is considered a poison.
+              •
+              Deadly Venom does not affect structures.
+              •
+              Deadly Venom stacks will still be applied if the attack was parried or blocked, but not if dodged and/or missed if Twitch is blinded.
+              •
+              Map-Specific Differences: Arena differences
+                * AP ratio per tick changed to 4% AP.
+              •
+              Targeting input: Passive
+              •
+              Damage type: Type: Sub-type: Default damage: True
+              •
+              Counters: Spell shield, Parries, Not Blocked
+              •
+              The first 5 stacks on a target are indicated each by a small mark around them, while a target affected by the maximum stacks of 6 is indicated by a single large mark above them instead.
+              •
+              Deadly Venom does not affect structures.
+              •
+              Being applied on-hit, Deadly Venom stacks will still be applied if the attack was parried or blocked, but not if dodged and/or missed if Twitch is blinded.
+              •
+              Map-Specific Differences: Arena differences
+                * AP ratio per tick changed to 4% AP.
+              •
+              Ambush
+                **Format:**
+                ```vbnet
+                •
+                Ambush
+                COST: 40 Mana
+                •
+                COOLDOWN: 16
+                •
+                CAST TIME: none
+                •
+                Detection Radius: 500
+                •
+                Active: After a 1-second delay, Twitch becomes camouflaged for a duration. Attacking or casting Venom Cask or Contaminate ends Ambush immediately.
+                •
+                Stealth Duration: 10 / 11 / 12 / 13 / 14
+                •
+                During this time, Twitch gains 10% bonus movement speed, increased to 30% while facing enemy champions within a 1000-unit radius who cannot see him.
+                •
+                Upon breaking stealth, Twitch gains bonus attack speed for 5 seconds.
+                •
+                Bonus Attack Speed: 40 / 45 / 50 / 55 / 60%
+                •
+                When an enemy champion dies while afflicted with Deadly Venom, Ambush's cooldown is reset.
+                •
+                Link: ▶️ (Entering stealth) "Sneaky, sneaky... "
+                •
+                Link: ▶️ (Exiting stealth) "I was hiding! Hehehahaa, grr!"
+                •
+                Details:
+                  * Entering stealth cancels Twitch's current basic attack.
+                  * Ambush follows the same rules as stealth but he can still perform actions normally before entering camouflage.
+                  * Activating Recall during the 1-second delay allows him to channel it while stealthed.
+                  * If Twitch enters stasis during the delay, he will gain the camouflage after the stasis ends.
+                •
+                Targeting input: Auto
+                •
+                Damage type: Type: Sub-type: Area damage: Physical
+                •
+                Counters: Spell shield, Projectile, Blocked: Not Blocked
+                •
+                Ambush can apply a maximum of 4 Deadly Venom stacks per enemy.
+                •
+                Venom Cask's missile will fail to fire if Twitch is suppressed during the cast time.
+                (bug)
+                •
+                Contaminate will deal the additional damage to targets based on the number of Deadly Venom stacks they had at the start of the cast time.
+                Twitch is given a range indicator for Contaminate's radius upon infecting an enemy champion with Deadly Venom (actual range is slightly larger than shown by the indicator).
+                Contaminate will not deal damage to enemies that are not within range of the ability before the cast time completes.
+                If the target moves out of range after the cast time, they are still dealt the damage.
+                •
+                Map-Specific Differences: Arena differences
+                  * Bonus AD ratio per stack changed to 30% bonus AD.
+                  * AP ratio per stack changed to 35% AP.
+                •
+                Spray and Pray
+                  **Format:**
+                  ```vbnet
+                  •
+                  Spray and Pray
+                  COST: 100 Mana
+                  •
+                  COOLDOWN: 90
+                  •
+                  CAST TIME: none
+                  •
+                  TARGET RANGE: Twitch's attack range
+                  •
+                  WIDTH: 1100
+                  •
+                  SPEED: 5000
+                  •
+                  Active: Twitch gains bonus attack damage and 300 bonus attack range for 6 seconds, during which his basic attacks are replaced by bolts that travel slightly further than his attack range in a straight line, dealing damage to every enemy unit hit.
+                  •
+                  Bonus Attack Damage: 40 / 55 / 70
+                  •
+                  The bolts deal 100% − 60% (based on enemies hit) of the attack's damage, apply on-hit effects at 100% effectiveness, and can critically strike.
+                  •
+                  Link: ▶️ "Pins and needles!"
+                  •
+                  Tips & Tricks:
+                    * Spray and Pray allows Twitch to outrange turrets by 50 units, allowing him to hit them without them returning fire.
+                    * Twitch targets his line attack at his target's location at the start of his attack windup.
+                    * The bolts reach targets at a delay, composed of Twitch's windup time and distance the bolt has to travel at finite speed. Even the primary target can dodge the attack if they are moving quickly enough.
+                    * The bolt projectiles will naturally pass through terrain and enemy structures (the latter will be damaged by bolts even if they are not directly targeted).
+                    * If Twitch is blinded before winding up the attack, the hits will miss against all targets.
+                    * Runaan's Hurricane's Wind's Fury interactions with Spray and Pray's bonus attack range but not with the modified missile effect (the secondary bolts will not have pass-through effects).
+                    * Whenever the bolts penetrate a target, a small elongated cloud appears at the location, which's VFX and SFX can be seen and heard inside the Fog of War.
+                    * The bolt missile has to only touch (pass within its half width of 60 units) the edge of the unit's radius to be able to hit them.
+                  •
+                  Tips & Tricks:
+                    * Runaan's Hurricane's bolts can target the same units that are hit by Twitch's penetrated bolts, increasing the total damage dealt to them and applying on-hit effects twice.
+                  •
+                  Map-Specific Differences: Arena differences
+                    * Bonus attack damage changed to 30 / 40 / 50.
+                  •
+                  Champion skins
+                    [
+                    ]
+                    * Original
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: A Zaunite plague rat by birth, but a connoisseur of filth by passion, Twitch is not afraid to get his paws dirty. Aiming a chem-powered crossbow at the gilded heart of Piltover, he has vowed to show those in the city above just how filthy they really are. Always a sneaky sneak, when he’s not rooting around in the Sump, he’s digging deep into other people's garbage for discarded treasures… and perhaps a moldy sandwich.
+                      Doug Boyd, Joshua 'HUGEnFAST' Brian Smith
+                  •
+                    Kingpin
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefSkin.jpg
+                    •
+                      Description: Many in Bilgewater get called a filthy rat, but none deserve the title more than the Kingpin himself. While other crime bosses in the port city may loathe to get their hands dirty, Twitch revels in wading into the filth himself—crossbow in hand, and a finely aged egg in his pocket.
+                      Doug Boyd, Xi Zhang
+                    •
+                    Whistler Village
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: Whistler Village is an idyllic mountain hamlet known for spiced cocoa, competitive winter sports, and rumors of an insane man-rat living in the woods. Attempts to appease the creature with spiced cocoa and competitive winter sports have been unsuccessful.
+                      Doug Boyd
+                    •
+                    Winter Sports
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: A champion skins section dedicated to Twitch's Winter Sports skin.
+                      Doug Boyd
+                    •
+                    Medieval
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: An assassin-for-hire living beneath Dread Fortress Zaun, Twitch is a disgusting malefactor who has tipped every one of his killing implements in moist, toxic garbage. He excitedly awaits each contract, eager to kill, steal, and destroy as much as he can.
+                      Doug Boyd, Bo 'chenbowow' Chen
+                    •
+                    Medieval Twitch Chromas
+                      Amethyst, Obsidian, Sapphire
+                    •
+                      Description: Special chroma skins for Twitch's Medieval skin.
+                      Doug Boyd
+                    •
+                    Crime City
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: Deeply violent and severely paranoid, Twitch runs one of the largest crime syndicates in the nation. His orders are carried out by a literal army of rat-men, the only creatures he even comes close to trusting.
+                      Doug Boyd, Izzy Medrano
+                    •
+                    Vandal
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: An irradiated humanoid rat with an appetite for wanton collateral damage, Twitch is the number one provider of putrefied nuclear slime grenades to unsuspecting settlements everywhere. Equal parts audacious and paranoid, it is nearly impossible to stop his reckless rampages.
+                      Doug Boyd, Kan Liu
+                    •
+                    Pickpocket
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: A champion skins section dedicated to Twitch's Pickpocket skin.
+                      Doug Boyd
+                    •
+                    Crime City Twitch
+                      View in 3D
+                    •
+                      Description: A skin for Twitch themed around crime city.
+                      Doug Boyd, Unknown artist
+                    •
+                    World Champions: 2014
+                    •
+                      View in 3D
+                      File:Twitch CheddarChiefCircle.png
+                    •
+                      Description: Honoring imp's winning performance as Twitch during the 2014 World Championship.
+                      Doug Boyd, Alvin Lee, Pan Chengwei
+                    •
+                    New Animations/Recall
+                      Omega Squad
+                    •
+                      View in 3D
+                      File:Omega Squad Twitch.png
+                    •
+                      Description: A squad medic—and deranged lunatic—Twitch has been deeply and irreversibly affected by war. It's been a long time since he was a competent medical professional, as he no longer abides by the adage "do no harm."
+                      Doug Boyd, Rudy Siswanto
+                    •
+                    Omega Squad Twitch Chromas
+                      Obsidian, Pearl, Sandstone, Ice King
+                    •
+                      Description: Special chroma skins for Twitch's Omega Squad skin.
+                      Doug Boyd
+                    •
+                    Winter Wonder
+                    •
+                      View in 3D
+                      File:Twitch Ice King.png
+                    •
+                      Description: Twitch is a bitter, hateful creature who has jealously watched the Winterlands from his frozen burrow since time immemorial. Finally driven to the surface by twisted delusions of grandeur, he now seeks to usurp the Poro King, corrupting his subjects with an ancient, icy curse.
+                      Doug Boyd, Mingchen Shen, West Studio
+                    •
+                    Twitch Shadowfoot
+                    •
+                      View in 3D
+                      File:Twitch Shadowfoot.png
+                    •
+                      Description: An extremely aggravating presence both in-game and at the table, Twitch Shadowfoot is the adorable Rift Quest counterpart to the actual Twitch, who is insane. Unsurprisingly, the cuddly rat-man rogue spends nearly every turn stealing his companions' equipment, mumbling of a vast conspiracy to overthrow him from his 'toilet kingdom'.
+                      Doug Boyd, Francis Tneh, West Studio
+                    •
+                    Dragon World
+                    •
+                      View in 3D
+                      File:Twitch Dragonslayer.png
+                    •
+                      Description: A lesser dragon who has learned to blend in among humans… poorly. Twitch worships the true dragons and plans to one day become one himself, though he isn't sure how just yet.
+                      Doug Boyd, West Studio
+                    •
+                    High Noon
+                    •
+                      View in 3D
+                      File:Twitch High Noon.png
+                    •
+                      Description: It starts like this: An ill wind blows across the desert, dessicated rats turn up in the streets, rotting under the hot sun. Then the traveling undertaker arrives. No one knows who (or what) he is, nor where he hails from… But it seems even Death has a bone to pick with the King of the Sulfur Rail. Another Harbinger arrives.
+                      Doug Boyd, Park Jun Seong, West Studio
+                    •
+                    Twitch CheddarChiefSkin.jpg
+                    •
+                      Description: During a daring heist at the local cheesery, Twitch dove headfirst into a wedge of aged Swiss and was trapped. He escaped, but with his head encased! Over time food and rat became one, and Twitch now revels in his role as the 'big cheese' of the criminal underworld, proclaiming to all who question his dairy dominance: "Brie-ware!
+                      Doug Boyd, Unknown artist
+                    •
+                  Patch history
+                    [
+                    ]
+                    For the expanded patch notes, see here.
+                    V14.5
+                    •
+                      General
+                        * Bug Fix: Emote SFX no longer continues to play even after the emote was stopped.
+                    •
+                      Venom Cask
+                        * Bug Fix: The phantom missile's cast timing has been corrected to properly coincide with the VFX, which would previously break spell shields earlier than expected.
+                      •
+                      Contaminate
+                        * New Effect: Now calculates its damage based on the number of Deadly Venom stacks the target had at the time of cast rather than after the cast time.
+                    •
+                    V13.19
+                    •
+                      Spray and Pray
+                        * Missile speed increased to 5000 from 4000.
+                    •
+                    V13.8
+                    •
+                      Spray and Pray
+                        * Bug Fix: No longer deals damage to himself while affected by berserk.
+                    •
+                    V13.5
+                    •
+                      Contaminate
+                        * AP ratio per stack reduced to 30% AP from 35% AP.
+                        * Maximum AP ratio reduced to 180% AP from 210% AP.
+                    •
+                    V13.4
+                    •
+                      General
+                        * Bug Fix: Visibility for basic attack VFX and Spray and Pray's VFX on Crime City Twitch have been restored.
+                    •
+                    V13.1b
+                    •
+                      Stats
+                        * Base mana increased to 300 from 287.
+                    •
+                    V12.22
+                    •
+                      Stats
+                        * Attack damage growth reduced to 3.1 from 3.11.
+                        * Base mana regeneration reduced to 7.25 from 7.26.
+                    •
+                    V12.19
+                    •
+                      Deadly Venom
+                        * AP ratio per tick per stack increased to 2.5% AP from 2.5% AP.
+                        * Maximum AP ratio per tick increased to 15% AP from 15% AP.
+                      •
+                      Contaminate
+                        * AP ratio per stack increased to 35% AP from 33% AP.
+                        * Maximum AP ratio increased to 210% AP from 205% AP.
+                    •
+                    V12.10
+                    •
+                      Stats
+                        * Base health increased to 682 from 612.
+                        * Health growth increased to 100 from 86.
+                    •
+                    V11.24
+                    •
+                      Spray and Pray
+                        * New Effect: The extra distance that the bolts travel now scales with his bonus attack range.
+                    •
+                      Contaminate
+                        * Bug Fix: Contaminate's SFX for the base skin and Twitch Shadowfoot have been restored.
+                    •
+                    V11.18
+                    •
+                      Spray and Pray
+                        * Bonus attack damage increased to 30/45/60 from 25/40/55.
+                        * Duration increased to 6 seconds from 5.
+                    •
+                    V11.8
+                    •
+                      April 14th Hotfix
+                      * Spray and Pray
+                        * Bug Fix: Missile can once again critically strike and miss on collision with enemy.
+                    •
+                    V11.8
+                    •
+                      General
+                      * Updated chroma assets for Medieval Twitch.
+                    •
+                    V11.5
+                    •
+                      Deadly Venom
+                        * Damage per tick AP ratio per stack reduced to 2.5% AP from 3% AP.
+                        * Total damage AP ratio per stack reduced to 15% AP from 18% AP.
+                      •
+                      Spray and Pray
+                        * Bonus attack damage increased to 25/40/55 from 20/35/50.
+                        * Duration increased to 5 seconds from 4.
+                    •
+                    V10.25
+                    •
+                      Ambush
+                        * Bonus attack speed increased to 40/45/50/55/60% from 30/35/40/45/50%.
+                      •
+                      Venom Cask
+                        * Slow increased to 30/35/40/45/50% from 25/30/35/40/45%.
+                      •
+                      Spray and Pray
+                        * Bonus attack damage increased to 20/30/40 from 25/35/45.
+                    •
+                    V10.23
+                    •
+                      Deadly Venom
+                        * New Effect: Now scales with 3% AP per stack, up to 18% AP at 6 stacks.
+                      •
+                      Venom Cask
+                        * New Effect: Slow now scales with 6% per 100 AP.
+                      •
+                      Contaminate
+                        * Removed: No longer cleanses Deadly Venom stacks from enemies upon activation.
+                      •
+                      New Effect: Now deals 20/35/50/65/80 + 15/20/25/30/35 (+ 20% AP) (+ 25% bonus AD) per stack.
+                    •
+                    V10.18
+                    •
+                      Contaminate
+                        * AP ratio per stack increased to 33.3% AP from 20%.
+                    •
+                      Spray and Pray
+                        * Damage fall off reduced to 100% − 60% (based on enemy hit) from 100% − 40% (based on enemy hit).
+                    •
+                    V10.13
+                    •
+                      Spray and Pray
+                        * Bug Fix: Empowered attacks now properly deal damage to the Nexus and enemy inhibitors regardless of range or angle.
+                    •
+                      Undocumented: Line missile longer requires the center of any unit to be within the missile's maximum distance in order of it to be stuck, now only requires edge range.
+                        * The condition that the target center must be at or in front of missile origin still applies.
+                    •
+                    V10.11
+                    •
+                      Stats
+                        * Base health increased to 582 from 542.
+                        * Health growth increased to 86 from 81.
+                    •
+                    V9.16
+                    •
+                      Ambush
+                        * Bug Fix: Is no longer able to cast Ambush without consuming any mana 3 seconds after its cooldown resets when an enemy champion dies from his Deadly Venom.
+                    •
+                    V9.4
+                    •
+                      Spray and Pray
+                        * Bug Fix: Now properly triggers Energized effects when attacking from Rapid Firecannon's maximum range.
+                    •
+                    V9.1
+                    •
+                      Ambush
+                        * New Effect: Ability icon HUD now shows the remaining duration of the ability.
+                      •
+                      Spray and Pray
+                        * New Effect: Ability icon HUD now shows the remaining duration of the ability.
+                    •
+                    V8.14
+                    •
+                      Stats
+                        * Base health increased to 542 from 525.
+                        * Health growth reduced to 81 from 87.
+                    •
+                    V8.13
+                      Contaminate
+                        * Bonus AD ratio increased to 35% bonus AD from 25%.
+                    •
+                    V8.11
+                    •
+                      Stats
+                        * Base health increased to 525 from 505.
+                        * 0 Health growth increased to 87 from 81.
+                        * Base armor reduced to 23 from 32.
+                        * Base health regeneration reduced to 3.75 from 6.
+                        * Base attack damage reduced to 59 from 63.
+                        * Attack damage growth increased to 3.11 from 2.41.
+                    •
+                    V8.5
+                    •
+                      Contaminate
+                        * Base damage increased to 20/30/40/50/60 from 20/25/30/35/40.
+                    •
+                    V8.4
+                    •
+                      Contaminate
+                        * Base damage reduced to 20/35/50/65/80 from 20/30/40/50/60.
+                    •
+                    V8.3
+                    •
+                      Omega Squad Twitch
+                        * Stealth delay while not taking damage increased to 1.5 seconds from 1 second.
+                        * Stealth delay while taking damage increased to 4.5 seconds from 3 seconds.
+                        * Stealth duration reduced to 4/5/6/7/8 seconds from 10/20/30/40/50 seconds.
+                        * Cooldown increased to 16 seconds from 11 seconds.
+                    •
+                    V8.2
+                    •
+                      May 5th Hotfix
+                    •
+                      Venom Cask
+                        * Bug Fix: Once again properly adds a stack of Deadly Venom as the cask explodes.
+                    •
+                    V7.22
+                    •
+                      Stats
+                        * Base attack damage increased to 63 from 55.46.
+                        * Base armor increased to 32 from 23.
+                    •
+                    V7.20
+                    •
+                      General
+                        * Adjusted splash artwork for Pickpocket Twitch.
+                    •
+                    V7.19
+                    •
+                      Ambush
+                        * Bug Fix: Visual effects no longer stay visible indefinitely if Tahm Kench uses Devour on him as he enters stealth.
+                    •
+                      Omega Squad Twitch
+                        * Once again has his helicopter shadows during their recall animations.
+                    •
+                    V7.16
+                    •
+                      Spray and Pray
+                        * Fixed a bug where it dealt two instances of damage to inhibitors and the Nexus if he attacked from slightly outside his normal basic attack range.
+                    •
+                    V7.14
+                    •
+                      Ambush
+                        * No longer gets stuck as visually translucent if Guardian Angel triggers during the camouflage duration.
+                    •
+                    V7.9
+                    •
+                      Venom Cask
+                        * Bug Fix: Once again properly adds a stack of Deadly Venom as the cask explodes.
+                    •
+                    V7.9
+                    •
+                      Stats
+                        * Magic resistance growth increased to 0.5 from 0.
+                    •
+                    V7.3
+                    •
+                      Ambush
+                        * Fixed a bug where entering stealth with Ambush was causing Twitch to stop attacking when taunted.
+                    •
+                    V6.24
+                    •
+                      Deadly Venom
+                        * True damage per second per stack reduced to 1/2/3/4/5 from 2/3/4/5/6.
+                        * Venom Cask mana cost increased to 70 from 50.
+                    •
+                    V6.23
+                    •
+                      General
+                        * Bug Fix: Error on Recall voiceover effects for Crime City, Vandal, and Pickpocket.
+                    •
+                    V6.22
+                    •
+                      New splash artwork for Kingpin Twitch, Whistler Village Twitch, Medieval Twitch, Crime City Twitch, and Vandal Twitch.
+                      Ambush
+                        * Stealth reclassified as Camouflage.
+                        * Stealth delay reduced to 1 second at all times from 1.5 while not taking damage or 4.5 while taking damage.
+                        * Duration increased to 10/11/12/13/14 seconds from 4/5/6/7/8.
+                        * Bonus movement speed reduced to 10% from 20%.
+                        * New Effect: Bonus movement speed is tripled to 30% when Twitch moves towards nearby enemy champions who cannot see him.
+                      •
+                      Venom Cask
+                        * Removed: Slowing on impact.
+                        * New Effect: Upon impact, creates a persistent area of effect for 3 seconds that slows and applies a Deadly Venom per second.
+                        * Impact Deadly Venom stacks reduced to 1 from 2.
+                        * Spray and Pray
+                          * Rename from Rat-Ta-Tat-Tat.
+                          * Duration reduced to 5 seconds from 7.
+                          * Mana cost: 100/125/150 Mana
+                          * Cooldown increased to 120/110/100 seconds from 105/90/75.
+                    •
+                    V6.19
+                    •
+                      Ambush
+                        * Bonus attack speed reduced to 30/40/50/60/70% from 30/45/60/80/100%.
+                      •
+                      Contaminate
+                        * Bug Fix: Sometimes not damaging enemies acquired at edge of range.
+                    •
+                      Ambush
+                        * Stealth delay while taking damage reduced to 3 seconds from 5 seconds.
+                    •
+                    V6.8
+                    •
+                      General
+                        * Splash artwork for Kingpin Twitch, Whistler Village Twitch, and Crime City Twitch updated to the Chinese art.
+                    •
+                    V5.22
+                    •
+                      Stats
+                        * Base attack damage increased to 55.46 from 53.
+                        * Attack damage growth reduced to 2.41 from 3.11.
+                    •
+                      Ambush
+                        * Stealth delay while not taking damage increased to 1.5 seconds from 1 second.
+                        * New Effect: Cooldown resets when an enemy champion affected by Deadly Venom dies.
+                        * New Effect: Entering stealth cancels Twitch's current basic attack command.
+                        * New Effect: Twitch will gain the bonus attack speed when he breaks stealth by using an ability.
+                    •
+                      Rat-Ta-Tat-Tat
+                        * Duration reduced to 5 seconds from 7.
+                        * Mana cost reduced to 100 at all ranks from 100/125/150.
+                        * Cooldown reduced to 90 seconds at all ranks from 120/110/100.
+                        * Removed: Ambush's stealth being removed on-cast.
+                    •
+                    V5.18
+                    •
+                      Ambush
+                        * Stealth delay while taking damage reduced to 4.5 seconds from 6 seconds.
+                    •
+                      Spray and Pray
+                        * Mana cost reduced to 40 from 60.
+                    •
+                      Rat-Ta-Tat-Tat
+                        * Bonus attack damage increased to 20/28/36 from 15/25/35.
+                    •
+                    V5.8
+                    •
+                      Rat-Ta-Tat-Tat
+                        * Bug Fix: Twitch being unable to damage structures while active.
+                    •
+                    V5.6
+                    •
+                      Deadly Venom
+                        * Damage per stack changed to 2/3/4/5/6 (based on level) from 1−6 (based on level).
+                    •
+                    V4.10
+                    •
+                      General
+                        * Base attack damage reduced to 49 from 51.
+                        * Deadly Venom
+                          * Damage per stack changed to 1−6 (based on level) from 3/5/7.
+                          * Stealth delay while not taking damage increased to 1.25 seconds from 1 second.
+                          * Stealth delay while taking damage increased to 3 seconds from 1.5 seconds.
+                          * Stealth duration reduced to 10/15/20/25/30 seconds from 15/20/25/30/35 seconds.
+                          * Cooldown increased to 12 seconds from 10 seconds.
+                          * Mana cost increased to 60 from 50.
+                          * Bug Fix: Stealth delay being longer than intended.
+                          * Bug Fix: Debilitating Poison debuff being incorrectly removed by Highlander.
+                          * Expunge range reduced.
+                          * Spray and Pray hit particle updated.
+                          * Projectile speed increased.
+                          * Projectile width increased to 40 from 25.
+                          * Removed: Applying on-hit effects.
+                    •
+                    V1.0.0.152
+                    •
+                      Stats
+                        * Move.speed increased to 330 from 305.
+                    •
+                    V1.0.0.151
+                    •
+                      Deadly Venom
+                        * New Effect: Has a particle for when maximum stacks are applied on a target.
+                    •
+                    V1.0.0.146
+                    •
+                      Expunge
+                        * Base damage increased to 40/50/60/70/80 from 20/35/50/65/80.
+                        * Mana cost reduced to 70/75/80/85/90 from 70/75/80/85/90.
+                        * Spray and Pray
+                          * Cast frame reduced to make Twitch's enhanced basic attacks more responsive.
+                    •
+                    V1.0.0.144
+                    •
+                      Stats
+                        * Base attack damage increased to 52 from 50.
+                    •
+                    Venom Cask
+                        * Projectile speed increased to 1400 from 1300.
+                    •
+                    V1.0.0.143
+                    •
+                      Gameplay Update
+                      * Stats
+                        * Attack range increased to 550 from 500.
+                        * Base health increased to 389 from 356.
+                        * Health per level increased to 81 from 78.
+                        * Base mana increased to 220 from 180.
+                        * Mana per level increased to 40 from 35.
+                        * Base attack damage reduced to 47 from 51.
+                        * 56
+                          * Attack damage per level reduced to 3 from 3.3.
+                          * Basic attack animation updated.
+                        * Deadly Venom
+                          * Damage per stack reduced to 2/4/6/8 (based on level) from 2.5/5/7.5/10/12.5.
+                          * Ambush
+                            * After a short delay, Twitch becomes invisible for a few seconds and gains 20% bonus movement speed for the duration. Upon breaking stealth, Twitch gains 30/40/50/60/70% bonus attack speed for 5 seconds.
+                            * Stealth delay while not taking damage reduced to 1.25 seconds from 2 seconds.
+                            * Stealth delay while taking damage reduced to 3 seconds from 4 seconds.
+                            * Duration reduced to 8/10/12/14/16 seconds from 12/16/20/24/28 seconds.
+                            * Cooldown increased to 15 seconds from 12 seconds.
+                            * Mana cost: 60
+                            * Venom Cask
+                              * New W
+                                * Twitch hurls a cask full of venom to the target area that slows enemies within by 25/30/35/40/45% for 3 seconds and adds 2 Deadly Venom stacks.
+                                * Mana cost: 50
+                                * Cooldown: 13/12/11/10/9
+                              * Expunge
+                                * Upon activation, enemies afflicted by Deadly Venom take 20/35/50/65/80 + 15/20/25/30/35 (+ 20% AP) (+ 25% bonus AD) per stack.
+                                * Cost: 70/75/80/85/90
+                                * Cooldown: 12/11/10/9/8
+                              * Removed: Cleansing Deadly Venom stacks from enemies upon activation.
+                              * Spray and Pray
+                                * Upon activation, Twitch gains bonus attack damage and 300 bonus attack range, and his basic attacks become powerful piercing bolts.
+                                * Damage changed to 100% to all targets hit from 100% to first one and 70% to secondary ones.
+                                * Bonus attack damage increased to 20/28/36 from 15/25/35.
+                                * Duration reduced to 7 seconds from 12.
+                                * Cooldown increased to 120/110/100 seconds from 105/90/75.
+                                * Mana cost: 100/125/150 Mana
+                            •
+                            Trivia
+                              [
+                              ]
+                              Twitch was voiced by the late Doug Boyd.
+                              Twitch is voiced by an unknown voice actor in the Wild Rift Chat shorts.
+                              Deadly Venom displaying an X when fully stacked on a target might be referencing the Black Death (the doors of those afflicted were marked as such).
+                        •
+                        References
+                          [
+                          ]
+                          Up: Twitch's profile page at LeagueOfLegends.com.
+                        ```

@@ -1,0 +1,105 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champion: Lucian
+      * Gameplay
+      * Collection
+      * Audio
+      * Patch history
+      * Past versions
+    - Games: League of Legends, Teamfight Tactics, Legends of Runeterra, Wild Rift
+  + Image
+  + Lucian
+
+**Champion: Lucian**
+
+* Release date: 2013-08-22
+* Last changed: V14.2
+* Class(es): Marksman, Legacy Marksman
+* Position(s): Bottom
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Physical
+* Store price: 1350 (585 in-game gold), 810 RP
+
+**Base statistics**
+
+| Statistic          | Value                                          |
+|--------------------|--------------------------------------------------|
+| Health             | 641 (+100)                                      |
+| Mana               | 320 (+43)                                        |
+| Health regen. (per 5s) | 3.75 (+0.65)                                      |
+| Mana regen. (per 5s) | 7                                                |
+| Armor              | 28 (+4.2)                                        |
+| Attack damage      | 60 (+2.9)                                        |
+| Magic resist.       | 30 (+1.3)                                        |
+| Crit. damage       | 175%                                            |
+| Move. speed        | 335                                             |
+| Attack range       | 500                                             |
+| Attack speed       | Base AS: 0.638, Attack windup: 15%, AS ratio: N/A |
+| Bonus AS%          | +3.3%                                           |
+| Missile speed      | 2800                                            |
+| Unit radius        | Gameplay radius: 65                             |
+| Selection radius   | 100                                             |
+| Pathing radius     | 41                                              |
+| Acq. radius        | 800                                             |
+
+**Special statistics**
+
+| Statistic          | Value                                          |
+|--------------------|--------------------------------------------------|
+| ARAM               | +5% Damage Dealt                               |
+| Nexus Blitz        | N/A                                            |
+| One For All        | N/A                                            |
+| URF                 | N/A                                            |
+| Ult Spellbook      | N/A                                            |
+| Arena              | +0% Damage Dealt                               |
+| Damage Received    | -5% Damage Received                           |
+| Ability Haste       | +10                                            |
+| Tenacity & Slow Resist | +20%                                         |
+| Damage Dealt (others) | +0%                                           |
+| Damage Received (others) | +0%                                           |
+| Damage Dealt (minions) | +0%                                           |
+| Damage Received (minions) | +0%                                           |
+| Damage Dealt (monsters) | -5%                                           |
+| Damage Received (monsters) | +5%                                           |
+
+**Abilities**
+
+[Lightslinger]
+* Innate: Lucian's next basic attack within 3.5 seconds after casting an ability fires an additional shot at 0.25 seconds. The second shot applies on-hit and on-attack effects at 100% effectiveness and is affected by critical strike modifiers.
+* Passive - Vigilance: Whenever Lucian is healed or shielded by an ally, or an enemy champion within 1000 units is immobilized, his next two shots within 6 seconds are empowered to deal bonus magic damage on-hit. He can store up to 4 empowered shots at a time.
+
+[Piercing Light]
+* Cost: 48/56/64/72/80 mana
+* Cooldown: 9/8/7/6/5 seconds
+* Cast time: 0.4-0.25 seconds
+* Range: 500
+* Width: 120
+* Active: Lucian fires a laser in a line in the direction of the target enemy. Physical Damage: 95/125/155/185/215 (+60/75/90/105/120% bonus AD). Piercing Light's cast time ends prematurely if the initial target dies, allowing Lucian to attack and move freely or to immediately begin casting another ability.
+
+[Ardent Blaze]
+* Cost: 60 mana
+* Cooldown: 14/13/12/11/10 seconds
+* Cast time: 0.25 seconds
+* Range: 900
+* Width: 110
+* SPEED: 1600
+* Active: Lucian fires a missile in the target direction that explodes in a cross pattern upon hitting an enemy or reaching maximum range. The explosion deals magic damage to enemies hit and grants sight of the area for 1 second. Magic Damage: 75/110/145/180/215 (+90% AP). Enemies hit are marked for 6 seconds. Lucian gains bonus movement speed for 1 second when he or allied champions damage a marked target. Allied champions triggering this effect grant Lucian Vigilance.
+
+[Relentless Pursuit]
+* Cost: 40/30/20/10/0 mana
+* Cooldown: 19/17.75/16.5/15.25/14 seconds
+* Cast time: None
+* Target range: 425/200
+* SPEED: 1350
+* Passive: Relentless Pursuit's current cooldown is reduced by 1 second for each Lightslinger shot hit, doubled to 2 seconds against enemy champions. Active: Lucian dashes in the target direction. Relentless Pursuit resets Lucian's basic attack timer. Lucian can cast any of his abilities during the dash. Relentless Pursuit can be cast during Ardent Blaze's cast time and during The Culling's channel. Relentless Pursuit will cast at max range if cast beyond that.
+
+[The Culling]
+* Cost: 100 mana
+* Cooldown: 110/100/90 seconds
+* Cast time: None
+* Range: 1200/1140 (plus offset)
+* Width: 220 (plus offset)
+* Active: Lucian channels for up to 3 seconds, rapidly firing up to 22 (+1 per 4% critical strike chance) shots in the target direction. Each shot deals physical damage to the first enemy hit, doubled against minions. The Culling can be recast after 0.75 seconds during the channel, and does so automatically when the channel ends. Physical Damage Per Shot: 15/30/45 (+25% AD) (+15% AP). Minion Damage Per Shot: 30/60/90 (+50% AD) (+30% AP). Total Physical Damage: 330/660/990 (+550% AD) (+330% AP). While channeling, Lucian is ghosted and may still move. Recast: Lucian ends The Culling.

@@ -1,0 +1,427 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Janna
+        * Gameplay
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        * Base Statistics
+        * Abilities
+          * Tailwind
+          * Howling Gale
+          * Zephyr
+          * Eye of the Storm
+          * Monsoon
+        * Ratings
+          * Damage
+          * Toughness
+          * Control
+          * Mobility
+          * Utility
+        * Style
+          * Difficulty
+* Image
+  * Janna
+
+**Janna**
+
+* Release date: 2009-09-02
+* Last changed: V14.1
+* Class(es): Enchanter, Legacy, Support, Mage
+* Position(s): Support
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 1350
+* | 585, Crafting: +810
+
+**Base Statistics**
+
+* Health: 570 + 90
+* Mana: 360 + 50
+* Health regen. (per 5s): 5.5 + 0.55
+* Mana regen. (per 5s): 11.5 + 0.4
+* Armor: 28 + 4.5
+* Attack damage: 47 + 2.5
+* Magic resist.: 30 + 1.3
+* Crit. damage: 175%
+* Move. speed: 325
+* Attack range: 550
+* Attack speed: Base AS: 0.625, Attack windup: 20%
+* Bonus AS: +3% %
+* Missile speed: 1800
+* Unit radius: N/A
+* Selection radius: 125
+* Pathing radius: 35
+* Acq. radius: 550
+
+**Special Statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena: Damage Dealt -5%, Damage Received +5%
+* Healing -10%, Shielding -5%
+
+**Abilities**
+
+* **[Tailwind]**
+  * Effect Radius: 1200
+  * Innate: Janna grants 6% bonus movement speed to nearby allied champions that are facing in the direction of her location.
+  * Janna's basic attacks and Zephyr deal bonus magic damage equal to 30% of her bonus movement speed.
+* **[Howling Gale]**
+  * Cost: 90 / 95 / 100 / 105 / 110 mana
+  * Cooldown: 14
+  * Cast Time: none
+  * Range: 1100 - 1760 (based on seconds charged)
+  * Width: 240
+  * Speed: 880 - 1408 (based on seconds charged)
+  * Active: Janna summons a whirlwind at her current location that charges up over 3 seconds, increasing its range, speed, damage, and knock up duration every second over the duration.
+  * Howling Gale's direction is determined by this cast.
+  * Minimum Magic Damage: 55 / 90 / 125 / 160 / 195 (+ 50% AP)
+  * Bonus Damage Per Second: 10 / 15 / 20 / 25 / 30 (+ 10% AP)
+  * Maximum Magic Damage: 85 / 135 / 185 / 235 / 285 (+ 80% AP)
+  * Howling Gale can be recast at any time within the duration, and does so automatically after the duration.
+  * Janna launches the whirlwind in the direction she targeted over 1.25 seconds, dealing magic damage to enemies hit and knocking them up for 0.5 - 1.25 seconds (based on seconds charged).
+* **[Zephyr]**
+  * Cost: 50 / 55 / 60 / 65 / 70 mana
+  * Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+  * Cast Time: 0.245 seconds
+  * Target Range: 550
+  * Speed: 1600
+  * Passive: Janna is ghosted and gains bonus movement speed.
+  * Bonus Movement Speed: 6 / 7 / 8 / 9 / 10% (+ 2% per 100 AP)
+  * Active: Janna sends an air elemental at the target enemy that deals magic damage and slows them for 2 seconds, capped at 99%.
+  * Magic Damage: 55 / 90 / 125 / 160 / 195 (+ 60% AP)
+  * Slow: 20 / 24 / 28 / 32 / 36% (+ 6% per 100 AP)
+* **[Eye of the Storm]**
+  * Cost: 70 / 75 / 80 / 85 / 90 mana
+  * Cooldown: 16 / 15 / 14 / 13 / 12 seconds
+  * Cast Time: none
+  * Target Range: 800
+  * Passive: Whenever Janna's abilities slow or knock up at least one enemy champion, 20% of Eye of the Storm's cooldown is refunded. This may occur once per spell cast.
+  * Active: Janna grants the target allied champion or turret, or herself, a shield for 4 seconds.
+  * Shield Strength: 80 / 115 / 150 / 185 / 220 (+ 55% AP)
+  * While the shield holds, the target gains bonus attack damage.
+  * Bonus Attack Damage: 10 / 15 / 20 / 25 / 30 (+ 10% AP)
+
+**Map-Specific Differences**
+
+* Howling Abyss: differences
+
+**Patch history**
+
+* For the expanded patch notes, see here.
+
+**V14.1**
+
+* Tailwind: Bug Fix: Allies can no longer receive the bonus movement speed while she is dead.
+
+**V13.23**
+
+* Tailwind: Damage bonus movement speed ratio changed to 30% at all levels from 20 / 25 / 30 / 35% (based on level).
+
+**V13.22**
+
+* Stats: Health growth increased to 90 from 84.
+* Base mana increased to 360 from 350.
+* Mana growth reduced to 50 from 64.
+* Base attack damage reduced to 47 from 52.
+* Attack damage growth reduced to 2.5 from 3.
+* Base attack range increased to 550 from 500.
+* Attack windup reduced to 20% from 22%.
+
+**V13.20**
+
+* Tailwind: Removed: Janna no longer gains 6% bonus movement while moving towards allies. Allied bonus movement speed unchanged.
+* New Effect: Her basic attacks and Zephyr now deal bonus magic damage equal to 20 / 25 / 30 / 35% (based on level) of her bonus movement speed.
+* Howling Gale: Minimum range of the missile is now shown in the indicator.
+
+**V13.19**
+
+* Zephyr: Bonus movement speed is no longer lost while the ability is on cooldown.
+* Base damage reduced to 55 / 90 / 125 / 160 / 195 from 55 / 100 / 130 / 160 / 195.
+* Cooldown reduced to 8 / 7.5 / 7 / 6.5 / 6 seconds from 9 / 8.5 / 8 / 7.5 / 7 seconds.
+* Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90.
+* Slow duration reduced to 2 seconds from 3.
+
+**V13.18**
+
+* General: Updated ability icons.
+
+**V13.12**
+
+* Tailwind: Bug Fix: Movement speed buff is no longer kept after teleporting far away (e.g., Recalling) while facing an allied champion.
+
+**V13.11**
+
+* Zephyr: Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+* Damage AP ratio increased to 60% AP from 50% AP.
+
+**V13.10**
+
+* Eye of the Storm: Base shield reduced to 80 / 110 / 140 / 170 / 200 from 80 / 115 / 150 / 185 / 220.
+* Shield AP ratio reduced to 60% AP from 70% AP.
+
+**V13.9**
+
+* Zephyr: Cooldown reduced to 6.5 / 6 / 5.5 / 5 / 4.5 seconds from 7.5 / 7 / 6.5 / 6 / 5.5 seconds.
+* Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+* Damage AP ratio increased to 65% AP from 60% AP.
+* Mana cost reduced to 45 / 50 / 55 / 60 / 65 from 50 / 55 / 60 / 65 / 70.
+
+**V13.8**
+
+* Zephyr: Bug Fix: Restored VFX overlay on enemy hit for Star Guardian Janna.
+* Base damage increased to 80 / 110 / 140 / 170 / 200 from 70 / 100 / 130 / 160 / 190.
+* Damage AP ratio increased to 65% AP from 60% AP.
+* Eye of the Storm: Decay delay increased to 2.5 seconds from 1.25 seconds.
+
+**V13.7**
+
+* Zephyr: Bug Fix: Cast type restored to centered range from edge range.
+* Bug Fix: Range indicator now displays the correct radius.
+
+**V13.6**
+
+* Eye of the Storm: Bug Fix: Heal and shield power bonus is no longer gained from knocking up or slowing enemy champions while the ability hasn't even been learned yet.
+
+**V13.5**
+
+* Zephyr: Base movement speed reduced to 6 / 7 / 8 / 9 / 10% from 8 / 9 / 10 / 11 / 12%.
+* Base slow reduced to 20 / 24 / 28 / 32 / 36% from 24 / 28 / 32 / 36 / 40%.
+* Eye of the Storm: Base shield reduced to 80 / 115 / 150 / 185 / 220 from 80 / 120 / 160 / 200 / 240.
+* Shield AP ratio reduced to 70% AP from 90% AP.
+
+**V13.4**
+
+* Zephyr: Bug Fix: Fixed a bug causing Forecast Janna's Howling Gale to not play audio if released after reaching max charge.
+
+**V13.3**
+
+* General: Splash artwork for Tempest Janna and Hextech Janna updated to the Chinese art.
+
+**V13.1**
+
+* Eye of the Storm: Bonus AD reduced to 10 / 17.5 / 25 / 32.5 / 40 from 14 / 23 / 32 / 41 / 50.
+* Monsoon: Knockback's stun duration reduced to 0.5 seconds from 0.75 seconds.
+
+**V12.23**
+
+* Tailwind: Bonus movement speed reduced to 6% from 8%.
+* Eye of the Storm: Base bonus attack damage reduced to 10 / 17.5 / 25 / 32.5 / 40 from 10 / 17.5 / 25 / 32.5 / 41 / 50.
+
+**V12.22**
+
+* General: Updated visual effects for Original Janna, Tempest Janna, Hextech Janna, Frost Queen Janna, Victorious Janna, Forecast Janna, Fnatic Janna, Star Guardian Janna, Sacred Sword Janna, Bewitching Janna, Guardian of the Sands Janna, Battle Queen Janna, Crystal Rose Janna, Cyber Halo Janna, and Prestige Cyber Halo Janna.
+* New impact effect for Howling Gale and healing effect for Monsoon.
+
+**V12.21**
+
+* Eye of the Storm: Base shield increased to 100 / 150 / 200 per second from 70 / 110 / 150.
+* Heal and shield power reduced to 15% from 20%.
+* Monsoon: Base heal increased to 100 / 150 / 200 per second from 70 / 110 / 150.
+* Heal per second AP scaling increased to 60% AP per second from 35% AP per second.
+* Total heal increased to 300 / 450 / 600 (180% AP) from 270 / 435 / 600 (140% AP).
+
+**V12.20**
+
+* Zephyr: Cooldown reduced to 8 / 7.5 / 7 / 6.5 / 6 seconds from 9 / 8.5 / 8 / 7.5 / 7 seconds.
+* Base damage reduced to 55 / 100 / 130 / 160 / 195 from 55 / 90 / 125 / 160 / 195.
+* Slow duration reduced to 2 seconds from 3.
+* Bonus movement speed reduced to 6 / 7 / 8 / 9 / 10% from 9 / 11 / 13 / 15 / 17%.
+* Range changed to 550 from 600.
+
+**V12.19**
+
+* Tailwind: New Effect: Janna also benefits from Tailwind.
+
+**V12.18**
+
+* Eye of the Storm: Cooldown increased to 18 / 16 / 14 / 12 / 10 seconds from 10 at all ranks.
+
+**V12.17**
+
+* Eye of the Storm: Shield AP ratio reduced to 70% AP from 90% AP.
+
+**V12.16**
+
+* Howling Gale: Cooldown reduced to 12 seconds at all ranks from 14 / 13 / 12 / 11 / 10.
+* Base damage increased to 70 / 100 / 130 / 160 / 190 from 55 / 85 / 115 / 145 / 175.
+* Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 90 / 105 / 120 / 135 / 150.
+
+**V12.15**
+
+* Eye of the Storm: Cooldown reduced to 10.5 seconds from 12 seconds.
+* Base shield reduced to 80 / 120 / 160 / 200 / 240 from 100 / 150 / 200 / 250 / 300.
+
+**V12.14**
+
+* General: Updated visual effects for Original Janna (complete overhaul).
+* Tempest Janna: Same as new base.
+* Hextech Janna: Complete overhaul.
+* Frost Queen Janna: Complete overhaul.
+* Victorious Janna: Complete overhaul.
+* Forecast Janna: Complete overhaul.
+* Fnatic Janna
+: Same as new base, but with new effects for Zephyr.
+* Star Guardian Janna: Complete overhaul.
+* Sacred Sword Janna: Complete overhaul.
+* Bewitching Janna: Complete overhaul.
+* Guardian of the Sands Janna: Complete overhaul.
+* Battle Queen Janna: Complete overhaul.
+* Crystal Rose Janna: Complete overhaul.
+* Cyber Halo Janna: Complete overhaul.
+* Prestige Cyber Halo Janna: Complete overhaul.
+* New impact effect for Howling Gale and healing effect for Monsoon.
+
+**V12.13**
+
+* Eye of the Storm: Base shield reduced to 80 / 115 / 150 / 185 / 220 from 80 / 120 / 160 / 200 / 240.
+
+**V12.12**
+
+* Zephyr: Base passive bonus movement speed reduced to 4 / 7 / 10 / 13 / 16% from 8 / 10 / 12 / 14 / 16%.
+* Eye of the Storm: Shield AP ratio reduced to 65% AP from 80% AP.
+
+**V12.11**
+
+* Stats: Base movement speed reduced to 315 from 320.
+* Base health reduced to 500 from 525.
+* Base mana reduced to 350 from 409.
+
+**V12.10**
+
+* Zephyr: Mana cost increased to 50 / 55 / 60 / 65 / 70 from 40 / 50 / 60 / 70 / 80.
+* Base attack range increased to 550 from 475.
+* Base attack damage reduced to 46 from 51.
+* Attack damage growth reduced to 1.5 from 2.
+
+**V12.9**
+
+* Howling Gale: Fixed a bug where casting wouldn't go in the cursor's direction when not in cast range.
+* Fully charged knockup duration increased to 1 second from 0.75 seconds.
+
+**V12.8**
+
+* Eye of the Storm: Mana cost increased to 70 / 80 / 90 / 100 / 110 from 60 / 70 / 80 / 90 / 100.
+* Shield duration reduced to 10 seconds from 12.
+* Cooldown reduced to 10 seconds from 12.
+* New Effect: Cyclone Strike bonus AD remains after the shield's breaking.
+
+**V12.7**
+
+* Monsoon: Now slows enemy units for 40% that re-enter the storm after being pushed out.
+
+**V12.6**
+
+* Eye of the Storm: Heal per second reduced to 70 / 110 / 150 from 90 / 130 / 170.
+* Slow reduced to 30% from 40%.
+
+**V12.5**
+
+* Eye of the Storm: New Effect: Bonus AD has a 10% AP ratio.
+* Shield AP ratio reduced to 85% AP from 100% AP.
+
+**V12.4**
+
+* Howling Gale: Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 10 at all ranks.
+
+**V12.3**
+
+* Howling Gale: Knockup time reduced by 33%.
+
+**V12.2**
+
+* Eye of the Storm: Fixed a bug where the particle would linger after the shield effect had been removed.
+* Howling Gale: Mana cost reduced to 90 / 105 / 120 / 135 / 150 from 110 / 130 / 150 / 170 / 190.
+* Zephyr: Tooltip updated to indicate that, while on cooldown, the passive movement speed is lost.
+* Eye of the Storm: Fixed a bug where rank up would only grant the additional movement speed after Janna refreshed the buff.
+
+**V12.1**
+
+* Howling Gale: Base damage increased to 60 / 85 / 110 / 135 / 160 from 50 / 70 / 90 / 110 / 130.
+* Maximum knockup duration increased to 1.5 seconds from 1.
+
+**V12.0**
+
+* Eye of the Storm: Shield duration reduced to 8 seconds from 10.
+
+**V11.18**
+
+* Zephyr: Fixed a bug where even on cooldown Janna would sometimes retain the passive movement speed.
+
+**V11.17**
+
+* Eye of the Storm: Base shield reduced to 80 / 115 / 150 / 185 / 220 from 100 / 150 / 200 / 250 / 300.
+
+**V11.16**
+
+* Eye of the Storm: AP ratio increased to 90% AP from 80% AP.
+
+**V11.15**
+
+* Eye of the Storm: Bonus AD changed to 14 / 23 / 32 / 41 / 50 from 24 / 30 / 36 / 42 / 48.
+
+**V11.14**
+
+* Eye of the Storm: Base shield reduced to 100 / 150 / 200 / 250 / 300 from 120 / 180 / 240 / 300 / 360.
+
+**V11.13**
+
+* Eye of the Storm: Cooldown increased to 12 seconds at all ranks from 10 at all ranks.
+
+**V11.12**
+
+* Eye of the Storm: Shield duration reduced to 10 seconds from 12 seconds.
+
+**V11.11**
+
+* Eye of the Storm: Mana cost increased to 70 / 85 / 100 / 115 / 130 from 60 / 70 / 80 / 90 / 100.
+
+**V11.10**
+
+* Eye of the Storm: AP ratio reduced to 80% AP from 100% AP.
+
+**V11.9**
+
+* Eye of the Storm: Base shield reduced to 80 / 115 / 150 / 185 / 220 from 100 / 150 / 200 / 250 / 300.
+
+**V11.8**
+
+* Eye of the Storm: New Effect: Cyclone Strike bonus AD remains after the shield's breaking.
+
+**V11.7**
+
+* Eye of the Storm: Cooldown increased to 12 seconds from 10 seconds.
+
+**V11.6**
+
+* Eye of the Storm: Shield duration reduced to 8 seconds from 10 seconds.
+
+**V11.5**
+
+* Eye of the Storm: Mana cost increased to 60 / 70 / 80 / 90 / 100 from 70 / 85 / 100 / 115 / 130.
+
+**V11.4**
+
+* Eye of the Storm: Base shield reduced to 80 / 115 / 150 / 185 / 220 from 100 / 150 / 200 / 250 / 300.
+
+**V11.3**
+
+* Eye of the Storm: Shield duration reduced to 10 seconds from 12 seconds.
+
+**V11.2**
+
+* Eye of the Storm: Cooldown increased to 14 / 13 / 12 / 11 / 10 seconds from 10 at all ranks.
+
+**V11.1**
+
+* Eye of the Storm: Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 85 / 100 / 115 / 130.
+
+**V11.0**
+
+* New Champion: Janna, the Storm's Fury.

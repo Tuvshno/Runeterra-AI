@@ -1,0 +1,259 @@
+**Games**
+
+* Universe
+  * League of Legends
+    + Champions
+      - Yasuo
+        ***
+  * Teamfight Tactics
+  * Legends of Runeterra
+  * Wild Rift
+
+**Image**
+
+* Yasuo
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Yasuo**
+
+* Release date: 2013-12-13
+* Last changed: V13.15
+* Class(es): Skirmisher, Legacy, Fighter, Assassin
+* Position(s): Top, Middle, Bottom
+* Resource: Flow
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 1350
+| 585
+| 810
+* Ratings
+  + Damage: 3
+  + Toughness: 1
+  + Control: 2
+  + Mobility: 3
+  + Utility: 2
+* Style: Difficulty: Champion Spotlight
+
+**Yasuo Champion Spotlight**
+
+Yasuo is a champion in League of Legends.
+
+[1]
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+Yasuo
+
+**Edit**
+
+* Health: 590 + 110
+* Resource: N/A
+* Health regen. (per 5s): 6.5 + 0.9
+* Secondary Bar: Flow (100)
+* Armor: 30 + 4.6
+* Attack damage: 60 + 3
+* Magic resist.: 32 + 2.05
+* Crit. damage: 175% ( × 0.9)
+* Move. speed: 345
+* Attack range: 175
+* Attack speed: Base AS: 0.697, Attack windup: 22%, AS ratio: 0.67, Bonus AS: +3.5 %
+* Unit radius: Gameplay radius: 65, Selection radius: 75, Pathing radius: 32, Acq. radius: 400
+
+**Special statistics**
+
+* ARAM: Damage Dealt: +0%, Damage Received: +0%
+* Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+* One For All: Damage Dealt: +0%, Damage Received: +0%
+* URF: Damage Dealt: +0%, Damage Received: -10%
+* URF: Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+* Arena: Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+
+**Abilities**
+
+[
+]
+
+**Edit**
+
+* Way of the Wanderer: Innate - Intent, Innate - Resolve
+* Steel Tempest
+
+**Steel Tempest**
+
+* Cast Time: 0.35 - 0.175 (based on bonus attack speed), Static Cooldown: 4 - 1.33 (based on bonus attack speed)
+* Range: 450 / 1150, Effect Radius: 215, Width: 80 / 180, Speed: 1200
+* Active: Yasuo thrusts his sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects at 100% effectiveness to the first enemy hit. Steel Tempest's damage can critically strike for (47% + 42%) AD bonus physical damage. Physical Damage: 20 / 45 / 70 / 95 / 120 (+ 105% AD), If this hits at least one enemy, Yasuo generates a stack of Gathering Storm for 6 seconds, stacking up to 2 times and refreshing on subsequent hits. At 2 stacks, the next Steel Tempest consumes them all to become empowered with a new effect.
+* Gathering Storm Bonus: Yasuo unleashes a whirlwind in the target direction that deals the same damage to enemies hit and knocks them up for 0.75 seconds, or 0.9 seconds in combination with Sweeping Blade.
+* Steel Tempest's thrust is interrupted if Yasuo is affected by disarming crowd control during the cast time, but its cooldown is reset to 0.1 seconds. If Steel Tempest is cast during Sweeping Blade, it will instead affect enemies around Yasuo at the end of the dash, or doing so immediately at his landing location after blinking while ending the dash prematurely.
+
+**Tips & Tricks**
+
+* Map-Specific Differences: Arena differences (Base shield changed to 130% value)
+
+**Info**
+
+* Targeting input: Passive, Direction, Damage type, Type, Sub-type, Minion Aggro
+* Physical: See Notes, Not Drawn, Counters: Spell shield, Grounded, See Notes, Disabled, Interrupted
+* Casting: Sweeping Blade when Steel Tempest's remaining cooldown is less than 0.5 seconds resets its remaining cooldown to allow casting it in combination, but adds the refunded time to the cooldown of that cast. If Yasuo becomes unable to cast abilities during the dash after buffering, Steel Tempest will not cast, but will still go on cooldown. (bug)
+* The one Gathering Storm stack is named Steel Wind Rising.
+* The whirlwind from consuming stacks of Gathering Storm can strike targets whose center is behind Yasuo, unlike most missiles.
+* The whirlwind is not released when cast during Sweeping Blade, but instead knocks up all enemies hit around Yasuo at the end of the dash.
+* Steel Tempest applies basic damage to the first (closest) enemy hit and area damage to secondary enemies.
+* Steel Tempest will apply on-hit effects to the first target hit, but will not do so to the secondary ones.
+* Steel Tempest will not apply spell effects to the first target hit, but will do so to the secondary ones.
+* Spell vamp will only grant healing from the damage dealt to secondary targets, and healing is reduced to 33% effectiveness, accordingly.
+* Life steal will heal based on the damage dealt to the first target hit.
+* The whirlwind is a missile and can therefore be intercepted.
+* Steel Tempest will only draw minion aggro if the first target is a champion.
+* This ability will cast from wherever the caster is at the end of the cast time.
+* Each parry has different interactions with this ability, whether it's the first target or the secondary one. In either case, Yasuo still gains a stack of Gathering Storm and his whirlwind knock-up cannot be negated by parries: Dodge: both first target and secondary target do not take damage. Block: first target does not take damage, secondary target does take damage. Blind: both first target and secondary target do take damage.
+* Steel Tempest rolls its critical strikes individually against each enemy hit.
+* Casting Last Breath during Steel Tempest will buffer it to cast after the cast time has completed.
+* However, if Last Breath is used on a target affected by an airborne source that is not Yasuo, it is cast immediately due to Steel Tempest's cast time ending prematurely.
+* Steel Tempest will still cast in this case.
+* If Steel Tempest is buffered during Sweeping Blade and Yasuo uses Recall, Teleport, or Hextech Rocketbelt, Steel Tempest will go on cooldown without casting. In Protobelt's case, Yasuo will also need to cast a movement command after it, else Steel Tempest will still trigger.
+* Spell shield does not prevent a stack of Gathering Storm from being gained.
+* While at two stacks, a range indicator will be shown for the effective range of the whirlwind.
+* Casting Last Breath while buffering Steel Tempest during Sweeping Blade will also trigger the damage after the blink, thus avoiding the Gathering Storm stack reset.
+
+**Map-Specific Differences**
+
+* Odyssey differences: On-target cooldown changed to 50% value, Base damage changed to 75 / 90 / 105 / 120 / 135.
+
+**Last Breath**
+
+* COOLDOWN: 70 / 50 / 30, CAST TIME: none, TARGET RANGE: 1400, EFFECT RADIUS: 400
+* Active: Yasuo blinks to the other side of a visible airborne enemy champion nearest to the cursor, instantly generating maximum Flow while resetting Gathering Storm stacks. Upon arrival, he knocks up all nearby airborne enemy champions for 1 second, reveals them, and slashes them with his sword over the duration, dealing physical damage thereafter. Surrounding enemy champions that become airborne during this time will also be affected by Last Breath through the remaining duration. Physical Damage: 200 / 350 / 500 (+ 150% AD). For the next 15 seconds, Yasuo's critical strikes gain 50% bonus -armor penetration. A nearby airborne enemy champion is required to cast this ability. If Yasuo would blink inside the attack range of an enemy turret (excluding the Nexus Obelisk), Last Breath will instead attempt to position him outside of it.
+
+**Tips & Tricks**
+
+* Map-Specific Differences: Arena differences (Base shield changed to 130% value, Stealth Wall: removed passive Flow per Sweeping Blade cast)
+
+**Patch history**
+
+[
+]
+
+For the expanded patch notes, see here.
+
+V13.15
+
+* Way of the Wanderer: Base shield increased to 125 − 600 (based on level) (now uses level growth formula) from 125 − 600 (based on level)
+* V13.14: Bug Fix: Rageknife no longer disables the critical strike chance conversion.
+* V13.10: - May 18th Hotfix: Stats - Health growth increased to 110 from 101. Way of the Wanderer - Base shield increased to 125 − 600 (based on level) from 100 − 575 (based on level). Wind Wall - Cooldown reduced to 25 / 23 / 21 / 19 / 17 seconds from 30 / 27 / 24 / 21 / 18.
+* V13.7: Way of the Wanderer - Base shield increased to 100 − 575 (based on level) from 100 − 475 (based on level).
+* V13.10: Sweeping Blade - Number of stacks increased to 4 from 2. Removed: No longer increases base damage by 15 / 17.5 / 20.5 / 23.5 / 26.5. New Effect: Now increases total damage by 15% − 25% (based on level) per stack.
+* V12.10: Stats - Base health increased to 590 from 520. Health growth increased to 101 from 87. Armor growth increased to 4.6 from 3.4. Magic resistance growth increased to 2.05 from 1.5. Way of the Wanderer - Base shield reduced to 100 − 475 (based on level) from 115 − 525 (based on level).
+* V12.7: Last Breath - Cooldown reduced to 70 / 50 / 30 seconds from 80 / 55 / 30.
+* V12.2: Steel Tempest - AD ratio increased to 105% AD from 100% AD. Critical strike AD ratio increased to 147% AD from 140% AD.
+* V11.22: Nightbringer Yasuo - Bug Fix: Voiceover issues have been fixed.
+* V11.14: Sweeping Blade - Bug Fix: No longer occasionally fails to plays its proper animation and instead uses his moving animation.
+* V11.10: Steel Tempest - Bug Fix: Navori Quickblades' Deft Strikes now properly trigger on Yasuo's Steel Tempest's spin (if used while casting Sweeping Blade) and Yone's Mortal Steel's third cast (whirlwind).
+* V11.7: Attack damage growth increased to 3 from 2.2.
+* V11.1: Attack damage growth reduced to 2.2 from 3.
+* Way of the Wanderer - Bonus critical strike chance increased to 150% from 100%. Bonus attack damage per excess critical strike chance reduced to 0.4 bonus attack damage from 0.5.
+* V10.25: Attack speed growth increased to 3.5% from 2.5%.
+* V10.24: Way of the Wanderer - New Effect: Way of the Wanderer's critical strike-related effects now wait to activate until any other effects that care about critical strikes have been taken care of.
+* V10.23: Way of the Wanderer - New Effect: Now converts every 1% excess critical strike chance into 0.5 bonus attack damage. Bug Fix: Shield strength fixed back to 115 − 525 (based on level) from 120 − 605 (based on level).
+* V10.21: Way of the Wanderer - Bug: Shield strength changed to 120 − 605 (based on level) from 115 − 525 (based on level).
+* V10.18: General - Updated voice over.
+* V10.16: General - Updated voice over.
+* Stats - Base magic resistance increased to 32 from 30. Last Breath - Base damage increased to 200 / 350 / 500 from 200 / 300 / 400.
+* V10.12: Stats - Base health reduced to 490 from 523. Way of the Wanderer - Shield increased to 115 − 525 (based on level) from 100 − 510 (based on level). Wind Wall - Cooldown increased to 30 / 27 / 24 / 21 / 18 seconds from 26 / 24 / 22 / 20 / 18.
+* V10.4: Steel Tempest - Undocumented: Is no longer special cased to consume a stack of Hail of Blades on-hit (consuming an additional stack in the process).
+* V10.3: Steel Tempest - New Effect: Now correctly triggers on-attack effects.
+* V10.1: Steel Tempest - Bug Fix: Voice over lines restored. Sweeping Blade - Bug Fix: Voice over lines restored.
+* V9.24: Steel Tempest - Undocumented: Now consumes a stack of Hail of Blades on-hit.
+* V9.23: True Damage Yasuo and PROJECT: Yasuo - Loading screen border is now uniquely colored per True Damage skin.
+* V9.21: Last Breath - Bug Fix: Dashing through the Eye of the Herald with Last Breath no longer has that non-champion entity pick it up.
+* V9.14: Wind Wall - Undocumented: Projectiles can no longer sometimes go through the wind wall.
+* V9.9: - April 30th Hotfix - Steel Tempest - Bug Fix: Fixed a bug where it would have no cooldown if cast at a far distance during Sweeping Blade.
+* V9.6: Steel Tempest - New Effect: Secondary targets hit are now accounted for by runes. Sweeping Blade - New Effect: Cast secondary targets hit are now accounted for by runes.
+* V9.4: - Nightbringer Yasuo and PROJECT: Yasuo - Bug Fix: Voiceover has been restored. Steel Tempest - Bug Fix: Restored on-hit VFX for tornado. Bug Fix: Restored missing VFX on Sweeping Blade - Steel Tempest combo cast. Last Breath - Bug Fix: Restored missing buff particles on his sword after casting Last Breath.
+* V9.2: High Noon Yasuo and PROJECT: Yasuo - Bug Fix: Restored missing swipe trails on basic attacks. Steel Tempest - Bug Fix: Restored on-hit VFX for tornado. Bug Fix: Restored missing VFX on Sweeping Blade - Steel Tempest combo cast.
+* PROJECT: Yasuo - Bug Fix: Restored missing swipe trails on basic attacks. Steel Tempest - Bug Fix: Restored on-hit VFX for tornado. Bug Fix: Restored missing VFX on Sweeping Blade - Steel Tempest combo cast. Last Breath - Bug Fix: Restored missing buff particles on his sword after casting Last Breath.
+* V9.1: Steel Tempest - New Effect: Ability icon border now shows the remaining time to recast the ability. Last Breath - New Effect: Can now ping whether the ability is within range or not.
+* V8.24: Nightbringer Yasuo and PROJECT: Yasuo - Bug Fix: Audio cues have been restored.
+* V8.18: General - Undocumented: Major rescript of all abilities.
+* V8.18#Hotfixes - Unknown Date Hotfix - Way of the Wanderer - Bug Fix: No longer generates Flow at half the intended rate. Steel Tempest - Bug Fix/Undocumented: Fixed a bug where Yasuo could enter a state where every Q cast would be a tornado.
+* V8.11: - June 1st Hotfix - Stats - Base attack damage increased to 63 from 60. Way of the Wanderer - Bug Fix: The combination of Brawler's Gloves and Infinity Edge now properly grants 40% critical strike chance. Steel Tempest - Critical strike AD ratio increased to 180% AD from 150% AD.
+* V8.11: Way of the Wanderer - Bug Fix: Now correctly generates a shield in response to damage from Shaco's Hallucinate clone.
+* V8.8: Nightbringer Yasuo and PROJECT: Yasuo - Bug Fix: Ground particle no longer clips into the ground on elevation change.
+* V8.3: Stats - Base health regeneration reduced to 6.5 from 7.
+512.
+* V8.2: Sweeping Blade - New Effect: Now draws nearby minion aggro when targeting an enemy champion. Last Breath - New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+* V7.24b: Stats - Magi
+c resistance growth increased to 1.25 from 0.5. Steel Tempest - Base damage increased to 20 / 45 / 70 / 95 / 120 from 20 / 40 / 60 / 80 / 100. Last Breath - Range increased to 1400 from 1200.
+* V7.23: High Noon Yasuo and PROJECT: Yasuo - Bug Fix: On-hit VFX have been restored. Blood Moon Yasuo - Bug Fix: Crescent moon VFX no longer disappear when moving the camera away and back.
+* V7.22: Stats - New: Now has +4% bonus attack speed at level 1. Base attack damage increased to 60 from 55.376. Base armor increased to 30 from 24.7. Base health increased to 523 from 517.7. Health growth increased to 87 from 82.
+* V7.17: Last Breath - Bug Fix: Can no longer activate Zeke's Convergence by attempting to casting Last Breath on enemy who is not currently knocked up.
+* V7.16: Nightbringer Yasuo - Bug Fix: No longer faces the wrong direction during his channel animation.
+* V7.13: Nightbringer Yasuo - Bug Fix: Fixed special borders being cut off at the bottom during loading screen.
+* V7.12: High Noon Yasuo - Bug Fix: Sweeping Blade now correctly shouts his VO when casting it.
+* V7.11: Steel Tempest - Stack duration reduced to 6 seconds from 10.
+* V7.10: Wind Wall - Bug Fix: Enemies no longer lose spell shields when walking through the very edge of Wind Wall.
+* V7.9: Stats - Magi
+c resistance growth increased to 0.5 from 0.
+* V7.8: High Noon Yasuo - Way of the Wanderer - Bug Fix: Chromas no longer use the base skin particles.
+* V7.2: Sweeping Blade - Base damage reduced to 60 / 70 / 80 / 90 / 100 from 70 / 90 / 110 / 130 / 150. New Effect: Has a 20% bonus AD ratio.
+* V6.24: Last Breath - Bug Fix: Targeting enemies displacing themselves/each other with Blast Cone .
+* V6.22: PROJECT: Yasuo - General - Bug Fix: Basic attack animation desynchronized with damage application.
+* V6.21: PROJECT: Yasuo - Steel Tempest - Bug Fix: Pixelation on third cast's maximum range indicator.
+* V6.18: Stats - Base attack speed increased to 0.67 from 0.658. Attack speed growth reduced to 2.5% from 3.2%. Last Breath - New Effect: Bonus armor penetration only applies to Yasuo's critical strikes. Bug Fix: Yasuo dealing a basic attack's worth of extra damage when casting.
+* V6.17: Last Breath - Bug Fix: First basic attack after casting being delayed if critically striking.
+* V6.16: Sweeping Blade - Bug Fix: Grasp of the Undying 's cooldown refreshing when attempting to cast on a target the dash immunity is still active on.
+* V6.14: Steel Tempest - Bug Fix: Not always critically striking when Yasuo has 100% critical strike chance. Wind Wall - Bug Fix: Failing to block projectiles if Yasuo dies while active. Sweeping Blade - Bug Fix: Yasuo sometimes becoming unable to use basic attack after casting. Bug Fix: Yasuo ignoring both cooldown (regular and per target) and cast time if used while displaced and on multiple targets. Last Breath - Bug Fix: Yasuo sometimes becoming unable to use basic attack after casting.
+* V6.2: Steel Tempest - Bug Fix: Third cast and casts during Sweeping Blade bypassing spell shields in certain situations. Wind Wall - Bug Fix: Ceasing to block projectiles if Yasuo dies while active.
+* V6.1: Wind Wall - Bug Fix: Being bypassed by certain unit-targeted abilities (Pick a Card) as it spawns.
+* V5.14: Steel Tempest - Bug Fix: Third cast not applying on-hit effects.
+* V5.8: Way of the Wanderer - Flow generation reduced to 1 stack per 59 / 52 / 46 (based on level) units from 1 per 46 at all levels. Shield strength increased to 100 − 510 (based on level) from 60 − 470 (based on level).
+* V4.21: Stats - Movement speed increased to 345 from 340. Steel Tempest - Cooldown reduced to 4 seconds at all ranks from 5 / 4.75 / 4.5 / 4.25 / 4.
+* V4.18: Stats - Base health lowered to 462 from 512. Base movement speed lowered to 340 from 350.
+* V4.17: Steel Tempest - Bug Fix: Goes on a shorter cooldown if cast during Sweeping Blade.
+* V4.13: Way of the Wanderer - Shield duration reduced to 1 second from 1.5. Steel Tempest - Minimum cast time increased to 0.18 seconds from 0.13. Cooldown reduction from attack speed reduced (maximum amount needed for minimum cast time unchanged). Bug Fix: Third cast dealing instant damage in first cast range when used in quick succession. Wind Wall - Removed: Passive bonus Flow per Sweeping Blade cast.
+* V4.12: Sweeping Blade - Bug Fix: Sometimes not triggering Spellblade.
+* V4.11: Sweeping Blade - Maximum bonus damage reduced to 50% at 2 stacks from 100% at 4.
+* V4.5: Stats - Base armor increased to 19 from 15.
+* V4.3: Way of the Wanderer - Shield strength reduced to 60 − 470 (based on level) from 60 − 690 (based on level). Shield duration reduced to 1.5 seconds from 2 seconds.
+* Way of the Wanderer - Flow generation reduced to 1 stack per 46 units from 1 per 40. Steel Tempest - New Effect: Displays a maximum range indicator while third cast is available. Wind Wall - Passive bonus Flow stacks per Sweeping Blade cast reduced to 3 / 6 / 9 / 12 / 15 from 4 / 8 / 12 / 16 / 20. Last Breath - Range reduced to 1200 from 1300.
+* V4.1: Way of the Wanderer - New Effect: 10% reduced damage applies to Statikk Shiv. Steel Tempest - New Effect: Third cast uses smart casting by default. Interaction with Sweeping Blade updated for reliability. Wind Wall - Removed: Blocking allied Dark Spheres. Last Breath - New Effect: Grants maximum Flow on cast. Animation time reduced by 0.1 seconds. Bug Fix: Yasuo blinking to targets who flashed out of a displacement's target location right before being hit. Bug Fix: Cooldown timer tracking error in HUD and Spectator Mode.
+* V3.15: Added.
+
+**Trivia**
+
+* Yasuo is one of seven pairs of sibling champions (the others being Jinx - Vi, Cassiopeia - Katarina, Kayle - Morgana, Garen - Lux, Nasus - Renekton, and Darius - Draven). Though not a pair, Anivia, Ornn, and Volibear are also siblings.
+* The flute Yasuo plays in his dance emote is most likely a Shakuhachi (harmonica for High Noon; wind controller for PROJECT).
+* His Classic 'dance' references a performance of this instrument.
+* Yasuo is the first champion to have an emote that will orient itself the same (dancing emote, facing the bottom-right of the screen), no matter what direction Yasuo was facing. Akali is the second.
+* The melody of his Classic dance complements Yone's when the two use the dance emote simultaneously. A side-by-side comparison can be seen here.
+* Yasuo's design is largely based on the Japanese rōnin (lit. a wanderer), a samurai whose masters had died or stripped of titles & lands. Many rōnin became mercenaries, bodyguards, or even criminals.
+* The length of Yasuo's sword is about that of a tachi or even an ōdachi. However, he wears it cutting edge up like the shorter katana.
+* Yasuo [jasɯ̟ᵝo] is a Japanese masculine given name, rendered as 康夫 (roughly "peaceful man") in the Japanese localization.
+* From Old Japanese *yasu- (cheap, easy > peaceful) and masculine morpheme *wo.
+* Way of the Wanderer's modified critical strike chance references Samurai gameplay portrayals in video games.
+* For April Fools' Day 2017, a video showcasing a joke rework for Yasuo was posted by the official Riot Games Twitter account.
+* Way of the Wanderer was shown to have Resolve's shield also provide crowd control immunity, similar to Morgana's Black Shield.
+* Steel Tempest's third cast was shown to split into three additional whirlwinds in a cone after hitting a champion, similar to Graves' Collateral Damage.
+* Wind Wall was shown to form a pentagon of walls, similar to Thresh's The Box.
+* Notably, this 'protection from projectiles from all angles' mechanic was later implemented by Samira's Blade Whirl.
+* Sweeping Blade was shown to be able to target wards and champion summoned units (e.g. Demacian Standard).
+* Last Breath was shown to be able to be recast for a seemingly infinite amount of times while the affected champion is still airborne.

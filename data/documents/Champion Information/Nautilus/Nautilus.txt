@@ -1,0 +1,472 @@
+**Games**
+
+***Universe***
+
+- League of Legends
+- Teamfight Tactics
+- Legends of Runeterra
+- Wild Rift
+
+**[Image: Nautilus]**
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+**Patch history**
+
+**Past versions**
+
+**Nautilus**
+
+***the Titan of the Depths***
+
+**Release date:** 2012-02-14
+
+**Last changed:** V13.17
+
+**Classes(es):** Vanguard, Legacy, Tank, Support
+
+**Position(s):** Support
+
+**Resource:** Mana
+
+**Range type:** Melee
+
+**Adaptive type:** Magic
+
+**Store price:** 4800
+
+| 880 |
+| --- |
+| Crafting: +2880 |
+
+**Ratings**
+
+| **Damage:** 1 |
+| **Toughness:** 3 |
+| **Control:** 3 |
+| **Mobility:** 1 |
+| **Utility:** 1 |
+
+**Style:** Difficulty: Champion
+
+**Champion Spotlight**
+
+[Nautilus Champion Spotlight](https://www.youtube.com/watch?v=62z7HmR1L2U)
+
+**Base statistics**
+
+| **Health:** 646 (+100) |
+| **Mana:** 400 (+47) |
+| **Health regen. (per 5s):** 8.5 (+0.55) |
+| **Mana regen. (per 5s):** 8.65 (+0.5) |
+| **Armor:** 39 (+4.95) |
+| **Attack damage:** 61 (+3.3) |
+| **Magic resist.:** 32 (+2.05) |
+| **Crit. damage:** 175% |
+| **Move. speed:** 325 |
+| **Attack range:** 175 |
+| **Attack speed:** Base AS: 0.706, Attack windup: 30.637%, AS ratio: 0.612, Bonus AS: +1% |
+| **Unit radius:** Gameplay radius: 80, Selection radius: 125, Pathing radius: 50, Acq. radius: 400 |
+
+**Special statistics**
+
+| **ARAM:** Damage Dealt: -5%, Damage Received: +10% |
+| **Nexus Blitz:** Damage Dealt: +0%, Damage Received: +0% |
+| **One For All:** Damage Dealt: +0%, Damage Received: +0% |
+| **URF:** Damage Dealt: +0%, Damage Received: +0% |
+| **Ult Spellbook:** Damage Dealt: +0%, Damage Received: +0% |
+| **Arena:** Damage Dealt: -5%, Damage Received: +10% |
+
+**Abilities**
+
+**[Staggering Blow]**
+
+* Target immunity: 6s
+* Passive: Nautilus' basic attacks are empowered to deal 14 − 116 (based on level) bonus physical damage and root the target for 0.75 − 1.5 (based on level) seconds.
+
+**Details:**
+
+* The root effect cannot occur on the same target more than once every few seconds.
+* Missing spell shield will block the root but not the bonus damage.
+* Staggering Blow's enhanced attack can be blocked (the on-target cooldown will still be applied).
+* The empowered attack will not trigger against structures.
+* Pending for test: Staggering Blow's interactions with dodging and blinding effects.
+
+**[Dredge Line]**
+
+* Cost: 60 Mana
+* Cooldown: 14 / 13 / 12 / 11 / 10s
+* Cast time: 0.25s
+* Range: 1122
+* Width: 180
+* Speed: 2000
+* Active: Nautilus hurls his anchor in the target direction that stops on the first enemy or terrain hit.
+* If the anchor hits an enemy, it deals magic damage and reveals them, dragging the enemy toward Nautilus while he also dashes toward them within 0.9s. Afterwards, the target is rooted for 0.1s.
+
+**Magic Damage:** 70 / 115 / 160 / 205 / 250 (+ 90% AP)
+
+**Details:**
+
+* The anchor projectile will stop if Nautilus dies while the projectile is traveling. Enemies hit will still be dealt damage. The drag and root are not applied if Nautilus did not initiate the dash.
+
+**[Titan's Wrath]**
+
+* Cost: 60 Mana
+* Cooldown: 12s
+* Cast time: none
+* Effect radius: 250
+* Active: Nautilus grants himself a shield for 6s, and while it holds, his basic attacks are empowered to apply Pain of Wrath to the target and surrounding enemies.
+
+**Shield Strength:** 50 / 60 / 70 / 80 / 90 (+ 8 / 9 / 10 / 11 / 12% maximum health)
+
+**Details:**
+
+* Pain of Wrath: The target takes magic damage over time, half dealt immediately and the other half dealt after 1.25s.
+* Magic Damage: 30 / 40 / 50 / 60 / 70 (+ 40% AP)
+* Titan's Wrath resets Nautilus' basic attack timer.
+
+**[Riptide]**
+
+* Cost: 50 / 60 / 70 / 80 / 90 Mana
+* Cooldown: 7 / 6.5 / 6 / 5.5 / 5s
+* Cast time: 0.25s
+* Effect radius: 0 - 350 / 215 - 465 / 350 - 590
+* Active: Nautilus sends three waves of explosions that radiate from him over 0.561s. Each wave deals magic damage to enemies hit, reduced to 50% against those hit by subsequent waves beyond the first, and slows them by an amount that decays over 1.5s.
+
+**Magic Damage:** 55 / 90 / 125 / 160 / 195 (+ 50% AP)
+
+**Details:**
+
+* Riptide deals 150% damage against monsters.
+* Monster Damage: 82.5 / 135 / 187.5 / 240 / 292.5 (+ 75% AP)
+* Reduced Damage: 41.25 / 67.5 / 93.75 / 120 / 146.25 (+ 37.5% AP)
+* Maximum Total Damage: 110 / 180 / 250 / 320 / 390 (+ 100% AP)
+
+**Champion skins**
+
+[Original](https://www.leagueoflegends.com/en-us/champions/nautilus/)
+[Abyssal](https://www.leagueoflegends.com/en-us/champions/nautilus/abyssal/)
+[Forgotten Depths](https://www.leagueoflegends.com/en-us/champions/nautilus/forgotten-depths/)
+[Subterranean](https://www.leagueoflegends.com/en-us/champions/nautilus/subterranean/)
+[AstroNautilus](https://www.leagueoflegends.com/en-us/champions/nautilus/astro-nautilus/)
+[Warden](https://www.leagueoflegends.com/en-us/champions/nautilus/warden/)
+[Worldbreaker](https://www.leagueoflegends.com/en-us/champions/nautilus/worldbreaker/)
+[Conqueror](https://www.leagueoflegends.com/en-us/champions/nautilus/conqueror/)
+[Legacy: Shan Hai Scrolls](https://www.leagueoflegends.com/en-us/champions/nautilus/shan-hai-scrolls/)
+[Fright Night](https://www.leagueoflegends.com/en-us/champions/nautilus/fright-night/)
+[Cosmic Paladin](https://www.leagueoflegends.com/en-us/champions/nautilus/cosmic-paladin/)
+
+**Patch history**
+
+[Expanded patch notes](https://leagueoflegends.fandom.com/wiki/Nautilus/Patch_History)
+
+V13.17
+
+* Fright Night Nautilus
+* Bug Fix: No longer plays incorrect model animations when it was cast.
+
+Unknown patch (V13.4 or V13.3)
+
+* Undocumented/Bug Fix: No longer locks his facing direction after the attack has landed, which would previously cause Dredge Line's cast direction to be obscured if cast towards another target right after.
+
+V13.3
+
+* Staggering Blow
+* Base damage increased to 14 − 116 (based on level) from 8 − 110 (based on level).
+* Titan's Wrath
+* Mana cost reduced to 60 from 80.
+* Base shield increased to 50 / 60 / 70 / 80 / 90 from 40 / 50 / 60 / 70 / 80.
+* Riptide
+* Base damage increased to 55 / 90 / 125 / 160 / 195 from 55 / 85 / 115 / 145 / 175.
+* AP ratio increased to 50% AP from 30% AP.
+
+V12.22
+
+* Base mana regeneration increased to 8.65 from 8.37.
+
+V12.10
+
+* Base health increased to 646 from 576.
+* Health growth increased to 100 from 86.
+* Armor growth increased to 4.95 from 3.75.
+* Magic resistance growth increased to 2.05 from 1.5.
+
+V11.15
+
+* Recall sound effects now play correctly.
+
+V11.11
+
+* Titan's Wrath
+* Bug Fix: Fixed the AP ratio to its intended value (40%).
+* Riptide
+* Bug Fix: Fixed the slow to its intended value (30%).
+
+V11.11
+
+* Riptide
+* Damage against monsters increased to 150% from 100%.
+
+V11.1
+
+* Base magic resistance reduced to 32 from 33.
+* Base health reduced to 576 from 576.
+* Base attack damage reduced to 57 from 57.
+
+V10.19
+
+* Depth Charge
+* Bug Fix: Can no longer stun displacement immune targets.
+
+V10.16
+
+* Titan's Wrath
+* Base shield strength changed to 60 / 70 / 80 / 90 / 100 from 100 / 130 / 160 / 190 / 220.
+* Shield health ratio reduced to 8% / 9.5% / 11% / 12.5% / 14% maximum health from 9% / 10.5% / 12% / 13.5% / 15% maximum health.
+* Duration reduced to 6s from 10s.
+* Cooldown reduced to 12s from 18s.
+
+V10.8
+
+* Staggering Blow
+* On target cooldown reduced to 6s at all levels from 9s (based on level).
+* Dredge Line
+* Base damage increased to 100 / 145 / 190 / 235 / 280 from 80 / 120 / 160 / 200 / 240.
+* AP ratio increased to 90% AP from 75% AP.
+
+V9.7
+
+* AstroNautilus
+* Bug Fix: Buffs aura now properly follows the model during certain animations.
+
+V9.6
+
+* Stats
+* Base armor increased to 39 from 35.
+* Staggering Blow
+* On target cooldown reduced to 6s from 9s (based on level).
+
+V8.20
+
+* Dredge Line
+* Bug Fix: The channeling bar no longer displays weird text when casting Dredge Line.
+
+V8.16
+
+* Titan's Wrath
+* Base shield strength changed to 65 / 70 / 75 / 80 / 85 from 100 / 125 / 150 / 175 / 200.
+* Shield health ratio reduced to 7% / 9% / 11% / 13% / 15% maximum health from 7% / 9.5% / 12% / 14.5% / 17% maximum health.
+* Duration reduced to 6s from 10s.
+* Cooldown reduced to 12s from 18s.
+
+V8.8
+
+* Stats
+* Base mana increased to 400 from 334.
+* Base attack damage increased to 61 from 57.
+* Dredge Line
+* Cooldown reduced to 14 / 13 / 12 / 11 / 10s from 18 / 16 / 14 / 12 / 10s.
+* AstroNautilus
+* Titan's Wrath
+* Bug Fix: Helmet VFX no longer linger after it has expired.
+
+V8.3
+
+* Stats
+* Base health regeneration increased to 8.65 from 8.37.
+
+V7.23
+
+* Riptide
+* Bug Fix: The first ring now properly slows enemies hit.
+* AstroNautilus
+* Bug Fix: Shiny visor VFX no longer disappear when moving the camera away and back.
+
+V7.22
+
+* Stats
+* New: Now has +15% bonus attack speed at level 1.
+* Base armor increased to 35 from 26.
+
+V7.18
+
+* Dredge Line
+* Mana cost reduced to 60 at all ranks from 60 / 70 / 80 / 90 / 100.
+* New Effect: Now refunds 50% of mana spent when it hits terrain.
+
+V7.16
+
+* Dredge Line
+* Bug Fix: Now properly stops if he collides with player-created terrain created in his path while pulling himself to his anchor.
+
+V7.15
+
+* Dredge Line
+* Base damage increased to 80 / 120 / 160 / 200 / 240 from 60 / 105 / 150 / 195 / 240.
+* Depth Charge
+* Cooldown reduced to 120 / 100 / 80s from 140 / 110 / 80s.
+
+V7.8
+
+* Stats
+* Mana regeneration growth reduced to 0.5 from 0.7.
+* Riptide
+* Mana cost increased to 50 / 60 / 70 / 80 / 90 from 40 / 50 / 60 / 70 / 80.
+
+V7.7
+
+* Depth Charge
+* Bug Fix: Fixed a bug where it would properly consume spell shields of champions in its path, but displace them anyway.
+
+V6.16
+
+* Depth Charge
+* Knockup duration increased to 1s from 0.5s.
+* New Effect: Secondary targets are stunned for 1s / 1.5s / 2s.
+
+V6.5
+
+* Riptide
+* Base damage reduced to 55 / 85 / 115 / 145 / 175 from 60 / 95 / 130 / 165 / 200.
+* Maximum damage reduced to 110 / 142.5 / 173.5 / 204.5 / 235.5 from 120 / 150 / 180 / 210 / 240.
+
+V5.22
+
+* Stats
+* Base mana increased to 334 from 284.
+* Mana growth reduced to 47 from 50.
+
+V5.16
+
+* Armor growth increased to 3.75 from 3.25.
+
+V5.13
+
+* Riptide
+* Base damage reduced to 60 / 95 / 130 / 165 / 200 from 60 / 100 / 140 / 180 / 220.
+* Maximum damage reduced to 90 / 121.5 / 152.5 / 183.5 / 214.5 from 90 / 135 / 187.5 / 230 / 272.5.
+
+V5.5
+
+* Titan's Wrath
+* Base damage reduced to 30 / 55 / 80 / 105 / 130 from 40 / 55 / 70 / 85 / 100.
+* Shield health ratio changed to 7% / 9% / 11% / 13% / 15% maximum health from +15% of bonus health.
+* Riptide
+* Cooldown reduced to 7s / 6.5s / 6s / 5.5s / 5s from 10s at all ranks.
+* Mana cost reduced to 40 / 50 / 60 / 70 / 80 from 60 / 70 / 80 / 90 / 100.
+* AP ratio reduced to 30% AP from 50% AP.
+* Slow duration reduced to 1.5s from 2s.
+
+V5.1
+
+* Titan's Wrath
+* Base shield strength reduced to 100 / 125 / 150 / 175 / 200 from 150 / 200 / 250 / 300 / 350.
+* Shield health ratio changed to 7% / 9.5% / 12% / 14.5% / 17% of maximum health from +15% of bonus health.
+
+V4.17
+
+* General
+* Texture update to Classic, Abyssal, and Subterranean skins.
+* Dredge Line
+* New Effect: Now pulls Nautilus towards champion-created terrain.
+
+V4.12
+
+* Staggering Blow
+* Bug Fix: Cooldown indicator being visible to enemies.
+
+V4.11
+
+* Staggering Blow
+* Root on-target cooldown reduced to 9s / 8s / 7s / 6s / 5s (based on level) from 9s at all levels.
+* New Effect: Ring indicator displays underneath already-affected targets.
+
+V4.5
+
+* Stats
+* Base armor increased to 20 from 16.
+
+V4.4
+
+* Titan's Wrath
+* Cooldown reduced to 18s at all ranks from 22s / 21s / 20s / 19s / 18s.
+* Shield health ratio increased to 10% maximum health from 10%.
+
+V3.14
+
+* Staggering Blow
+* Root duration increased to 0.5s / 0.75s / 1s / 1.25s / 1.5s (based on level) from 0.5s / 0.75s / 1s (based on level).
+
+V3.9
+
+* Dredge Line
+* Removed: Traveling through some walls.
+
+V3.8
+
+* Titan's Wrath
+* Base damage changed to 40 / 55 / 80 / 105 / 130 from 30 / 55 / 80 / 105 / 130.
+* Bug Fix: Damage over time AP ratio being lower than intended.
+
+V3.5 (Balance update)
+
+* Stats
+* Base armor increased to 16 from 12.
+* Titan's Wrath
+* Cooldown reduced to 22s / 21s / 20s / 19s / 18s from 26s / 24s / 22s / 20s / 18s.
+
+V1.0.0.152
+
+* Stats
+* Move. speed increased to 325 from 300.
+* Titan's Wrath
+* Base shield strength increased to 100 / 150 / 200 / 250 / 300 from 80 / 130 / 180 / 230 / 280.
+
+V1.0.0.142
+
+* Dredge Line
+* Base damage reduced to 60 / 105 / 150 / 195 / 240 from 80 / 120 / 160 / 200 / 240.
+* Cooldown increased to 18s / 16s / 14s / 12s / 10s from 14s / 13s / 12s / 11s / 10s.
+* Depth Charge
+* Primary target base damage reduced to 200 / 325 / 450 from 250 / 350 / 450.
+* Cooldown increased to 140s / 110s / 80s from 120s / 100s / 80s.
+
+V1.0.0.140b
+
+* Titan's Wrath
+* Base damage reduced to 30 / 55 / 80 / 105 / 130 from 30 / 60 / 90 / 120 / 150.
+
+V1.0.0.140
+
+* Riptide
+* Bug Fix: Subsequent hits dealing full damage to slow-immune targets.
+
+V1.0.0.134
+
+* Staggering Blow
+* (Innate) Nautilus' first basic attack against a target deals bonus physical damage and immobilizes the opponent briefly. Staggering Blow cannot trigger on the same target more than once every 12s.
+* Dredge Line
+* (Q) Nautilus throws his anchor forward. If he hits an enemy, he'll drag himself to his target and his target to him. If he hits terrain, he'll drag himself to the terrain and the cooldown is reduced.
+* Titan's Wrath
+* (W) Nautilus places a shield on himself that absorbs additional damage based on his maximum health. While the shield is active, Nautilus' attacks deal damage over time to units around him.
+* Riptide
+* (E) Nautilus slams the ground, causing the earth to ripple out in waves. Each wave deals damage and slows the targets hit. This slow decays over time. Multiple waves that hit the same target deal reduced damage.
+* Depth Charge
+* (Ultimate) Nautilus launches a depth charge towards a target that picks up speed as it travels. This charge knocks up all enemies it encounters while traveling and explodes on impact, stunning the target and launching them into the air.
+
+**Trivia**
+
+* Nautilus' dance references the 'Peeparoonie' [(source)](https://youtu.be/62z7HmR1L2U?t=76).
+* A tab for 'Urgot Mech' can be seen in Nautilus' 'Art Spotlight'.
+* Nautilus has the longest basic attack animation in-game (which results in enemies being rooted by Staggering Blow when they visibly got out of range).
+* Nautilus was released without the 'Tank' tag, though he actually is one. It was added shortly after.
+* Nautilus does the Captain Morgan pose when standing idle for a long while.
+* Nautilus comes from Greek word for sailor, ναυτίλος.
+* Out of universe, Nautilus is also the name of a mollusc taxonomic family, the submarine from Twenty Thousand Leagues Under the Sea by Jules Verne, and subsequently the first nuclear-powered submarine Nautilus.
+* During Nautilus' joke, when he is swimming in the air, he is humming a tune.
+* This is the same tune that Squidward hums to himself in the shower during the Spongebob Movie.
+* Nautilus is voiced by Richard Newman in Legends of Runeterra.

@@ -1,0 +1,662 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Cho'Gath
+        **Format:**
+        ```
+        •
+        •
+        Image
+        Cho'Gath
+        Gameplay
+        Collection
+        Audio
+        Patch history
+        Past versions
+        ****Cho'Gath****
+        Release date: 2009-06-26
+        Last changed: V14.2
+        Class(es): Specialist, Legacy, Tank, Mage
+        Position(s): Top
+        Resource: Mana
+        Range type: Melee
+        Adaptive type: Magic
+        Store price: 1350
+        |
+        |
+        Crafting
+        ****Base statistics****
+        Health: 644 + 94
+        Mana: 270 + 60
+        Health regen. (per 5s): 9 + 0.85
+        Mana regen. (per 5s): 7.2 + 0.45
+        Armor: 38 + 5
+        Attack damage: 69 + 4.2
+        Magic resist.: 32 + 2.05
+        Crit. damage: 175%
+        Move. speed: 345
+        Attack range: 125
+        Attack speed: Base AS 0.625, AS ratio N/A
+        Bonus AS: +1.44%
+        Unit radius: Gameplay radius 80, Selection radius 130, Pathing radius 50, Acq. radius 500
+        ****Special statistics****
+        ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+        Damage Dealt: +0%, Damage Received: +5%, Damage Dealt: -2%, Damage Received: +5%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%
+        ****Abilities****
+        [
+        ]
+        Edit
+        Carnivore
+        Carnivore
+        Innate:
+        Whenever Cho'Gath kills an enemy, it heals for 18 − 52 (based on level) and restores 4.72 − 9.4 (based on level) mana .
+        Hide
+        Details
+        Info
+        Targeting input: Passive
+        Carnivore
+        will also trigger when Cho'Gath destroys a turret , but not from other structures.
+        Carnivore
+        does not trigger upon destroying wards and possibly other similar units.
+        Edit
+        Rupture
+        Rupture
+        COST: 50 mana
+        COOLDOWN: 6
+        CAST TIME: 0.5
+        TARGET RANGE: 950
+        EFFECT RADIUS: 250
+        Active:
+        Cho'Gath ruptures the target location after a 0.627-second delay, granting sight of the area before dealing magic damage to enemies within and knocking them up for 1 second, and afterwards slowing them by 60% for 1.5 seconds.
+        Magic damage: 80 / 140 / 200 / 260 / 320 (+ 100% AP)
+        Hide
+        Details
+        Map-Specific Differences
+        Video
+        Info
+        Targeting input: Location
+        Damage type: Type: Magic, Sub-type: Area damage
+        Counters: Spell shield (Blocked), The delay before the rupture does not include the cast time, The animation is visible in brush and in fog of war, The slow itself can also not be blocked by spell shield, but will always be prevented if the airborne was, The area will still rupture even if Cho'Gath dies during the delay
+        ****Map-Specific Differences****
+        Arena
+        differences
+        edit
+        Base damage changed to 100 / 160 / 220 / 280 / 340.
+        Slow strength changed to 70%.
+        Cooldown changed to 5 seconds at all ranks.
+        Video
+        https://leagueoflegends.fandom.com/wiki/File:Cho%27Gath_QVideo.ogv
+        ****Feral Scream****
+        Edit
+        Feral Scream
+        Feral Scream
+        COST: 70 / 75 / 80 / 85 / 90 mana
+        COOLDOWN: 11 / 10.5 / 10 / 9.5 / 9
+        CAST TIME: 0.5
+        TARGET RANGE: 650
+        ANGLE: 60°
+        Active:
+        Cho'Gath roars in a cone in the target direction, dealing magic damage to enemies hit.
+        Enemy champions and Rift Scuttlers hit are also silenced for a duration.
+        Silence Duration: 1.6 / 1.7 / 1.8 / 1.9 / 2
+        Hide
+        Details
+        Video
+        Info
+        Targeting input: Direction
+        Damage type: Type: Magic, Sub-type: Area damage
+        Counters: Spell shield (Not Blocked), Feral Scream uses edge range for enemy targets only; Its range is center-to-edge, Video
+        https://leagueoflegends.fandom.com/wiki/File:Cho%27Gath_WVideo.ogv
+        ****Vorpal Spikes****
+        Edit
+        Vorpal Spikes
+        Vorpal Spikes
+        COST: 30 mana
+        COOLDOWN: 8 / 7 / 6 / 5 / 4
+        CAST TIME: none
+        RANGE: 650
+        WIDTH: 340 − 500 (based on bonus size)
+        Active:
+        Cho'Gath empowers its next 3 basic attacks within 6 seconds to gain 50 bonus range and launch a blast of spikes on-attack in the target's direction. Enemies struck are dealt magic damage and slowed by an amount that decays over 1.5 seconds. The damage based on the target's health ratio is capped against minions and monsters.
+        Magic Damage: 22 / 37 / 52 / 67 / 82 (+ 30% AP)
+        (+ 3% (± 0.5% per Feast stack) of target's maximum health)
+        Total Magic Damage: 66 / 111 / 156 / 201 / 246 (+ 90% AP) (+ 9% (± 1.5% per Feast stack) of target's maximum health)
+        Capped Monster Percent Damage: 60 / 80 / 100 / 120 / 140
+        Slow: 30 / 35 / 40 / 45 / 50%
+        The width of the blast of spikes increases based on Cho'Gath's character size modifier when they launch, including but not limited to the bonus from Feast stacks.
+        Vorpal Spikes resets Cho'Gath's basic attack timer.
+        ****Champion skins****
+        [
+        ]
+        This article section only contains champion skins. For all associated collection items, see Cho'Gath (Collection) .
+        File:Cho'Gath ToyTerrorCircle.png
+        Original
+        View in 3D
+        585
+        25.06.2009
+        From the moment Cho’Gath first emerged into the harsh light of Runeterra’s sun, the beast was driven by the most pure and insatiable hunger. A perfect expression of the Void’s desire to consume all life, Cho’Gath’s complex biology quickly converts matter into new bodily growth—increasing its muscle mass and density, or hardening its outer carapace like organic diamond. When growing larger does not suit the Void-spawn’s needs, it vomits out the excess material as razor-sharp spines, leaving prey skewered and ready to feast upon later.
+        Unknown voice actor
+        Michal Ivan, Sixmorevodka Studio
+        Loot eligible
+        Nightmare
+        View in 3D
+        520
+        20.11.2009
+        Unknown voice actor
+        Unknown artist
+        Legacy
+        Loot eligible
+        Legacy
+        New SFX/VFX
+        Gentleman
+        View in 3D
+        1820
+        11.05.2010
+        Prior to indulging in the delectable taste of his victims, Cho'Gath prefers to invite them to his humble 40-acre mansion. There, he offers scones and jam, with a spot of tea… so his guests may savor their last meal before becoming one themselves.
+        Unknown voice actor
+        Unknown artist
+        High Society
+        Loot eligible
+        New voiceover
+        New SFX/VFX
+        New Animations/Recall
+        Loch Ness
+        View in 3D
+        520
+        01.03.2011
+        Citing nothing more than a blurry photograph, the locals in one isolated town insist on the existence of a large, predatory marine animal that grows in size every time it feeds. The reports are otherwise unsubstantiated, but the spike in tourism has been great for the local economy. Not the disappearances, though. Those are bad.
+        Unknown voice actor
+        Unknown artist
+        Fables
+        Loot eligible
+        Legacy
+        New SFX/VFX
+        Jurassic
+        View in 3D
+        975
+        01.11.2011
+        Unknown voice actor
+        Unknown artist
+        Day Job
+        Loot eligible
+        New SFX/VFX
+        Battlecast Prime
+        View in 3D
+        1820
+        03.08.2012
+        The gold standard of Battlecast shock troopers, Prime Cho'Gath implements self-replicating nanites that reinforce its frame as it consumes living tissue. It has become a common and terrifying sight in occupied cities, where it feeds on civilians who won't submit to conversion.
+        J.S. Gilbert
+        Alex Konstad
+        Battlecast
+        Loot eligible
+        New voiceover
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Battlecast Prime Cho'Gath Chromas
+        Catseye
+        Obsidian
+        Pearl
+        Ruby
+        Sapphire
+        Tanzanite
+        Prehistoric
+        View in 3D
+        750
+        14.06.2015
+        A titanic beast feared for its massive size and endless appetite, no sane hunter would ever think of taking on Cho'Gath. Seeing as there are no sane hunters, Cho'Gath enjoys a steady supply of lightly armored food.
+        Unknown voice actor
+        Michal Ivan, Sixmorevodka Studio
+        Prehistoric Hunters
+        Loot eligible
+        New SFX/VFX
+        Dark Star
+        View in 3D
+        Special
+        13.07.2018
+        Spawned from the remnants of a star system crippled by famine, Cho'Gath is driven to feed on any celestial body that crosses its path. These feasts swirl into the twin black holes at its heart—as endless and ageless as its hunger.
+        Unknown voice actor
+        Rudy Siswanto
+        Dark Star
+        Loot eligible
+        Voice filter
+        New SFX/VFX
+        New Animations/Recall
+        Transforming
+        Shan Hai Scrolls
+        View in 3D
+        1350
+        28.01.2021
+        A mythical, titanic beast painted within the mysterious Shan Hai Scrolls, whose gluttony resulted in eternal karmic punishment, Cho'gath has seized upon the Scrolls' connection to the multiverse and plans to devour both his own world and then all others.
+        Unknown voice actor
+        Terence 'Terrylefruit' Cantal, West Studio
+        Shan Hai Scrolls
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Shan Hai Scrolls Cho'Gath Chromas
+        Aquamarine
+        Catseye
+        Obsidian
+        Pearl
+        Peridot
+        Ruby
+        Tanzanite
+        Turquoise
+        Broken Covenant
+        View in 3D
+        1350
+        09.03.2023
+        A living weapon of Nocturne's design, Cho'Gath is meant to cleanse the world of the Neverghaast. Empowered by sacred artifacts from the congregation's crypts, it has remained dormant while Nocturne feeds it prisoners to build its power. Despite its maker's intentions, nothing will be able to sate the monster's hunger once it fully awakens.
+        Unknown voice actor
+        Huyy Nguyen, West Studio
+        Broken Covenant
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Broken Covenant Cho'Gath Chromas
+        Catseye
+        Emerald
+        Pearl
+        Rose Quartz
+        Ruby
+        Sapphire
+        Tanzanite
+        Turquoise
+        File:Cho'Gath ToyTerrorSkin.jpg
+        Toy Terror
+        View in 3D
+        1350
+        Snuggle up with Cho'Gath, your favorite plush pal! Squeeze his soft belly and watch him scare away bad dreams for a guaranteed good night's sleep. Extendable claw arms included for double the fun! Not suitable for children under 5 years of age. Some assembly required.
+        Unknown voice actor
+        Fortune 'Fortuneee' K
+        Toy Box
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        ****Patch history****
+        V14.2
+        Feast
+        Bonus attack range per stack increased to 4.72 / 6.2 / 7.7 / 9.2 / 10.7 from 4.62 / 6.1 / 7.6 / 9.1 / 10.6.
+        New Effect:
+        Cast range is now increased by 2.5 per stack, up to 25 at 10 stacks.
+        Extended tooltip now displays the bonus range granted for basic attacks and the ability.
+        V13.6
+        Carnivore
+        Heal VFX is now unique from Shan Hai Scrolls Cho'Gath .
+        V13.4
+        Stats
+        Armor growth increased to 5 from 4.7.
+        Rupture
+        Base damage increased to 80 / 140 / 200 / 260 / 320 from 80 / 135 / 190 / 245 / 300.
+        Feral Scream
+        Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+        V12.23
+        Carnivore
+        Mana restore increased to 4.72 − 9.4 (based on level) from 3.5 − 7.7 (based on level).
+        Feral Scream
+        Base damage increased to 80 / 135 / 190 / 245 / 300 from 75 / 125 / 180 / 240 / 300.
+        Feast
+        Cooldown reduced to 80 / 70 / 60 seconds from 80 at all ranks.
+        V12.22
+        Feast
+        Non-champion base damage increased to 1200 from 1000.
+        V12.19
+        General
+        Bug Fix:
+        Icon in the HUD now properly displays the correct size and image.
+        V12.14
+        Feast
+        Undocumented/Bug Fix:
+        Buff tooltip title renamed to Feast from Feast x1 .
+        Prior to V10.24, the highest possible stack count used to be 255, and the buff name would equal the stacks (e.g. "Feast x255" ).
+        V12.10
+        Stats
+        Base health increased to 644 from 574.
+        Health growth increased to 94 from 80.
+        Armor growth increased to 4.7 from 3.5.
+        Magic resistance growth increased to 2.05 from 1.25.
+        Carnivore
+        Base heal reduced to 18 − 52 (based on level) from 20 − 71 (based on level).
+        V11.20
+        Carnivore
+        Bug Fix:
+        No longer activates from destroying trinkets or champion-generated objects.
+        V11.19
+        Rupture
+        Cooldown reduced to 7 seconds from 9.
+        V11.3
+        Vorpal Spikes
+        Base damage reduced to 22 / 34 / 46 / 58 / 70 from 22 / 37 / 52 / 67 / 82.
+        V11.1
+        Stats
+        Base health reduced to 574 from 574.
+        4.
+        Base magic resistance reduced to 32 from 32.
+        1.
+        Vorpal Spikes
+        Undocumented:
+        Once again gains the correct bonus damage from Feast stacks.
+        V10.24
+        Feast
+        Undocumented:
+        Buff application reworked, causing Vorpal Spikes to no longer gain bonus damage from stacks correctly.
+        (bug)
+        Vorpal Spikes
+        now gains 0.5% of target's maximum health bonus damage when Feast is first leveled and nothing from stacks.
+        Undocumented:
+        No longer capped at 255 stacks, buff name now always "Feast x1" and gained when R is learned instead of when gaining the first stack.
+        V10.23
+        Stats
+        Base mana reduced to 270 from 272.
+        2.
+        Mana growth increased to 60 from 40.
+        Base mana regeneration reduced to 7.2 from 7.2.
+        206.
+        V10.14
+        Feral Scream
+        Bug Fix:
+        Now properly silences Rift Scuttler .
+        V10.9
+        Vorpal Spikes
+        Base damage per spike increased to 22 / 34 / 46 / 58 / 70 from 22 / 35 / 50 / 65 / 80.
+        Total base damage increased to 66 / 111 / 156 / 201 / 246 from 66 / 102 / 138 / 174 / 210.
+        V10.4
+        Feast
+        Bug Fix:
+        Execute indicator now appears as intended and is properly visible.
+        V9.20
+        Feast
+        Bug Fix:
+        Execute indicator now properly takes ability power into consideration.
+        V9.10
+        Feast
+        Undocumented:
+        New indicator on enemy health bar, indicating when the enemy will be executed.
+        V9.7
+        Rupture
+        Cooldown reduced to 7 seconds from 9.
+        V9.5
+        Vorpal Spikes
+        Base damage increased to 22 / 34 / 46 / 58 / 70 from 20 / 30 / 40 / 50 / 60.
+        Battlecast Prime Cho'Gath
+        Vorpal Spikes
+        Bug Fix:
+        Now sound more in line with the skin's theme.
+        V8.7
+        Battlecast Prime Cho'Gath
+        Bug Fix:
+        Maw is no longer rigged improperly when using his emotes.
+        V8.5
+        Battlecast Prime Cho'Gath
+        Vorpal Spikes
+        Bug Fix:
+        No longer use classic SFX when he has 10+ stacks of Feast .
+        V8.3
+        General
+        Complete VFX update.
+        Stats
+        Base health regeneration increased to 9 from 8.
+        928.
+        V8.2
+        Feast
+        New Effect:
+        Draws nearby minion aggro when targeting an enemy champion.
+        V8.1
+        Vorpal Spikes
+        Bug Fix:
+        Empowered attacks no longer interrupt the basic attacks of enemy champions they hit.
+        V7.24
+        General
+        Basic attack and ability audio has been updated for all skins without skin-specific audio effects.
+        V7.9
+        Vorpal Spikes
+        Undocumented:
+        Tooltip now mentions spikes apply spell effects.
+        V7.7
+        Feast
+        Bug Fix:
+        Kill indicator now properly takes ability power into consideration.
+        V7.6
+        Feast
+        Bonus health per stack increased to 80 / 120 / 160 from 80 / 110 / 140.
+        Total stacks that can be gained from minions and non-epic monsters increased to 6 from 5.
+        V7.5
+        Feral Scream
+        New Effect:
+        Adjusted particle to match actual cone size.
+        V7.4
+        Feast
+        Removed:
+        Loses half stacks on death.
+        New Effect:
+        Can now stack infinitely (from 6), but can only gain up to 5 stacks from killing non-epic monsters or minions.
+        Removed:
+        Healing if at 6 stacks.
+        Removed:
+        Champion kill granting 2 stacks.
+        Removed:
+        Minions and monsters kill refunding 50% cooldown and mana cost.
+        New Effect:
+        Tooltip now lists how many minions, pets, monsters, dragons, epic monsters and champions you have eaten.
+        AP ratio reduced to 50% AP from 70% AP.
+        Health per stack reduced to 80 / 110 / 140 from 100 / 140 / 180.
+        New Effect:
+        Reaches maximum size at 10 stacks.
+        Maximum bonus attack range increased to 75 from 50.
+        V6.20
+        Feral Scream
+        Cooldown reduced to 13 / 12 / 11 / 10 / 9 seconds from 13.
+        Range increased to 650 from 585.
+        Silence duration reduced to 1.5 / 1.625 / 1.75 / 1.875 / 2 seconds from 1.5 / 1.75 / 2 / 2.25 / 2.5.
+        Bug Fix:
+        Fixed a bug where units would be hit if they had escaped the area after the cast.
+        V6.8
+        General
+        Adjusted splash artwork for Gentleman Cho'Gath .
+        V6.7
+        General
+        Splash artwork for Gentleman Cho'Gath updated to the Chinese art.
+        V6.6
+        Feast
+        Bonus health per stack increased to 100 / 140 / 180 from 90 / 120 / 150.
+        V6.5
+        General
+        New ability icons
+        V5.21
+        Feast
+        Tooltip updated.
+        New Effect:
+        Champion kills grant Cho'Gath 2 stacks.
+        New Effect:
+        When at max stacks it will restore 90 / 120 / 150 health on unit kill and double the amount on champion kill.
+        Health is functional despite not displaying in tooltip.
+        V4.21
+        Feast
+        Cooldown increased to 80 seconds from 60.
+        New Effect:
+        Refunds 50% of both cooldown and mana cost if it kills a minion or monster.
+        V4.18
+        General
+        New splash artwork for Original Cho'Gath .
+        V4.8
+        Feast
+        Cast range increased to 175 from 150.
+        Cast time reduced to 0.25 seconds from 0.5.
+        V4.5
+        Stats
+        Base armor increased to 23 from 19.
+        V3.15
+        Rupture
+        Tooltip corrected to state slow duration is 3 seconds and not 1.5.
+        V3.01
+        Feral Scream
+        Silence duration reduced to 1.5 / 1.625 / 1.75 / 1.875 / 2 seconds from 2 / 2.25 / 2.5 / 2.8 / 3 seconds.
+        V1.0.0.154
+        Feral Scream
+        Targeting cone now attached to Cho'Gath.
+        V1.0.0.153
+        Carnivore
+        Health gain changed to 20 − 71 (based on level) from 34 − 68 (based on level).
+        V1.0.0.152
+        Stats
+        Movement speed increased to 320 from 315.
+        V1.0.0.133
+        Feast
+        Fixed a bug where it would fail to kill targets protected by shields.
+        V1.0.0.125
+        Feast
+        Run animation speed while enlarged adjusted.
+        V1.0.0.123
+        Feast
+        Fixed a bug where Cho'Gath could gain a stack even when the target did not die.
+        V1.0.0.120
+        Feast
+        Now a particle will correctly appear if it can kill the target.
+        V1.0.0.118b
+        Rupture
+        Chance of failing to knock up target reduced.
+        V1.0.0.113
+        Stats
+        Health reduced to 520 from 550.
+        Armor reduced to 19 from 21.
+        Carnivore
+        Mana gain reduced to 3.5 − 7.7 (based on level) from 7 − 15.5 (based on level).
+        Feral Scream
+        Base damage reduced to 75 / 125 / 180 / 240 / 300 from 80 / 130 / 180 / 240 / 300.
+        Vorpal Spikes
+        Base damage increased to 20 / 35 / 50 / 65 / 80 from 20 / 30 / 40 / 50 / 60.
+        AP ratio increased to (+ 25% AP) from (+ 20% AP).
+        Feast
+        Base damage reduced to 300 / 475 / 650 from 300 / 550 / 800.
+        AP ratio increased to (+ 70% AP) from (+ 50% AP).
+        V1.0.0.109
+        Feast
+        Stacks loss on death changed to rounded-up half from all.
+        Inconsistent with V1.0.0.86
+        V1.0.0.107
+        Rupture
+        Delay reduced to 0.65 from 0.7.
+        Carnivore
+        Health restored upon kill reduced to 34 − 68 (based on level) from 40 − 82 (based on level).
+        Mana restored upon kill reduced to 7 − 15.5 (based on level) from 8 − 16.5 (based on level).
+        V1.0.0.105
+        Rupture
+        Fixed a bug with the level-up tooltip showing the cooldown changing even though it did not.
+        V1.0.0.103
+        Rupture
+        Cooldown reduced to 9 seconds from 10.
+        Mana cost changed to 90 at all ranks from 80 / 90 / 100 / 110 / 120.
+        Vorpal Spikes
+        Is now classified as an area-of-effect spell for like Rylai's Crystal Scepter and Hextech Revolver.
+        V1.0.0.100
+        Feral Scream
+        Silence duration reduced to 2 / 2.25 / 2.5 / 2.8 / 3 seconds from 2 / 2.5 / 3 / 3.5 / 4 seconds.
+        Cooldown reduced to 13 seconds from 16.
+        Range increased to 650 from 615.
+        V1.0.0.96
+        Vorpal Spikes
+        Will no longer trigger Spellblade .
+        Will now fire even if Cho'Gath misses the target.
+        Feast
+        Can now be cast more easily on any unit, including: Dragon , Lizard Elder, or another very large Cho'Gath.
+        V1.0.0.94
+        General
+        Cho'Gath will now be properly considered melee for items like Youmuu's Ghostblade .
+        Vorpal Spikes
+        Can now be toggled off.
+        Feast
+        Fixed a bug at Rank 3 where Cho'Gath has difficulty feasting when at maximum stacks.
+        Fixed a bug where the ability buff tooltip was not updating the bonus health when Cho'Gath loses stacks.
+        Fixed a bug where Cho'Gath was not scaling properly when he loses stacks.
+        Fixed a bug where the Tenacity mastery caused it not to kill the target.
+        V1.0.0.86
+        Rupture
+        Base damage is now dealt on knocking targets airborne from targets hitting the ground.
+        Feast
+        Stack loss on death changed to rounded-up half from all.
+        V1.0.0.82
+        General
+        Auto attack animation timing tweaked.
+        V1.0.0.79
+        Feast
+        Fixed an issue where Cho'Gath would not move close enough to the target at large sizes.
+        V0.9.25.34
+        General
+        Secondary / critical strike animations updated
+        Carnivore
+        Cho'Gath now gains 8 − 16.5 (based on level) when killing a unit together with the health gain.
+        V0.9.25.21
+        Carnivore
+        Health gain per kill increased to 40 − 82 (based on level) from 30 − 72 (based on level).
+        Vorpal Spikes
+        Base damage reduced to 40 / 60 / 80 / 100 / 120 from 60 / 80 / 100 / 120 / 140.
+        AP ratio reduced to (+ 25% AP) from (+ 33% AP).
+        Now also hits Cho'Gath's primary target.
+        Feast
+        Cooldown reduced to 60 seconds from 70.
+        New Effect:
+        (+ 50% AP) ratio
+        V0.9.22.16
+        Feral Scream
+        Cooldown reduced to 17 seconds from 20.
+        Rupture
+        Range increased to 900 from 800.
+        Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 80 / 95 / 110 / 125 / 140.
+        Vorpal Spikes
+        Base damage increased to 40 / 60 / 80 / 100 / 120 from 20 / 40 / 60 / 80 / 100.
+        AP ratio increased to (+ 33% AP) from (+ 25% AP).
+        Feast
+        Size per stack slightly decreased.
+        Fixed a bug which caused the level up tooltip to not display.
+        V0.9.22.7
+        Carnivore
+        Health gain increased to 30 − 72 (based on level) from 15 − 72 (based on level).
+        V0.8.22.115
+        Feast
+        Fixed a bug causing the particle to incorrectly display on champions.
+        V0.8.21.110
+        Feast
+        Consume health threshold changed to 300 / 550 / 800 from a percentage of target's health.
+        Will no longer bypass Guardian Angel , Chronoshift , or Undying Rage .
+        V0.8.21.9
+        Rupture
+        Cooldown reduced to 9 seconds from 9.5.
+        V0.8.20.11
+        Rupture
+        Cast time reduced to 0.4 from 0.5.
+        V0.8.19.6
+        Feral Scream
+        Silence duration reduced to 1.5 / 1.65 / 1.8 / 1.95 / 2.1 seconds from 1.5 / 1.7 / 2 / 2.3 / 2.5 seconds.
+        V0.8.18.11
+        Rupture
+        Base damage reduced to 80 / 135 / 190 / 245 / 305 from 90 / 145 / 195 / 250 / 310.
+        ****Trivia****
+        [
+        ]
+        Cho'Gath is one of 15 champions that have an ability that infinitely stacks an effect: Aurelion Sol , Bard , Bel'Veth , Draven , Kindred , Nasus , Senna , Shyvana , Sion , Smolder , Swain , Sylas , Thresh , and Veigar .
+        In Cho'Gath's case, Feast infinitely stacks his health .
+        Cho'Gath was the first champion to receive a second Legendary skin (though Corki has two 1820 skins both of which are Legacy and Tristana has also two 1820 skins although one is Legacy and the other one is available).
+        Cho'Gath's dance references Fantasmic! by Mickey Mouse .
+        Riot created an Adobe Flash minigame dedicated for him called Cho'Gath Eats the World for April Fools' Day 2013 .
+        Another minigame released on the same date, Astro Teemo , which was unlocked by playing to a certain point in this game.
+        The depiction of Cho'Gath in the icon of Feral Scream was based on his pose in his Original splash art .
+        In the now-removed official League of Legends forums , the original icon of Feral Scream was used to represent the "General Discussion" section.
+        In the official League of Legends game trailer from 2009, Cho'Gath was given generic T-Rex sounds.
+        In the V1.0.0.115 April Fools' Day patch;
+        The following changes regarding Cho'Gath were jokingly listed:
+        Cho'Gath now starts the game the same size as if he had 6 feasts .
+        Feast still increases Cho'Gath's size.
+        Bushes can no longer stealth Cho'Gath.
+        The following joke item was listed to be added:
+        NEW Yordle Saddle: Any yordle champion can buy this new item to ride Cho'Gath.
+        Cho'Gath was given a retexture and features as a monster called the "Big Stompy Monster" (along with its huge variant) in Invasion , a featured game mode .
+        ****References****
+        *****Cho'Gath's profile page****
+        at LeagueOfLegends.com
+        ```
+```

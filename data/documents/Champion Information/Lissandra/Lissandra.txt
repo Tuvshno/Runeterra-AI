@@ -1,0 +1,875 @@
+**Games**
+
+* Universe
+*
+
+**•**
+
+**League of Legends**
+
+* •
+* Teamfight Tactics
+* •
+* Legends of Runeterra
+*
+**Image**
+
+* Lissandra
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Lissandra**
+
+**•** Release date: 2013-04-30
+
+**•** Last changed: V13.22
+
+**•** Class(es): Burst, Legacy, Mage
+
+**•** Position(s): Middle
+
+**•** Resource: Mana
+
+**•** Range type: Ranged
+
+**•** Adaptive type: Magic
+
+**•** Store price: 4800
+
+| 880 |
+| --- |
+
+**Crafting**
+
++ 2880
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 1
+* Control: 3
+* Mobility: 2
+* Utility: 1
+
+**Style:** Difficulty: TBD
+
+**Champion Spotlight**
+
+**Lissandra**
+
+is a champion in League of Legends.
+[1]
+**Gameplay**
+
+* Cosmetics
+* •
+* Audio
+* •
+* Development
+* •
+* Patch History
+* •
+* History
+* •
+* Trivia
+
+**Base statistics**
+
+| Health | 620 + 110 |
+| --- | --- |
+| Mana | 475 + 30 |
+| Health regen. (per 5s) | 7 + 0.55 |
+| Mana regen. (per 5s) | 8 + 0.4 |
+| Armor | 22 + 4.9 |
+| Attack damage | 55 + 2.7 |
+| Magic resist. | 30 + 1.3 |
+| Crit. damage | 175% |
+| Move. speed | 325 |
+| Attack range | 550 |
+| Attack speed | Base AS: 0.656 |
+| Attack windup | 18.75% |
+| AS ratio | 0.625 |
+| Bonus AS | +1.5% |
+| Missile speed | 2200 |
+| Unit radius | Gameplay radius: 65 |
+| Selection radius | 89 |
+| Pathing radius | 35 |
+| Acq. radius | 600 |
+
+**Special statistics**
+
+| ARAM | Nexus Blitz | One For All | URF | Ult Spellbook | Arena |
+| --- | --- | --- | --- | --- | --- |
+| Damage Dealt | -5% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% |
+| Damage Received | +5% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% |
+| Damage Dealt | +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% |
+| Damage Received | +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% |
+| Damage Dealt | +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% |
+| Damage Received | +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% |
+| Damage Dealt | +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% |
+| Damage Received | +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% |
+| Damage Dealt | +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% | Damage Dealt: +0% |
+| Damage Received | +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% | Damage Received: +0% |
+
+**Abilities**
+
+[ ]
+**Edit**
+
+**Iceborn Subjugation**
+
+**Iceborn Subjugation**
+
+**EFFECT RADIUS:**
+1350 / 450
+
+**Innate:**
+Whenever a nearby enemy champion dies,
+Lissandra
+spawns a
+Frozen Thrall
+from their corpse.
+
+**Frozen Thralls**
+are ice spirits that have
+33.48
+(based on seconds)
+movement speed
+and
+slow
+nearby enemies by 25%. They will chase nearby
+visible
+enemies for 4 seconds, prioritizing
+champions
+, after which they shatter to deal
+120 – 520 (based on level) (+ 50% AP)
+magic damage
+to nearby enemies.
+
+**Details**
+Info
+Targeting input
+Passive
+Damage type
+Type
+Sub-type
+Area damage
+Magic
+Counters
+Spell shield
+Blocked
+Thralls
+are units that are considered champions (they are
+clones
+) and they take the form of the champion they arise from. Additionally, near the end of their life span, they will cue that champion's
+basic attack
+animation. They cannot be teleported by an allied
+Realm Warp
+. Thralls are
+untargetable
+and
+invulnerable
+. Thralls are revealed to enemies through the fog of war. Thralls will continue to chase their target even if they enter a
+brush
+. Iceborn Subjugation
+will not summon a
+Thrall
+against enemy champions that enter a
+zombie state
+, and will instead summon one after they've left the state.
+
+**Edit**
+
+**Ice Shard**
+
+**Ice Shard**
+
+**COST:**
+55 / 60 / 65 / 70 / 75 Mana
+
+**COOLDOWN:**
+8 / 7 / 6 / 5 / 4
+
+**CAST TIME:**
+0.25
+
+**RANGE:**
+825 / 950
+
+**WIDTH:**
+150 / 180
+
+**SPEED:**
+2200
+
+**Active:**
+Lissandra
+launches a shard of ice in the target direction that deals
+magic damage
+and
+slows
+enemies hit for 1.5 seconds.
+
+**Magic Damage:**
+80 / 110 / 140 / 170 / 200 (+ 80% AP)
+
+**Slow:**
+20 / 24 / 28 / 32 / 36%
+
+**If**
+Ice Shard
+hits an enemy, it will shatter, increasing its width and maximum range.
+
+**Hide**
+Details
+Info
+Targeting input
+Direction
+Damage type
+Type
+Sub-type
+Area damage
+Magic
+Counters
+Spell shield
+Projectile
+See Notes
+Blocked
+This ability will cast from wherever the caster is at the end of the cast time. Ice Shard picks a location 950 units away in the direction of the cast for the shattered missile to end up at. The initial Ice Shard missile has a range of 700 units which it arrives at after 0.33 seconds. If it hasn't collided with an enemy in this path when it does, it checks for enemies in a 100 radius around the point 25 units in front of it. Colliding or hitting an enemy in either fashion creates a new "shattered" missile with the same speed but greater width that continues to travel along the same line to the designated point 950 units from the cast's original position, originating at the location at which the initial missile collided at. Spell shield will block the damage and the slow but will not stop the projectile from shattering.
+
+**Edit**
+
+**Ring of Frost**
+
+**Ring of Frost**
+
+**COST:**
+40 Mana
+
+**COOLDOWN:**
+12 / 11 / 10 / 9 / 8
+
+**CAST TIME:**
+none
+
+**EFFECT RADIUS:**
+450
+
+**Active:**
+Lissandra
+freezes nearby enemies, dealing
+magic damage
+and
+rooting
+them for a duration.
+
+**Magic Damage:**
+70 / 105 / 140 / 175 / 210 (+ 70% AP)
+
+**Root Duration:**
+1.25 / 1.35 / 1.45 / 1.55 / 1.65 seconds
+
+**No additional information.**
+
+**Edit**
+
+**Glacial Path**
+
+**Glacial Path**
+
+**COST:**
+80 / 85 / 90 / 95 / 100 Mana
+
+**COOLDOWN:**
+24 / 21 / 18 / 15 / 12
+
+**CAST TIME:**
+0.25
+
+**RANGE:**
+1025
+
+**WIDTH:**
+250
+
+**SPEED:**
+1200 / 640
+
+**Active:**
+Lissandra
+sends a claw of ice in the target direction that deals
+magic damage
+to enemies it passes through, decelerating over 1.25 seconds. Glacial Path can be recast after 0.5 seconds while the claw is active.
+
+**Magic Damage:**
+70 / 105 / 140 / 175 / 210 (+ 60% AP)
+
+**Recast:**
+Lissandra
+consumes the claw and
+blinks
+to its current location.
+
+**Hide**
+Details
+Info
+Targeting input
+Direction / Auto
+Damage type
+Type
+Sub-type
+Area damage
+Magic
+Counters
+Spell shield
+Projectile
+Grounded
+Blocked
+Blocked
+See Notes
+Both casts count as ability activations for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive. Lissandra
+can reactivate
+Glacial Path
+for the duration (plus another 0.2 – 0.3 seconds after the claw 'sinks' into the ground). The Claw can also hit enemies near the end point at this time, shortly after the missile has reached its maximum range. Glacial Path
+allows
+Lissandra
+to surpass through every single wall in all maps, so long as the claw is at least halfway through them. Glacial Path
+cannot be recast while
+grounded
+or
+rooted
+. Glacial Path's
+endpoint shows through terrain, fog of war, and brush to enemies within 600 range of it.
+
+**Edit**
+
+**Frozen Tomb**
+
+**Frozen Tomb**
+
+**COST:**
+100 Mana
+
+**COOLDOWN:**
+120 / 100 / 80
+
+**CAST TIME:**
+0.375 / None
+
+**TARGET RANGE:**
+550
+
+**EFFECT RADIUS:**
+550
+
+**Active:**
+Lissandra
+can cast
+Frozen Tomb
+on herself or an enemy champion.
+
+**Enemy Cast:**
+Lissandra
+freezes the target enemy champion, knocking them down and stunning them for 1.5 seconds.
+
+**Self Cast:**
+Lissandra
+instantly entombs herself in ice, entering
+stasis
+for 2.5 seconds and
+healing
+herself every 0.25 seconds over the duration. The healing is increased by 0% - 100% (based on
+missing
+health at the time of cast)
+.
+
+**Minimum Heal per Tick:**
+10 / 15 / 20 (+ 5.5% AP)
+
+**Maximum Heal per Tick:**
+20 / 30 / 40 (+ 11 AP)
+
+**Minimum Total Heal:**
+100 / 150 / 200 (+ 55% AP)
+
+**Maximum Total Heal:**
+200 / 300 / 400 (+ 110% AP)
+
+**Frozen Tomb**
+creates a field of ice that spreads out from the target over 1.5 seconds and covers the surrounding area for 3 seconds, dealing
+magic damage
+to enemies and
+slowing
+them for 0.5 seconds, refreshing every 0.25 seconds while they remain.
+
+**Magic Damage:**
+150 / 250 / 350 (+ 75% AP)
+
+**Slow:**
+30 / 52.5 / 75%
+
+**Link**
+▶️
+"Entomb!"
+
+**Hide**
+Details
+Info
+Targeting input
+Unit
+Target out-of-range override
+Walk in range of the target
+Damage type
+Type
+Sub-type
+Minion Aggro
+Area damage
+Magic
+Drawn
+Counters
+Spell shield
+Enemies can only be damaged by the field of ice once every 4 seconds. Under normal circumstances, this means once per cast of
+Frozen Tomb
+. Enemies who come in contact with
+Frozen Tomb's
+slow field will be damaged and a small visual and sound effect will play. Spell shield will block the single-targeted portion and the radiating ice damage, but will not stop it from spreading. If the target becomes
+untargetable
+, dies, or is too far away during the cast time, this ability will cancel but does not go on cooldown nor pay its cost. This only applies to the enemy cast.
+
+**Champion skins**
+[ ]
+This article section only contains champion skins. For all associated collection items, see
+Lissandra (Collection)
+.
+
+**Original**
+View in 3D
+880
+29.04.2013
+As the reclusive leader of the Frostguard, many believe Lissandra is a living saint whose followers bring healing and wisdom to the tribes of the Freljord. The truth is perhaps more sinister, as she uses her elemental magic to twist the power of True Ice into something dark and terrible, entombing or impaling any who would reveal her deepest secrets. Indeed, the legacy of her past may yet be the beginning of the end for Runeterra.
+
+**Tess Masters**
+Alex 'alexplank' Flores, Michelle Hoefener
+
+**Loot eligible**
+
+**Bloodstone**
+View in 3D
+975
+29.04.2013
+Once a powerful sorceress who sought absolute control over her followers, Lissandra transformed into something altogether different when she finally found the hallowed Bloodstone. The magic she drew from it drove her to slay those who once tended to her every whim. To this day she wanders in search of more mortals to sacrifice to her newfound source of power.
+
+**Tess Masters, Christian Fell**
+
+**Bloodstone**
+Loot eligible
+
+**New SFX/VFX**
+New Animations/Recall
+
+**Blade Queen**
+View in 3D
+1350
+26.05.2014
+Ruler of a once mighty city, Lissandra was seduced by the promises of a monstrous shadow, whispering of esoteric power and eternal life. For this, she betrayed her people and gave them to darkness, so that in the shadow's womb she would be reborn an ageless monster.
+
+**Tess Masters, Jeremey Chong**
+
+**Space Groove**
+View in 3D
+1350
+17.11.2022
+Brutal alien leader of the Harsh Vibes, Lissandra subjugates planets rich in The Groove for her own nefarious purposes—banning disco and steeping the entire galaxy in Muzak. She and her army of roller-skating derby goons will stop at nothing to eliminate disco forever. But for her latest scheme to work, she's going to need an invite to the disco to end all discos: The Jam.
+
+**Tess Masters, Jeremy Chong**
+
+**Space Groove**
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+
+**Chromas**
+Coven Lissandra Chromas
+Aquamarine, Dark Ritual, Meteorite, Obsidian, Rose Quartz, Ruby, Sandstone, Tanzanite, Dark Cosmic
+View in 3D
+1350
+24.11.2020
+Once a cosmic entity charged with identifying future threats to the cosmos, her hunger for ever greater knowledge drew her into conflict with the Dark Star, which consumed her. Transformed into a mad doomsayer who sees a “true” universe in the ashes of this one, she has become the very end she once feared.
+
+**Tess Masters, Lucas Parolin, West Studio**
+
+**Dark Star**
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+
+**Chromas**
+Dark Cosmic Lissandra Chromas
+Citrine, Emerald, Obsidian, Pearl, Rainbow, Rose Quartz, Ruby, Sapphire, Turquoise, Porcelain
+View in 3D
+26.01.2023
+Long ago, the sorceress Lissandra stole the Snake Relic from the ancient Protectors in a bid to gain immortality. Cast down and sealed away for her crimes, Lissandra spent centuries of solitude scheming a way to take all twelve Zodiac Relics for herself, waiting for the perfect time to strike... And now Ezreal has given her the chance.
+
+**Tess Masters, Jiunn Kuo, West Studio**
+
+**Porcelain**
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+
+**Chromas**
+Porcelain Lissandra Chromas
+Amethyst, Aquamarine, Catseye, Emerald, Golden Tiger, Obsidian, Pearl, Rose Quartz, Ruby, Prestige Porcelain
+View in 3D
+
+**Special**
+26.01.2023
+What is fashion, if not sculpture? Is it not beauty and elegance in physical form? The portrait of glamor in white, blue, and gold, Lissandra is a work of art, on and off the runway.
+
+**Tess Masters, Ina Wong, West Studio**
+
+**Porcelain**
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+
+**This skin is a variant of
+Porcelain
+**. Store variants are discounted for multiple purchases.**
+
+**Space Groove**
+View in 3D
+1350
+17.11.2022
+Brutal alien leader of the Harsh Vibes, Lissandra subjugates planets rich in The Groove for her own nefarious purposes—banning disco and steeping the entire galaxy in Muzak. She and her army of roller-skating derby goons will stop at nothing to eliminate disco forever. But for her latest scheme to work, she's going to need an invite to the disco to end all discos: The Jam.
+
+**Tess Masters, Jeremy Chong, West Studio**
+
+**Space Groove**
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+
+**Chromas**
+Space Groove Lissandra Chromas
+Catseye, Emerald, Obsidian, Pearl, Rainbow, Rose Quartz, Ruby, Sapphire
+View in 3D
+
+**Patch history**
+[ ]
+For the expanded patch notes, see
+here
+.
+
+**V13.22**
+Stats
+Attack speed growth increased to 1.5% from 1.36%.
+
+**V13.19**
+Ring of Frost
+Root duration increased to 1.25 – 1.65 seconds from 1.1 – 1.5 seconds.
+
+**V13.17**
+Ice Shard
+Bug Fix:
+Cast of the missile is no longer incorrectly cancelled by crowd control.
+
+**V13.14**
+Iceborn Subjugation
+Removed:
+Frozen Thralls no longer stop moving to detonate.
+New Effect:
+Frozen Thralls are now revealed.
+New Effect:
+Frozen Thralls will now follow targets into brush.
+Ice Shard
+New Effect:
+Now slows all targets in a radius instead of just the first target hit.
+New Effect:
+Missile now casts from the position of post-cast instead of pre-cast.
+Frozen Tomb
+Tick interval reduced to 0.25 seconds per tick from 0.5 seconds per tick.
+Bonus heal increased to 0% – 100% (based on missing health at the time of cast)
+from 0% – 100%.
+Formula change.
+Minimum base heal increased to 100/150/200 from 90/140/190.
+Minimum heal AP ratio increased to 55% AP
+from 25% AP.
+Updated logic slightly around stopping dashes.
+
+**V13.7**
+Iceborn Subjugation
+Bug Fix:
+Frozen Thralls
+of
+Pyke
+no longer display his health bar.
+
+**V13.4**
+General
+Bug Fix:
+Prestige Porcelain Lissandra
+visibility of fog around the model is no longer affected by the screen camera zoom.
+
+**V13.1**
+Stats
+Health growth increased to 110 from 104.
+Ice Shard
+Slow increased to 20/24/28/32/36% from 16/19/22/25/28%.
+Ring of Frost
+Cooldown reduced to 12/11/10/9/8 seconds from 14/13/12/11/10.
+
+**V12.10**
+Stats
+Base health increased to 620 from 550.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.9 from 3.7.
+Magic resistance growth increased to 1.3 from 0.5.
+
+**V11.17**
+Stats
+Base attack damage increased to 55 from 53.
+Ice Shard
+Mana cost reduced to 55/60/65/70/75 from 60/63/66/69/72.
+
+**V11.7**
+Ice Shard
+Base damage increased to 80/110/140/170/200 from 70/100/130/160/190.
+
+**V11.2**
+Frozen Tomb
+Bug Fix:
+No longer applies
+Horizon Focus'
+Hypershot to all enemy champions damaged within the area of effect; now properly applies the debuff to only the stunned target.
+
+**V10.24**
+Frozen Tomb
+Bug Fix:
+No longer gains an increased amount of healing if cast after using
+Hextech Rocketbelt
+.
+
+**V10.18**
+Ice Shard
+Bug Fix:
+Fixed a bug where the second/unique hit SFX was not working.
+
+**V10.11**
+Iceborn Subjugation
+Bug Fix:
+Frozen Thralls will no longer count as allies and take a portion of her Turret Plating gold if they are nearby.
+
+**V10.10**
+- May 14th Hotfix
+Iceborn Subjugation
+Bug Fix:
+No longer spawns a
+Thrall
+when a
+clone
+dies.
+V10.10
+Iceborn Subjugation
+Bug Fix:
+Now properly creates a Frozen Thrall of
+Master Yi
+when he is killed during
+Alpha Strike
+.
+Undocumented:
+Now spawns a
+Thrall
+when a
+clone
+dies, with a 4 seconds delay.
+V10.9
+Ice Shard
+Cooldown reduced to 8/7/6/5/4 seconds from 10/8.5/7/6/4.5 seconds.
+Iceborn
+Bug Fix:
+Thrall now properly appears whenever an enemy champion dies nearby her, regardless of whether or not she's attacked them.
+Ice Shard
+AP ratio increased to 70% AP
+from 65% AP.
+V9.20
+Stats
+Base armor increased to 22 from 20.
+Iceborn Subjugation
+AP ratio increased to 50% AP
+from 30% AP.
+Ring of Frost
+AP ratio increased to 70% AP
+from 50% AP.
+V9.15
+Stats
+Base health increased to 550 from 518.
+Health growth increased to 90 from 87.
+Frozen Tomb
+Damage AP ratio increased to 75% AP
+from 60% AP.
+V9.11
+Iceborn Subjugation
+Bug Fix:
+Frozen Thralls can no longer take
+Eye of the Herald
+when her team steals the
+Rift Herald
+.
+V9.9
+Ring of Frost
+Base damage increased to 70/105/140/175/210 from 70/100/130/160/190.
+AP ratio increased to 50% AP
+from 30% AP.
+V9.7
+Ice Shard
+Cooldown increased to 10/8.5/7/6/4.5 seconds from 10/8/7/6/4 seconds.
+Iceborn
+Bug Fix:
+Fixed a bug that caused its cooldown to not be reduced when
+Ring of Frost
+killed a unit.
+Ice Shard
+AP ratio increased to 70% AP
+from 65% AP.
+V6.23
+General
+Bug Fix:
+Bloodstone Lissandra's
+Recall
+sound effects now cut off if
+Recall
+is interrupted.
+V6.18
+Stats
+Health growth reduced to 75 from 84.
+V5.16
+Frozen Tomb
+New Effect:
+Self-casting now heals for 100/150/200 (+ 30% AP), increased by 1% for every 1% missing health.
+V5.5
+Ice Shard
+Base damage reduced to 70/100/130/160/190 from 75/110/145/180/215.
+V5.4
+Glacial Path
+Bug Fix:
+End marker being hidden under terrain even when it was supposed to be visible.
+V4.13
+Ice Shard
+Cooldown reduced to 6/5.25/4.5/4/3.75 seconds from 6/5.5/4.5/4/3.5 seconds.
+Ring of Frost
+AP ratio reduced to 40% AP
+from 60% AP.
+Frozen Tomb
+Slow increased to 30/45/75% from 20/30/40%.
+V4.7
+Frozen Tomb
+New Effect:
+Target enemy movement (including dashes and blinks) is immediately interrupted on-cast.
+Cooldown updated to start on a successful cast.
+V4.5
+Stats
+Base armor increased to 14 from 10.
+V3.15
+Frozen Tomb
+Bug Fix:
+Slow sometimes not reapplying correctly.
+V3.8
+Ring of Frost
+Cooldown reduced to 14/13/12/11/10 seconds from 18/16/14/12/10.
+Mana cost reduced to 50 from 70.
+Bug Fix:
+Root not applying if Lissandra dies.
+Glacial Path
+Cooldown start changed to on-cast from reactivation/projectile travel end.
+Frozen Tomb
+Self-cast duration increased to 1.5 seconds from 1.5.
+Slow increased to 30/45/75% from 30% at all ranks.
+Base damage reduced to 150/250/350 from 150/300/450.
+V3.6
+Iceborn
+(Innate)
+After a brief cooldown, Lissandra's next ability costs no mana. Hitting an enemy with movement impairing abilities reduces Iceborn's cooldown.
+Ice Shard
+(Q)
+Lissandra throws a spear of ice that shatters on contact with the first enemy struck, dealing damage and slowing their movement speed for a short duration. Enemies behind the struck target also take damage.
+Ring of Frost
+(W)
+Lissandra freezes the area around her, dealing damage to nearby enemies and rooting them for a short duration.
+Glacial Path
+(E)
+Lissandra casts a slow-moving, long-range ice claw in a line, dealing damage to all enemies in its path. Re-activating Glacial Path teleports Lissandra to the claw's current location.
+Frozen Tomb
+(R)
+On enemy cast: Lissandra freezes an enemy champion, damaging and stunning them briefly. Dark Ice emanates from the target, dealing damage and slowing nearby enemies.
+On self-cast: Lissandra entombs herself in ice, rooting herself in place briefly and becoming untargetable and invulnerable. Dark Ice emanates from Lissandra, dealing damage and slowing nearby enemies.
+Trivia
+[ ]
+Lissandra first appeared in the
+Journal of Justice
+,
+Issue 2
+, several years before her announcement as a champion. Like now, she was portrayed as the leader of one of the three tribes of the Freljord, but her portrayal was originally vastly different, as a mortal princess allied with
+Ashe
+'s tribe.
+This was later revealed to be her alter ego, and most people are not aware of her being the Ice Witch herself.
+If Ashe, Lissandra, and/or
+Sejuani
+are played on opposing teams,
+Battle for Freljord
+will trigger. This in-game quest consists in one killing the other to earn the title of 'Queen of Freljord' (complete with a floating ice crown floating above their heads) referencing the civil war taking place there, between the three tribes each lead.
+Lissandra is the only champion to possess a single-targeted ability (
+Frozen Tomb
+) that can be used on herself but not on allies.
+Lissandra,
+Elise
+, and
+Lucian
+are the only champions to feature a monologue on their login screens.
+Lissandra
+may be the feminine form of Greek name Λύσανδρος (Lysander or 'liberator').
+Her champion theme is the same as the pick music of
+ARAM
+and is titled 'Freljord'.
+See also
+[ ]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+References
+[ ]
+↑
+Lissandra's profile page
+at
+LeagueOfLegends.com

@@ -1,0 +1,283 @@
+**Games**
+
+* Universe
+* **:**
+
+**League of Legends**
+
+* **:**
+	+ League of Draven
+	+ Spinning Axe
+	+ Blood Rush
+	+ Stand Aside
+	+ Whirling Death
+* **:**
+	+ Draven
+		- Release date: 2012-06-06
+		- Last changed: V13.24
+		- Class(es): Marksman, Legacy Marksman
+		- Position(s): Bottom
+		- Resource: Mana
+		- Range type: Ranged
+		- Adaptive type: Physical
+		- Store price: 4800
+		- Crafting cost: +2880
+		- Ratings: Damage 3, Toughness 1, Control 1, Mobility 2, Utility 1
+		- Style: Difficulty (Champion Spotlight)
+* **Image:** Draven
+* **Gameplay:**
+	+ Collection
+	+ Audio
+	+ Patch history
+	+ Past versions
+* **Draven:** the Glorious Executioner
+* **:**
+	+ Base statistics
+* **:**
+		- Health: 675 (+104)
+		- Mana: 361 (+39)
+		- Health regen. (per 5s): 3.75 (+0.7)
+		- Mana regen. (per 5s): 8.05 (+0.65)
+		- Armor: 29 (+4.5)
+		- Attack damage: 62 (+3.6)
+		- Magic resist.: 30 (+1.3)
+		- Crit. damage: 175%
+		- Move. speed: 330
+		- Attack range: 550
+		- Attack speed: Base AS 0.679, Attack windup 15.614%
+		- Missile speed: 1600
+		- Unit radius: Gameplay radius 65, Selection radius 111, Pathing radius 35, Acq. radius 600
+* **Special statistics:**
+	+ ARAM: +5% Damage Dealt, -5% Damage Received
+	+ Nexus Blitz: No difference
+	+ One For All: Axes can be picked up (stolen) by allied Dravens
+	+ URF: No difference
+	+ Ult Spellbook: Damage Dealt +0%, Damage Received +0%
+	+ Arena: Damage Dealt +5%
+* **Abilities:**
+	+ **League of Draven:**
+		- Passive: When Draven catches a Spinning Axe, kills a non-champion, or destroys a turret, he gains a stack of Adoration. Additionally, whenever Draven kills a minion or destroys a ward or trap, he generates a Strike stack for 10 seconds, refreshing on subsequent kills and stacking up to 6 times. All Strike stacks are lost if he drops an axe or a nearby minion dies without him killing it. The sixth stack consumes all stacks to grant him 2 Adoration stacks.
+		- Map-Specific Differences: In Arena, Adoration stacks per kill or Axe catch changed to 5, Adoration stacks per Axe catch from an enemy Draven changed to 50, and New Effect: Gains 50 Adoration stacks per round.
+	+ **Spinning Axe:**
+		- Cost: 45 mana
+		- Cooldown: 12 / 11 / 10 / 9 / 8
+		- Cast time: None
+		- Active: Draven starts spinning his axe, empowering his next basic attack within 5.8 seconds to deal bonus physical damage.
+		- Bonus Physical Damage: 40 / 45 / 50 / 55 / 60 (+ 75 / 85 / 95 / 105 / 115% bonus AD)
+		- Upon hitting the target, the axe then ricochets off of them to land after 2 seconds, with the location being determined by Draven's current movement. If Draven catches the axe, he gains Spinning Axe's empowered attack again.
+		- Draven can hold up to two Spinning Axes at once.
+		- Targeting input: Auto
+		- Damage type: Physical
+		- Counters: Parries, Projectile
+		- Blocked: See notes
+		- The landing location is determined by Draven's movement speed and direction at the time Spinning Axe hits the target. If Draven is actually moving, it will bounce directly into his path. Otherwise, it will bounce back towards his current location, either landing directly onto him or to his sides.
+		- Spinning Axe will place a visual cue on the ground where it will land. This visual cue is visible to both teams, although Draven himself will see a more prominent marker.
+		- Recasting Spinning Axe will refresh the buff and add another axe if possible.
+		- There is no limit to how many axes can be juggled at once, just the limit of 2 of them at a time in Draven's hands.
+		- Draven used to be able to catch (steal) an enemy Draven's axes. This event also prompted a few unique voice lines.
+		- Spinning Axes may optically bypass Wind Wall and Blade Whirl but they will be destroyed upon collision.
+		- Unbreakable will not prevent the axe from bouncing off when Braum is the target.
+		- Unbreakable will not prevent the axe from bouncing off when Braum is not the target.
+		- The axe will still bounce against parrying effects.
+		- Runaan's Hurricane's Wind's Fury does not interact with the effects of the axes.
+		- If a Spinning Axe is readied during a basic attack wind-up, the effects will be applied to the fired attack.
+		- Spinning Axe attacks deal their total increased damage in a single instance of basic damage.
+		- The empowered attack will not trigger against structures.
+		- The duration will refresh on-attack against them.
+		- Spînning Axe has an indicator that appears on the ground for Draven to stand on. Some skins have a unique indicator.
+	+ **Blood Rush:**
+		- Cost: 40 / 35 / 30 / 25 / 20 mana
+		- Cooldown: 12
+		- Cast time: None
+		- Active: Draven enters an adrenaline rush, gaining bonus attack speed for 3 seconds as well as decaying bonus movement speed and ghosting for 1.5 seconds. Catching a Spinning Axe resets Blood Rush's cooldown.
+		- Bonus Attack Speed: 20 / 25 / 30 / 35 / 40%
+		- Bonus Movement Speed: 50 / 55 / 60 / 65 / 70%
+	+ **Stand Aside:**
+		- Cost: 70 mana
+		- Cooldown: 18 / 17 / 16 / 15 / 14
+		- Cast time: 0.25
+		- Target range: 1100
+		- Width: 260
+		- Speed: 1400
+		- Active: Draven throws a fan of axes in a line in the target direction, dealing physical damage to enemies hit, knocking them aside, though not through terrain, and slowing them for 2 seconds.
+		- Physical Damage: 75 / 110 / 145 / 180 / 215 (+ 50% bonus AD)
+		- Slow: 20 / 25 / 30 / 35 / 40%
+		- Targeting input: Direction
+		- Damage type: Area damage, Physical
+		- Counters: Spell shield, Projectile
+		- Blocked: Blocked
+		- This ability will cast from wherever the caster is at the end of the cast time.
+		- Video: <https://leagueoflegends.fandom.com/wiki/File:Draven_EVideo.ogv>
+	+ **Whirling Death:**
+		- Cost: 100 mana
+		- Cooldown: 100 / 90 / 80
+		- Cast time: 0.5
+		- Target range: Global
+		- Width: 320
+		- Speed: 2000
+		- Active: Draven hurls two massive axes in the target direction that briefly grant sight of their surroundings and deal physical damage to enemies hit. Enemy champions that are damaged to or while below a health threshold equal to the number of Adoration stacks are executed.
+		- Physical Damage: 175 / 275 / 375
+		- (+ 110 / 130 / 150% bonus AD)
+		- Total Physical Damage: 350 / 550 / 750
+		- (+ 220 / 260 / 300% bonus AD)
+		- Whirling Death can be recast after 1 second while the axes are traveling, and does so automatically after the axes hit an enemy champion or the edge of the map.
+		- Recast: Draven forces the axes to reverse direction, slowly coming to a stop before homing back to him, dealing the same damage to enemies hit.
+		- Whirling Death deals 100% − 40% (based on enemies hit) damage, resetting upon reversing direction.
+		- Minimum Physical Damage: 70 / 110 / 150
+		- (+ 44 / 52 / 60% bonus AD)
+		- Minimum Total Damage: 140 / 220 / 300
+		- (+ 88 / 104 / 120% bonus AD)
+		- Enemies can be hit only once per pass.
+		- Hide: Details
+			* Video: <https://leagueoflegends.fandom.com/wiki/File:Draven_RVideo.ogv>
+	+ **Champion skins:**
+		- Original
+		- Soul Reaver
+		- Death Sworn
+		- Gladiator
+		- Pool Party
+		- Beast Hunter
+		- Draven Draven
+		- Santa
+		- Mecha Kingdoms
+		- Ruined
+		- Debonair
+		- Fright Night
+		- La Ilusión
+	+ **Champion Spotlight:**
+		- Draven Champion Spotlight
+	+ **Patch history:**
+		* For the expanded patch notes, see <here>
+		* V13.24
+			+ Whirling Death: Bug Fix: No longer causes himself to be executed if the missiles return to him while the number of his Adoration stacks were higher than his current health at the start of the cast.
+		* V13.23
+			+ Whirling Death: New Effect: Missiles now return to him even after he has died.
+		* V13.17
+			+ Whirling Death: Bug Fix: Now properly executes enemy champions hit via the initial area check around the cast location.
+		* V13.14
+			+ League of Draven: Undocumented: Now grants 10 stacks for picking up an enemy Draven's Spinning Axe instead of the standard 1. In Arena, the stack rewards for catching your own and enemy axes are 8 and 40, respectively.
+		* V13.11
+			+ Spinning Axe: Bug Fix: Critical strikes no longer deal less damage if the attack was declared immediately after an axe was caught.
+		* V13.8
+			+ Whirling Death: Bug Fix: Spell shields now properly block a hit of the ability. Bug Fix: Now properly executes enemy champions hit via the initial area check around the cast location.
+		* V13.7
+			+ Spinning Axe: Bug Fix: Spinning animation for axes now properly plays even after using Stand Aside or Whirling Death.
+		* V13.5
+			+ League of Draven: Bug Fix: No longer consumes all stacks to grant gold if an enemy champion was executed by Aurelion Sol's Singularity.
+		* V12.23
+			+ Spinning Axe: Bug Fix: Voice lines from catching an axe are now properly played when the condition is met.
+		* V12.22
+			+ Stats: Attack damage growth reduced to 3.6 from 3.61. Base mana increased to 361 from 360.56. Base mana regeneration increased to 8.05 from 8.04.
+		* V12.17
+			+ Whirling Death: Bug Fix: Execute is now properly blocked by spell shields.
+		* V12.16
+			+ Spinning Axe: Base damage reduced to 40 / 45 / 50 / 55 / 60 from 45 / 50 / 55 / 60 / 65. Bonus AD ratio increased to 75 / 85 / 95 / 105 / 115% bonus AD from 70 / 80 / 90 / 100 / 110%.
+		* V12.13
+			+ League of Draven: Bug Fix: No longer consumes all stacks to grant gold if an enemy champion was executed by Relic Shield's and Steel Shoulderguards' Spoils of War.
+		* V12.10
+			+ May 25th Hotfix: League of Draven: Base gold increased to 40 from 25. Gold per Adoration stack increased to 2.5 from 2.
+			+ Spinning Axe: Base damage increased to 45 / 50 / 55 / 60 / 65 from 40 / 45 / 50 / 55 / 60. Bonus AD ratio increased to 75 / 85 / 95 / 105 / 115% bonus AD from 70 / 80 / 90 / 100 / 110%.
+		* V12.10
+			+ Stats: Base health increased to 675 from 605. Health growth increased to 104 from 90. Armor growth increased to 4.5 from 3.3. Magic resistance growth increased to 1.3 from 0.5.
+		* V12.5
+			+ March 9th Hotfix: Base attack damage increased to 62 from 60.
+		* V12.4
+			+ February 17th Hotfix: Whirling Death: Bug Fix: Fixed a bug where it would become unusable if destroyed by an ability like Yasuo's Wind Wall or Braum's Unbreakable.
+		* V11.18
+			+ Whirling Death: New Effect: Now executes enemy champions with health that is less than or is left below the current number of League of Draven stacks.
+		* V11.12
+			+ General: Adjusted splash artwork for Pool Party Draven.
+			+ Spinning Axe: Base damage increased to 40 / 45 / 50 / 55 / 60 from 35 / 40 / 45 / 50 / 55. Bonus AD ratio increased to 70 / 80 / 90 / 100 / 110% bonus AD from 65 / 75 / 85 / 95 / 105%.
+			+ Bug Fix: Now properly stacks Manamune.
+		* V11.2
+			+ Spinning Axe: Bug Fix: No longer generates more than the intended Tear of the Goddess mana charges.
+		* V10.11
+			+ Stats: Base health increased to 574 from 557. Health growth increased to 88 from 82.
+		* V10.8
+			+ Spinning Axe: Indicator added to show empowerment timer.
+		* V10.7
+			+ Blood Rush: Bug Fix: No longer cancels basic attack animation.
+		* V10.6
+			+ Blood Rush: Bonus movement speed increased to 50 / 55 / 60 / 65 / 70% from 40 / 45 / 50 / 55 / 60%.
+		* V10.2
+			+ Whirling Death: Bonus AD ratio increased to 110 / 130 / 150% bonus AD from 110% at all ranks.
+		* V10.1
+			+ General: Bug Fix: Recall voice over lines restored.
+		* V9.15
+			+ General: Bug Fix: Unempowered basic attacks now properly deal damage in Mordekaiser's Realm of Death.
+		* V9.11
+			+ Whirling Death: Bug Fix: Now properly decreases in damage based on how many units are hit.
+		* V9.9
+			+ League of Draven: Bug Fix: No longer considers decoys as champions for the takedown effect.
+		* V9.1
+			+ League of Draven: New Effect: Can now ping the current amount of stacks.
+		* V8.21
+			+ Spinning Axe: Bug Fix: Fixed a bug where his basic attack couldn't crit if it switched from a normal basic attack to a Q-empowered attack during wind-up due to Draven catching an axe.
+		* V8.19
+			+ Spinning Axe: Bug Fix: Fixed a bug where he would lose his Spinning Axe if his basic attack switched to a Q-empowered attack during wind-up and was then cancelled due to Draven's target dying the instant the attack would have fired.
+		* V8.14
+			+ Santa Draven: Bug Fix: Skin-specific SFX have been restored.
+		* V8.11
+			+ Stats: Base health regeneration reduced to 6 from 6.176.
+		* V8.8
+			+ Santa Draven: Spinning Axe: Bug Fix: Landing location's particles are no longer overlapped by on-ground area of effect abilities' particles.
+		* V8.3
+			+ Stats: Base health regeneration reduced to 6 from 6.2.
+		* V7.22
+			+ Stats: Base attack damage increased to 64 from 55.8. Base armor increased to 35 from 25.544. Spinning Axe: Base damage increased to 30 / 35 / 40 / 45 / 50 from 30 / 35 / 40 / 45 / 50. Stand Aside: Base damage increased to 75 / 110 / 145 / 180 / 215 from 70 / 105 / 140 / 175 / 210.
+		* V7.21
+			+ Primetime Draven: Bug Fix: No longer incorrectly plays classic VO lines.
+		* V7.20
+			+ Primetime Draven: Bug Fix: Idle SFX are no longer audible during his recall animation. Bug Fix: Recall SFX no longer goes out of sync with the animation when moving the camera away and back.
+		* V7.17
+			+ League of Draven: Adoration stacks lost on death increased to 75% from 50%. Base gold on champion kill reduced to 25 from 50.
+		* V7.15
+			+ Primetime Draven: Spinning Axe: Bug Fix: No longer uses Pool Party Draven's SFX.
+		* V7.9
+			+ Stats: Magic resistance growth increased to 0.5 from 0.
+		* V7.4
+			+ General: Adjusted splash artwork for Pool Party Draven. Primetime Draven: Spinning Axe: Bug Fix: No longer incorrectly uses Pool Party Draven's SFX.
+		* V7.1
+			+ Spinning Axe: Damage changed to 30 / 35 / 40 / 45 / 50 (+ 65 / 75 / 85 / 95 / 105% bonus AD) from 45 / 55 / 65 / 75 / 85% AD. Blood Rush: Mana cost reduced to 40 / 35 / 30 / 25 / 20 from 40 at all ranks.
+		* V6.21
+			+ Spinning Axe: Primetime Draven's Spinning Axe sound effects have been updated to be more noticeable.
+		* V6.17
+			+ Whirling Death: Mana cost reduced to 100 mana from 120. Cooldown changed to 120 / 100 / 80 seconds from 110 / 100 / 90.
+		* V6.11
+			+ Whirling Death: Bug Fix: Fixed a bug where Draven couldn't recast Whirling Death while snared.
+		* V5.22
+			+ Stats: Base attack damage increased to 56 from 51.24. Attack damage growth reduced to 2.91 from 3.5. Base mana increased to 360.56 from 310.56. Mana growth reduced to 39 from 42. Attack windup percent improved from 18.1% to 15.6%. Missile speed reduced to 1600 from 1700.
+		* V5.17
+			+ League of Draven: New Effect: Draven generates 2 bonus Adoration stacks if he kills 6 minions in a row without dropping an axe. Starting at 150 stacks and for every 100 stacks thereafter, an announcement will appear in allied chat stating the fact. If Draven cashes in at least 150 stacks on-kill, an announcement will appear in allied chat stating the fact.
+		* V4.10
+			+ League of Draven: Now specifies that towers will grant Adoration.
+		* V4.5
+			+ Stats: Base armor increased to 20 from 16.
+		* V3.11
+			+ League of Draven: Now grants a base 50 gold bonus upon killing an enemy champion from 0. Now consumes all Adoration stacks on kill to reward Draven with Gold (previously only consuming half). Gold per Adoration stack consumed reduced to 2 from 3. Visuals and sounds for League of Draven play on every Draven kill, instead of only playing on kills which consumed a large number of stacks.
+		* V3.9
+			+ New Passive - League of Draven: Draven gains his fans' Adoration when he catches a Spinning Axe or kills a minion or monster. Killing enemy champions grants Draven bonus gold based on how much Adoration he has.
+		* V3.6
+			+ Spinning Axe: Reverted a recent change affecting how Draven was led by Spinning Axe, restoring prior functionality. Axe drop location will no longer be placed on the far side of impassable terrain from Draven.
+		* V3.5
+			+ Spinning Axe: Now leads Draven more accurately when he is benefiting from movement speed increases. Axe drop location will no longer be placed partially inside walls/terrain.
+		* V1.0.0.152
+			+ Stats: Movements speed increased to 330 from 305.
+		* V1.0.0.140b
+			+ Wicked Blades: I Draven's critical strikes deal bonus physical damage over time. Spinning Axe also causes this effect even if it does not critically strike.
+			+ Spinning Axe: Q Draven's next attack will deal bonus physical damage. This axe will ricochet off the target high up into the air. If Draven catches it, he automatically readies another Spinning Axe. Draven can have two Spinning Axes at once.
+			+ Blood Rush: W Draven gains increased movement speed and attack speed. The movement speed bonus decreases rapidly over its duration. Catching a Spinning Axe will refresh the cooldown of Blood Rush.
+			+ Stand Aside: E Draven deals physical damage by throwing his axes, knocking aside and slowing his targets.
+			+ Whirling Death: R Draven hurls two massive axes dealing physical damage to each unit struck. Whirling Death slowly reverses direction and returns to Draven after striking an enemy champion. Draven may also activate this ability while the axes are in flight to cause them to return early. Deals less damage for each unit it hits and resets when the axes reverse direction.
+
+**Trivia:**
+
+* Draven is one of 20 champions without a single ability power ratio on any ability: Aatrox, Camille, Darius, Dr. Mundo, Garen, Kayn, Kled, Naafiir, Nilah, Olaf, Pyke, Riven, Samira, Sett, Talon, Urgot, Xayah, Yone, and Zed.
+* Draven is one of 15 champions that have an ability that infinitely stacks an effect: Aurelion Sol, Bard, Bel'Veth, Cho'Gath, Kindred, Nasus, Senna, Shyvana, Sion, Smolder, Swain, Sylas, Thresh, and Veigar.
+* In Draven's case, League of Draven and Hijack are the only abilities to interact with the chat interface.
+* Draven's style of executioning references those of Soulfikar and Richard Brandon.
+* Draven's death animation likely references Cowboy Bebop's ending.
+* Draven won The Great GameFAQs Character Battle IX.
+* Draven is the only champion to have two different critical strike animations (one for each arm's attack).
+* The ward skin Ward of Draven references him.
+* See also League of Legends Wiki, Champions, Cancelled Champions (Ao Shin, Avasha, Averdrian, CeeCee, Cyborg Cowboy, Eagle Rider, Gavid, Husk, Ivan, Omen, Priscilla, Rob Blackblade, Seth, Tabu, Tiki, Urf, and Well). References: [↑](https://leagueoflegends.fandom.com/wiki/Draven) [LeagueOfLegends.com](https://leagueoflegends.com/en-us/champions/draven/)

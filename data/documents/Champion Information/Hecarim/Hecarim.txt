@@ -1,0 +1,527 @@
+# Games
+
+## Universe
+
+- League of Legends
+  - **League of Legends**
+  - Teamfight Tactics
+  - Legends of Runeterra
+  - Wild Rift
+
+## Hecarim
+
+![Hecarim Image](data:image/png;base64,<image-data-here>)
+
+### Gameplay
+
+- Class(es)
+  - Diver
+  - Legacy
+  - Fighter
+  - Tank
+- Position(s)
+  - Jungle
+- Resource
+  - Mana
+- Range type
+  - Melee
+- Adaptive type
+  - Physical
+- Store price
+  - 4800
+- Crafting cost
+  - + 2880
+
+### Ratings
+
+| Rating | Value |
+| --- | --- |
+| Damage | 2 |
+| Toughness | 2 |
+| Control | 2 |
+| Mobility | 2 |
+| Utility | 1 |
+
+### Style
+
+- Difficulty
+
+### Champion Spotlight
+
+[Hecarim Champion Spotlight](<video-link-here>)
+
+#### Base statistics
+
+| Statistic | Value |
+| --- | --- |
+| Health | 625 + 99 |
+| Mana | 280 + 40 |
+| Health regeneration per 5 seconds | 7 + 0.75 |
+| Mana regeneration per 5 seconds | 7 + 0.8 |
+| Armor | 32 + 5.45 |
+| Attack damage | 66 + 3.7 |
+| Magic resist | 32 + 2.05 |
+| Crit. damage | 175% |
+| Movement speed | 345 |
+| Attack range | 175 |
+| Attack speed base AS | 0.67 |
+| Attack windup | 25% |
+| Attack speed ratio | N/A |
+| Bonus attack speed | + 2.5% per second |
+| Unit radius | Gameplay radius |
+| Selection radius | 140 |
+| Pathing radius | 50 |
+| Acquisition radius | 750 |
+
+#### Special statistics
+
+| Statistic | Value |
+| --- | --- |
+| ARAM | + 5% damage dealt |
+| Nexus Blitz | N/A |
+| One For All | N/A |
+| URF | + 0% damage dealt |
+| Ultra Rapid Fire | N/A |
+| Urt Spellbook | N/A |
+| Arena | + 5% damage dealt |
+| Damage Received | - 10% |
+| Healing | + 20% |
+| Ability Haste | + 10 |
+
+### Abilities
+
+#### Warpath
+
+**Innate:** Hecarim gains bonus attack damage equal to 12% - 24% (based on level) of his bonus movement speed.
+
+##### Details
+
+- Warpath's bonus attack damage adjusts itself to any temporary movement speed buffs and debuffs Hecarim is affected by.
+- Since this only affects bonus values, Hecarim will not dip below his regular attack damage if he is slowed below his base movement speed.
+- The amount of movement speed scaling to bonus attack damage is refreshed every 0.25 seconds.
+
+#### Rampage
+
+**COST:** 28 / 26 / 24 / 22 / 20 Mana
+
+**COOLDOWN:** 4 seconds
+
+**CAST TIME:** none
+
+**EFFECT RADIUS:** 375
+
+**Active:** Hecarim cleaves his glaive around himself, dealing physical damage to nearby enemies, reduced to 60% against minions.
+
+| Statistic | Value |
+| --- | --- |
+| Physical Damage | 60 / 85 / 110 / 135 / 160 (+ 90% bonus AD) |
+| Minion Damage | 36 / 51 / 66 / 81 / 96 (+ 54% bonus AD) |
+
+**If this damages an enemy, Hecarim gains a stack of Rampage for 8 seconds.** Stacks refresh on subsequent damage and stack up to 3 times. Each stack increases Rampage's damage by 3% (+ 4% per 100 bonus AD) and reduces its base cooldown by 0.75 seconds, up to a 9% (+ 12% per 100 bonus AD) damage increase and a 2.25-second reduction of the base cooldown at maximum stacks. Stacks expire by one every 1 second when the duration ends.
+
+##### Map-Specific Differences
+
+- Ultra Rapid Fire: stacking cooldown reduction effect removed.
+- Arena: base damage changed to 80 / 105 / 130 / 155 / 180.
+
+#### Spirit of Dread
+
+**COST:** 50 / 55 / 60 / 65 / 70 Mana
+
+**COOLDOWN:** 16 / 15.5 / 15 / 14.5 / 14 seconds
+
+**CAST TIME:** none
+
+**EFFECT RADIUS:** 525
+
+**Active:** Hecarim surrounds himself with the Spirit of Dread for 5 seconds, dealing magic damage every second to nearby enemies and gaining bonus armor and magic resistance. He is also healed for 20% of the post-mitigation damage dealt to enemies within the area, halved to 10% for damage dealt by allies. The healing is capped against minions and monsters.
+
+| Statistic | Value |
+| --- | --- |
+| Magic Damage Per Tick | 20 / 30 / 40 / 50 / 60 (+ 20% AP) |
+| Total Magic Damage | 100 / 150 / 200 / 250 / 300 (+ 100% AP) |
+| Bonus Resistances | 5 / 10 / 15 / 20 / 25 |
+| Capped Healing | 120 / 150 / 180 / 210 / 240 |
+
+##### Map-Specific Differences
+
+- Ultra Rapid Fire: base healing changed to 35% of damage dealt. Healing bonus AD ratio changed to 3% per 100 bonus AD.
+- Arena: base healing changed to 35% of damage dealt.
+
+#### Devastating Charge
+
+**COST:** 60 Mana
+
+**COOLDOWN:** 18 seconds
+
+**CAST TIME:** none
+
+**Active:** Hecarim becomes ghosted and gains 25% - 65% (based on time active) bonus total movement speed for 4 seconds. During this time, he empowers his next basic attack to gain 50 - 250 (based on distance traveled) bonus range and cause him to dash in the target's direction, revealing them for 1 second. If the target remains nearby during the dash, the ghosting and bonus movement speed ends prematurely and Hecarim knocks them back 150 - 350 (based on distance traveled) units, stuns them for 0.25 seconds, and deals them modified physical damage, increased by 0% - 100% (based on distance traveled).
+
+| Statistic | Value |
+| --- | --- |
+| Minimum Physical Damage | 30 / 45 / 60 / 75 / 90 (+ 50% bonus AD) |
+| Maximum Physical Damage | 60 / 90 / 120 / 150 / 180 (+ 100% bonus AD) |
+| Devastating Charge can critically strike for (75% + 50%) bonus physical damage |
+| Devastating Charge resets Hecarim's basic attack timer |
+| Hecarim can cast any of his abilities while dashing |
+| Devastating Charge's duration is paused during Onslaught of Shadows |
+| If the target does not remain nearby during the dash, Devastating Charge's effect will not be consumed |
+| The bonus movement speed stacks multiplicatively with other sources of movement speed boosts |
+| The bonus attack range stacks additively with Rapid Firecannon |
+| Devastating Charge's damage will still apply life steal and will affect structures |
+| "Distance traveled" can be simple movement as well as dashing and blinking |
+| Devastating Charge's damage will not bypass block or dodge but the knock back will still be applied |
+| Devastating Charge will still deal damage while blinded |
+| While grounded or rooted, Hecarim loses the bonus attack range from Devastating Charge |
+| Hecarim will not use the empowered attack while rooted |
+| The dash does not follow targets. The target's position at the time of the enhanced attack is the direction Hecarim will leap to |
+| Displacement immunity will not resist the application of the stun |
+
+##### Map-Specific Differences
+
+- Ultra Rapid Fire: cooldown begins after the empowered attack is used or times out.
+- Arena: minimum base damage changed to 50 / 65 / 80 / 95 / 110. Maximum base damage changed to 100 / 130 / 160 / 190 / 220. Minimum bonus AD ratio changed to 60% bonus AD. Maximum bonus AD ratio changed to 120% bonus AD.
+
+#### Onslaught of Shadows
+
+**COST:** 100 Mana
+
+**COOLDOWN:** 140 / 120 / 100 / 80 / 60 seconds
+
+**CAST TIME:** none
+
+**TARGET RANGE:** 1000 / 300 range
+
+**EFFECT RADIUS:** 315 width
+
+**SPEED:** 1100
+
+**Active:** Hecarim dashes with displacement immunity to the target location and summons 5 spectral riders in an arrow formation that charge alongside him in the target direction, dealing magic damage to all enemies in their path and revealing them for 2.5 seconds. Upon arrival, he fears nearby enemies for 0.75 - 1.5 (based on distance traveled) seconds and slows them, ramping to 99% over the duration. The wave of spectral riders travels independently of Hecarim and will always charge at the same distance. The slow's strength cannot be reduced and is increased based on how far away the affected units are from Hecarim. Onslaught of Shadows will cast at max range if cast beyond that.
+
+##### Map-Specific Differences
+
+- Ultra Rapid Fire: removed.
+
+### Champion Skins
+
+#### Original
+
+- View in 3D
+- 880
+- 17.04.2012
+
+#### Blood Knight
+
+- View in 3D
+- 975
+- 17.04.2012
+
+#### Bloodstone
+
+- View in 3D
+- 975
+- 17.04.2012
+
+#### Reaper
+
+- View in 3D
+- 975
+- 26.10.2012
+
+#### Headless
+
+- View in 3D
+- 975
+- 26.10.2012
+
+#### Trick-or-Treat
+
+- View in 3D
+- 975
+- 26.10.2012
+
+#### Arcade
+
+- View in 3D
+- 1350
+- 21.08.2013
+
+#### Elderwood
+
+- View in 3D
+- 1350
+- 25.11.2015
+
+#### Worldbreaker
+
+- View in 3D
+- 750
+- 10.11.2016
+
+#### Lancer Zero
+
+- Special
+- 16.08.2017
+
+### Voice filter
+
+#### Additional/unique quotes
+
+#### New SFX/VFX
+
+#### New Animations/Recall
+
+#### Cosmic Charger
+
+- View in 3D
+- 1350
+- 14.04.2022
+
+#### Arcana
+
+- View in 3D
+- 1350
+- 14.04.2022
+
+#### Winterblessed
+
+- View in 3D
+- 1350
+- 06.12.2023
+
+### Patch history
+
+[Expanded patch notes](<link-to-expanded-patch-notes-here>)
+
+V14.1
+- Devastating Charge: Bug Fix: No longer sometimes critically strikes with 0% critical strike chance.
+
+V13.21
+- Stats: Attack damage growth increased to 3.7 from 3.2.
+- Spirit of Dread: Duration increased to 5 seconds from 4.
+
+V13.17
+- Stats: Base mana increased to 280 from 277. Mana growth reduced to 40 from 60. Base mana regeneration increased to 7 from 6.5.
+- Rampage: Mana cost reduced to 28 / 26 / 24 / 22 / 20 from 30 at all ranks. Spirit of Dread: Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 50 / 60 / 70 / 80 / 90. Base heal reduced to 20% from 25%. Healing no longer scales with 2% per 100 bonus AD.
+
+V13.14
+- Spirit of Dread: Base bonus resistances reduced to 5 / 10 / 15 / 20 / 25 from 15 / 20 / 25 / 30 / 35.
+
+V13.6
+- General: New splash artwork for Original Hecarim.
+
+V12.23
+- December 14th Hotfix: Rampage: Base damage amplification per stack reduced to 3% from 4%. Maximum base damage amplification reduced to 9% from 12%. Damage amplification bonus AD ratio per stack reduced to 4% per 100 bonus AD from 5%. Maximum damage amplification bonus AD ratio reduced to 12% per 100 bonus AD from 15%.
+- Rampage: Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 97 / 134 / 171 / 208.
+- Devastating Charge: Minimum bonus AD ratio reduced to 50% bonus AD from 55%. Maximum bonus AD ratio reduced to 100% bonus AD from 110%. Knock back distance reduced to 150 - 350 (based on distance traveled) units from 250 - 450 (based on distance traveled). Cooldown changed to 18 seconds at all ranks from 20 / 19 / 18 / 17 / 16.
+- Onslaught of Shadows: Fear duration reduced to 0.75 - 1.5 (based on distance traveled) seconds from 0.75 - 2 (based on distance traveled).
+
+V12.18
+- Stats: Base health reduced to 625 from 650. Rampage: Damage bonus AD ratio reduced to 90% bonus AD from 95%. Damage amplification bonus AD ratio per stack reduced to 5% per 100 bonus AD from 6%. Maximum damage amplification bonus AD ratio reduced to 15% per 100 bonus AD from 18%. Windown time reduced to 0 seconds from 1.
+- Spirit of Dread: Base heal reduced to 25% from 30%. Healing from ally damage reduced to 15% from 30%. Healing from ally damage now scales with 1.25% per 100 bonus AD from 3% per 100 bonus AD.
+
+V12.17
+- Stats: Base armor reduced to 32 from 35. Health growth reduced to 99 from 104. Rampage: Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 97 / 134 / 171 / 208. Damage bonus AD ratio increased to 95% bonus AD from 90%. Number of stacks increased to 3 from 2. Cooldown reduction per stack reduced to 0.75 seconds from 1.
+- Maximum cooldown reduction increased to 2.25 seconds from 2.
+
+V12.10
+- Stats: Base health increased to 650 from 580. Health growth increased to 104 from 90. Armor growth increased to 5.45 from 4.25. Magic resistance growth increased to 2.05 from 1.7.
+- Rampage: Base damage increased to 60 / 90 / 120 / 150 / 180 from 55 / 95 / 130 / 165 / 190.
+- Devastating Charge: Minimum base damage reduced to 35 / 65 / 95 / 125 / 155 from 45 / 80 / 115 / 150 / 185. Maximum base damage reduced to 70 / 130 / 190 / 250 / 310 from 90 / 160 / 230 / 300 / 370.
+- Onslaught of Shadows: Fear duration increased to 0.75 - 1.5 (based on distance traveled) seconds from 0.75 - 1 (based on distance traveled).
+
+V12.9
+- Rampage: Cooldown reduced to 14 seconds from 18.
+
+V12.6
+- Rampage: Base damage reduced to 60 / 97 / 134 / 171 / 208 from 60 / 102 / 144 / 186 / 228.
+- Devastating Charge: Minimum base damage reduced to 35 / 65 / 95 / 125 / 155 from 45 / 80 / 115 / 150 / 185. Maximum base damage reduced to 70 / 130 / 190 / 250 / 310 from 90 / 160 / 230 / 300 / 370.
+
+V11.21
+- Devastating Charge: New Effect: Triggers spell effects when dealing damage.
+
+V11.20
+- Spirit of Dread: Cooldown reduced to 18 seconds at all ranks from 22 / 21 / 20 / 19 / 18. Healing cap increased to 120 / 150 / 180 / 210 / 240 from 90 / 120 / 150 / 180 / 210.
+
+V11.12
+- Stats: Base armor increased to 35 from 32. Rampage: Damage amplification per stack reduced to 2% from 5%.
+- New Effect: Damage amplification per stack now scales with 3% per 100 bonus AD.
+- Spirit of Dread: New Effect: Healing now scales with 2.5% per 100 bonus AD. Healing from ally damage reduced to 15% from 30%. Healing from ally damage now scales with 1.25% per 100 bonus AD.
+- Devastating Charge: Minimum base damage reduced to 35 / 65 / 95 / 125 / 155 from 45 / 80 / 115 / 150 / 185. Maximum base damage reduced to 70 / 130 / 190 / 250 / 310 from 90 / 160 / 230 / 300 / 370.
+
+V11.9
+- Stats: Base armor reduced to 32 from 36. Armor growth increased to 4.25 from 4.
+- Rampage: Damage amplification per stack reduced to 2% from 5%.
+- New Effect: Damage amplification per stack now scales with 3% per 100 bonus AD.
+- Spirit of Dread: New Effect: Healing now scales with 2.5% per 100 bonus AD. Healing from ally damage reduced to 15% from 30%. Healing from ally damage now scales with 1.25% per 100 bonus AD.
+- Devastating Charge: Minimum base damage reduced to 35 / 65 / 95 / 125 / 155 from 45 / 80 / 115 / 150 / 185. Maximum base damage reduced to 70 / 130 / 190 / 250 / 310 from 90 / 160 / 230 / 300 / 370.
+
+V11.7
+- Devastating Charge: Bonus movement speed reduced to 25% - 75% (based on time active) from 25% - 100% (based on time active).
+
+V11.6
+- Rampage: Base damage reduced to 60 / 97 / 134 / 171 / 208 from 60 / 102 / 144 / 186 / 228.
+
+V11.5
+- General: Updated visual effects.
+
+V11.1
+- Stats: Base magic resistance reduced to 32 from 32.1.
+
+V10.24
+- Warpath: Movement speed conversion reduced to 12% - 24% (based on level) from 15% - 30%.
+- Devastating Charge: Bonus movement speed reduced to 25% - 75% (based on time active) from 25% - 85%. Bug Fix: No longer gains more than 25% movement speed immediately after immediately casting.
+
+V10.23
+- Stats: Mana growth increased to 60 from 40.
+
+V10.21
+- Devastating Charge: Minimum base damage reduced to 35 / 65 / 95 / 125 / 155 from 45 / 80 / 115 / 150 / 185. Maximum base damage reduced to 70 / 130 / 190 / 250 / 310 from 90 / 160 / 230 / 300 / 370.
+- Onslaught of Shadows: Fear duration increased to 0.75 - 1.5 (based on distance traveled) seconds from 1 second at all distances.
+
+V10.17
+- Devastating Charge: Bonus movement speed reduced to 25% - 85% (based on time active) from 25% - 100% (based on time active).
+
+V10.16
+- Devastating Charge: Bonus movement speed increased to 25% - 100% (based on time active) from 25% - 75% (based on time active).
+
+V10.12
+- Rampage: Bug Fix: Tooltip in the collection tab has been updated to accurately reflect its latest state.
+
+V10.11
+- Rampage: Base damage increased to 60 / 102 / 144 / 186 / 228 from 55 / 95 / 130 / 165 / 190. Minion damage reduced to 66.6% from 66%.
+- Onslaught of Shadows: Fear duration increased to 0.75 - 1.5 (based on distance traveled) seconds from 1 second at all distances.
+
+V10.6
+- Onslaught of Shadows: Fear duration increased to 0.75 - 2 (based on distance traveled) seconds from 1 second at all distances.
+
+V9.9
+- Rampage: Damage amplification per stack reduced to 5% from 10%.
+- Devastating Charge: Minimum base damage reduced to 45 / 80 / 115 / 150 / 185 from 45 / 80 / 115 / 150 / 185. Maximum base damage reduced to 90 / 160 / 230 / 300 / 370 from 90 / 160 / 230 / 300 / 370.
+
+V9.6
+- Rampage: New Effect: Now deals 10% increased damage per stack.
+- Elderwood Hecarim: Bug Fix: Recall no longer uses the base skin's recall audio.
+
+V9.4
+- Rampage: Mana cost reduced to 28 / 31 / 34 / 37 / 40 from 32 / 34 / 36 / 38 / 40.
+- Devastating Charge: Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 24 / 22 / 20 / 18 / 16.
+
+V8.16
+- Rampage: Base damage increased to 55 / 95 / 130 / 165 / 195 from 55 / 90 / 125 / 160 / 195. Bonus AD ratio increased to 70% bonus AD from 60% bonus AD.
+- Spirit of Dread: Healing increased to 30% from 20%.
+
+V8.7
+- Spirit of Dread: Cooldown reduced to 16 / 15.5 / 15 / 14.5 / 14 seconds from 18 / 17 / 16 / 15 / 14 seconds.
+
+V7.22
+- Stats: Base attack damage increased to 66 from 58. Base armor increased to 36 from 26.7.
+- Rampage: Base damage increased to 55 / 90 / 125 / 160 / 195 from 50 / 85 / 120 / 155 / 190.
+- Devastating Charge: Base damage increased to 45 / 80 / 115 / 150 / 185 from 40 / 75 / 110 / 145 / 180.
+
+V7.17
+- Devastating Charge: New Effect: Duration no longer ticks down during Onslaught of Shadows' charge.
+- Onslaught of Shadows: Flee duration changed to 0.75 / 1.5 (based on distance traveled) seconds from 1 second at all distances.
+
+V7.11
+- Devastating Charge: Bug Fix: Stomp can no longer be reused if his initial target dies during the stomp animation.
+
+V7.1
+- Devastating Charge: Bug Fix: Can no longer critically strike structures.
+
+V6.20
+- Devastating Charge: Bug Fix: The basic attack component of Devastating Charge can now critically strike, in line with similar abilities such as Nasus' Siphoning Strike.
+
+V6.15
+- Stats: Base attack damage reduced to 58 from 61. Base health regen reduced to 7 from 9.
+- Rampage: Base damage reduced to 50 / 85 / 120 / 155 / 190 from 60 / 95 / 130 / 165 / 200.
+- Devastating Charge: Bonus movement speed stacking changed to multiplicative from additive.
+- New Effect: Knock back distance increases with the distance traveled by Hecarim over the duration.
+- Knockback distance changed to 250 - 450 from 300.
+- New Effect: Buff bar displays knockback level and speed.
+- Bug Fix: Fixed a bug where Devastating Charge would move Hecarim while rooted.
+
+V6.2
+- General: Bug Fix: Fixed a bug where Hecarim lost Devastating Charge's effects right after casting Onslaught of Shadows.
+
+V5.24
+- Warpath: Removed Passive: ghosting.
+- Devastating Charge: New Effect: Hecarim is ghosted while active.
+- Stats: Base mana reduced to 277.2 from 327.2. Mana growth increased to 40 from 37.
+
+V5.23
+- Stats: Base mana increased to 327.2 from 277.2. Mana growth reduced to 37 from 40.
+
+V5.11
+- Warpath: Bonus attack damage value check frequency increased to every 0.25 seconds from every 1 second.
+- Rampage: Bonus movement speed stacking changed to additive from multiplicative.
+
+V5.9
+- Rampage: Damage to monsters increased to 100% from 66%.
+- Devastating Charge: Travel distance for full charge reduced.
+
+V5.7
+- General: Adjusted splash artwork for Original Hecarim.
+
+V5.5
+- Devastating Charge: Bonus movement speed stacking changed to multiplicative from additive.
+
+V5.1
+- Rampage: Mana cost changed to 24 / 28 / 32 / 36 / 40 from 24 / 26 / 28 / 30 / 32.
+- Spirit of Dread: Healing cap against minions/monsters increased to 90 / 120 / 150 / 180 / 210 from 60 / 90 / 120 / 150 / 180.
+
+V4.13
+- Warpath: Bonus attack damage increased to 15 / 17.5 / 20 / 22.5 / 25% of bonus movement speed from 10 / 12.5 / 15 / 17.5 / 20%.
+- Rampage: Mana cost reduced to 24 / 26 / 28 / 30 / 32 from 24 / 28 / 32 / 36 / 40.
+
+V4.5
+- Stats: Base armor increased to 20 from 16.
+
+V4.1
+- Spirit of Dread: Bug Fix: Amount healed is now correctly 20% instead of 10 / 15 / 20 / 25 / 30%.
+
+V3.9
+- Rampage: Mana cost changed to 24 / 28 / 32 / 36 / 40 from 25 at all ranks.
+
+V3.8
+- Devastating Charge: New Effect: If the target is beyond narrow terrain, Hecarim will leap over it to reach them.
+- Onslaught of Shadows: Removed: Dealing 50 / 125 / 200 + 40% AP damage at end location. Spectral rider base damage increased to 150 / 250 / 350 from 100 / 200 / 300. Spectral rider AP ratio increased to 100% AP from 40% AP.
+
+V3.5 (Balance update)
+- Spirit of Dread: Cooldown increased to 22 / 21 / 20 / 19 / 18 seconds from 18 / 17 / 16 / 15 / 14 seconds.
+
+V3.03
+- Rampage: Base damage increased to 60 / 95 / 130 / 165 / 200 from 50 / 85 / 120 / 155 / 190.
+- Spirit of Dread: Healing changed to 20% at all ranks from 10 / 15 / 20 / 25 / 30%. Cooldown increased to 20 / 18.5 / 17 / 16.5 / 16 seconds from 14 at all ranks.
+- Bug Fix: Fixed a tooltip error that displayed more damage was actually dealt.
+
+V1.0.0.152
+- Stats: Movement speed increased to 345 from 320. Base attack damage increased to 59 from 56. Attack damage per level increased to 3.2 from 3.1.
+
+V1.0.0.149
+- Devastating Charge: Bug Fix: Fixed a bug where colliding with enemy turrets would take aggro.
+
+V1.0.0.144
+- Devastating Charge: Collision updated to be more responsive when hitting enemies.
+- Initial bonus movement speed increased to 25% from 0%. Maximum bonus movement speed and distance required unchanged.
+
+V1.0.0.140
+- Rampage: Damage to minions increased to 66% from 50%.
+- Devastating Charge: Travel distance for full charge reduced.
+
+V1.0.0.138
+- Warpath: (Innate) Hecarim ignores unit collision and gains attack damage equal to a percentage of his bonus movement speed.
+- Rampage: (Q) Hecarim cleaves nearby enemies, dealing physical damage.
+- Spirit of Dread: (W) Hecarim deals magic damage to nearby enemies for a short duration. Hecarim gains health equal to a percentage of any damage those enemies suffer.
+- Devastating Charge: (E) Hecarim gains increasing movement speed for a short duration. His next attack knocks the target back and deals additional physical damage based on the distance he has traveled since activating the ability.
+- Onslaught of Shadows: (Ultimate) Hecarim summons spectral riders and charges forward, dealing magic damage in a line. Hecarim creates a shockwave when he finishes his charge, dealing additional magic damage to nearby enemies, causing them to flee in terror.
+
+#### Trivia
+
+- Hecarim might have been inspired by the Four Horsemen of the Apocalypse (specifically War) and/or Assault Rider from Kingdom Hearts.
+- His dance references 'Dope Zebra' by 'rhettandlink'.
+- Warpath, along with Tailwind, is one of the only two abilities in the game that scale with movement speed.
+- Onslaught of Shadows might be referencing the fight with Ganondorf in The Legend of Zelda: Twilight Princess.
+- The spectral riders used to be members of the Iron Order Hecarim was Knight Commander of and, together with him, became undead when the Ruination of the Blessed Isles was unleashed.
+- Hecarim was deemed overpowered in Ultra Rapid Fire (2014 edition) and was ultimately disabled in non-custom games.

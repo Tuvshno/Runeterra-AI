@@ -1,0 +1,856 @@
+**Games**
+
+* Universe
+* **•**
+* League of Legends
+* **•**
+	+ League of Legends Champion: Pyke
+	+ **•**
+	+ Gameplay
+	+ Collection
+	+ Audio
+	+ Patch history
+	+ Past versions
+* **•**
+* Teamfight Tactics
+* **•**
+* Legends of Runeterra
+* **•**
+* Wild Rift
+
+**Image**
+
+* Pyke
+
+**Pyke**
+
+* Release date: 2018-05-31
+* Last changed: V14.3
+* Class(es): Assassin, Catcher, Legacy, Support
+* Position(s): Support
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 3150
+| 790
+* Crafting cost: +1890
+
+**Ratings**
+
+* Damage: 2
+* Toughness: 1
+* Control: 3
+* Mobility: 3
+* Utility: 1
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Pyke Champion Spotlight**
+
+**Pyke is a champion in League of Legends.**
+
+[1]
+
+**Base statistics**
+
+* Health: 670 +110
+* Mana: 415 +50
+* Health regen. (per 5s): 7
+* Mana regen. (per 5s): 8
+* Armor: 47 +4.7
+* Attack damage: 62 +2
+* Magic resist.: 32 +2.05
+* Crit. damage: 175%
+* Move. speed: 330
+* Attack range: 150
+* Attack speed: Base AS 0.667, Bonus AS +2.5%
+* Unit radius: Gameplay radius 65, Selection radius 120, Pathing radius 35, Acq. radius 400
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena: Damage Dealt +10%, Damage Received -5%, Tenacity & Slow Resist +20%, Damage Dealt +5%, Damage Received +0%, Damage Dealt +0%, Damage Received -5%, Damage Dealt +0%, Damage Received +0%, Damage Dealt +0%
+
+**Abilities**
+
+[ ]
+
+* **Gift of the Drowned Ones**
+	+ Innate: Maximum health cannot increase except through growth (per level), instead he gains 1 bonus attack damage per 14 bonus health.
+	+ Innate: Pyke gains 1 bonus movement speed while in the river.
+	+ Innate: Pyke stores 9% (± 0.2% per 1 Lethality) of the post-mitigation damage he takes from enemy champions as grey health on his health bar, increased to 40% (± 0.4% per 1 Lethality) while there are two or more visible enemy champions nearby. He can store up to 80 (± 800% bonus AD) grey health, with an upper cap of 55% of his maximum health.
+	+ While Pyke is not visible to enemies, he rapidly consumes his grey health to heal for the same amount.
+* **Map-Specific Differences**
+	+ Targeting input: Passive
+	+ Game elements that increase health based on the champion's health (e.g Overgrowth) will increase the health before getting converted by Gift of the Drowned Ones, thus granting increased bonus AD.
+	+ Spirit Visage and Grievous Wounds take effect after Gift of the Drowned Ones's healing cap.
+	+ Pyke's grey health does not have a time limit and will stay on his health bar until Pyke leaves enemy vision or dies.
+	+ Since Pyke's maximum health cannot be increased, Gift of the Drowned Ones reaches the upper cap of 55% of maximum health at 40.25% − 180.5 (based on level) bonus attack damage.
+	+ Untargetable champions count towards Pyke's modified grey health storing.
+	+ Amount of attack damage granted from list of items that grants health, converted with Gift of the Drowned Ones: [Automatically generated based on the data from Module:ItemData/data]
+
+**Item** | **Cost** | **Availability**
+---|---|---
+Abyssal Mask | 2400 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Anathema's Chains | 2500 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Bami's Cinder | 1000 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Black Cleaver | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Bloodsong | 400 | Classic Summoner's Rift 5v5
+Bounty of Worlds | 400 | Classic Summoner's Rift 5v5
+Catalyst of Aeons | 1300 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Celestial Opposition | 400 | Classic Summoner's Rift 5v5
+Chempunk Chainsword | 2800 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Cosmic Drive | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Cry of the Shrieking City | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Crystalline Bracer | 800 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Dark Seal | 350 | Classic Summoner's Rift 5v5
+Dead Man's Plate | 2900 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Doran's Blade | 450 | Nexus Blitz, Classic Summoner's Rift 5v5
+Doran's Ring | 400 | Nexus Blitz, Classic Summoner's Rift 5v5
+Doran's Shield | 450 | Nexus Blitz, Classic Summoner's Rift 5v5
+Dream Maker | 400 | Classic Summoner's Rift 5v5
+Dreamshatter | 3300 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Echoes of Helia | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Edge of Night | 2800 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Experimental Hexplate | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Fimbulwinter | 2400 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Force of Nature | 2800 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Frozen Fist | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Giant's Belt | 900 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Guardian's Blade | 950 | Arena, All Random All Mid
+Guardian's Hammer | 950 | Arena, All Random All Mid
+Guardian's Horn | 950 | Arena, All Random All Mid
+Guardian's Orb | 950 | Arena, All Random All Mid
+Haunting Guise | 1300 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Heartsteel | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Heavensfall | 3100 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hextech Rocketbelt | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hollow Radiance | 2800 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hope Adrift | 2800 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Hullbreaker | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5
+Icathia's Curse | 3100 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Iceborn Gauntlet | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Infinite Convergence | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Infinity Force | 3333 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Jak'Sho, The Protean | 3200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Kaenic Rookern | 2900 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Kindlegem | 800 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Knight's Vow | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Leviathan | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Liandry's Lament | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Liandry's Torment | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Locket of the Iron Solari | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Mejai's Soulstealer | 1500 | Classic Summoner's Rift 5v5
+Mikael's Blessing | 2300 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Moonstone Renewer | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Obsidian Cleaver | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Phage | 1100 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Randuin's Omen | 2700 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Redemption | 2300 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Reliquary of the Golden Dawn | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Riftmaker | 3100 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Rod of Ages | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Ruby Crystal | 400 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Runic Compass | 400 | Classic Summoner's Rift 5v5
+Rylai's Crystal Scepter | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Shojin's Resolve | 3100 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Solstice Sleigh | 400 | Classic Summoner's Rift 5v5
+Spear of Shojin | 3100 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Spectre's Cowl | 1250 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Spirit Visage | 2900 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Starcaster | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Sterak's Gage | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Stridebreaker | 3300 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Sundered Sky | 3100 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Sunfire Aegis | 2700 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+T.U.R.B.O. | 3000 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+The Unspoken Parasite | 3200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Thornmail | 2700 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Titanic Hydra | 3300 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5
+Trailblazer | 2500 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Trinity Force | 3333 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Tunneler | 1150 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Unending Despair | 2800 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Upgraded Aeropack | 2600 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+Vigilant Wardstone | 2300 | Classic Summoner's Rift 5v5
+Warmog's Armor | 3100 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Watchful Wardstone | 1100 | Classic Summoner's Rift 5v5
+Winged Moonplate | 800 | Nexus Blitz, Classic Summoner's Rift 5v5, All Random All Mid
+Winter's Approach | 2400 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+World Atlas | 400 | Classic Summoner's Rift 5v5
+Zaz'Zak's Realmspike | 400 | Classic Summoner's Rift 5v5
+Zeke's Convergence | 2200 | Nexus Blitz, Arena, Classic Summoner's Rift 5v5, All Random All Mid
+
+**Map-Specific Differences**
+
+* Arena differences:
+	+ Base damage stored near one enemy changed to 60%.
+	+ Base damage stored near multiple enemies changed to 120%.
+
+**Bone Skewer**
+
+* Cost: 70 / 75 / 80 / 85 / 90 mana
+* Cooldown: 10 / 9.5 / 9 / 8.5 / 8 seconds
+* Cast time: 0.25 seconds
+* Target range: 400 - 1100 (based on channel time)
+* Effect radius: 550
+* Width: 140 / 200
+* Active: Pyke charges while being slowed by 20% for up to 3 seconds to increase Bone Skewer's range over the first second of the channel. Bone Skewer can be recast within the duration.
+* Recast: Pyke hurls his harpoon in the target direction that deals physical damage to the first enemy hit and pulls them, during which they are also revealed, then slows them by 90% for 1 second.
+* Physical damage: 100 / 150 / 200 / 250 / 300 (± 75% bonus AD)
+
+**Pyke's Quotes**
+
+* "Sink or swim, it's all the same to me."
+* "The fishes are biting. Let's see if that landlubber down there is next."
+* "Beware, the bill collector is here."
+* "Fish are friends, food is friends. I've got a lot of friends."
+* "I've got a taste for the hunt."
+* "What's a hook for if not to reel something in?"
+* "I've got a feeling I'll be making some new friends soon."
+* "Fish in a barrel, eh? I'll show you how to fish for the big ones."
+* "I've always got room for one more."
+* "I've got a feeling someone's about to jump ship."
+* "I'll make you an offer you can't refuse."
+* "Let's see who's swimming upstream now."
+* "You'll be eating my line before long."
+* "I've got a feeling someone's about to take the bait."
+* "You can run, but you can't hide."
+* "The sea is calling. It's time to answer."
+* "Fish or cut bait, it's your call."
+* "Ever heard of the one that got away? Well, I've got a few stories."
+* "I've got a feeling you're about to be out of your depth."
+* "You can't hide from the hook."
+* "Fishing's not just about the catch, it's the journey."
+* "I've got a feeling we're about to make a splash."
+* "The tide is turning in my favor."
+* "The time has come to reel in the big one."
+* "I've got a feeling we're about to make a big catch."
+* "Let's see how deep the water goes."
+* "I've got a feeling you'll be swimming in my direction soon."
+* "The bait is set. All that's left is to wait."
+* "I've got a feeling this is going to be a good haul."
+* "The sea is a treacherous mistress, but I'll tame her yet."
+* "Fish are like snowflakes, each one is unique."
+* "You can't judge a fish by its scales."
+* "I've got a feeling the best is yet to come."
+* "I've got a feeling we'll make a great team."
+* "I've got a feeling you'll be singing a different tune soon."
+* "I've got a feeling the game is about to change."
+* "I've got a feeling we're about to make history."
+* "I've got a feeling we'll make a difference."
+* "I've got a feeling you'll be surprised."
+* "I've got a feeling this is the beginning of something great."
+* "I've got a feeling we'll make a splash in the pond."
+* "I've got a feeling we'll make waves."
+* "I've got a feeling we'll make a splash in the community."
+* "I've got a feeling we'll make a difference in people's lives."
+* "I've got a feeling we'll make a name for ourselves."
+* "I've got a feeling we'll make a mark in the industry."
+* "I've got a feeling we'll make a statement."
+* "I've got a feeling we'll make a legacy."
+* "I've got a feeling we'll make a dent in the competition."
+* "I've got a feeling we'll make a name for our team."
+* "I've got a feeling we'll make a statement in the game."
+* "I've got a feeling we'll make history in the eSports scene."
+* "I've got a feeling we'll make a difference in the community."
+* "I've got a feeling we'll make a mark in the world of gaming."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a dent in the competition."
+* "I've got a feeling we'll make a name for ourselves in the competitive scene."
+* "I've got a feeling we'll make a statement in the world of gaming."
+* "I've got a feeling we'll make a legacy in the eSports scene."
+* "I've got a feeling we'll make a difference in the world of gaming."
+* "I've got a feeling we'll make a mark in the eSports world."
+* "I've got a feeling we'll make a statement in the gaming community."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the eSports community."
+* "I've got a feeling we'll make a legacy in the gaming world."
+* "I've got a feeling we'll make a dent in the gaming industry."
+* "I've got a feeling we'll make a name for ourselves in the eSports industry."
+* "I've got a feeling we'll make a statement in the world of eSports."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the world of competitive gaming."
+* "I've got a feeling we'll make a mark in the eSports world."
+* "I've got a feeling we'll make a statement in the world of competitive gaming."
+* "I've got a feeling we'll make a legacy in the gaming community."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the eSports community."
+* "I've got a feeling we'll make a legacy in the competitive gaming world."
+* "I've got a feeling we'll make a difference in the world of competitive eSports."
+* "I've got a feeling we'll make a mark in the gaming community."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive community."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive eSports world."
+* "I've got a feeling we'll make a legacy in the eSports community."
+* "I've got a feeling we'll make a difference in the eSports world."
+* "I've got a feeling we'll make a mark in the gaming community."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive community."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports community."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming community."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive community."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."
+* "I've got a feeling we'll make a difference in the eSports community."
+* "I've got a feeling we'll make a mark in the gaming industry."
+* "I've got a feeling we'll make a statement in the gaming world."
+* "I've got a feeling we'll make a legacy in the competitive industry."
+* "I've got a feeling we'll make a difference in the competitive gaming world."
+* "I've got a feeling we'll make a mark in the eSports industry."
+* "I've got a feeling we'll make a statement in the eSports world."
+* "I've got a feeling we'll make a legacy in the gaming industry."
+* "I've got a feeling we'll make a difference in the gaming world."
+* "I've got a feeling we'll make a mark in the competitive industry."
+* "I've got a feeling we'll make a statement in the competitive gaming world."
+* "I've got a feeling we'll make a legacy in the eSports world."

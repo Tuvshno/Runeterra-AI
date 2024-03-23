@@ -1,0 +1,1038 @@
+**Games**
+
+**Universe**
+
+-
+
+**League of Legends**
+
+•
+
+**Teamfight Tactics**
+
+•
+
+**Wild Rift**
+
+**Image**
+
+**Brand**
+
+**Gameplay**
+-
+
+**Cosmetics**
+-
+
+**Audio**
+-
+
+**Development**
+-
+
+**Patch History**
+-
+
+**History**
+-
+
+**Trivia**
+
+**Base statistics**
+Brand
+
+|
+
+**Health** | 570 + 105 |
+| **Mana** | 469 + 21 |
+| **Health regen. (per 5s)** | 5.5 + 0.55 |
+| **Mana regen. (per 5s)** | 10.65 + 0.6 |
+| **Armor** | 27 + 4.2 |
+| **Attack damage** | 57 + 3 |
+| **Magic resist.** | 30 + 1.3 |
+| **Crit. damage** | 175% |
+| **Move. speed** | 340 |
+| **Attack range** | 550 |
+| **Attack speed (Base AS)** | 0.681 |
+| **Attack windup** | 18.75% |
+| **AS ratio** | 0.625 |
+| **Bonus AS** | +2% |
+| **Missile speed** | 2000 |
+| **Unit radius** | - |
+| **Selection radius** | 89 |
+| **Pathing radius** | 35 |
+| **Acq. radius** | 600 |
+
+**Special statistics**
+-
+
+**ARAM**
+-
+
+**Nexus Blitz**
+-
+
+**One For All**
+-
+
+**URF**
+-
+
+**Ult Spellbook**
+-
+
+**Arena**
+-
+
+**Damage Dealt**
+-5%
+
+**Damage Received**
++10%
+
+**Ability Haste**
+-10
+
+**Damage Dealt**
+-10%
+
+**Damage Received**
++8%
+
+**Damage Dealt**
++0%
+
+**Damage Received**
++0%
+
+**Damage Dealt**
+-5%
+
+**Damage Received**
++0%
+
+**Damage Dealt**
++0%
+
+**Damage Received**
++0%
+
+**Abilities**
+[
+]
+-
+
+**Blaze**
+
+Blaze
+
+**EFFECT RADIUS:** 475
+
+**Innate:**
+Brand's abilities apply a stack of Ablaze to enemies hit for 4 seconds, stacking up to 3 times and refreshing the duration of all stacks with each application. Subsequent abilities used against a target with Ablaze are empowered. Killing an enemy afflicted with Ablaze or any enemy with an ability restores 30 - 50 (based on level) mana.
+
+**Ablaze:****
+While afflicted with Ablaze, the target is dealt magic damage equal to 2% of their maximum health over 4 seconds. 0.167% of their maximum health every 0.25 seconds over 4 seconds. Each stack of Ablaze deals damage to the target individually and applies their damage ticks dependent on the time they were applied, even if the duration of all the stacks are refreshed. Ablaze deals 215% damage per tick to monsters, capped at 80. Upon applying 3 stacks of Ablaze to a large monster or enemy champion, the fire becomes unstable, forming an area around the target that grants sight and explodes after 2 seconds, consuming all of their stacks. All enemies within the detonation are dealt magic damage equal to 9% - 13% (based on level) of their maximum health (+ 2% per 100 AP), reduced by 50% against epic monsters, and applied a stack of Ablaze.
+
+The explosion will still occur if the target dies to the ability applying the third stack or during the delay. Brand cannot stack Ablaze more than once on enemies who have exploded in the last 4 seconds.
+
+**Details**
+-
+
+**Hide**
+
+**Video**
+-
+
+**Info**
+-
+
+**Targeting input**
+-
+
+**Damage type**
+-
+
+**Sub-type**
+-
+
+**See Notes**
+-
+
+**Magic**
+
+**Counters**
+-
+
+**Spell shield**
+-
+
+**Blocked**
+
+**Ablaze**
+is a debuff that persists through death.
+
+The explosion is not considered a tether effect and will not affect untargetable targets, even if the explosion originated from them.
+
+Given the behavior of the stacking mechanic, the damage over time will deal varying amounts of damage based on the time the stacks were applied:
+
+At sub-optimal applied times, 2 stacks will deal a minimum of 6% maximum health damage over 4 seconds, but will deal 7% maximum health at optimal applied times. Against small-medium units, 3 stacks will deal a minimum of 9% maximum health at sub-optimal times, but 11% maximum health at optimal times. If these stacks are further refreshed at optimal times, they can deal up to 12% maximum health over 4 seconds.
+
+The burn is persistent damage and the explosion is area damage.
+
+**Video**
+-
+
+**https://leagueoflegends.fandom.com/wiki/File:Brand\_IVideo.ogv**
+-
+
+**Edit**
+
+**Sear**
+
+Sear
+
+**COST:** 50 mana
+
+**COOLDOWN:** 8 / 7.5 / 7 / 6.5 / 6
+
+**CAST TIME:** 0.25 seconds
+
+Active: Brand launches a fireball in the target direction that deals magic damage to the first enemy hit.
+
+**Magic Damage:** 70 / 100 / 130 / 160 / 190 (± 65% AP)
+
+**Ablaze Bonus:** The target is stunned for 1.5 seconds.
+
+**Map-Specific Differences**
+-
+
+**Ultra Rapid Fire differences**
+
+* Stun duration changed to 1 second.
+
+**Video**
+-
+
+**https://leagueoflegends.fandom.com/wiki/File:Brand\_QVideo.ogv**
+-
+
+**Edit**
+
+**Pillar of Flame**
+
+Pillar of Flame
+
+**COST:** 60 / 70 / 80 / 90 / 100 mana
+
+**COOLDOWN:** 10 / 9.5 / 9 / 8.5 / 8
+
+**CAST TIME:** 0.25 seconds
+
+Active: After a 0.627-second delay, Brand erupts a pillar of flame at the target location that deals magic damage to enemies hit.
+
+**Magic Damage:** 75 / 120 / 165 / 210 / 255 (± 60% AP)
+
+**Ablaze Bonus:** The target takes 25% increased damage.
+
+**Increased Damage:** 93.75 / 119.25 / 145 / 171.25 / 197.75 (± 75% AP)
+
+**Hide**
+
+**Details**
+-
+
+**Video**
+-
+
+**Info**
+-
+
+**Targeting input**
+-
+
+**Location**
+
+**Damage type**
+-
+
+**Sub-type**
+-
+
+**Area damage**
+
+**Magic**
+
+**Counters**
+-
+
+**Spell shield**
+
+**Blocked**
+
+The delay before the eruption does not include the cast time. The delay would be a total of 0.891 seconds if it included the cast time.
+
+**Champion skins**
+[ ]
+This article section only contains champion skins. For all associated collection items, see
+Brand (Collection)
+.
+
+**Original**
+
+**View in 3D**
+
+880
+
+12.04.2011
+
+[Unknown voice actor]
+
+Michal Ivan, Puppetworks Animation Studio
+
+Loot eligible
+
+**Apocalyptic**
+
+**View in 3D**
+
+750
+
+12.04.2011
+
+[Unknown voice actor]
+
+Unknown artist
+
+**Loot eligible**
+
+**Vandal**
+
+**View in 3D**
+
+520
+
+12.04.2011
+
+[Unknown voice actor]
+
+Kelly Aleshire
+
+**Vandal**
+
+**Loot eligible**
+
+**Cryocore**
+
+**View in 3D**
+
+975
+
+05.10.2011
+
+[Unknown voice actor]
+
+Unknown artist
+
+**Legacy**
+
+**Cryocore**
+
+**View in 3D**
+
+[Unknown voice actor]
+
+[Unknown artist]
+
+**Silver Age**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**Zombie**
+
+**View in 3D**
+
+1820
+
+26.10.2012
+
+[Unknown voice actor]
+
+Unknown artist
+
+**Zombies VS Slayers**
+
+**Loot eligible**
+
+**Legacy**
+
+**New voiceover**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Spirit Fire**
+
+**View in 3D**
+
+1350
+
+21.10.2015
+
+[Unknown voice actor]
+
+Kelly Aleshire
+
+**Worldbreaker**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Battle Boss**
+
+**View in 3D**
+
+1350
+
+08.08.2017
+
+[The fire boss from a bestselling action game, Brand has no intention of returning to his original machine. He'd rather see all of Arcade World burn to the ground, to be rebuilt in the image of the villains who rule it.]
+
+[Unknown voice actor]
+
+Rudy Siswanto
+
+**Arcade: Battle Bosses**
+
+**Loot eligible**
+
+**Voice filter**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Arclight**
+
+**View in 3D**
+
+1350
+
+07.03.2019
+
+[In the early days of civilization, Vel'Koz chose a man named Kegan Rodhe to take up the mantle of the first Arclight, gifting him with vast divine powers. But millenia have passed since then, and though Rodhe is gone, his body is still animated by the light, filled with nothing but pain and rage.]
+
+[Unknown voice actor]
+
+Alvin Lee
+
+**Arclight**
+
+**Loot eligible**
+
+**Voice filter**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Chromas**
+
+**Arclight Brand Chromas**
+
+**Aquamarine**
+
+**Obsidian**
+
+**Pearl**
+
+**Ruby**
+
+**Eternal Dragon**
+
+**View in 3D**
+
+1350
+
+01.10.2020
+
+[Intoxicated by the power over life and death he received from the Eternal Dragon, Brand now spreads death and decay across the land. Now that his dragon benefactor has retreated from the affairs of mortals, only other dragon-blessed can fight against the rot Brand leaves in his wake as he asserts his prowess.]
+
+[Unknown voice actor]
+
+Terence 'Terrylefruit' Cantal, West Studio
+
+**Dragonmancers**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Chromas**
+
+**Eternal Dragon Brand Chromas**
+
+**Amethyst**
+
+**Catseye**
+
+**Emberclaw**
+
+**Jadeclaw**
+
+**Obsidian**
+
+**Pearl**
+
+**Rose Quartz**
+
+**Ruby**
+
+**Sapphire**
+
+**Debonair**
+
+**View in 3D**
+
+1350
+
+09.12.2021
+
+[Longtime rival to Master Yi, Brand owns a competing chain of high end hotels and can be seen verbally sparring with his enemy at any gala that will tolerate them. Their battles are legendary… though the property damage alone skyrockets into the tens of millions.]
+
+[Unknown voice actor]
+
+West Studio
+
+**Debonair**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Chromas**
+
+**Debonair Brand Chromas**
+
+**Amethyst**
+
+**Catseye**
+
+**Cerulean Club**
+
+**Emerald**
+
+**Obsidian**
+
+**Rose Quartz**
+
+**Ruby**
+
+**Sapphire**
+
+**Turquoise**
+
+**Prestige Debonair**
+
+**View in 3D**
+
+Special
+
+09.12.2021
+
+[With a blisteringly fashionable custom suit, the plans for which he burned, Brand stands on the precipice of something he has long thought beyond his reach: defeating his rivals and standing atop the greatest aristocrats in the world.]
+
+[Unknown voice actor]
+
+West Studio
+
+**Debonair**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**This skin is a variant of Debonair.**
+
+**Street Demons**
+
+**View in 3D**
+
+1350
+
+13.09.2023
+
+[A will-o'-wisp with bombastic style, Brand's art is all about embracing your inner power and letting it EXPLODE! (His work features lots of exclamation points.) He's famous for using destruction as an unconventional tool to create beautiful images: acid washes, cracked concrete, and, of course, burning.]
+
+[Unknown voice actor]
+
+Pandart Studio
+
+**Street Demons**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Chromas**
+
+**Street Demons Brand Chromas**
+
+**Amethyst**
+
+**Catseye**
+
+**Emerald**
+
+**Obsidian**
+
+**Pearl**
+
+**Rose Quartz**
+
+**Ruby**
+
+**Sapphire**
+
+**Patch history**
+[ ]
+For the expanded patch notes, see here.
+
+**V14.5**
+
+Blaze
+
+Monster damage increased to 215% from 200%.
+
+Pyroclasm
+
+Cooldown increased to 110 / 100 / 90 seconds from 105 / 90 / 75.
+
+Base damage reduced to 100 / 175 / 250 from 100 / 200 / 300.
+
+**V14.4**
+
+Pillar of Flame
+
+Bug Fix:
+Border ring VFX now properly displays on lower graphic settings when using specific skins.
+
+**V14.3**
+
+Blaze
+
+Monster damage reduced to 200% from 220%.
+
+Bug Fix:
+No longer deals one more tick of damage than intended with a single application of the burn.
+
+Sear
+
+Base damage reduced to 70 / 100 / 130 / 160 / 190 from 80 / 110 / 140 / 170 / 200.
+
+**V14.2**
+
+- January 24th Hotfix
+
+Blaze
+
+Damage over time reduced to 2.5% of target's maximum health from 3%.
+
+Monster damage reduced to 220% from 230%.
+
+**V14.2**
+
+General
+
+Updated visual effects.
+
+The following skins are affected:
+
+Original Brand
+,
+Cryocore Brand
+,
+Zombie Brand
+,
+Spirit Fire Brand
+, and
+Battle Boss Brand
+.
+
+Blaze
+
+Damage over time tick rate reduced to 0.25 seconds from 1.08 seconds.
+
+Damage per tick changed to 0.83% of target's maximum health from 1.5%.
+
+V13.22
+
+Blaze
+
+Monster damage increased to 230% from 220%.
+
+Conflagration
+
+Base damage changed to 60 / 90 / 120 / 150 / 180 from 65 / 90 / 115 / 140 / 170.
+
+AP ratio increased to 60% AP from 50% AP.
+
+V13.21
+
+Stats
+
+Base health reduced to 570 from 590.
+
+Health growth increased to 105 from 102.
+
+Base armor increased to 27 from 22.
+
+Armor growth reduced to 4.2 from 4.7.
+
+Base attack speed increased to 0.681 from 0.625.
+
+Attack speed growth increased to 2% from 1.36%.
+
+Blaze
+
+Monster damage increased to 220% from 120%.
+
+Conflagration
+
+Base damage reduced to 65 / 90 / 115 / 140 / 170 from 70 / 95 / 120 / 145 / 170.
+
+AP ratio reduced to 50% AP from 55% AP.
+
+V13.16
+
+Blaze
+
+Mana restored increased to 30 - 50 (based on level) from 20 - 40 (based on level).
+
+Sear
+
+AP ratio increased to 65% AP from 55% AP.
+
+Conflagration
+
+AP ratio increased to 55% AP from 45% AP.
+
+V12.22
+
+Stats
+
+Base mana regeneration reduced to 10.65 from 11.05.
+
+V12.11
+
+Blaze
+
+Damage over time reduced to 3% of target's maximum health from 4%.
+
+Explosion base damage reduced to 9% - 13% (based on level) maximum health from 10% - 14% (based on level).
+
+V12.10
+
+Stats
+
+Base health increased to 590 from 585.
+
+Health growth increased to 90 from 88.
+
+Armor growth increased to 4.7 from 4.2.
+
+Magic resistance growth increased to 0.5 from 0.35.
+
+V12.3
+
+Blaze
+
+New Effect:
+Whenever Brand kills an Ablaze unit, he restores 6 - 18 (based on level) mana.
+
+Pyroclasm
+
+New Effect:
+If the target hit is Ablaze, the next bounce prioritizes champions.
+
+Missile speed increased to 1000 from 900.
+
+V11.7
+
+Blaze
+
+Bug Fix:
+Fixed a bug where it would not trigger Spellthief's Edge's Tribute.
+
+V11.1
+
+Stats
+
+Base health increased to 585 from 582.
+
+Base attack damage reduced to 58 from 58.5.
+
+Base armor increased to 22 from 21.5.
+
+Conflagration
+
+Bug Fix:
+Now properly cancels when the target dies during the cast time.
+
+V10.23
+
+Blaze
+
+Explosion base damage reduced to 10% - 14% (based on level) maximum health from 10% - 14% (based on level).
+
+Conflagration
+
+Cooldown increased to 12 / 11 / 10 / 9 / 8 seconds from 10 / 9 / 8 / 7 / 6.
+
+V10.22
+
+Blaze
+
+Explosion base damage reduced to 10% - 14% (based on level) maximum health from 12% - 16% (based on level).
+
+Explosion AP ratio increased to 2% per 100 AP from 1.5% per 100 AP.
+
+Conflagration
+
+New Effect:
+Conflagration now always spreads to nearby enemies after hitting an Ablaze target.
+
+Spread radius reduced to 300 units from 375.
+
+New Effect:
+Now displays a brief indicator for the spread range.
+
+Pyroclasm
+
+New Effect:
+Can now bounce back to Brand. Bounces off Brand "sticks" to him slightly longer to temper 0-distance instant bursts.
+
+Bounce priority is now enemy champions, then Brand, then any valid bounce target.
+
+V10.12
+
+Blaze
+
+Mana restoration increased to 20 - 40 (based on level) from 6 - 18 (based on level).
+
+V10.6
+
+Blaze
+
+New Effect:
+Ablaze now deals 120% damage against monsters.
+
+V9.10
+
+Conflagration
+
+Base damage increased to 70 / 90 / 110 / 130 / 150 from 70 / 105 / 140 / 175 / 210.
+
+AP ratio increased to 45% AP from 35% AP.
+
+V9.7
+
+Zombie Brand
+
+Bug Fix:
+Buffs aura now properly follows the model during certain animations.
+
+V9.5
+
+Zombie Brand
+
+Bug Fix:
+VO no longer plays globally when Brand is in vision.
+
+V9.2
+
+General
+
+Recommended items updated.
+
+Blaze
+
+Damage over time reduced to 3% of target's maximum health from 4%.
+
+V9.1
+
+Zombie Brand
+
+Bug Fix:
+VO lines no longer overlap.
+
+V8.9
+
+Stats
+
+Base mana increased to 469 from 450.
+
+Mana growth reduced to 21 from 25.
+
+V8.3
+
+Stats
+
+Base health regeneration increased to 5.5 from 5.
+
+V8.2
+
+Conflagration
+
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+
+Pyroclasm
+
+New Effect:
+Now draws nearby minion aggro when targeting an enemy champion.
+
+V8.1
+
+Blaze
+
+Damage per stack increased to 4% of target's maximum health from 2%.
+
+V7.22
+
+Stats
+
+Base health increased to 520 from 515.
+
+Health growth increased to 88 from 87.
+
+V7.20
+
+Blaze
+
+New Effect:
+Whenever Brand kills an Ablaze unit, he restores 6 - 18 (based on level) mana.
+
+V7.18
+
+General
+
+Bug Fix:
+Now correctly has recommended item pages for both mid and support.
+
+V7.15
+
+Spirit Fire Brand
+
+Bug Fix:
+No longer have higher volume levels compared to his classic skin.
+
+Conflagration
+
+Bug Fix:
+No longer have higher volume levels compared to his classic skin.
+
+Pyroclasm
+
+Bug Fix:
+No longer have higher volume levels compared to his classic skin.
+
+V7.9
+
+Stats
+
+Magic resistance growth increased to 0.35 from 0.
+
+V7.5
+
+Zombie Brand
+
+Bug Fix:
+Fixed a bug where moving the camera away and back during his death animation would make his gravestone and earth particles to disappear.
+
+V6.24
+
+Conflagration
+
+Bug Fix:
+When spreading to nearby enemies after hitting an Ablaze target, the spread damage no longer counts as a single-target spell.
+
+V6.9
+
+General
+
+New ability icons
+
+Blaze
+
+Damage per second reduced to 0.5% of target's maximum health from 2%.
+
+New Effect:
+Stacks up to 3 times (1.5% of target's maximum health per second)
+
+New Effect:
+At 3 stacks, an area around the target is highlighted
+
+After 2 seconds, all targets within the area take magic damage equal to 12 - 16 (based on level) % (± 1% per 60 AP) of their maximum health.
+
+The damage from this detonation will apply Blaze to secondary targets and refresh the current timer on the target.
+
+Once a target has detonated, they will not generate Blaze stacks again for 4 seconds (until their current buff times out)
+
+Sear
+
+Base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 120 / 160 / 190 / 220.
+
+AP ratio reduced to (+ 55% AP) from (+ 65% AP)
+
+Stun duration reduced to 1.5 seconds from 2.
+
+Pillar of Flame
+
+Cooldown reduced to 10 / 9.5 / 9 / 8.5 / 8 seconds from 10 at all ranks.
+
+Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 70 / 80 / 90 / 100 / 110.
+
+Conflagration
+
+Base damage reduced to 70 / 90 / 110 / 130 / 150 from 70 / 105 / 140 / 175 / 210.
+
+AP ratio reduced to (+ 35% AP) from (+ 65% AP)
+
+Cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 12 / 11 / 10 / 9 / 8.
+
+Pyroclasm
+
+Base damage reduced to 100 / 200 / 300 from 150 / 250 / 350.
+
+AP ratio reduced to (+ 25% AP) from (+ 50% AP)
+
+New Effect:
+Now prioritizes giving enemies 3 stacks of Blaze.
+
+Champions with 2 stacks of Blaze.
+
+Champions with 1 stack of Blaze.
+
+Champions with no Blaze.
+
+Champions immune to Blaze.
+
+Other targets.
+
+New Effect:
+If the target hit is Ablaze, they are briefly slowed by 30 / 45 / 60%.

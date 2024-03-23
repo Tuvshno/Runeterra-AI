@@ -1,0 +1,123 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Morgana
+        **•**
+        **Gameplay**
+        * Cosmetics
+        * Audio
+        * Development
+        * Patch History
+        * History
+        * Trivia
+          **Base statistics**
+          * Health: 630 (+104)
+          * Mana: 340 (+60)
+          * Health regeneration (per 5s): 5.5 (+0.4)
+          * Mana regeneration (per 5s): 11 (+0.4)
+          * Armor: 25 (+5)
+          * Attack damage: 56 (+3.5)
+          * Magic resist.: 30 (+1.3)
+          * Crit. damage: 175%
+          * Move. speed: 335
+          * Attack range: 450
+          * Attack speed: Base AS: 0.625, Attack windup: 14%
+          * Bonus AS: +1.53%
+          * Missile speed: 1600
+          * Unit radius: Gameplay radius: 65, Selection radius: 120, Pathing radius: 35, Acq. radius: 600
+          * **Special statistics**
+            * ARAM: Damage Dealt: -10%, Damage Received: +5%
+            * Nexus Blitz: Damage Dealt: -5%, Damage Received: +0%, Damage Dealt: 0%, Damage Received: +0%
+            * One For All: Damage Dealt: -10%, Damage Received: +5%
+            * URF: Damage Dealt: -10%, Damage Received: +5%
+            * Ult Spellbook: Damage Dealt: -5%, Damage Received: +0%, Damage Dealt: 0%, Damage Received: +0%
+            * Arena: Damage Dealt: -10%, Damage Received: +5%
+          **Abilities**
+            * Soul Siphon (Passive)
+            * Dark Binding (Q)
+              * Cost: 50 / 55 / 60 / 65 / 70 Mana
+              * Cooldown: 10s
+              * Cast time: 0.25s
+              * Range: 1300
+              * Width: 140
+              * Speed: 1200
+              * Active: Morgana throws a sphere of dark magic in the target direction that deals magic damage to the first enemy hit and roots them for a duration.
+                * Magic Damage: 80 / 135 / 190 / 245 / 300 (+ 90% AP)
+                * Root Duration: 2s / 2.25s / 2.5s / 2.75s / 3s
+            * Tormented Shadow (W)
+              * Cost: 70 / 85 / 100 / 115 / 130 Mana
+              * Cooldown: 12s
+              * Cast time: 0.25s
+              * Target range: 900
+              * Effect radius: 275
+              * Passive: Tormented Shadow's current cooldown is reduced by 5% of its total cooldown whenever Soul Siphon triggers. Simultaneous triggers from multiple targets will stack the cooldown reduction.
+              * Active: Morgana torments the soil at the target location, causing the area to become desecrated for 5 seconds. Enemies within take magic damage on-cast and every 0.5s, increased by 0% − 170% (based on target's missing health).
+                * Minimum Damage Per Tick: 6 / 11.5/ 17 / 22.5 / 28 (± 8.5% AP)
+                * Maximum Damage Per Tick: 16 / 31 / 45.9 / 60.75 / 75.6 (± 22.95% AP)
+                * Minimum Total Damage: 60 / 115 / 170 / 225 / 280 (± 85% AP)
+                * Maximum Total Damage: 162 / 310.5 / 459 / 607.5 / 756 (± 229.5% AP)
+              * Enemies outside the radius take 170% damage.
+          **Champion Spotlight**
+            * [Morgana Champion Spotlight](https://www.youtube.com/watch?v=1012Ab5v_v8)
+          **Champion Insights**
+            * [Morgana Champion Insights](https://youtu.be/yljq6z2gMvE)
+          **Changelog**
+            * [Patch history](https://leagueoflegends.fandom.com/wiki/Morgana#Patch_History)
+      * (Collection)
+  * Image: Morgana
+
+**Morgana**
+
+* Release date: 2009-02-21
+* Last changed: V14.4
+* Class(es): Catcher, Legacy, Mage, Support
+* Position(s): Support
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 1350 (585 RP)
+* Crafting cost: +810 RP
+
+---
+
+**Morgana**
+
+* Gameplay
+  * Cosmetics
+  * Audio
+  * Development
+  * Patch History
+  * History
+  * Trivia
+* Base statistics
+  * Health: 630 (+104)
+  * Mana: 340 (+60)
+  * Health regeneration (per 5s): 5.5 (+0.4)
+  * Mana regeneration (per 5s): 11 (+0.4)
+  * Armor: 25 (+5)
+  * Attack damage: 56 (+3.5)
+  * Magic resist.: 30 (+1.3)
+  * Crit. damage: 175%
+  * Move. speed: 335
+  * Attack range: 450
+  * Attack speed: Base AS: 0.625, Attack windup: 14%
+  * Bonus AS: +1.53%
+  * Missile speed: 1600
+  * Unit radius: Gameplay radius: 65, Selection radius: 120, Pathing radius: 35, Acq. radius: 600
+* Special statistics
+  * ARAM: Damage Dealt: -10%, Damage Received: +5%
+  * Nexus Blitz: Damage Dealt: -5%, Damage Received: +0%, Damage Dealt: 0%, Damage Received: +0%
+  * One For All: Damage Dealt: -10%, Damage Received: +5%
+  * URF: Damage Dealt: -10%, Damage Received: +5%
+  * Ult Spellbook: Damage Dealt: -5%, Damage Received: +0%, Damage Dealt: 0%, Damage Received: +0%
+  * Arena: Damage Dealt: -10%, Damage Received: +5%
+* Abilities
+  * Soul Siphon (Passive)
+  * Dark Binding (Q)
+  * Tormented Shadow (W)
+* Champion Spotlight
+  * [Morgana Champion Spotlight](https://www.youtube.com/watch?v=1012Ab5v_v8)
+* Changelog
+  * [Patch history](https://leagueoflegends.fandom.com/wiki/Morgana#Patch_History)

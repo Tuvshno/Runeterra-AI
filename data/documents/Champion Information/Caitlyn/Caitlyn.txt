@@ -1,0 +1,642 @@
+**Games**
+
+* Universe
+* League of Legends
+	+ •
+	+ League of Legends Champions
+		- Caitlyn
+			* Image
+			* Gameplay
+				* Collection
+					- Caitlyn
+				* Audio
+				* Patch history
+				* Past versions
+			* Release date: 2011-01-04
+			* Last changed: V14.3
+			* Class(es): Marksman
+			* Legacy: Marksman
+			* Position(s): Bottom
+			* Resource: Mana
+			* Range type: Ranged
+			* Adaptive type: Physical
+			* Store price: 450
+			|
+			|
+			* Ratings
+				+ Damage: 3
+				+ Toughness: 1
+				+ Control: 2
+				+ Mobility: 2
+				+ Utility: 1
+			* Style: Difficulty: Champion Spotlight
+				- Caitlyn Champion Spotlight
+			* Base statistics
+				+ Health: 580 (+107)
+				+ Mana: 315 (+40)
+				+ Health regen. (per 5s): 3.5 (+0.55)
+				+ Mana regen. (per 5s): 7.4 (+0.7)
+				+ Armor: 27 (+4.7)
+				+ Attack damage: 60 (+3.8)
+				+ Magic resist.: 30 (+1.3)
+				+ Crit. damage: 175%
+				+ Move. speed: 325
+				+ Attack range: 650
+				+ Attack speed: Base AS: 0.681, Attack windup: 17.708%
+					- AS ratio: 0.568
+					- Bonus AS: +4%
+				+ Missile speed: 2500
+				+ Unit radius: Gameplay radius: 65, Selection radius: 120
+				+ Pathing radius: 35, Acq. radius: 800
+			* Special statistics
+				+ ARAM: Damage Dealt: +0%, Damage Received: +5%
+				+ Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+				+ One For All: Damage Dealt: +0%, Damage Received: +0%
+				+ URF: Damage Dealt: +0%, Damage Received: +0%
+				+ Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+				+ Arena: Damage Dealt: +0%, Damage Received: +0%
+			* Abilities
+				[
+				]
+				- Edit
+					+ Headshot
+						* SPEED: 3000
+						* Innate: Caitlyn's basic attacks generate a stack of Count on-attack, doubled if she is within brush. At 5 stacks, or 4 while in brush, her next basic attack consumes all stacks on-attack to become a Headshot.
+						* Headshot: Caitlyn's basic attack is empowered to have an uncancellable windup and deal 60 / 90 / 120% (based on level) (+148.75% + 42.5% critical strike chance) AD bonus physical damage, increased to 110 / 115 / 120% (based on level) (+148.75% + 42.5% critical strike chance) AD against non-champions. Enemies that step over a Yordle Snap Trap or are hit by 90 Caliber Net can grant an additional Headshot against them at 1300 range within 1.8 seconds, without consuming stacks. Each method grants only one Headshot at a time.
+						* Hide
+							+ Details
+							+ Video
+								- Info
+									* Targeting input: Passive
+									* Damage type: Type: Sub-type: Basic damage: Physical
+									* Counters: Spell shield, Parries, Projectile: Not Blocked, Blocked: Blocked, Blocked
+								- Video
+									- https://leagueoflegends.fandom.com/wiki/File:Caitlyn_IVideo.ogv
+					- Piltover Peacemaker
+						* COST: 55 / 60 / 65 / 70 / 75 mana
+						* COOLDOWN: 10 / 9 / 8 / 7 / 6 cast time: 0.625 range: 1300 / 1240 width: 120 / 180 speed: 2200
+						* Active: Caitlyn fires a piercing shot in the target direction that deals physical damage to the first enemy it passes through, after which it expands in width but deals only 50% damage to enemies it hits thereafter. Physical Damage: 50 / 90 / 130 / 170 / 210 (+125 / 145 / 165 / 185 / 205% AD)
+						* Enemies revealed by Yordle Snap Trap always take full damage from Piltover Peacemaker.
+						* Hide
+							+ Details
+							+ Video
+								- Info
+									* Targeting input: Direction
+									* Damage type: Type: Sub-type: Area damage: Physical
+									* Counters: Spell shield, Projectile: Blocked, Blocked
+								- Video
+									- https://leagueoflegends.fandom.com/wiki/File:Caitlyn_QVideo.ogv
+					- Yordle Snap Trap
+						* COST: 20 Mana + 1 Charge, COOLDOWN: 0.5 cast time: 0.25 RECHARGE: 30 / 24 / 19 / 15 / 12 target range: 800 collision radius: 15
+						* Active: Caitlyn sets a visible trap at the target location that is untargetable and arms after 1 second, lasting for a duration. The trap grants sight of the area for 1 second after being placed.
+						* Trap Duration: 30 / 35 / 40 / 45 / 50
+						* Caitlyn periodically stocks a Yordle Snap Trap charge, up to a maximum amount. Deploying traps beyond the maximum destroys the oldest one.
+						* Maximum Traps: 3 / 3 / 4 / 4 / 5
+						* The next enemy champion that springs the trap is rooted for 1.5 seconds and revealed for 3 seconds, as well as takes additional damage from the Headshot granted by this ability. Trapped targets become immune to further Yordle Snap Traps for 3 seconds.
+						* Headshot Damage Increase: 40 / 85 / 130 / 175 / 220 (+40 / 50 / 60 / 70 / 80% bonus AD)
+						* Hide
+							+ Details
+							+ Video
+								- Info
+									* Targeting input: Location
+									* Counters: Spell shield, Blocked: Immunity vs Airborne, moveblocks, and Kinematics
+									* If multiple traps are placed under an enemy, they will spring all at once.
+								- Video
+									- https://leagueoflegends.fandom.com/wiki/File:Caitlyn_WVideo.ogv
+					- 90 Caliber Net
+						* COST: 75 mana, COOLDOWN: 16 / 14 / 12 / 10 / 8 cast time: 0.15 range: 800 / 740 effect radius: 140 speed: 1600
+						* Active: Caitlyn fires a net in the target direction and recoils 390 units in the opposite direction. The net deals magic damage to the first enemy hit and slows them by 50% for 1 second.
+						* Magic Damage: 80 / 130 / 180 / 230 / 280 (+80% AP)
+						* Caitlyn will not dash backwards if she is immobilized or grounded during the cast time. She can cast any of her abilities during the dash.
+						* Hide
+							+ Details
+							+ Video
+								- Info
+									* Targeting input: Direction
+									* Damage type: Type: Sub-type: Spell damage: Magic
+									* Counters: Spell shield, Projectile: Grounded, Blocked: Blocked, Disrupted, Interrupted
+								- Video
+									- https://leagueoflegends.fandom.com/wiki/File:Caitlyn_EVideo.ogv
+					- Ace in the Hole
+						* COST: 100 mana, COOLDOWN: 90 cast time: 0.375 target range: 3500 width: 80 speed: 3200
+						* Active: Caitlyn locks onto the target enemy champion and channels for 1 second, revealing them as well as herself.
+						* Ace in the Hole is placed on a 5-second cooldown if canceled.
+						* Once Caitlyn completes the channel, she fires a homing bullet toward the target that deals physical damage to the first enemy champion it hits, increased by 0% - 50% (based on critical strike chance) .
+						* Physical damage: 300 / 500 / 700 (+170% bonus AD)
+						* Link: "In my sights."
+						* Hide
+							+ Details
+							+ Video
+								- Info
+									* Targeting input: Unit: Target out-of-range override, Walk in range of the target
+									* Damage type: Type: Sub-type: Minion aggro, Spell damage: Physical, Drawn
+									* Counters: Spell shield, Projectile: Disruption, Blocked: Interrupted
+									* The target becomes untargetable during the cast time, but the bullet does not pay its cost if it fails to hit a valid target.
+									* The target is revealed for 1 second if the cast time is canceled or the bullet missile is destroyed.
+								- Video
+									- https://leagueoflegends.fandom.com/wiki/File:Caitlyn_RVideo.ogv
+			* Champion skins
+				[
+				]
+				- Original
+					* View in 3D
+					* Renowned as its finest peacekeeper, Caitlyn is also Piltover’s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner’s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn’s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.
+					* Kirsten Potter: Voice actress
+					* Jason Chan: Character designer
+					* Loot eligible
+				- Chromas
+					* Original Caitlyn Chromas
+						+ Blue, Green, Pink
+					* Resistance
+						+ View in 3D
+						+ 520 RP
+						+ 04.01.2011
+						+ Renowned as its finest peacekeeper, Caitlyn is also Piltover’s best shot at ridding the city of its elusive criminal elements. She is often paired with Vi, acting as a cool counterpoint to her partner’s more impetuous nature. Even though she carries a one-of-a-kind hextech rifle, Caitlyn’s most powerful weapon is her superior intellect, allowing her to lay elaborate traps for any lawbreakers foolish enough to operate in the City of Progress.
+						+ Kirsten Potter: Voice actress
+						+ Forrest Imel, West Studio: Character designer
+						+ Loot eligible
+				- Sheriff
+					* View in 3D
+					* The Old West lies far outside the government's jurisdiction, leaving local peacekeepers to enforce whatever passes for justice on the high frontier. As lone sheriff of the town of Progress, Caitlyn has found that the arm of the law is roughly as long as the range of her rifle.
+					* Kirsten Potter: Voice actress
+					* Huyy Nguyen, West Studio: Character designer
+					* Loot eligible
+				- High Noon
+					* View in 3D
+					* Most people assume that Caitlyn is the 'good cop' between her and Vi. What they don't know is that her sharp eyes, quick wit, and dedication make her one of the toughest officers on the force. She doesn't mind being underestimated, especially if it gives her the upper hand.
+					* Kirsten Potter: Voice actress
+					* Edward Chee, West Studio: Character designer
+					* Loot eligible
+				- Headhunter
+					* View in 3D
+					* Caitlyn's arsenal of alien weaponry isn't meant to level the playing field. It's to ensure that every hunt, every target, and every shot she takes goes exactly the way she wants it to.
+					* Kirsten Potter: Voice actress
+					* Michelle Hoefener: Concept artist
+					* Loot eligible
+				- Lunar Wraith
+					* View in 3D
+					* A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen.
+					* Kirsten Potter: Voice actress
+					* Unknown artist: Character designer
+					* Loot eligible
+				- Pulsefire
+					* View in 3D
+					* A legendary chrono-law enforcer feared in every age, Caitlyn's mission is to protect the fragile enigma that is time. Those who dare threaten its integrity inevitably find themselves firmly locked in the sights of her temporal plasma blaster.
+					* Kirsten Potter: Voice actress
+					* Pan Chengwei: Character designer
+					* Loot eligible
+				- New SFX/VFX
+					* New animations/recall
+					* Lunar Wraith
+						+ View in 3D
+						+ 1350 RP
+						+ 27.01.2016
+						+ A malignant spirit said to appear during Lunar Revel, Caitlyn is known to meddle in the affairs of gods and mortals alike. Her attention has been catastrophic to all who draw it, and even seeing her is considered an ill omen.
+						+ Kirsten Potter: Voice actress
+						+ Unknown artist: Character designer
+						+ Loot eligible
+				- Transforming Chromas
+					* Lunar Wraith Caitlyn Chromas: Golden, Pulsefire
+					* Prestige Arcade
+						+ View in 3D
+						+ Special
+						+ 28.06.2019
+						+ Appearing most recently in 'Sniper Cop 7' as a golden-clad secret character, Caitlyn's popularity has finally transcended games as a medium.
+						+ Kirsten Potter: Voice actress
+						+ Malex Zhang, Kudos Productions: Character designer
+						+ Loot eligible
+						+ New SFX/VFX
+						+ New animations/recall
+				- Battle Academia
+					* View in 3D
+					* A feared and respected second year, head of the Luminary Club, and class president of Labrys God-Weapon Academy, Caitlyn enrolled herself in the famously troubled school specifically to whip the delinquents there into prime fighting shape, hoping to one day become the greatest battlefield general in history. With her perfect record, she's not too far off.
+					* Kirsten Potter: Voice actress
+					* Viktoria Gavrilenko, West Studio: Character designer
+					* Loot eligible
+					* New voiceover
+					* New SFX/VFX
+					* New animations/recall
+					* Transforming
+						+ Battle Academia Caitlyn Chromas: Obsidian, Pearl, Rose Quartz, Ruby, Sapphire
+					* Prestige Arcade (2022)
+						+ Special
+						+ 01.04.2022
+						+ Appearing most recently in 'Sniper Cop 7' as a golden-clad secret character, Caitlyn's popularity has finally transcended games as a medium.
+						+ Kirsten Potter: Voice actress
+						+ Malex Zhang, Kudos Productions: Character designer
+						+ Loot inelgible
+						+ New SFX/VFX
+						+ New animations/recall
+						+ This skin is a variant of Prestige Arcade. Store variants are discounted for multiple purchases.
+				- Snow Moon
+					* View in 3D
+					* A tool of chilling acuity, Caitlyn is the Snow Moon's most elite sniper. It was her craving for a calculating nature, stripped of the moorings of sympathy, that drew her to serve. There was once warmth in her heart; in dreams, she sees a figure, wild and untamed, in a world not meant for her.
+					* Kirsten Potter: Voice actress
+					* Alex 'alexplank' Flores: Character designer
+					* Loot eligible
+					* New SFX/VFX
+					* New animations/recall
+					* Chromas
+						+ Snow Moon Caitlyn Chromas: Catseye, Emerald, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite, Turquoise
+				- Heartthrobs and Heartaches
+					* View in 3D
+					* 'I hate the way you walk around, like you're Princess Caitlyn of the mall, and I'm just some gutter rat. I hate the way you look at me when there's no one else around, but wouldn't be caught dead with me in town. Maybe our whole thing was just a huge mistake. So if you want me to go, I'm gone. But ask, and I will stay.' -Vi
+					* Kirsten Potter: Voice actress
+					* Francis Tneh, West Studio: Character designer
+					* Loot eligible
+					* New SFX/VFX
+					* New animations/recall
+					* Chromas
+						+ Heartthrob Caitlyn Chromas: Amethyst, Obsidian, Peridot, Rose Quartz, Ruby, Sandstone, Sapphire, Turquoise
+				- World Champions: 2022
+					* View in 3D
+					* Honoring Deft's winning performance as Caitlyn during the 2022 World Championship.
+					* Kirsten Potter: Voice actress
+					* Horace 'Hozure' Hsu: Character designer
+					* Loot eligible
+					* Legacy
+					* New SFX/VFX
+					* New animations/recall
+					* Chromas
+						+ DRX Caitlyn Chromas: Elite
+					* Loot eligible
+					* This skin is a variant of Arcade. Store variants are discounted for multiple purchases.
+			* Patch history
+				[
+				]
+				- V14.3
+					* February 12th Hotfix
+					+ Bug Fix: No longer incorrectly consumes her passive Headshot buff when she fires any additional Headshot primed by Yordle Snap Trap and 90 Caliber Net.
+					* Headshot
+						- Bug Fix: Buff is now properly consumed on-attack. She can no longer fire 2 empowered attacks by resetting her attack timer with Titanic Hydra's Titanic Crescent while an empowered missile was in-flight.
+				- V14.3
+					* Headshot
+						- Bug Fix: Critical strike ratio formula changed to (100% total critical damage × 85% critical strike chance).
+						- Critical strike ratio increased to (148.75% + 42.5%).
+						- Ace in the Hole cooldown increased to 90 seconds at all ranks from 90 / 75 / 60.
+						- Base damage reduced to 300 / 500 / 700 from 300 / 525 / 750.
+						- AD ratio reduced to 170% bonus AD from 200%.
+						- Critical strike chance ratio increased to 0% − 50% (based on critical strike chance) from 0% − 35% (based on critical strike chance).
+				- V13.21
+					* Headshot critical strike ratio formula changed to (62.5% total critical damage × 81.25% total critical strike chance).
+					* Critical strike ratio increased to (125% + 36.5625%).
+				- V13.18
+					* Pulsefire Caitlyn Headshot
+						+ Bug Fix: Skin and chromas now properly display the headshot ready indicator VFX.
+				- V13.16
+					* Headshot number of stacks reduced to 5 from 6.
+					* Critical strike ratio formula changed to (1.25 × (0.875 + 50% bonus crit damage) × 130% crit chance).
+					* Damage unchanged.
+				- V13.15
+					* Headshot critical strike chance ratio increased to (142.1875% + 36.5625%).
+					* Ace in the Hole critical strike chance ratio increased to 0% − 25% (based on critical strike chance).
+			- V13.11
+				* General
+					+ Bug Fix: Health bar on the skins of Arcade Caitlyn and Prestige Arcade Caitlyn no longer obstructs their Recall VFX.
+					+ Bug Fix: Piltover Peacemaker VFX is no longer misaligned from her weapon.
+			- V13.5
+				* Stats
+					+ Base attack damage reduced to 60 from 62.
+					+ Base armor reduced to 27 from 28.
+					+ Headshot
+						- Bug Fix: Empowered basic attack no longer cancels if the basic attack was issued outside of the attack range.
+			- V13.1b
+				* Stats
+					+ Mana growth increased to 40 from 35.
+					+ Mana regeneration growth increased to 0.7 from 0.55.
+			- V12.23
+				* Ace in the Hole
+					+ Bug Fix: Now properly attacks the source if she is taunted during the effect.
+			- V12.21
+				* General
+					+ Updated ability icons.
+			- V12.16
+				* Headshot
+					+ AD ratio increased to 60 / 90 / 120% (based on level) AD from 50 / 75 / 100% (based on level).
+					+ Non-champion AD ratio increased to 110% AD from 100% AD.
+					+ Ace in the Hole new effect: Damage is now increased by 0% − 25% (based on critical strike chance).
+			- V12.12
+				* June 30th Hotfix
+					+ Attack damage growth increased to 3.8 from 3.4.
+					+ Headshot AD ratio increased to 60 / 85 / 110% (based on level) AD from 50 / 75 / 100% (based on level).
+					+ Non-champion AD ratio increased to 110% AD from 100% AD.
+					+ Critical strike chance ratio increased to 75% × critical damage from 62.5% × critical damage.
+					+ Yordle Snap Trap base damage reduced to 40 / 85 / 140 / 195 / 240 from 60 / 105 / 140 / 190 / 240.
+					+ Headshot base damage reduced to 10 / 55 / 100 / 145 / 190 from 10 / 20 / 30 / 40 / 50% of attack damage.
+					+ Headshot AD ratio reduced to 40 / 55 / 70 / 85 / 100% bonus AD from 40 / 55 / 70 / 85 / 100% bonus AD.
+			- V12.11
+				* Piltover Peacemaker
+					+ AD ratio changed to 125 / 145 / 165 / 185 / 205% AD from 130 / 140 / 150 / 160 / 170% AD.
+					+ Mana cost changed to 55 / 60 / 65 / 70 / 75 from 50 / 60 / 70 / 80 / 90.
+					+ 90 Caliber Net base damage increased to 80 / 130 / 180 / 230 / 280 from 70 / 110 / 150 / 190 / 230.
+					+ Cooldown reduced to 16 / 14.5 / 13 / 12 / 10 seconds from 16 / 14 / 13 / 12 / 10 seconds.
+			- V12.10
+				* Stats
+					+ Base health increased to 580 from 510.
+					+ Health growth increased to 107 from 93.
+					+ Armor growth increased to 4.7 from 3.5.
+			- V12.5
+				* Piltover Peacemaker
+					+ Bug Fix: Now properly deals damage even if the caster had a spell shield via Banshee's Veil or Edge of Night.
+			- V12.3
+				* Stats
+					+ Attack damage growth reduced to 3.4 from 3.8.
+					+ Piltover Peacemaker damage against secondary targets reduced to 50% from 60%.
+					+ Ace in the Hole bug fix: Channel no longer improperly starts when feared during the cast time, thus refunding the ability's cooldown despite not being cancelled.
+					+ Undocumented: The bonus range from Rapid Firecannon will not have any effect during trap and net extended Headshot attacks.
+					+ Only the ordinary 100% attack damage portion of the attack can critically strike. The bonus from Headshot is added after the critical strike is rolled.
+					+ The full damage of Headshot applies lifesteal.
+					+ Headshot is a single instance of damage, thus does not trigger Amumu's Tantrum's or Warden's Mail passives twice.
+					+ The basic attack triggering Headshot can critically strike, but Headshot's damage remains unchanged if it does.
+					+ Since Caitlyn's Art and Sustainability Update, Ability-granted Headshots are the same as the original Headshot override attack, though what lets them cast at high range is still relatively special. They trigger on-attack effects (including stacking Headshot).
+					+ Runaan's Hurricane's Wind's Fury, is special cased to search targets with the increased range as well.
+					+ Because Headshot stacks are generated on-attack, Runaan's Hurricane bolts will not generate stacks towards Headshot.
+					+ The empowered attack will not trigger against wards.
+					+ Stacks will still be generated towards Headshot when attacking them.
+			- V11.24
+				* General
+					+ Base voice lines now play more consistently and accurately.
+					+ Headshot
+						- New Effect: If her current target becomes trapped by Yordle Snap Trap or 90 Caliber Net while her attack is on cooldown, this ongoing cooldown will be refunded partially so that her next attack on them can begin earlier.
+						- Swapping the target to an enemy trapped by Yordle Snap Trap or 90 Caliber Net also reduces her ongoing attack cooldown.
+						- Bug Fix: Fixed a bug where she was able to Headshot enemies while being revived.
+			- V11.23
+				* Yordle Snap Trap
+					+ Bug Fix: Fixed a bug where her recall would be interrupted if an enemy stepped on one of her traps.
+			- V11.23
+				* Headshot
+					+ Bug Fix: Fixed a bug where she could fire multiple extended range headshots against targets marked by Yordle Snap Trap or 90 Caliber Net at high attack speeds.
+			- Art & Sustainability Update
+				* General
+					+ Complete visual update across all skins.
+					+ New splash artwork for Resistance Caitlyn, Sheriff Caitlyn, Safari Caitlyn, Arctic Warfare Caitlyn, and Officer Caitlyn.
+					+ Adjusted splash artwork for Original Caitlyn, Headhunter Caitlyn, Lunar Wraith Caitlyn, Pool Party Caitlyn, Arcade Caitlyn, and Prestige Arcade Caitlyn.
+					+ New lore.
+					+ New voice-over.
+					+ Added ejected bullet when reloading her rifle.
+					+ Headshot
+						- Removed: Gaining an Empowered Headshot no longer allows Caitlyn to attack the trapped target ignoring an ongoing attack cooldown.
+						- Undocumented/New: Because they are proper attacks now, Headshot attacks against trapped enemies also generate a stack towards Headshot.
+						- "Passive Ready" SFX adjusted for more of a Hextech feel. Added SFX that plays when Headshot is ready for use.
+						- Piltover Peacemaker
+							* New meshes and particles made to look more Hextech. Initial on-hit SFX are now more impactful than subsequent hits.
+						* Yordle Snap Trap
+							* Added indicator on traps and their activation VFXs. Trap SFXs adjusted to match new animation timing.
+						* 90 Caliber Net
+							* New range indicator. On-hit SFX are now more impactful.
+						* Ace in the Hole
+							* New laser and Hextech imagery. On-cast SFX are now more impactful and have additional Hextech elements.
+			- V11.17
+				* Ace in the Hole
+					+ Bug Fix: Fixed a bug where the extended tooltip and level-up tooltip did not contain its damage ratio.
+			- V11.15
+				* Piltover Peacemaker AD ratio increased to 130 / 145 / 165 / 185 / 205% AD from 130 / 140 / 150 / 160 / 170% AD.
+			- V11.8
+				* Battle Academia Caitlyn
+					+ Yordle Snap Trap
+						- Bug Fix: Hit VO now plays from her location instead of the trap's location.
+						- Cast VO also now plays for all enemies and allies.
+			- V11.4
+				* Stats
+					+ Attack damage growth increased to 3.8 from 3.3.
+					+ Attack speed growth increased to 4% from 3.5%.
+			- V11.2
+				* Stats
+					+ Attack damage growth increased to 3.3 from 2.88.
+			- V10.23
+				* Headshot
+					+ Bug Fix: If her target dies before her Energized (via items like Rapid Firecannon and Statikk Shiv) Headshot hits them, she is no longer damaged in their stead.
+			- V10.19
+				* Headshot
+					+ Undocumented: Ability-granted Headshots now grant Energized on-hit instead of not granting them at all.
+			- V10.18
+				* Stats
+					+ Base health reduced to 510 from 524.
+					+ Health growth increased to 91 from 85.
+					+ Base armor reduced to 28 from 32.
+					+ Base health regeneration reduced to 5.5 from 5.67.
+					+ Base attack damage reduced to 58 from 62.
+					+ Attack speed growth reduced to 3.5% from 4%.
+			- V10.9
+				* Yordle Snap Trap
+					+ Bug Fix: No longer empowers only one basic attack.
+					+ Targets affected by traps no longer gain immunity to them for a brief time, increased for each consecutive application.
+			- V10.4
+				* Stats
+					+ Base attack speed increased to 0.681 from 0.625.
+					+ Piltover Peacemaker
+						- Bug Fix: Quote when killing Gnar is no longer heard by everyone on the map.
+						- Bug Fix: Fixed a bug where she could become covered in a blue overlay for the rest of the match if polymorphed by Lulu's Whimsy while in combat.
+						- Yordle Snap Trap
+							* Bug Fix: Fixed a bug where Lulu could get the same blue overlay if casting Whimsy on any enemy affected by an allied Yordle Snap Trap.
+			- V10.11
+				* Stats
+					+ Base health increased to 524 from 501.
+					+ Health growth increased to 93 from 91.
+			- V10.10
+				* May 18th Hotfix
+					+ Yordle Snap Trap reverted to 10.9 changes.
+			- V10.9
+				* Yordle Snap Trap
+					+ Bug Fix: Now properly empowers only one basic attack.
+					+ Targets affected by traps no longer gain immunity to them for a brief time, increased for each consecutive application.
+					- Undocumented: If there is a Jinx on the enemy team, Caitlyn gets the cosmetic debuff 'Catch me if you can!' instead of 'Catch me if you can!'. This debuff displays a counter of 'criminals apprehended' (kills/assists scored against Jinx).
+					- V10.4
+						+ Piltover Peacemaker
+							* Bug Fix: Fixed a bug causing the projectile of an enemy Piltover Peacemaker to not properly appear until it hit a unit when fired from fog of war.
+						* Headshot
+							+ Bug Fix: Fixed a bug where it did not trigger while taunted or silenced.
+							+ Bug Fix: Fixed a bug where certain dashes could pass over the trap without triggering it.
+						* Ace in the Hole
+							+ Projectile should now be correctly destroyed if the target becomes untargetable.
+							+ Fixed a bug where Caitlyn would appear to attack during channeling.
+					- V10.0
+						+ Piltover Peacemaker
+							* Base damage changed to 20 / 65 / 110 / 155 / 200 from 20 / 60 / 100 / 140 / 180.
+							* AD ratio increased to 130 / 140 / 150 / 160 / 170% AD from 130% AD.
+							* Per unit damage mitigation increased to 10% from 6%.
+							* Maximum damage mitigation increased to 50% from 30%.
+						* Ace in the Hole
+							+ Base damage increased to 250 / 475 / 700 from 250 / 400 / 550.
+							+ Now provides vision of the target for the duration and thus is not canceled when Caitlyn loses line of sight.
+							+ Base damage is now treated as a spell instead of an attack.
+							+ No longer triggers on-hit effects like Blessing of the Lizard Elder.
+							+ Now triggers spell effects like Rylai's Crystal Scepter.
+							+ Cannot be dodged or blocked by Aegis Protection.
+							+ Fixed a bug where it didn't scale from the Havoc mastery.
+					- V9.22
+						+ Headshot
+							* Bug Fix: If her target dies before her Empowered (via items like Rapid Firecannon and Statikk Shiv) Headshot hits them, she is no longer damaged in their stead.
+							* Undocumented: Ability-granted Headshots now grant Empowered on-hit, from not granting them at all.
+					- V9.19
+						+ Stats
+							* Base health increased to 524 from 501.
+							* Health growth increased to 93 from 91.
+							* Base attack damage increased to 62 from 58.
+							* Base attack speed increased to 0.625 from 0.605.
+							* Base health regeneration increased to 5.67 from 5.5.
+							* Attack damage growth increased to 3.5% from 3.1%.
+							* Attack speed growth increased to 4.5% from 4%.
+							* Piltover Peacemaker
+								+ Base damage reduced to 20 / 60 / 100 / 140 / 180 from 30 / 65 / 100 / 130 / 160.
+								+ Damage against secondary targets reduced to 33% from 60%.
+								+ Projectile speed reduced to 1600 from 2000.
+							* Yordle Snap Trap
+								+ Base damage reduced to 60 / 90 / 120 / 150 / 180 from 100 / 160 / 220 / 280 / 340.
+								+ Activation radius reduced to 135 from 150.
+							* 90 Caliber Net
+								+ Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 130 / 180 / 230 / 280.
+								+ Dash distance reduced to 400 from 500.
+								+ Missile width reduced to 70 from 80.
+								+ Missile speed reduced to 1600 from 2000.
+							* Ace in the Hole
+								+ Projectile speed reduced to 3200 from 2200.
+								+ Range increased to 1600 / 1900 / 2200 from 1400 / 1800 / 2200.
+								+ Initial cast time leading up to channel time decreased significantly.
+						- V9.18
+							+ Piltover Peacemaker
+								* Damage to targets beyond the first increased to 67% from 60%.
+							* Yordle Snap Trap
+								* Trap duration reduced to 30 / 35 / 40 / 45 / 50 seconds at all ranks from 90 seconds.
+								* Maximum number of traps increased to 3 / 3 / 4 / 4 / 5 from 3 at all ranks.
+								* Duration reduced to 90 seconds from 240.
+								* Enemies loss that immunity if they leave the location.
+								* Trapped enemies take 10 / 20 / 30 / 40 / 50% multiplicatively increased damage from Headshot.
+							* 90 Caliber Net
+								* Cooldown reduced to 16 / 14.5 / 13 / 12 / 10 seconds from 18 / 16 / 14 / 13 / 12 seconds.
+								* Base damage increased to 70 / 110 / 150 / 190 / 230 from 80 / 110 / 150 / 190 / 230.
+							- V9.15
+								+ Headshot
+									- Bug Fix: Fixed a bug where certain dashes could pass over the trap without triggering it.
+									- Bug Fix: Fixed a bug where the target could become untargetable during the cast time and the bullet would still hit them, causing the ability to miss.
+								- Piltover Peacemaker
+									- Bug Fix: Fixed a bug where the projectile could sometimes pass through champions.
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit champions when they were in very close proximity to each other.
+									- Bug Fix: Fixed a bug where the projectile could sometimes miss targets that were extremely close to the edge of its range.
+								- Yordle Snap Trap
+									- Bug Fix: Fixed a bug where the trap would not activate if the target was in very close proximity to it.
+									- Bug Fix: Fixed a bug where the trap would not activate if the target was moving very quickly.
+									- Bug Fix: Fixed a bug where the trap could sometimes fail to activate if the target was in the very center of its activation area.
+								- 90 Caliber Net
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit targets that were moving very quickly.
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit targets that were moving in a very erratic pattern.
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit targets that were very close to the edge of its range.
+								- Ace in the Hole
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit targets that were moving very quickly.
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit targets that were moving in a very erratic pattern.
+									- Bug Fix: Fixed a bug where the projectile could sometimes fail to hit targets that were very close to the edge of its range.
+								- V8.24b
+									+ Piltover Peacemaker
+										* Base damage increased to 30 / 70 / 110 / 150 / 190 from 20 / 65 / 100 / 130 / 160.
+										* Damage against secondary targets increased to 67% from 50%.
+									* 90 Caliber Net
+										+ Mana cost reduced to 30 from 50.
+										+ Cooldown reduced to 16 / 14.5 / 13 / 12 / 10 seconds from 18 / 16 / 14 / 13 / 12 seconds.
+								- V8.13
+									+ Headshot critical strike damage ratio reduced to 50 / 75 / 100% (based on level) (+ 125% critical strike chance) AD from 100% (based on level) (+ 100% critical strike chance) AD.
+									+ Ace in the Hole projectile speed reduced to 2200 from 2200.
+									+ Ace in the Hole range increased to 2000 / 2500 / 3000 from 1900 / 2050 / 2200.
+									+ Ace in the Hole channel time reduced to 1 second from 1.25 seconds.
+									+ Piltover Peacemaker base damage increased to 25 / 70 / 115 / 160 / 205 from 20 / 65 / 100 / 130 / 160.
+									+ Piltover Peacemaker AD ratio increased to 130 / 140 / 150 / 160 / 170% AD from 130% AD.
+									+ Piltoover Peacemaker 10% damage mitigation per enemy unit hit removed.
+									+ Piltoover Peacemaker minimum damage increased to 25% from 20%.
+									+ 90 Caliber Net mana cost reduced to 75 from 90.
+									+ 90 Caliber Net cast time reduced to 0.15 from 0.18 seconds.
+									+ 90 Caliber Net dash distance increased to 500 from 400.
+									+ 90 Caliber Net missile width increased to 80 from 65.
+									+ Headshot AD ratio changed to 40 / 55 / 70 / 85 / 100% bonus AD from 60% AD at all ranks.
+									+ Headshot non-champion AD ratio changed to 110% AD from 100% AD.
+									+ Headshot critical strike chance ratio increased to 75% × critical damage from 62.5% × critical damage.
+									+ Headshot stacks changed to 6 at all levels from 7 / 6 / 5 (based on level).
+									+ Headshot frequency of "Boom, Headshot!" line reduced.
+									+ Yordle Snap Trap mana cost reduced to 50 from 60.
+									+ Yordle Snap Trap cooldown reduced to 16 / 14 / 12 / 10 / 8 seconds from 20 / 17 / 14 / 11 / 10 seconds.
+									+ Yordle Snap Trap trap duration increased to 30 / 35 / 40 / 45 / 50 seconds at all ranks from 22.
+									+ Yordle Snap Trap maximum charges increased to 3 / 3 / 4 / 4 / 5 from 2 at all ranks.
+									+ Yordle Snap Trap trap bonus damage from Headshot reduced to 10 / 20 / 30 / 40 / 50% (based on level) bonus AD from 30 / 60 / 90 / 120 / 150% bonus AD.
+									+ Yordle Snap Trap trap bonus damage from Headshot AD ratio changed to 60% AD from 70% AD.
+									+ Yordle Snap Trap vision duration reduced to 3 seconds from 8.
+									+ Yordle Snap Trap recharge time changed to 30 / 24 / 19 / 15 / 12 seconds from 45 / 32.
+									+ Yordle Snap Trap trap duration recharge time increased to 30 / 24 / 19 / 15 / 12 seconds from 12 seconds.
+									+ Yordle Snap Trap trapped enemies become immune to further traps placed at that location for ~4 seconds.
+									+ Enemies lose that immunity if they leave the location.
+									+ Trapped enemies take 10 / 20 / 30 / 40 / 50% multiplicatively increased damage from Headshot.
+									+ 90 Caliber Net base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 130 / 180 / 230 / 280.
+									+ 90 Caliber Net dash distance reduced to 400 from 500.
+									+ 90 Caliber Net missile width reduced to 70 from 80.
+									+ 90 Caliber Net missile speed reduced to 1600 from 2000.
+									+ Ace in the Hole projectile speed increased to 3200 from 2200.
+									+ Ace in the Hole range increased to 1600 / 1900 / 2200 from 1400 / 1800 / 2200.
+									+ Ace in the Hole initial cast time leading up to channel time decreased significantly.
+									+ Ace in the Hole base damage increased to 250 / 475 / 700 from 250 / 400 / 550.
+									+ Ace in the Hole now provides vision of the target for the duration and thus is not canceled when Caitlyn loses line of sight.
+									+ Ace in the Hole base damage is now treated as a spell instead of an attack.
+									+ Ace in the Hole no longer triggers on-hit effects like Blessing of the Lizard Elder.
+									+ Ace in the Hole can no longer be dodged or blocked by Aegis Protection.
+									+ Ace in the Hole now triggers spell effects like Rylai's Crystal Scepter.
+									+ Fixed a bug where Caitlyn's attack animation and damage application would occasionally become fall out of sync when Lulu was in the game.
+									+ Fixed a bug where certain dashes could pass over the trap without triggering it.
+									+ Fixed a bug where Yordle Snap Trap could sometimes fail to reset the cooldown of 90 Caliber Net when triggered.
+									+ Fixed a bug where Ace in the Hole could sometimes be cast during crowd control, causing it to be interrupted.
+									+ Fixed a bug where Headshot could be fired while Caitlyn was immobilized or silenced, causing it to be cancelled.
+									+ Fixed a bug where Caitlyn could sometimes attack while rooted, causing her to become briefly invulnerable.
+									+ Fixed a bug where Yordle Snap Trap could sometimes fail to trigger if the target was very close to a wall.
+									+ Fixed a bug where 90 Caliber Net could sometimes fail to slow the target if they were very close to a wall.
+									+ Fixed a bug where 90 Caliber Net could sometimes fail to slow the target if they were very close to another champion.
+									+ Fixed a bug where 90 Caliber Net could sometimes fail to slow the target if they were moving very quickly.
+									+ Fixed a bug where Ace in the Hole could sometimes fail to hit the target if they were moving very quickly.
+									+ Fixed a bug where Ace in the Hole could sometimes fail to hit the target if they were moving in a very erratic pattern.
+									+ Fixed a bug where Ace in the Hole could sometimes fail to hit the target if they were very close to the edge of its range.
+									+ Fixed a bug where Caitlyn could sometimes attack an enemy with 90 Caliber Net active on them, causing the net to be destroyed.
+									+ Fixed a bug where Caitlyn could sometimes attack an enemy with Yordle Snap Trap active on them, causing the trap to be destroyed.
+									+ Fixed a bug where Caitlyn's attack animation would sometimes play even when no attack was issued.
+									+ Fixed a bug where Caitlyn's basic attack range would sometimes appear larger than intended.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes appear incorrectly when attacking a target immune to critical strikes.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target out of range.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a shield.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target in brush.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a dash ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a stealth ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a root ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a knockback ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a stun ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a silence ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a slows ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a taunt ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a heal ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a shield ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a revive ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a crowd control immune ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a camouflage ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a stealth aura ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with an invisibility ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a barrier ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a transform ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a global ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a summon ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff ability active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a shield debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a root debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a stun debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a silence debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a slow debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a taunt debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a heal debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a shield debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a revive debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a crowd control immune debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a camouflage debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with an invisibility debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a barrier debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a transform debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a global debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a summon debuff active.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that increased their size.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that reduced their size.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that changed their texture.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that changed their color.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that changed their shape.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that changed their sound.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff that changed their behavior.
+									+ Fixed a bug where Caitlyn's headshot VFX would sometimes not appear when attacking a target with a debuff

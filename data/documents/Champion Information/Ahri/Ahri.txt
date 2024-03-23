@@ -1,0 +1,401 @@
+**Games**
+
+* Universe
+  * League of Legends:
+      + **Champions**
+          - Ahri
+  * Teamfight Tactics
+  * Legends of Runeterra
+  * Wild Rift
+
+**Ahri**
+
+* Release date: 2011-12-14
+* Last changed: V14.4
+* Class(es): Burst, Legacy, Mage, Assassin
+* Position(s): Middle
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 3150
+
+**Base statistics**
+
+| Statistic      | Value                   |
+|----------------|--------------------------|
+| Health         | 590 (+104)              |
+| Mana           | 418 (+25)              |
+| Health regen.  | 2.5 (+0.6) per 5s       |
+| Mana regen.    | 8 (+0.8) per 5s         |
+| Armor          | 21 (+4.7)               |
+| Attack damage  | 53 (+3)                |
+| Magic resist.   | 30 (+1.3)              |
+| Crit. damage   | 175%                    |
+| Move. speed    | 330                     |
+| Attack range   | 550                     |
+| Attack speed   | 0.668 Base AS, 0.625 AS ratio, +2.2% bonus AS |
+| Missile speed  | 1750                    |
+| Unit radius    | Gameplay radius: 65, Selection radius: 100, Pathing radius: 35, Acq. radius: 525 |
+
+**Special statistics**
+
+| Game mode   | Damage Dealt | Damage Received |
+|-------------|---------------|-----------------|
+| ARAM        | +0%          | +0%            |
+| Nexus Blitz | +0%          | +0%            |
+| One For All | +0%          | -10%           |
+| URF          | -10%         | +5%            |
+| Ult Spellbook | +0%         | +0%            |
+| Arena       | Damage Dealt: -, Damage Received: +0% |
+
+**Abilities**
+
+* **Essence Theft** (Passive)
+  + Ahri generates a stack of Essence Fragment whenever she kills a minion or monster. At 9 stacks, she consumes them to heal herself for 35 − 95 (based on level) (+ 20% AP).
+  + Additionally, whenever Ahri scores a champion takedown within 3 seconds of damaging them, she consumes their essence to heal herself for 75 − 165 (based on level) (+ 30% AP).
+
+* **Orb of Deception**
+  + Cost: 55 / 65 / 75 / 85 / 95 mana
+  + Cooldown: 7 seconds
+  + Cast time: 0.25 seconds
+  + Range: 900
+  + Effect radius: 100
+  + Width: 200
+  + Speed: 1550 / 60 − 2600
+  + Active: Ahri sends her orb in the target direction that deals magic damage to enemies hit. At maximum range, the orb homes back to her to deal the same damage in true damage to enemies hit.
+  + Damage per pass: 40 / 65 / 90 / 115 / 140 (+ 50% AP)
+  + Total mixed damage: 80 / 130 / 180 / 230 / 280 (+ 100% AP)
+  + Enemies can be hit only once per pass.
+  + If Ahri dies while the orb is out, it will visually disappear but continue to deal damage and return to Ahri.
+
+* **Fox-Fire**
+  + Cost: 30 mana
+  + Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+  + Cast time: 0 seconds
+  + Effect radius: 150 / 550 / 725
+  + Speed: 75.9 / 92 / 1400 degrees per second
+  + Active: Ahri gains 40% bonus movement speed that decays over 2 seconds and conjures three flames which orbit her clockwise for up to 2.5 seconds.
+  + After 0.25 seconds, each flame targets a visible enemy, or after 0.4 seconds targets the closest visible enemy in range, dealing magic damage.
+  + The damage is doubled against minions below 20% maximum health.
+  + Magic Damage: 50 / 75 / 100 / 125 / 150 (+ 30% AP)
+  + Increased Minion Damage: 100 / 150 / 200 / 250 / 300 (+ 60% AP)
+  + Subsequent flames on a single target deal 30% damage.
+  + Additional Magic Damage: 15 / 22.5 / 30 / 37.5 / 45 (+ 9% AP)
+  + Total Single Target Damage: 80 / 120 / 160 / 200 / 240 (+ 48% AP)
+
+* **Charm**
+  + Cost: 60 mana
+  + Cooldown: 12 seconds
+  + Cast time: 0.25 seconds
+  + Range: 1000
+  + Width: 120
+  + Speed: 1550
+  + Active: Ahri blows forth a kiss in the target direction that deals magic damage to the first enemy hit, knocks them down and charms and slows them by 65% for a duration.
+  + Magic Damage: 80 / 110 / 140 / 170 / 200 (+ 60% AP)
+  + Disable duration: 1.2 / 1.4 / 1.6 / 1.8 / 2 seconds
+  + Charm is able to slow targets otherwise immune to slows upon charming them.
+
+* **Spirit Rush**
+  + Cost: 100 mana
+  + Cooldown: 130 / 105 / 80 seconds
+  + Cast time: 0 seconds
+  + Target range: 500
+  + Effect radius: 600
+  + Speed: 1200 + 100% movement speed / 1400
+  + Active: Ahri dashes to the target location and then fires essence bolts to up to 3 nearby visible enemies, each dealing magic damage.
+  + Spirit Rush can be recast twice more within 15 seconds of the activation at no additional cost, with a 1-second static cooldown between casts. Consuming a champion's essence with Essence Theft while Spirit Rush is active extends the recast duration by and up to 10 seconds and grants an additional recast, storing up to 3 recasts at a time.
+  + Fox-Fire can be cast during the dash. Spirit Rush will cast at max range if cast beyond that.
+  + Each cast counts as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+  + Spirit Rush uses quick cast by default.
+  + There's a slight delay before a champion gains vision of the fog of war once inside it. Because of this, if Ahri dashes into it, it is possible that Spirit Rush will not target any enemy in range.
+  + The bolts do not fire if Ahri dies while dashing, unless she was saved by resurrection.
+  + The bolts will fire if the dash is interrupted by other means.
+
+**Champion skins**
+
+* Original
+* Dynasty
+* Wonders of the World
+* Legacy
+* Midnight
+* Infernal
+* Popstar
+* Challenger
+* Academy
+* Arcade
+* Star Guardian
+* K/DA
+* Prestige KDA
+* Elderwood
+* Spirit Blossom
+* KDA ALL OUT
+* Prestige KDA (2022)
+* Arcana
+* Snow Moon
+
+**Patch history**
+
+* V14.4: Health growth increased, Orb of Deception AP ratio per hit increased, total AP ratio increased.
+* V14.2: Charm cooldown reduced.
+* V13.22: Attack speed ratio reduced, attack speed growth increased, attack windup reduced, Essence Theft bug fix.
+* V13.19: Placeholder under Elderwood Ahri no longer appears while she's affected by Sona's Song of Celerity.
+* V13.10: Missing eye textures for Academy Ahri's Ahriversary chroma restored.
+* V13.4: Stats base armor increased, base health increased, Spirit Rush cooldown reduced.
+* V13.3: Art & Sustainability Update: ability icons updated, complete visual update across all skins, new splash artwork for some skins, new lore, new voiceover, updated sound effects.
+* V12.21: Orb of Deception mana cost reduced, AP ratio per hit increased, total AP ratio increased.
+* V12.17: Charm cooldown reduced.
+* V12.10: Base health increased, health growth increased, armor growth increased, magic resistance growth increased, Essence Theft base heal reduced, heal AP ratio reduced, Champion base heal reduced, Champion AP ratio reduced.
+* V12.9: Charm cooldown increased, Spirit Rush cooldown increased, Fox-Fire mana cost increased, base damage reduced, Charm mana cost increased.
+* V12.5: Fox-Fire mana cost decreased, base damage increased, Charm mana cost decreased, removed vulnerability on hit for Charm.
+* V12.4: Essence Theft bug fix, Charm bug fix.
+* V12.3: Charm bug fix, Gameplay Update: base health reduced, health growth reduced, base health regeneration reduced, Essence Theft new innate effect, Orb of Deception mana cost changed, AP ratio increased, Fox-Fire base damage increased, mana cost reduced, flame duration reduced, improved missile targeting and last hitting logic, cleaned up VFX and enhanced missile movement.
+* V12.3 (hotfix): Charm bug fix.
+* V12.3 (hotfix): Gameplay Update: new effect for Spirit Rush, new effect for Essence Theft.
+* V12.2: Essence Theft bug fix.
+* V12.1: Charm mana cost increased, Spirit Rush recast duration increased.
+* V12.0.1: Essence Theft bug fix.
+* V11.23: Orb of Deception mana cost increased, base damage reduced, Charm mana cost increased.
+* V11.16: Charm cooldown increased, Spirit Rush cooldown increased.
+* V11.15: Essence Theft bug fix.
+* V11.13: Fox-Fire mana cost increased, base damage reduced, Charm mana cost increased.
+* V11.12: Charm cooldown increased, Spirit Rush cooldown increased.
+* V11.10: Essence Theft bug fix, Charm bug fix, Fox-Fire mana cost reduced, base damage increased, Charm mana cost reduced.
+* V11.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.22: Charm mana cost reduced, Spirit Rush cooldown reduced.
+* V10.21: Spirit Rush mana cost increased.
+* V10.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.19: Fox-Fire mana cost increased, base damage reduced, Charm mana cost increased.
+* V10.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V10.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V9.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V8.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V7.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V6.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V5.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V4.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V3.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V2.0: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.22: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.21: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.20: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.19: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.18: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.17: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.16: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.15: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.14: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.13: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.12: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.11: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.10: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.9: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.8: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.7: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.6: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.5: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.4: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.3: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.2: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.1: Charm mana cost increased, Spirit Rush mana cost increased.
+* V1.0: Charm mana cost increased, Spirit Rush mana cost increased.
+
+**Trivia**
+
+* Ahri's dance references "RunDevilRun" by Girls' Generation.
+* The first icon for Spirit Rush's displays Ahri without fox ears, which harkens to the time she didn't have them.
+* Ahri (아리) could've been shortened from '아리땁다' Arittabda, from stative verbal stem aritta(b)- "be beautiful" & verbal suffix -da.
+* For "The most visually appealing champion in League", Ahri's visual appeal is statistically ranked 1st among men, and 2nd among women (second to Jinx).
+* Some of her older models, such as Original Ahri and Midnight Ahri, lack whiskers in-game.
+* Ahri's Series 1 Eternals make the following references: LDR references the eponymous acronym that stands for 'long-distance relationship' and the large distance covered from Spirit Rush's multiple dashes. On the Rebound references the eponymous phrase associated with unhappy relationships and the literal rebound of Orb of Deception's projectile.

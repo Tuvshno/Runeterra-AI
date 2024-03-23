@@ -1,0 +1,142 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Kassadin
+        **Format:**
+        ```markdown
+        ## Kassadin
+
+        **Release date:** 2009-08-07
+        **Last changed:** V14.2
+
+        **Class(es):** Assassin, Legacy, Assassin, Mage
+        **Position(s):** Middle
+        **Resource:** Mana
+        **Range type:** Melee
+        **Adaptive type:** Magic
+        **Store price:** 3150 (790 after crafting)
+
+        **Ratings:**
+          * Damage: 3
+          * Toughness: 2
+          * Control: 1
+          * Mobility: 3
+          * Utility: 1
+
+        **Style:** Difficulty: 
+
+        ## Base statistics
+
+        **Health:** 646 (+119)
+        **Mana:** 400 (+87)
+        **Health regen. (per 5s):** 6
+        **Mana regen. (per 5s):** 6 (+0.8)
+        **Armor:** 19 (+4)
+        **Attack damage:** 59 (+3.9)
+        **Magic resist.:** 30 (+1.3)
+        **Crit. damage:** 175%
+        **Move. speed:** 335
+        **Attack range:** 150
+        **Attack speed:** Base AS: 0.64, Attack windup: 15%
+        **AS ratio:** N/A
+        **Bonus AS:** +3.7%
+
+        **Unit radius:** Gameplay radius: 65, Selection radius: 120, Pathing radius: 35, Acq. radius: 400
+
+        ## Special statistics
+
+          * ARAM: Damage Dealt: +0%, Damage Received: -5%
+          * Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+          * One For All: Damage Dealt: +0%, Damage Received: +0%
+          * URF: Damage Dealt: +0%, Damage Received: +0%
+          * Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+          * Arena: Damage Dealt: +0%, Damage Received: +0%
+
+        ## Abilities
+
+        ### Void Stone
+
+        **Innate:** Kassadin is permanently ghosted and takes 10% reduced magic damage.
+
+        ### Null Sphere
+
+          * **Cost:** 60 / 65 / 70 / 75 / 80 Mana
+          * **Cooldown:** 10 / 9.5 / 9 / 8.5 / 8 Mana
+          * **CAST TIME:** 0.25 seconds
+          * **Active:** Kassadin fires an orb of void energy at the target enemy that deals magic damage and disrupts their ongoing channels. He also gains a shield that absorbs magic damage for 1.5 seconds.
+            * Magic Damage: 65 / 95 / 125 / 155 / 185 (+70% AP)
+            * Magic Shield Strength: 80 / 110 / 140 / 170 / 200 (+30% AP)
+
+          * **Map-Specific Differences:**
+            * Arena: differences
+              * Base damage changed to 100 / 127.5 / 155.5 / 183.5 / 211.5
+
+          * **Details:**
+            * Info
+              * Targeting input: Unit target
+            * Unit: Target out-of-range override: Walk in range of the target
+            * Damage type: Spell damage
+            * Counters: Spell shield, Projectile, Blocked: Blocked
+            * The disrupt is 'wrapped' into a status effect that says the target is Silenced for 0.25 seconds, but it does not actually silence. It however makes sure that the disrupt is prevented by immunity to silences. The shield is granted at the start of the cast time.
+            * Map-Specific Differences: Arena
+              * Base damage changed to 75 / 111.25 / 147.5 / 183.5 / 220.5
+
+        ### Nether Blade
+
+          * **Passive:** Kassadin's basic attacks deal 20 (+10% AP) bonus magic damage on-hit.
+          * **Active:** Kassadin empowers his next basic attack within 5 seconds to have an uncancellable windup, gain 50 bonus range, deal increased bonus magic damage, and restore mana, with the restoration amount quintupled against champions. Nether Blade resets Kassadin's basic attack timer.
+            * Increased Bonus Magic Damage: 50 / 75 / 100 / 125 / 150 (+80% AP)
+            * Mana Restored: 4 / 4.5 / 5 / 5.5 / 6% of missing mana
+            * Mana Restored Against Champions: 20 / 22.5 / 25 / 27.5 / 30% of missing mana
+
+          * **Map-Specific Differences:**
+            * Arena: differences
+              * Base damage changed to 75 / 111 / 147 / 183 / 220
+              * Bonus damage per stack changed to 45 / 55 / 65 / 75 / 85
+              * Maximum bonus damage changed to 140 / 180 / 220 / 260 / 300
+
+        ## Cosmetics
+
+          * Original
+            * View in 3D: 790, 06.08.2009
+          * Festival
+            * View in 3D: 520, 12.02.2010
+          * Winter Sports
+            * View in 3D: 520, 01.08.2010
+          * Forgotten Depths
+            * View in 3D: 520, 26.09.2010
+          * Curse of the Void
+            * View in 3D: 520, 26.09.2010
+          * Harbinger
+            * View in 3D: 975, 13.07.2011
+          * Cosmic Reaver
+            * View in 3D: 1350, 14.10.2015
+          * Trick-or-Treat
+            * View in 3D: 1350, 17.02.2022
+          * Shockblade
+            * View in 3D: 1350, 13.05.2022
+          * Dragonmancer
+            * View in 3D: 1350, 09.01.2024
+
+        ## Voice filter
+
+        * New SFX/VFX
+        * New Animations/Recall
+        * Count: 1
+
+        * View in 3D: 1350, 15.10.2020
+
+        ## Shockblade
+
+          * View in 3D: 1350, 13.05.2022
+          * Chromas: Amethyst, Catseye, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Turquoise
+
+        ## Dragonmancer
+
+          * View in 3D: 1350, 09.01.2024
+          * Chromas: Amethyst, Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sapphire
+```
+
+Please note that the "Map-Specific Differences" and "Details" sections are expanded in this format. If you prefer them collapsed, you can remove the "Details:" and "Map-Specific Differences:" headings and their respective contents, and replace them with "Hide Details" and "Hide Map-Specific Differences" headings, respectively. Additionally, in the "Nether Blade" ability description, you can adjust the "Mana Restored Against Champions" values to match the changes in the patch history.

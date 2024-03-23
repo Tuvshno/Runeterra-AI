@@ -1,0 +1,557 @@
+# Games
+
+## Universe
+
+- **League of Legends**
+  - **Champion:** Malzahar
+
+### Malzahar
+
+- **Release date:** 2010-06-01
+- **Last changed:** V13.19
+- **Class(es):** Battlemage, Legacy, Mage, Assassin
+- **Position(s):** Middle
+- **Resource:** Mana
+- **Range type:** Ranged
+- **Adaptive type:** Magic
+- **Store price:** 4800
+- **Crafting:** +2880
+
+#### Ratings
+
+| **Damage:** | 3 |
+| **Toughness:** | 1 |
+| **Control:** | 3 |
+| **Mobility:** | 1 |
+| **Utility:** | 2 |
+
+#### Style
+
+- **Difficulty:** Champion
+
+#### Champion Spotlight
+
+[Malzahar Champion Spotlight](<URL>)
+
+---
+
+##### Base statistics
+
+| **Health:** | 580 +101 |
+| **Mana:** | 375 +28 |
+| **Health regen. (per 5s):** | 6 |
+| **Mana regen. (per 5s):** | 8 |
+| **Armor:** | 18 +4.7 |
+| **Attack damage:** | 55 +3 |
+| **Magic resist.:** | 30 +1.3 |
+| **Crit. damage:** | 175% |
+| **Move. speed:** | 335 |
+| **Attack range:** | 500 |
+| **Attack speed:** | Base AS 0.625, AS ratio N/A, Bonus AS +1.5% |
+| **Missile speed:** | 2000 |
+| **Unit radius:** | Gameplay radius 65 |
+| **Selection radius:** | 89 |
+| **Pathing radius:** | 35 |
+| **Acq. radius:** | 600 |
+
+##### Special statistics
+
+| **ARAM:** | Damage Dealt -10%, Damage Received +10% |
+| **Nexus Blitz:** | No changes |
+| **One For All:** | No changes |
+| **URF:** | Damage Dealt +0%, Damage Received +0% |
+| **Ult Spellbook:** | No changes |
+| **Arena:** | Damage Dealt -8%, Damage Received +8% |
+
+---
+
+##### Abilities
+
+###### Void Shift
+
+- **Passive:** Periodically, Malzahar gains Void Shift until he takes non-minion damage or negates a crowd control effect, to which it then lingers for 0.25 seconds before expiring.
+- **Effect:** Malzahar gains crowd control immunity and 90% damage reduction while Void Shift is active.
+- **Notes:**
+  - Void Shift will not resist allied crowd control nor be deactivated by them.
+  - Void Shift does not mitigate true damage but the buff will still be consumed.
+  - Shields take priority over Void Shift, but the buff will still be consumed.
+  - Void Shift triggers even if the shield negated the damage entirely.
+  - If Malzahar has a spell shield and the shield fully mitigates the damage, Void Shift does not trigger.
+  - The damage taken must be from an effect that cannot be negated by spell shields.
+  - Spell shields take priority over Void Shift. If the triggering hostile ability does not contain a crowd control effect, both Void Shift and the spell shield break simultaneously.
+  - Spell effects (i.e Wall of Pain) that cannot be blocked by spell shields ignore Void Shift despite its crowd control immunity.
+  - Void Shift will specifically not deactivate if Malzahar eats Honeyfruit or is within a hostile Frozen Heart passive aura.
+  - Void Shift will prevent Chum the Waters from attaching to him.
+
+###### Call of the Void
+
+- **Cost:** 80 Mana
+- **Cooldown:** 6 seconds
+- **Cast time:** 0.25 seconds
+- **Target range:** 900
+- **Effect radius:** 200
+- **Effect:** Malzahar opens two portals to the void centered at the target location, granting sight of the area in between. After 0.4 seconds, enemies between the portals are dealt magic damage and silenced for a duration.
+- **Magic Damage:** 70 / 105 / 140 / 175 / 210 (+ 55% AP)
+- **Silence Duration:** 1 / 1.25 / 1.5 / 1.75 / 2 seconds
+
+###### Void Swarm
+
+- **Cost:** 40 / 45 / 50 / 55 / 60 Mana
+- **Cooldown:** 8 seconds
+- **Cast time:** None
+- **Target range:** 150
+- **Passive:** Malzahar generates a stack of Zz'Rot Swarm when he casts another ability, up to a maximum of 2 stacks.
+- **Active:** Malzahar consumes all Zz'Rot Swarm stacks and, after a 0.5-second delay, summons a Voidling at the target location. Additional Voidlings are then summoned for each Zz'Rot Swarm stack consumed.
+- **Voidling Duration:** 8 / 8 / 9 / 9 / 10 seconds
+- **Voidling Damage:** 5 − 64.5 (+ 12 / 14 / 16 / 18 / 20) (+ 40% bonus AD) (+ 20% AP)
+
+###### Malefic Visions
+
+- **Cost:** 60 / 70 / 80 / 90 / 100 Mana
+- **Cooldown:** 15 / 13 / 11 / 9 / 7 seconds
+- **Cast time:** 0.25 seconds
+- **Target range:** 650
+- **Effect radius:** 500
+- **Effect:** Malzahar infects the target enemy's mind, dealing magic damage every 0.25 seconds over 4 seconds, which refreshes upon damaging them with Call of the Void or Nether Grasp.
+- **Malefic Visions Damage:** 80 / 115 / 150 / 185 / 220 (+ 80% AP)
+
+###### Nether Grasp
+
+- **Cost:** 100 Mana
+- **Cooldown:** 140 / 110 / 80 seconds
+- **Cast time:** 0.05 seconds
+- **Target range:** 700
+- **Tether radius:** 1250
+- **Effect:** Malzahar tethers to the target enemy champion, knocking them down. He then channels for up to 2.5 seconds, suppressing and revealing the target and dealing them magic damage every 0.25 seconds, revealing himself in the process.
+- **Total Magic Damage:** 125 / 200 / 275 (+ 80% AP)
+- **Magic Damage Per Tick:** 12.5 / 20 / 27.5 (+ 8% AP)
+- **Channeling:** Malzahar will continue to channel as long as the tether is not broken, even if the suppression is removed.
+- **Additional effect:** A Null Zone is opened beneath the target's location at the time of cast that lasts 5 seconds, dealing magic damage every 0.5 seconds to enemies within, capped at 120 per tick against minions and monsters.
+- **Total Magic Damage:** 10 / 15 / 20% (+ 2.5% per 100 AP) of target's maximum health
+- **Magic Damage Per Tick:** 1 / 1.5 / 2% (+ 0.25% per 100 AP) of target's maximum health
+- **Null Zone will persist even if the channel is interrupted.**
+
+---
+
+##### Map-Specific Differences
+
+###### Howling Abyss
+
+- **Damage type:** Type: Magic, Sub-type: Area damage
+- **Differences:** Deals 80% damage to minions (60% total).
+
+##### Pets
+
+[Voidling](<URL>)
+
+---
+
+##### Collection
+
+[Malzahar (Collection)](<URL>)
+
+###### Original
+
+[View in 3D](<URL>)
+
+###### Vizier
+
+[View in 3D](<URL>)
+
+###### Shadow Prince
+
+[View in 3D](<URL>)
+
+###### Djinn
+
+[View in 3D](<URL>)
+
+###### Little is known about the djinn, misinformation leading many to seek out the dark, desolate corners of the world in hopes of finding one to grant their wildest wishes. Instead, they find themselves at the mercy of a powerful spirit that is neither good nor evil and has a penchant for possession.
+
+###### Vic Mignogna
+
+###### Unknown artist
+
+###### Loot eligible
+
+---
+
+##### Voice filter
+
+New SFX/VFX
+
+---
+
+##### New Animations/Recall
+
+[Chromas](<URL>)
+
+[Snow Day Malzahar Chromas](<URL>)
+
+[Golden](<URL>)
+
+[Battle Boss](<URL>)
+
+---
+
+##### Chromas
+
+[Snow Day Malzahar Chromas](<URL>)
+
+[Amethyst](<URL>)
+
+[Citrine](<URL>)
+
+[Emerald](<URL>)
+
+[Obsidian](<URL>)
+
+[Rose Quartz](<URL>)
+
+[Ruby](<URL>)
+
+[Sandstone](<URL>)
+
+[Turquoise](<URL>)
+
+---
+
+##### Debonair
+
+[View in 3D](<URL>)
+
+###### An associate of LeBlanc's from her days in Crime City, now established as a mover and shaker in his own right. While the two cross paths on occasion, Malzahar has certain... outside interests to consider, and those business partners have promised him more than any mortal could ever dream of.
+
+###### Vic Mignogna
+
+###### Jennifer Wuestling
+
+###### Loot eligible
+
+---
+
+##### Three Honors
+
+[View in 3D](<URL>)
+
+###### As the Order of Solace's leader, Malzahar wants to extend a gentle, guiding hand to all. It was only by following the tenets of the Three Honors that he was able to escape from a pit of cynicism, and while apathy may reign supreme, Malzahar will do whatever it takes to build a better world.
+
+###### Vic Mignogna
+
+###### Ina Wong, West Studio
+
+###### Loot ineligible
+
+---
+
+##### Patch history
+
+For the expanded patch notes, see [here](<URL>).
+
+##### V13.19
+
+- Malefic Visions: Bug Fix: Now properly spreads the debuff even if it was cast on a minion as it was dying.
+
+##### V13.16
+
+- Malefic Visions: Tick rate reduced to 1 per 0.25 seconds from 1 per 0.05 seconds.
+- Minion execute threshold reduced to 10 - 30 (based on level) health from 15 - 45 (based on level) health.
+
+##### V13.9
+
+- Malefic Visions: Bug Fix: Now properly spreads when it kills a minion.
+
+##### V13.4
+
+- Malefic Visions: Bug Fix: Now properly triggers Manaflow Band when it spreads to an enemy champion after having done so multiple times.
+
+##### V12.22
+
+- Stats: Mana growth increased to 28 from 27.5.
+
+##### V12.21
+
+- Malefic Visions: New Effect: Now executes minions below 15 - 45 (based on level) health.
+
+##### V12.10
+
+- Stats: Base health increased to 580 from 510.
+- Health growth increased to 101 from 87.
+- Armor growth increased to 4.7 from 3.5.
+- Magic resistance growth increased to 1.3 from 0.5.
+
+##### V11.24
+
+- Void Shift: Bug Fix: No longer is consumed or refreshed incorrectly under certain circumstances.
+- Void Shift: Bug Fix: Damage reduction no longer fails to reduce damage that subsequently triggered Night Harvester's Soulrend.
+
+##### V11.19
+
+- Void Shift: Bug Fix: Crowd control immunity is no longer consumed by Blast Cones triggered by allies.
+
+##### V11.14
+
+- Stats: Base health reduced to 510 from 537.
+- Call of the Void: AP ratio reduced to 55% AP from 65% AP.
+
+##### V11.11
+
+- Hextech Malzahar: Bug Fix: Hitting him triggers more metallic sounds.
+
+##### V10.18
+
+- General: Updated visual effects.
+- New basic attack missiles and hit effects.
+- Void Shift: Reduced some of the noise from the shield. Made it a bit brighter to match other spell shields.
+- Call of the Void: New quickcast indicator to better represent its actual hitbox. New missile and hit effects.
+- Void Swarm: New spawn effects and basic attacks.
+- Malefic Visions: New debuff effect and a beam effect when the debuff spreads to other enemies.
+- Nether Grasp: New beam, hit, and AoE effects, including a more thematic pool.
+- Snow Day Malzahar: Call of the Void: New snowball VFX.
+- Battle Boss Malzahar: Call of the Void: Updated to rotate spaceships to better match hitbox.
+- Hextech Malzahar: Call of the Void: Updated to show hitbox more clearly.
+- Worldbreaker Malzahar: Call of the Void: Updated to show hitbox more clearly.
+
+##### V10.15
+
+- Void Swarm: Bug Fix: Voidlings now properly trigger Manaflow Band.
+
+##### V10.11
+
+- Malefic Visions: Bug Fix: Debuff now properly spreads onto the closest target even after killing zombie Sion during the ability's effect.
+
+##### V9.23
+
+- Void Swarm: Gathering Swarm stacks renamed to Zz'Rot Swarm.
+
+##### V9.16
+
+- Nether Grasp: Bug Fix: Now adds a revealed marker to the target, including stealthed targets.
+
+##### V9.7
+
+- Snow Day Malzahar: Bug Fix: Buffs aura now properly follows the model during certain animations.
+
+##### V9.6
+
+- Voidlings: New Effect: Now triggers effects that are triggered by pets (i.e on-ability-hit effects).
+- It is also classified as basic attacks.
+
+##### V8.9
+
+- Stats: Base mana increased to 375 from 300.
+- Mana growth reduced to 27.5 from 55.
+- Base mana regeneration increased to 8 from 6.
+
+##### V8.8
+
+- Battle Boss Malzahar: Bug Fix: Recall VFX have been restored.
+
+##### V8.2
+
+- Call of the Void: AP ratio reduced to 65% AP from 80% AP.
+- Malefic Visions: New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+- Nether Grasp: Cooldown increased to 140 / 110 / 80 seconds from 120 / 100 / 80.
+- New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+- Battle Boss Malzahar: Void Swarm: Bug Fix: SFX have been toned down and are now less noisy.
+- Malefic Visions: Bug Fix: SFX have been toned down and are now less noisy.
+
+##### V7.24
+
+- Nether Grasp: Base damage reduced to 125 / 200 / 275 from 125 / 225 / 325.
+- AP ratio reduced to 110% AP from 115% AP.
+- Bug Fix: Quicksilver Sash and Mercurial Scimitar now properly purge only the suppression portion of Nether Grasp. Beam damage will continue to tick as long as Malzahar's target stays within a 1250-range.
+
+##### V7.22
+
+- Stats: Base health increased to 537 from 525.
+- Health growth increased to 75 from 68.
+
+##### V7.19
+
+- Void Swarm: Bug Fix: Voidlings are no longer missing attack on-hit VFX.
+
+##### V7.17
+
+- Void Shift: Bug Fix: Now correctly blocks Fizz's Chum the Waters.
+
+##### V7.15
+
+- Battle Boss Malzahar: Bug Fix: Auto attack animation is no longer faster than his base model's.
+
+##### V7.12
+
+- Call of the Void: Base damage reduced to 70 / 110 / 150 / 190 / 230 from 80 / 135 / 190 / 245 / 300.
+- Nether Grasp: Beam base damage reduced to 125 / 250 / 375 from 125 / 250 / 375.
+- Beam AP ratio reduced to 115% AP from 115% AP.
+- Bug Fix: Quicksilver Sash and Mercurial Scimitar now properly purge only the suppression portion of Nether Grasp. Beam damage will continue to tick as long as Malzahar's target stays within a 1250-range.
+
+##### V7.11
+
+- Call of the Void: Cast time reduced to 0.25 seconds from 0.5 seconds.
+- New Effect: Now has a 0.4-second post-cast delay before firing.
+- AP ratio increased to 80% AP from 70% AP.
+- Void Swarm: Mana cost increased to 40 / 45 / 50 / 55 / 60 from 40 at all ranks.
+- Removed: Charge system.
+- Now has a standard cooldown.
+- Cooldown reduced to 8 seconds at all ranks from 20 / 19 / 18 / 17 / 16.
+- New Effect: Malzahar gains a stack of Gathering Swarm when he casts another ability, up to a maximum of 2 stacks.
+- Malzahar summons a Voidling, plus an additional Voidling per stack of Gathering Swarm, up to a maximum of 3 Voidlings per cast.
+- Removed: Voidlings are no longer able to spawn additional Voidling.
+- Cast range reduced to 150 from 450.
+- Removed: Voidlings killed increasing the minion killed stat.
+- Voidlings stats:
+  - Attack damage dealt changed to 5 - 64.5 (+ 12 / 14 / 16 / 18 / 20) at all ranks from 30 / 35 / 40 / 45 / 50 (+ 40% bonus AD).
+  - Bonus magic damage dealt changed to 10 / 15 / 20 / 25 / 30 (+ 10% AP) from 10 / 15 / 20 / 25 / 30 (+ 20% AP).
+  - Attack speed growth increased to 2% from 0%.
+  - Attack speed increased to 0.665 - 0.891 (based on level) from 0.665 at all levels.
+- Both attack's components deal magic damage from attack damage dealt as physical damage and bonus damage dealt as magic damage.
+- Duration reduced to 8 / 8 / 9 / 9 / 10 seconds from 12 at all ranks.
+- Health increased to 65 - 201 (based on level) from 3 (with modified damage).
+- Armor changed to 16 - 50 (based on level) from 30 at all levels.
+- Magic resistance reduced to 8 - 25 (based on level) from 50 at all levels.
+- New Effect: Champions' and turrets' basic attacks will instantly kill Voidlings.
+- All other damage will be reduced by armor and magic resistance normally.
+- Gold reward reduced to 2 from 5.
+- Movement speed reduced to 400 from 451.
+- Removed: Gaining 100% bonus movement speed when running toward priority targets.
+- Removed: Movement speed reduced by distance from Malzahar.
+- Removed: Dealing 50% reduced damage to monsters.
+- New Effect: Now deals 50% reduced damage to epic monsters.
+
+##### V7.9
+
+- Stats: Magic resistance growth increased to 0.5 from 0.
+
+##### V7.8
+
+- Stats: Base armor reduced to 18 from 20.
+- Void Swarm: Voidling health reduced to 2 from their current value (which was presumably 200 + (50 × level)).
+- Voidling bounty reduced to 5 from their current value.
+
+##### V7.7
+
+- Void Swarm: Bug Fix: Lifesteal no longer applies when hitting voidlings.
+
+##### V6.24
+
+- Void Swarm: Bug Fix: Voidlings now properly take damage from several damage types that weren't working properly.
+
+##### V6.23
+
+- Void Swarm: Mana cost reduced to 40 from 80.
+- New Effect: Now utilizes a stock system and holds up to two charges.
+- Current cooldown is now the recharge time.
+- Voidling health changed to 3 from their current value (which was presumably 200 + (50 × level)).
+- Physical damage changed to 30 / 32.5 / 35 / 37.5 / 40 (% AD) from 30 / 32.5 / 35 / 37.5 / 40 (% AD).
+- AP ratio increased to 20% AP from 10% AP.
+- Voidlings having the ability to spawn other Voidling after W cast reduced to 3 seconds from 8.
+- Removed: Spawn an additional Voidling if a Voidling assists in killing a unit.
+- New Effect: 200% bonus damage to minions affected by Malefic Visions.
+- Removed: 200% bonus damage to minions below 20% health.
+- Removed: 50% bonus attack speed when the swarm has at least 3 Voidlings.
+- New Effect: Voidlings now only gain bonus movement speed toward priority targets if they're within 600 units of Malzahar.
+
+##### V6.15
+
+- Void Shift: Cooldown increased to 30 / 24 / 18 / 12 (based on level) seconds from 30 / 18 / 10 / 6 (based on level) seconds.
+- Linger after taking damage or blocking a crowd control effect reduced to 0.25 seconds from 1 second.
+
+##### V6.14
+
+- Stats: Movement speed reduced to 335 from 340.
+- Attack range reduced to 500 from 550.
+
+##### V6.11
+
+- Malefic Visions: Bug Fix: Voidlings no longer get confused if a target afflicted by Malefic Visions enters brush.
+
+##### V6.10
+
+- Stats: Cooldown changed to 30 / 18 / 10 / 6 (based on level) seconds from 23 - 6 (based on level) seconds.
+- Cooldown indicator is now also shown on buff bar.
+- Bug Fix: Frozen Heart's aura no longer pops it.
+
+##### May 9th Hotfix
+
+- Call of the Void: Mana cost increased to 80 at all ranks from 60.
+- Void Swarm: Mana cost increased to 80 from 60.
+- Damage versus monsters reduced to 50% from 75%.
+- Nether Grasp: Base damage reduced to 5 / 7 / 9% of target's maximum health from 6 / 8 / 10.
+
+##### V6.9
+
+- New splash artwork for Original Malzahar.
+- New ability icons
+  - Void Shift
+  - New Innate
+- If Malzahar has not taken damage nor been affected by crowd control in the last 23 - 6 (based on level) seconds, he phases out, which lingers for 1 second after taking damage or blocking a crowd control effect. While phased out, Malzahar is immune to crowd control effects and takes 90% reduced damage. Damage from minions does not interact with Void Shift.
+- Call of the Void: Base damage reduced 80 / 115 / 150 / 185 / 220 from 80 / 140 / 200 / 260 / 320.
+- AP ratio reduced to (+ 70% AP) from (+ 80% AP).
+- Silence duration reduced to 1 / 1.25 / 1.5 / 1.75 / 2 seconds from 1.4 / 1.65 / 2 / 2.35 / 2.7 seconds.
+- Cooldown reduced to 6 seconds from 9 seconds.
+- Mana cost reduced to 60 / 70 / 80 / 90 / 100 from 60 / 75 / 90 / 105 / 120.
+- Refund changed to 2% maximum Mana from 10 / 14 / 18 / 22 / 26.
+- New Effect: Damaging a target with Call of the Void or Nether Grasp will refresh the duration of Malefic Visions.
+- Nether Grasp: New Effect: A Null Zone is created on the floor beneath Malzahar's target, which lingers for 5 seconds.
+- Removed: 250 / 400 / 550 (+ 130% AP) damage.
+- New Effect: Malzahar's target and all those in the Null Zone are damaged for 6 / 8 / 10% (+ 1.5% per 100 AP) of target's maximum health each second.
+
+##### Trivia
+
+[Malzahar Trivia](<URL>)
+
+---
+
+###### After the Battlemage update in V6.9, Malzahar's Voidlings had their color scheme changed from purple with yellow eyes to gray with purple eyes.
+
+###### Malzahar is one of the few champions to have a pet, the others being Annie, Elise, Heimerdinger, Ivern, Shaco, and Yorick.
+
+###### Malzahar and his Voidlings' dance references U Can't Touch This by MC Hammer.
+
+###### A side-by-side comparison for Malzahar's part can be seen [here](<URL>).
+
+###### A side-by-side comparison for his Voidlings' part can be seen [here](<URL>).
+
+###### He shares this dance (specifically his Voidlings' part) with Jayce.
+
+###### Upon the removal of Zz'Rot Portal in patch V9.23, Gathering Swarm stacks for Void Swarm was renamed to Zz'Rot Swarm to honor the item.
+
+###### This might indirectly imply that Malzahar's voidlings are a similar if not the same species as the Voidspawn that spawned from that item.
+
+###### Malzahar's Voidling had its assets reused for several rotating game modes.
+
+###### It was given a retexture and features as a monster in Invasion.
+
+###### Its animations were reused for the Cyte monster in Odyssey: Extraction.
+
+---
+
+###### References
+
+[League of Legends Wiki](<URL>)
+
+| **Champions** | Cancelled Champions |
+| --- | --- |
+| **Ao Shin** | [<URL>] |
+| **Avasha** | [<URL>] |
+| **Averdrian** | [<URL>] |
+| **CeeCee** | [<URL>] |
+| **Cyborg Cowboy** | [<URL>] |
+| **Eagle Rider** | [<URL>] |
+| **Gavid** | [<URL>] |
+| **Husk** | [<URL>] |
+| **Iron Engineer** | [<URL>] |
+| **Ivan** | [<URL>] |
+| **Omen** | [<URL>] |
+| **Priscilla** | [<URL>] |
+| **Rob Blackblade** | [<URL>] |
+| **Seth** | [<URL>] |
+| **Tabu** | [<URL>] |
+| **Tiki** | [<URL>] |
+| **Urf** | [<URL>] |
+| **Well** | [<URL>] |
+
+###### References
+
+[League of Legends Wiki](<URL>)

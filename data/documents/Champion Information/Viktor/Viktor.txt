@@ -1,0 +1,209 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - •
+    - League of Legends Champions
+      * Viktor
+        * **Image**
+          +
+        * **Gameplay**
+          + Collection
+          + Audio
+          + Patch history
+          + Past versions
+        * **Viktor**
+          + Release date: 2011-12-29
+          + Last changed: V14.5
+          + **Classes**
+            - Battlemage
+            - Legacy
+            - Mage
+          + **Position(s)**
+            - Middle
+          + **Resource**
+            - Mana
+          + **Range type**
+            - Ranged
+          + **Adaptive type**
+            - Magical
+          + **Store price**
+            4800
+          + | 880
+          + **Crafting**
+            + 2880
+          + **Ratings**
+            * Damage: 3
+            * Toughness: 1
+            * Control: 2
+            * Mobility: 1
+            * Utility: 1
+          + **Style**
+            - Difficulty: Champion
+          + **Champion Spotlight**
+            - [Viktor Champion Spotlight](https://www.youtube.com/watch?v=lG7JWU6aQZw)
+
+****
+
+**Viktor**
+
+* Is a champion in League of Legends.
+* **Base statistics**
+  + Health: 600 (+104)
+  + Mana: 405 (+45)
+  + Health regeneration (per 5 seconds): 8 (+0.65)
+  + Mana regeneration (per 5 seconds): 8 (+0.8)
+  + Armor: 23 (+5.2)
+  + Attack damage: 53 (+3)
+  + Magic resist.: 30 (+1.3)
+  + Critical strike: 175%
+  + Move. speed: 335
+  + Attack range: 525
+  + Attack speed: Base AS 0.658, Bonus AS +2.11%
+  + Missile speed: 2300
+  + Unit radius: 65
+  + Selection radius: 160
+  + Pathing radius: 35
+  + Acquisition radius: 525
+
+****
+
+**Special statistics**
+
+* ARAM: Damage Dealt -5%, Damage Received +5%
+* Nexus Blitz: No changes
+* One For All: No changes
+* URF: Damage Dealt -5%, Damage Received +0%
+* Ult Spellbook: No changes
+* Arena: Damage Dealt +0%, Damage Received +0%
+
+****
+
+**Abilities**
+
+* **Glorious Evolution**
+  + Innate: Viktor can augment each of his basic abilities at the cost of 100 Hex Fragments, which he gains from killing enemies: minions, monsters, and enemy champions. Minions and monsters generate 1 Hex Fragment, siege minions, super minions, and epic monsters generate 5 Hex Fragments, and enemy champion takedowns generate 25 Hex Fragments. Chaos Storm becomes augmented once all of Viktor's basic abilities have been augmented.
+  + Passive: Viktor can only have up to 100 Hex Fragments, and must upgrade an ability before obtaining any more.
+  + Arena differences: New effect: Gains 25 Hex Fragments per round.
+
+* **Siphon Power**
+  + Cost: 45 / 50 / 55 / 60 / 65 mana
+  + Cooldown: 9 / 8 / 7 / 6 / 5 seconds
+  + Cast time: 0.25 seconds
+  + Target range: 600
+  + Active: Viktor throws a device at the target enemy that deals magic damage and grants him a shield for 27 - 105 (based on level) (+ 18% AP) for 2.5 seconds and gains Discharge for 3.5 seconds.
+  + Magic Damage: 60 / 75 / 90 / 105 / 120 (+ 40% AP)
+  + Discharge: Viktor's next basic attack is empowered to become non-projectile and deal modified magic damage.
+  + Modified Magic Damage: 20 / 45 / 70 / 95 / 120 (+ 100% AD) (+ 60% AP)
+  + Total Magic Damage: 80 / 120 / 160 / 200 / 240 (+ 100% AD) (+ 100% AP)
+  + Augment: Turbocharge: After the device hits, Viktor gains 30% bonus movement speed for 2.5 seconds and the shield's strength is increased by 60%, up to 48 - 184 (based on level) (+ 32% AP).
+  + Map-specific differences:
+    - Arena: The shield's strength is increased by 60% and lasts for 4 seconds.
+  + Targeting input: Passive
+  + Unit target: Out-of-range override, walk in range of the target
+  + Damage type: Magic
+  + Drawn: Counters: Spell shield, parries
+  + Blocked: Projectile, missing
+  + See notes: All damage dealt by Spellblade on the enhanced attack is converted into magic damage. Spell shield does not prevent Viktor from gaining Discharge. Critical strike and life steal only interact with the basic attack damage component. Only the initial projectile can be intercepted. Discharge's empowered attack can be blocked (damage is negated and the empowered attack will still be consumed). The empowered attack will trigger but not be consumed nor apply its effects against structures nor wards. Pending for test: Discharge's interaction with parrying effects (dodge and blind). If the target becomes untargetable, dies, or is too far away or no longer in sight during the cast time, this ability will cancel but does not go on cooldown nor pay its cost (if applicable).
+
+* **Gravity Field**
+  + Cost: 65 mana
+  + Cooldown: 17 / 16 / 15 / 14 / 13 seconds
+  + Cast time: 0.25 seconds
+  + Target range: 800
+  + Active: Viktor deploys a gravity field at the target location for 4 seconds. After a 0.75-second delay, it activates to slow enemies within, persisting for 0.25 seconds after leaving the area or generating 3 stacks.
+  + Slow: 30 / 34 / 38 / 42 / 45%
+  + The field applies a stack to enemies within every 0.5 seconds, stacking up to 3 times. The third stack consumes them all to knock down and stun the target for 1.5 seconds. The target then becomes immune to Gravity Field's effects, occurring once per cast.
+  + Augment: Magnetize: Viktor's other abilities, excluding Chaos Storm's persistent damage, slow enemies hit by 20% for 1 second.
+  + Map-specific differences:
+    - Arena: Gravity Field will remain active if Viktor dies.
+    - Arena: Gravity Field's animation can be seen by both teams through fog of war.
+    - Arena (bug): If an enemy enters the area of effect while untargetable, they may generate stacks even after becoming stunned once, causing them to get stunned up-to 3 times by a single Gravity Field.
+  + Targeting input: Location
+  + Counters: Spell shield, blocked
+  + Gravity Field will remain active if Viktor dies.
+  + Gravity Field's animation can be seen by both teams through fog of war.
+  + If an enemy enters the area of effect while untargetable, they may generate stacks even after becoming stunned once, causing them to get stunned up-to 3 times by a single Gravity Field (bug).
+
+* **Death Ray**
+  + Cost: 70 / 80 / 90 / 100 / 110 mana
+  + Cooldown: 12 / 11 / 10 / 9 / 8 seconds
+  + Cast time: None
+  + Target range: 550
+  + Range: 500
+  + Effect radius: 500
+  + Width: 90
+  + Speed: 1050 / 1500
+  + Active: Viktor fires an energy beam along the target path that deals magic damage to enemies hit and briefly grants sight of the area.
+  + Magic Damage: 70 / 110 / 150 / 190 / 230 (+ 50% AP)
+  + Augment: Aftershock: The path explodes along the beam's wake after 1 second, dealing magic damage to enemies hit.
+  + Magic Damage: 20 / 50 / 80 / 110 / 140 (+ 80% AP)
+  + Total Magic Damage: 90 / 160 / 230 / 300 / 370 (+ 130% AP)
+  + Map-specific differences:
+    - Arena: Death Ray's range is increased by 150.
+  + Targeting input: Vector
+  + Damage type: Magic
+  + Counters: Spell shield, projectile, blocked, missing
+  + Viktor may freely act while the ray is traveling.
+  + The effected area is set upon casting, no matter how far away Viktor moves. Unlike a leash, Death Ray will not break off its own effect.
+  + The laser grants a moderate area of sight around where the beam strikes the ground.
+  + If Death Ray is intercepted, the initial ray is not destroyed.
+  + However, the capability to be blocked only applies to the laser as it hits the ground.
+  + Augmented Death Ray will still cause the entire target area to explode even if the laser is blocked.
+  + If Viktor dies while he is firing the beam, it only deals damage up to the location at the time of his death.
+
+* **Chaos Storm**
+  + Cost: 100 mana
+  + Cooldown: 120 / 100 / 80 seconds
+  + Cast time: 0.25 seconds
+  + Target range: 700
+  + Effect radius: 350 / 700
+  + Speed: 200 / 300 / 250 / 375
+  + Active: Viktor conjures an arcane singularity at the target location, dealing magic damage to enemies within the area and disrupting their channeled abilities.
+  + Magic Damage: 100 / 175 / 250 (+ 50% AP)
+  + The singularity then remains active for 6.5 seconds, dealing magic damage to enemies within it every second and granting sight of the area. The singularity targets the nearest champion hit by its initial damage and will follow them, moving faster based on its proximity to Viktor.
+  + Magic Damage Per Tick: 65 / 105 / 145 (+ 45% AP)
+  + Total Magic Damage: 490 / 805 / 1120 (+ 320% AP)
+  + Chaos Storm can be recast at any time while the singularity is active.
+  + Recast: Viktor directs the singularity to the target location or enemy champion.
+  + Augment: Perfect Storm: The singularity moves 25% faster.
+  + Chaos Storm's recast can be used while affected by cast-inhibiting crowd control.
+  + Map-specific differences:
+    - Arena: The disruption lasts for 0.5 seconds.
+  + Damage type: Magic
+  + The disrupt is 'wrapped' into a status effect that says the target is Silenced for 0.25 seconds, but it does not actually silence. It however makes sure that the disrupt is prevented by immunity to silences.
+  + Viktor can command the singularity regardless of how far away he is from it.
+  + The singularity will remain active even if Viktor dies. Any commands it was issued prior to his death will not be interrupted.
+  + Chaos Storm reaches its maximum speed at 300 units and minimum speed at 900 units away from Viktor.
+  + Including the initial damage, Chaos Storm deals 7 instances of damage.
+  + The storm will follow its target even if they are not visible, effectively giving away their position.
+  + Chaos Storm is not obstructed by terrain.
+
+****
+
+**Champion skins**
+
+* Original
+* Full Machine
+* Prototype
+* Legacy
+* Creator
+* Death Sworn
+* PsyOps
+* Otherroads
+* High Noon
+
+****
+
+**Patch history**
+
+* For the expanded patch notes, see [here](https://leagueoflegends.fandom.com/wiki/Viktor/Patch_History)
+
+****
+
+**Trivia**
+
+* Viktor's robotic hand from the Prototype skin can be seen in the [video](https://www.youtube.com/watch?v=dQw4w9WgXcQ) for the Mac Version of League of Legends.
+* Viktor's dance references the [Melbourne Shuffle](https://en.wikipedia.org/wiki/Melbourne_shuffle), a dance originating from Australia.
+* A side-by-side comparison of Viktor's dance and the Melbourne Shuffle can be seen [here](https://www.reddit.com/r/leagueoflegends/comments/7g21jx/viktor_dances_like_the_melbourne_shuffle/).
+* Viktor was the first champion who had a unique item available only for him (Prototype Hex Core), sharing this feature with Kalista.

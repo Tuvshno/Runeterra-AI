@@ -1,0 +1,224 @@
+Games
+
+**Universe**
+
+•
+
+League of Legends
+
+•
+
+Teamfight Tactics
+
+•
+
+Legends of Runeterra
+
+•
+
+Wild Rift
+
+**Image**
+
+Kayn
+
+**Gameplay**
+
+•
+
+Cosmetics
+
+•
+
+Audio
+
+•
+
+Development
+
+•
+
+Patch History
+
+•
+
+History
+
+•
+
+Trivia
+
+**Base**
+
+Kayn
+
+**Release date:** 2017-07-12
+
+**Last changed:** V14.5
+
+**Class(es):** Skirmisher, Legacy, Fighter, Assassin
+
+**Position(s):** Jungle
+
+**Resource:** Mana
+
+**Range type:** Melee
+
+**Adaptive type:** Physical
+
+**Store price:** 3150
+
+| 790 |
+
+Crafting
+
++
+
+1890
+
+**Ratings**
+
+Damage: 3
+
+Toughness: 1
+
+Control: 1
+
+Mobility: 3
+
+Utility: 1
+
+**Style:** Difficulty
+
+**Champion Spotlight**
+
+[Kayn Champion Spotlight](https://www.youtube.com/watch?v=VjUc1kjolHk)
+
+Kayn is a champion in League of Legends.
+
+[1]
+
+**Base statistics**
+
+Kayn
+
+**Edit**
+
+* Health: 655 + 109
+* Mana: 410 + 50
+* Health regen. (per 5s): 8 + 0.75
+* Mana regen. (per 5s): 11.5 + 0.95
+* Armor: 38 + 4.5
+* Attack damage: 68 + 3.3
+* Magic resist.: 32 + 2.05
+* Crit. damage: 175%
+* Move. speed: 340
+* Attack range: 175
+* Attack speed: Base AS 0.669, Attack windup 18.729%
+* AS ratio: N/A
+* Bonus AS: +2.7%
+* Unit radius: Gameplay radius 65, Selection radius 135, Pathing radius 35, Acq. radius 400
+
+**Special statistics**
+
+ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+
+Damage Dealt: +0%, Damage Received: +0%, Healing: -20%, Tenacity & Slow Resist: +20%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%
+
+[2]
+
+**The Shadow Assassin**
+
+Release date: 2017-07-12
+
+**Last changed:** V14.5
+
+**Class(es):** Assassin, Legacy, Fighter, Assassin
+
+**Position(s):** Jungle
+
+**Resource:** Mana
+
+**Range type:** Melee
+
+**Adaptive type:** Physical
+
+**Store price:** 3150
+
+| 790 |
+
+Crafting
+
++
+
+1890
+
+**Ratings**
+
+Damage: 3, Toughness: 1, Control: 1, Mobility: 3, Utility: 1
+
+**Style:** Difficulty
+
+Shadow Assassin is a champion in League of Legends.
+
+[3]
+
+**The Darkin Slayer**
+
+Release date: 2017-07-12
+
+**Last changed:** V14.5
+
+**Class(es):** Slayer, Legacy, Fighter, Assassin
+
+**Position(s):** Jungle
+
+**Resource:** Mana
+
+**Range type:** Melee
+
+**Adaptive type:** Physical
+
+**Store price:** 3150
+
+| 790 |
+
+Crafting
+
++
+
+1890
+
+**Ratings**
+
+Damage: 3, Toughness: 1, Control: 1, Mobility: 3, Utility: 1
+
+**Style:** Difficulty
+
+Rhaast is a champion in League of Legends.
+
+**Abilities**
+
+[ ]
+
+**The Darkin Scythe**
+
+Innate: Kayn has a secondary experience bar that tracks progress toward his Darkin and Shadow Assassin forms. He gathers orbs from champion takedowns and each instance of damage (excluding damage over time) dealt against champions. Once he has earned enough orbs, he unlocks a form based on whether he earned more from melee or ranged champions (for Darkin and Shadow Assassin, respectively), with the other form unlocked later. Kayn can move near the summoning platform to transform over 6 seconds, restoring to full health and mana and becoming invulnerable, untargetable, and unable to act for the duration. Kayn cannot choose a form if he is unable to cast abilities. The transformation will grant a passive bonus and permanently empower some of Kayn's abilities based on the form chosen. He gains a one-time Homeguard once the transformation is complete.
+
+Shadow Assassin Bonus: If Kayn has been out of combat with enemy champions for over 8 seconds, or he casts Umbral Trespass, he deals 15% − 45% (based on level) of post-mitigation damage dealt against enemy champions as bonus magic damage, lasting for 3 seconds upon entering combat and also applying on the first instance of damage dealt. If this effect is ready, it will not be lost by taking damage.
+
+Darkin Bonus: Rhaast heals for 25% (± 0.5% per 100 bonus health) of the post-mitigation physical damage that he deals to enemy champions with his abilities.
+
+**Map-Specific Differences**
+
+Howling Abyss differences: Transformation no longer restores full health and mana.
+
+Arena differences: New Effect: Gains 30 orbs per round. Shadow Assassin bonus damage changed to 30% − 60% (based on level). Shadow Assassin bonus damage cooldown changed to 4 seconds.
+
+**Champion skins**
+
+[ ]
+
+This article section only contains champion skins. For all associated collection items, see [Kayn (Collection)](https://leagueoflegends.fandom.com/wiki/Kayn_(Collection)).
+
+Original, Soulhunter, Odyssey, Nightbringer, Prestige Nightbringer, Snow Moon, HEARTSTEEL

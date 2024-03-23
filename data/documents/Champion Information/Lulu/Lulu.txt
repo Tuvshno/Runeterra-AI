@@ -1,0 +1,165 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champion: Lulu
+      * Class(es): Enchanter, Legacy, Support, Mage
+      * Position(s): Support
+      * Resource: Mana
+      * Range type: Ranged
+      * Adaptive type: Magic
+      * Store price: 4800
+      * Crafting cost: +2880
+      * Ratings:
+        * Damage: 2
+        * Toughness: 1
+        * Control: 2
+        * Mobility: 1
+        * Utility: 3
+      * Release date: 2012-03-20
+      * Last changed: V14.4
+      * Base statistics:
+        * Health: 595 (+92)
+        * Mana: 350 (+55)
+        * Health regen. (per 5s): 6
+        * Mana regen. (per 5s): 0.6
+        * Attack damage: 47 (+2.6)
+        * Armor: 26 (+4.9)
+        * Crit. damage: 175%
+        * Move. speed: 330
+        * Attack range: 550
+        * Attack speed: 0.625
+        * Attack windup: 18.75%
+        * Bonus AS: +2.25%
+        * %
+        * Missile speed: 1450
+        * Unit radius: 65
+        * Selection radius: 100
+        * Pathing radius: 30
+        * Acq. radius: 625
+      * Special statistics:
+        * ARAM: +5% Damage Dealt, +0% Damage Received, +5% Shielding
+        * Nexus Blitz: N/A
+        * One For All: N/A
+        * URF: +0% Damage Dealt, +0% Damage Received, +0% Shielding
+        * Ult Spellbook: N/A
+        * Arena: N/A
+      * Abilities:
+        * Pix, Faerie Companion
+          * Innate: Assists Lulu with basic attacks
+          * Casting: Transfers help to an ally champion
+          * Details: Bolts do not fire alongside on-hit effects, Pix does not fire if target dies, Pix fires from his own location
+        * Glitterlance
+          * Cost: 50 / 55 / 60 / 65 / 70 Mana
+          * Cooldown: 7s
+          * Cast time: 0.25s
+          * Range: 950
+          * Width: 120
+          * Speed: 1450
+          * Active: Lulu and Pix fire bolts towards the target, dealing damage and slowing enemies
+        * Whimsy
+          * Cost: 65 Mana
+          * Cooldown: 17 / 16.5 / 16 / 15.5 / 15s
+          * Cast time: 0.2419s
+          * Target range: 650
+          * Active: Polymorphs enemy or self, granting bonus attack speed and movement speed (self) or disarming and slows enemy (enemy)
+      * Skins:
+        * Original
+        * Faye Mata: Kienan 'Knockwurst' Lafferty, Bittersweet, Andrew 'Silver' Silver, Sugar Rush
+        * Wicked
+        * Trick-or-Treat
+        * Dragon Trainer
+        * Winter Wonder
+        * Pool Party
+        * Star Guardian
+        * Space Groove
+        * Prestige Space Groove
+        * Monster Tamer
+      * Chromas: Dragon Trainer Lulu Chromas, Pool Party Lulu Chromas, Star Guardian Lulu Chromas, Cosmic Enchantress Lulu Chromas, Cafe Cuties Lulu Chromas
+
+**[Image: Lulu, the Fae Sorceress]**
+
+**[1] Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics (continued)**
+
+* Bonus health: 275 / 425 / 575 (+55% AP)
+* Slow: 30 / 45 / 60%
+
+**[2] Patch history**
+
+* V14.4: Glitterlance - Second bolt damage increased to 50% from 25%, Help, Pix! - Base damage increased to 80 / 125 / 170 / 215 / 260 from 80 / 120 / 160 / 200 / 240, Base shield increased to 80 / 120 / 160 / 200 / 240 from 75 / 110 / 145 / 180 / 215, Wild Growth - AP ratio increased to 55% AP from 45% AP
+* V14.2: Pix, Faerie Companion - Faster movement with unit, Glitterlance - Lulu can now properly fire the missile even if affected by cast-inhibiting crowd control, Wild Growth - Bonus health granted is no longer sometimes delayed
+* V13.22: Help, Pix! - No longer attributes kill credit to a non-player unit on either team from the missiles killing a unit
+* V13.21: Pix, Faerie Companion - Damage now triggers Lulu's own damage effects but still grants kill credit to the ally applying it, Help, Pix! - Damage now triggers Lulu's own damage effects but still grants kill credit to the ally applying it, Cosmic Enchantress Lulu - Pix no longer uses the base skin's trail VFX from the enemy's perspective
+* V13.16: Stats - Health growth increased to 92 from 88, Glitterlance - AP ratio increased to 50% AP from 40% AP, Help, Pix! - Damage AP ratio increased to 50% AP from 40% AP
+* V13.12: Stats - Base armor reduced to 26 from 29.2, Pix, Faerie Companion - Base damage per bolt reduced to 3 - 37 (based on level) from 5 - 39 (based on level), Maximum base damage reduced to 9 - 111 (based on level) from 15 - 117 (based on level), Help, Pix! - Base shield increased to 75 / 115 / 150 / 185 / 220 from 75 / 110 / 140 / 170 / 200
+* V12.18: Whimsy - Base bonus movement speed reduced to 25% from 30%, Polymorph duration reduced to 1.25 / 1.4 / 1.6 / 1.8 / 2s from 1.25 / 1.5 / 1.75 / 2 / 2.25s, Cooldown increased to 17 / 16 / 15 / 14 / 13s from 16 / 15 / 14 / 13 / 12s
+* V12.10: Stats - Base health increased to 595 from 525, Health growth increased to 88 from 74, Armor growth increased to 4.9 from 3.7, Magic resistance growth increased to 1.3 from 0.5
+* V12.8: Pix, Faerie Companion - Bug fix: Pix's damage dealt against champions now properly triggers Spellthief's Edge and Spectral Sickle's Tribute
+* V12.2: Whimsy - Cooldown increased to 17 / 16 / 15 / 14 / 13s from 16 / 15 / 14 / 13 / 12s
+* V11.23: Pix, Faerie Companion - Bug fix: Pix will no longer lose his untargetability after Lulu travels through a Hexgate on the Hextech Rift
+* V11.20: Help, Pix! - Bug fix: Now correctly grants a shield when cast on an allied champion's clone
+* V11.16: Whimsy - Cooldown reduced to 15 / 14 / 13 / 12 / 11s from 16 / 15 / 14 / 13 / 12s, Bonus attack speed increased to 25 / 27.5 / 30 / 32.5 / 35% from 15 / 20 / 25 / 30 / 35%
+* V10.25: Glitterlance - Base damage reduced to 70 / 105 / 140 / 175 / 210 from 80 / 115 / 150 / 185 / 220, AP ratio reduced to 40% AP from 50% AP, Damage is no longer reduced to 70% beyond the first target hit, New Effect: Being hit by a second bolt deals 25% bonus damage, New Effect: Now only deals 70% damage against minions
+* V10.22: Glitterlance - Base damage reduced to 80 / 115 / 150 / 185 / 220 from 80 / 125 / 170 / 215 / 260
+* V10.20: Whimsy - Bonus attack speed reduced to 20 / 23.5 / 27 / 30.5 / 34% from 25 / 30 / 35 / 40 / 45%, Help, Pix! - Bug fix: Her team can no longer get permanent vision of an area if she is cloned by Illaoi's Test of Spirit and dies while Help, Pix! is activated on her
+* V10.2: Stats - Base armor increased to 29 from 28.2, Base attack damage increased to 47 from 46.3, Help, Pix! - Cooldown reduced to 8s from 10s
+* V9.21: Help, Pix! - Base damage increased to 80 / 120 / 160 / 200 / 240 from 80 / 110 / 140 / 170 / 200, Base shield strength increased to 80 / 120 / 160 / 200 / 240 from 80 / 115 / 150 / 185 / 210
+* V9.20: Whimsy - Bug fix: When she polymorphs Gnar just before he transforms back from Mega to base form, Gnar will no longer acquire extra buffs and have Mega Gnar's attack and crit animations and particles
+* V9.12: General - New visual effects, New purple-ier basic attack missiles and hit effects, All skins cleaned up to match the new effects on the base skin, Pix, Faerie Companion - Cleaned up Pix's VFX bolts, Glitterlance - New purple-ier VFX missiles and hit effects, Whimsy - Cleaned up VFX buff effect (for allies) and missiles/hit effects (on enemies), Help, Pix! - Base shield strength increased to 80 / 115 / 150 / 185 / 210 from 70 / 105 / 140 / 175 / 210, Mana cost reduced to 60 / 65 / 70 / 75 / 80 from 60 / 70 / 80 / 90 / 100, Wild Growth - VFX fairy dust, an entirely new and pretty AoE, Cleaned up enemy VFX hit and slow effects
+* V9.8: Pajama Guardian Lulu - Bug fix: Right wing is no longer pointing in a different direction during her Homeguard animation
+* V8.22: Star Guardian Lulu and Pool Party Lulu - Bug fix: VFX no longer clip on elevated terrain
+* V8.12: Help, Pix! - Shield duration reduced to 2.5s from 6s, Pix is still attached for 6s
+* V8.10: Dragon Trainer Lulu - Bug fix: SFX now only play once during her dance
+* V8.8: Pool Party Lulu - Pix, Faerie Companion - Bug fix: Pix attack projectiles are no longer missing their trail particles
+* V8.3: Stats - Base health regeneration reduced to 6 from 6.6, V8.2 - Pool Party Lulu - Bug fix: Hat stretching when she dies
+* V8.1: Pool Party Lulu - Wild Growth - Bug fix: Ground VFX no longer slowly pulse on low and very low settings
+* V7.23: Help, Pix! - Bug fix: Fixed a bug where multiple instances of the same shielding effect were stacking, rather than refreshing
+* V7.22: Stats - Base armor increased to 19 from 18.5, V7.21: Whimsy - Bug fix: All of her skins no longer get stuck with a blue overlay when Whimsy is used on them while they are in combat
+* V7.18: General - Bug fix: Now correctly has recommended item pages for both mid and support
+* V7.17: Star Guardian Lulu - Bug fix: Buffbone now follows her model during homeguard and recall animations, Dragon Trainer Lulu - Bug fix: Pix no longer uses classic VFX
+* V7.12: Whimsy - Bug fix: Fixed a bunch of cases where the polymorph effect wasn't properly canceling or interrupting certain effects and abilities
+* V7.4: General - Adjusted splash artwork for Original Lulu, Bittersweet Lulu, Wicked Lulu, Dragon Trainer Lulu, Winter Wonder Lulu, and Pool Party Lulu
+* V7.3: Star Guardian Lulu - Whimsy - Bug fix: Champions affected by Whimsy now correctly display their champion name as "Blob" in the chat
+* V7.2: General - Bug fix: Lulu and her skins once again play their running animations when hasted, rather than walking really really fast, Pix, Faerie Companion - Base damage increased to 15 - 87 (based on level) from 11 - 75 (based on level)
+* V6.22: General - Bug fix: Running animation has been restored on all skins, Bug fix: Winter Wonder Lulu's Pix attack VFX have been re-snow-ified
+* V6.18: Glitterlance - Bug fix: Slow duration now lasts the intended 2s at all ranks, rather than 1.25s / 1.5s / 1.75s / 2s / 2.25s, Whimsy - Base bonus movement speed duration reduced to 3s from 4s, Bonus attack speed increased to 25% (+10% per 100 AP) from 15% (+10% per 100 AP)
+* V6.16: Whimsy - Cooldown reduced to 16s / 15.5s / 15s / 14.5s / 14s from 18s / 16.5s / 15.5s / 15s / 14.5s / 14s
+* V6.14: Pool Party Lulu - Bug fix: Hat stretching when she dies
+* V6.13: Stats - Base mana increased to 350 from 325, Move. speed increased to 330 from 325
+* V6.6: Whimsy - AP ratio reduced to (+5% per 100 AP) from (+10% per 100 AP), Bonus movement speed duration reduced to 3s from 4s
+* V5.22: Stats - Base mana regen increased to 11 from 9.5, V5.18: Stats - Health growth reduced to 74 from 80
+* V4.14: Whimsy - Tooltip updated to display correct per-rank polymorph duration
+* V4.13: Glitterlance - Removed: Slow decay no scales with AP ratio, Whimsy - Bonus movement speed changed to 30% (+10% per 100 AP) from 35%, Help, Pix! - Damage AP ratio reduced to 40% AP from 60% AP
+* V4.5: Help, Pix! - Base damage reduced to 80 / 110 / 140 / 170 / 200 from 80 / 130 / 180 / 230 / 280, True sight duration reduced to 4s from 6s, Removed: Shields minions, but can still be targeted, V3.15: Pix, Faerie Companion - Per-bolt damage increased to 3 - 35 (based on level) from 3 - 27 (based on level), Help, Pix! - Shield strength increased to 80 / 120 / 160 / 200 / 240 from 60 / 105 / 150 / 195 / 240, Wild Growth - Mana cost reduced to 100 from 150
+* V3.14: Pix, Faerie Companion - Per-bolt damage changed to 3 - 27 (based on level) (+5% AP) from 3 - 35 (based on level), Glitterlance - New Effect: Slow increases/decays over the duration by (13.3% per 100 AP), Decays to 0% at 0 AP, remains constant throughout at 602 AP, gets stronger throughout with over 602 AP, Whimsy - Removed: Granting AP on allies, Bonus movement speed changed to 35% (+10% per 100 AP) from 35%
+* V3.12: Twisted Treeline - Wild Growth - Cooldown increased to 120 / 110 / 100s from 110 / 95 / 80s, Dominion - Wild Growth - Cooldown increased to 120 / 110 / 100s from 110 / 95 / 80s, V3.8: Wild Growth - Slow refresh rate reduced to 0.25s from 0.2s, V3.6: Stats - Mana per level increased to 55 from 50, Glitterlance - Mana cost increased to 60 / 65 / 70 / 75 / 80 from 40 / 50 / 60 / 70 / 80
+* V3.02: Glitterlance - Removed: Gaining increased area of effect size when used after casting Help, Pix! on an enemy, Whimsy - Removed: Interrupting enemy movement abilities already in progress
+* V3.01: Pix, Faerie Companion - Damage changed to 9 - 105 (based on level) from 15 - 87 (based on level), V1.0.0.152: Stats - Movement speed increased to 325 from 310, V1.0.0.149: General - Bug fix: Lulu's basic attacks being interrupted by Pix
+* V1.0.0.144: Wild Growth - New Effect: All effects are applied even if target ally was about to die when cast
+* V1.0.0.140: Glitterlance - Base damage reduced to 80 / 125 / 170 / 215 / 260 from 80 / 130 / 180 / 230 / 280, AP ratio reduced to 50% AP from 60% AP, V1.0.0.139: Glitterlance - AP ratio reduced to 60% AP from 70% AP, Mana cost increased to 40 / 50 / 60 / 70 / 80 from 40 / 45 / 50 / 55 / 60, Wild Growth - Tooltip updated to reflect that it is a knockup, not a knockback
+* V1.0.0.138: Pix, Faerie Companion - Bug fix: Display error on Pix damage dealt, Bug fix: Pix remaining on an ally after returning to Lulu, Bug fix: Lulu being credited for damage while Pix was following an ally
+* V1.0.0.136: added Pix, Faerie Companion - (Innate) Pix fires magical bolts of energy whenever his owner attacks another enemy unit, Glitterlance - (Q) Pix and Lulu each fire a bolt of magical energy that heavily slows all enemies it hits, Anemy can only be damaged by one bolt, Whimsy - (W) If cast on an ally, grants them movement speed and ability power for a short time. If cast on an enemy, turns them into an adorable critter that can't attack or cast spells, Help, Pix! - (E) If cast on an ally, commands Pix to jump to an ally and shield them. He then follows them and aids their attacks, If cast on an enemy, commands Pix to jump to an enemy and damage them. He then follows them and grants vision of that enemy, Wild Growth - (Ultimate) Lulu enlarges an ally, knocking enemies away from them and granting them a large amount of bonus health. For the next few seconds, that ally gains an aura that slows nearby enemies.
+
+**[3] Trivia**
+
+* Lulu is the first champion to:
+  * Be announced directly through an "Art Spotlight"
+  * Be available for play on the PBE before her official release
+  * Have her own login screen and dedicated theme
+* Lulu was the last champion to release with 2 skins alongside her Classic one.
+* Whimsy, Help, Pix!, Lamb's Respite, Tempered Fate, and Time Warp are the only abilities in the game that can affect themselves, allies, and enemies.
+* Lulu's abilities grant buffs and debuffs depending if her target is an ally or an enemy.
+* Using Help, Pix! on an enemy will grant them a debuff reading 'Hey! Listen!' referencing Navi from The Legend of Zelda: Ocarina of Time.
+* In chat, the enemy player's character name is replaced by "Harmless Critter" while they are polymorphed by Whimsy.
+* Before V11.1, this changed name would range along a number of possible ones, depending on Lulu's skin: Squill, Cupcake, Kitty, Dragon, Snowman, Blob, Jelly, and Blob.
+* [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Lulu)
+* [Cancelled Champions](https://leagueoflegends.fandom.com/wiki/Cancelled_Champions) (Ao Shin, Avasha, Averdrian, CeeCee, Cyborg Cowboy, Eagle Rider, Gavid, Husk, Ivan, Omen, Priscilla, Rob Blackblade, Seth, Tabu, Tiki, Urf, Well, and References)

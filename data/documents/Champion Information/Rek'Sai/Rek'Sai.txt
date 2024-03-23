@@ -1,0 +1,587 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Rek'Sai
+        ```vbnet
+        Gameplay
+        Collection
+        Audio
+        Patch history
+        Past versions
+
+        Rek'Sai, the Void Burrower
+        ---------------------------
+
+        Release date              : 2014-12-11
+        Last changed             : V14.5
+        Class(es)                : Diver, Legacy, Fighter
+        Position(s)              : Jungle
+        Resource                 : Rage
+        Range type               : Melee
+        Adaptive type            : Physical
+        Store price              : 4800
+        
+        Ratings
+        Damage                  : 2
+        Toughness               : 2
+        Control                : 2
+        Mobility               : 2
+        Utility                 : 2
+        
+        Style                   : Difficulty
+        ------------------------
+
+        Champion Spotlight
+        Rek'Sai Champion Spotlight
+        ---------------------------
+
+        Rek'Sai is a champion in League of Legends.
+        
+        Base statistics
+        ---------------
+
+        RekSai
+
+        Health               : 600 + 99
+        Resource            : N/A
+        Health regeneration. (per 5s) : 2.5 + 0.5
+        Secondary Bar        : Rage
+          (100)
+        Armor              : 36 + 4.95
+        Attack damage       : 58 + 3
+        Magic resist.         : 32 + 2.05
+        Crit. damage        : 175%
+        Move. speed         : 340
+        Attack range        : 175
+        Attack speed        : Base AS: 0.667, AS ratio: N/A
+        Bonus AS            : +2 %
+        Unit radius        : Gameplay radius: 65, Selection radius: 100, Pathing radius: 30, Acq. radius: 600
+        
+        Special statistics
+        ------------------
+
+        ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+        Damage Dealt              : +5%, -10%, +5%, +5%, +5%, +5%
+        Damage Received          : -10%, -10%, -7%, -7%, +0%, +0%
+        Healing                  : +20%, +7%, -7%, -7%, +0%, +0%
+        
+        Abilities
+        -------
+
+        [
+          Fury of the Xer'Sai
+          ]
+          Innate: Rek'Sai basic attacks and ability hits generate 25 Fury. After 8 seconds of being out of combat, she loses 20 Fury per second. Fury gain is reduced by 50% against minions, wards, and plants. Prey Seeker will not generate Fury against non-champions. When Rek'Sai becomes Burrowed, she consumes her current Fury over 3 seconds to heal for up to 12% − 20% of maximum health at 100 Fury, stopping once fully consumed or she reaches full health. If she starts generating Fury while Burrowed, the consumption occurs after 5 seconds.
+          Hide Details
+          Info
+          Targeting input
+          Passive
+          Fury bar changes from Yellow to Red when full. When Rek'Sai automatically consumes Fury while Burrowed (no transformation), the healing buff will refresh every second while she has/maintains over 25 Fury.
+          (bug)
+          This causes the healing to last 6 seconds at 100 Fury.
+          
+          [
+            Queen's Wrath
+            ]
+            COOLDOWN: 4 / 3.5 / 3 / 2.5 / 2
+            Cast Time: none
+            EFFECT RADIUS: 325
+            Active: Rek'Sai gains 45% bonus attack speed for 3 seconds. Her next basic attack within the duration will have an uncancellable windup and deal bonus physical damage to the target and surrounding enemies.
+            Bonus Physical Damage: 30 / 35 / 40 / 45 / 50% AD
+            If Rek'Sai completes an attack, the duration is refreshed, for up to 3 total empowered attacks.
+            Queen's Wrath resets Rek'Sai's basic attack timer.
+            Hide Details
+            Map-Specific Differences
+            Info
+            Targeting input
+            Auto
+            Damage type
+            Type
+            Sub-type
+            Area damage
+            Magic
+            Counters
+            Spell shield
+            Parries
+            Not Blocked
+            Only the damage to the primary target is affected by critical strike modifiers. Damage to the primary target applies proc damage and damage to secondary targets applies default damage. Queen's Wrath's bonus damage applies against structures. When dodged or blocked, or if Rek'Sai is blinded, the damage dealt to the primary target is nullified, but the damage around her still occurs.
+            Map-Specific Differences
+            Arena
+            differences
+            edit
+            Base damage changed to 70 / 120 / 170 / 220 / 270.
+            Bonus AD ratio changed to 70% bonus AD.
+            AP ratio changed to 130% AP.
+            
+            [
+              Burrow
+              ]
+              COOLDOWN: 4
+              Cast Time: none
+              EFFECT RADIUS: 1500
+              Active: Rek'Sai becomes Burrowed, reducing her sight radius to 385 units while gaining access to her Burrowed abilities. She also becomes ghosted and gains bonus movement speed, as well as Tremor Sense.
+              Bonus Movement Speed: 5 / 10 / 15 / 20 / 25
+              Tremor Sense: Rek'Sai and her allies gain obscured vision of nearby enemy units that are moving at a rate of once every second.
+              Once Burrow has been learned, Rek'Sai automatically becomes Burrowed upon completing a Recall channel or respawning.
+              Link ▶️
+              Champion detection alert.
+              Hide Details
+              Info
+              Targeting input
+              Auto
+              Burrow does not count as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive. Enemies detected by Tremor Sense are displayed as rings on the ground. Champions display larger rings and Rek'Sai will react to this detection. Visible enemies will not be detected by Tremor Sense. Enemies standing still while Rek'Sai is nearby are insensible by Tremor Sense. Rek'Sai sensing a nearby enemy with Tremor Sense.
+              Edit
+              Furious Bite
+              Furious Bite
+              COOLDOWN: 10
+              Cast Time: 0.25
+              TARGET RANGE: 225
+              Active: Rek'Sai bites the target enemy, dealing 100% AD physical damage. At maximum Fury, Furious Bite deals bonus physical damage, capped at 75 − 400 based on level against monsters.
+              Bonus Physical Damage: 8 / 9.5 / 11 / 12.5 / 14% of target's maximum health
+              Total Physical Damage: 100% AD (+ 8 / 9.5 / 11 / 12.5 / 14% of target's maximum health)
+              Hide Details
+              Info
+              Targeting input
+              Unit
+              Target out-of-range override
+              Walk in range of the target
+              Damage type
+              Type
+              Sub-type
+              Minion Aggro
+              Spell damage
+              Physical damage
+              Drawn
+              Counters
+              Spell shield
+              Blocked
+              If the target becomes untargetable, dies, or is too far away or no longer in sight during the cast time, this ability will cancel but does not go on cooldown nor pay its cost (if applicable).
+              Prey Seeker
+              COOLDOWN: 10
+              Cast Time: 0.1
+              TARGET RANGE: 1500
+              EFFECT RADIUS: 150
+              WIDTH: 130
+              SPEED: 1950
+              Active: Rek'Sai fires a void bolt in the target direction that detonates on the first enemy hit, dealing magic damage to all nearby enemies and revealing them for 5 seconds.
+              Magic Damage: 50 / 80 / 110 / 140 / 170 (+ 25% bonus AD) (+ 70% AP)
+              Hide Details
+              Map-Specific Differences
+              Info
+              Targeting input
+              Direction
+              Damage type
+              Type
+              Sub-type
+              Area damage
+              Magic
+              Counters
+              Spell shield
+              Projectile
+              Blocked
+              Blocked
+              This ability will cast from wherever the caster is at the end of the cast time. Prey Seeker's effect radius is centered around the location of the missile as it collides. Map-Specific Differences
+              Arena
+              differences
+              edit
+              Base damage changed to 70 / 120 / 170 / 220 / 270.
+              Bonus AD ratio changed to 70% bonus AD.
+              AP ratio changed to 130% AP.
+              
+              [
+                Unburrow
+                ]
+                CAST TIME: none
+                STATIC COOLDOWN: 1
+                TARGET IMMUNITY: 10
+                EFFECT RADIUS: 220 / 75 / 250
+                Active: Rek'Sai becomes Un-Burrowed, gaining access to her Un-Burrowed abilities. Additionally, she deals magic damage to nearby enemies and knocks them up for 1 second. Targets hit cannot be knocked up by Unburrow again for some time.
+                Magic Damage: 50 / 75 / 100 / 125 / 150 (+ 80% AP)
+                Rek'Sai can also trigger Unburrow by issuing an attack command, applying the knock up against the target once she is in attack range.
+                Hide Details
+                Info
+                Targeting input
+                Auto
+                Damage type
+                Type
+                Sub-type
+                Area damage
+                Magic
+                Counters
+                Spell shield
+                Blocked
+                Rek'Sai's attack range is reduced by 50 while Burrowed, which makes an automatic cast of Unburrow always put Rek'Sai at least 50 units within her attack range against the target to follow up with. Note that the Unborrow effect radius is usually greater than 75, meaning Rek'Sai can knock up a single target from slightly further away when she casts Unburrow the standard way, but may have to walk slightly closer to attack that target afterwards. Unburrow does not count as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive. Unburrow is still considered an ability and is thus stopped by silence. She can basic attack normally during this time, without leaving unburrow. For a brief moment during the beginning animation of Tunnel, Rek'Sai can trigger Unburrow by issuing an attack command.
+                
+                [
+                  Tunnel
+                  ]
+                  COOLDOWN: 18 / 17 / 16 / 15 / 14
+                  CAST TIME: none
+                  TARGET RANGE: 850
+                  SPEED: 500 + 100% movement speed
+                  On-Tunnel Cooldown: 6 / 5 / 4 / 3 / 2
+                  Active: Rek'Sai dashes in the target direction, leaving behind a Tunnel with two interconnected entrances that lasts up to 10 minutes. The Tunnel can be traversed again when Rek'Sai targets either entrance, shutting down the Tunnel for a few seconds. Rek'Sai can have up to 8 Tunnels active on the map at once, but deploying beyond the maximum destroys the oldest one. Enemy champions can destroy a Tunnel by standing on either entrance for 1.5 seconds, granting them 5 upon successfully destroying the Tunnel. An Un-Burrowed Rek'Sai will automatically Burrow before entering the Tunnel and automatically Unburrow after exiting it. This does not put Burrow on cooldown nor trigger Fury of the Xer'Sai, but does trigger other Burrow and Unburrow effects. Rek'Sai cannot enter a tunnel while immobilized, grounded, or silenced.
+                  Hide Details
+                  Tips & Tricks
+                  Info
+                  Targeting input
+                  Direction
+                  Insufficient dash range
+                  Dash will gain bonus range through terrain.
+                  Counters
+                  Grounded
+                  Knockdown
+                  Disabled
+                  Interrupted
+                  Creating a Tunnel grants sight of the area at the other end for 2 seconds. Tunnel entrances can be targeted by allied movement abilities (ex: Leap Strike, Shunpo, Safeguard, Teleport). Tunnel entrances are visible on allied champions' minimaps, while enemies must first gain sight of one before it becomes visible on theirs (the opposite entrance is not revealed). Destroying a Tunnel while Rek'Sai is traversing it will not prevent her from reaching the opposite entrance. Rek'Sai can Tunnel through terrain if she dashes close to them and the wall is thin enough to allow the opposite entrance to spawn on the other side. If Rek'Sai issues an attack command while the dash passes by an enemy, the target will be knocked up but Rek'Sai will still complete the movement. Enemies can block Rek'Sai from using a tunnel entrance if a ward is placed directly over it, because the cursor's target selection prioritizes wards over tunnel entrances. Rek'Sai will take longer to enter a Tunnel from Un-Burrowed state because she needs to become Burrowed first.
+                  
+                [
+                  Void Rush
+                  ]
+                  COOLDOWN: 100 / 90 / 80
+                  CAST TIME: 0.25
+                  TARGET RANGE: 1500
+                  SPEED: 1400
+                  Passive: Rek'Sai applies Marked as Prey to enemy champions she damages, lasting for 5 seconds.
+                  Active: Rek'Sai selects the target Marked as Prey, becoming displacement immune and unable to act and vanishing into the ground. After 1.5 seconds, she becomes targetable again and emerges from the ground Un-Burrowed near the target and pounces at them, dealing physical damage and dashing 125 units through them.
+                  Physical Damage: 150 / 300 / 450 (+ 100% bonus AD) (+ 25 / 30 / 35% of target's missing health)
+                  If the target dies or is too far away before Rek'Sai vanishes, Void Rush is canceled with a 10-second cooldown.
+                  Link ▶️
+                  Activation alert.
+                  
+                Champion skins
+                ----------------
+
+                [
+                  Original
+                  ]
+                  View in 3D
+                  880
+                  11.12.2014
+                  An apex predator, Rek’Sai is a merciless Void-spawn that tunnels beneath the ground to ambush and devour unsuspecting prey. Her insatiable hunger has laid waste to entire regions of the once-great empire of Shurima—merchants, traders, even armed caravans, will go hundreds of miles out of their way to avoid her and her offspring’s hunting grounds. All know that once Rek'Sai is seen on the horizon, death from below is all but guaranteed.
+                  N/A
+                  Christian Fell, Joshua ‘HUGEnFAST’ Brian Smith
+                  Loot eligible
+                  Eternum
+                  
+                [
+                  Eternum
+                  ]
+                  View in 3D
+                  1350
+                  11.12.2014
+                  Somewhere, beneath the soil, you hear the scraping of metal. Suddenly, there comes a screech… A cry of hunger… Then, nothing.
+                  N/A
+                  Michal Ivan, Sixmorevodka Studio
+                  Eternum
+                  
+                [
+                  Pool Party
+                  ]
+                  View in 3D
+                  1350
+                  25.06.2015
+                  We're gonna need a bigger inflatable raft…
+                  N/A
+                  Sixmorevodka Studio
+                  Pool Party
+                  
+                [
+                  Pool Party Rek'Sai Chromas
+                  ]
+                  Emerald
+                  Obsidian
+                  Rose Quartz
+                  Ruby
+                  Tanzanite
+                  Turquoise
+                  
+                [
+                  Blackfrost
+                  ]
+                  View in 3D
+                  1350
+                  05.03.2020
+                  When the Ice Witch looked to the great glaciers of True Ice towering over the far north, she saw an army in the making. Among the first to be sculpted was Rek'Sai, a vessel of chilling savagery befitting a queen's power. Now, granted sentience by the will of the Watchers, she terrorizes domains with the brutal instincts of an apex predator.
+                  N/A
+                  West Studio
+                  Blackfrost
+                  
+                [
+                  Blackfrost Rek'Sai Chromas
+                  ]
+                  Citrine
+                  Emerald
+                  Obsidian
+                  Pearl
+                  Rose Quartz
+                  Ruby
+                  Sapphire
+                  Turquoise
+                  
+                [
+                  Elderwood
+                  ]
+                  View in 3D
+                  1350
+                  06.01.2022
+                  Spore-fiends stalk the deepest reaches of the forest, and Rek'sai is the broodmother from which all others spring. Those who see her hulking form of bloom and bark swimming through the trees rarely live long enough to tell the tale.
+                  N/A
+                  West Studio
+                  Elderwood
+                  
+                Patch history
+                ----------
+
+                V14.5
+                - March 6th Hotfix
+                  Unburrow
+                  Bug Fix:
+                    Knockup no longer fails if the target moves outside of effect range fast enough when she issues an attack.
+                  V14.5
+                  Stats
+                    Attack windup reduced to 20% from 26.667%.
+                    6667%.
+                    Critical strike attack windup reduced to 20% from 20%.
+                    8333%.
+                    Attack windup modifier changed to 0.6 from 1.
+                    
+                Queen's Wrath
+                  New Effect:
+                    Empowered attacks now have an uncancellable windup.
+                  Bug Fix:
+                    Now properly stacks Spear of Shojin's Focused Will.
+                  New Effect:
+                    Can now damage (but not knock up) targets who were recently knocked up and immune to Unburrow.
+                  Bug Fix:
+                    No longer sometimes locks her out of declaring basic attacks for some time after unburrowing.
+                  Furious Bite
+                    Health ratio increased to 8 / 9.5 / 11 / 12.5 / 14% of target's maximum health from 6 / 8 / 10 / 12 / 14%.
+                    Monster damage cap increased to 75 − 400 based on level from 60 − 400 based on level.
+                    Tunnel
+                    Bug Fix:
+                      Potentially fixed movement through terrain failing upon entering a Tunnel created by casting this ability.
+                    Void Rush
+                      Base damage increased to 150 / 300 / 450 from 100 / 250 / 400.
+                      Health ratio increased to 25 / 30 / 35% of target's missing health from 20 / 25 / 30%.
+                      Undocumented:
+                        The initial movement spell now has a 1-frame / 0.033-second cast time in order to be properly buffered with other attacks and spells, and not result in unexpectedly canceling the movement and damaging effects upon emerging.
+                      V14.4
+                      Stats
+                        Base health regeneration reduced to 2.5 from 7.5.
+                        Health regeneration growth reduced to 0.5 from 0.65.
+                        Base movement speed increased to 340 from 335.
+                        Fury of the Xer'Sai
+                          Maximum heal health ratio increased to 12% − 20% of maximum health from 2% − 10% of maximum health.
+                          Removed:
+                            No longer has a maximum base heal of 10.
+                          New Effect:
+                            Fury generation is now reduced by 50% against minions, wards, and jungle plants.
+                        Queen's Wrath
+                          Now functions as a basic attack modifier instead of an ability. References the user's basic attack cast time.
+                          Removed:
+                            No longer has a 0.25-second cast time for each empowered attack.
+                          New Effect:
+                            Now grants 45% bonus attack speed while active.
+                          Made cast animations smoother at high attack speeds.
+                        Prey Seeker
+                          Cooldown reduced to 10 seconds at all ranks from 12 / 11.5 / 11 / 10.5 / 10 seconds.
+                          Damage type changed to magic from physical.
+                          Base damage reduced to 50 / 80 / 110 / 140 / 170 from 60 / 95 / 130 / 165 / 200.
+                          Bonus AD ratio reduced to 25% bonus AD from 50% bonus AD.
+                          Burrow
+                            Bonus movement speed changed to 5 / 10 / 15 / 20 / 25 from 5 / 10 / 15 / 20 / 25 based on level.
+                            Vision radius increased to 385 from 250.
+                            Removed:
+                              No longer reduces her attack range to 75.
+                            Unburrow
+                              Damage type changed to magic from physical.
+                              Base damage reduced to 50 / 75 / 100 / 125 / 150 from 50 / 85 / 120 / 155 / 190.
+                              Removed:
+                                Damage no longer scales with 80% bonus AD.
+                              New Effect:
+                                Damage now scales with 80% AP.
+                              New Effect:
+                                Now knocks up all targets hit, instead of only knocking up the primary target and knocking back all secondary targets. The 10-second per-target immunity will apply to all targets hit.
+                              Removed:
+                                No longer slows targets by 40% for 0.5 seconds after knocking them up.
+                              Furious Bite
+                                Cooldown reduced to 10 seconds from 12.
+                                Removed:
+                                  No longer has a base damage of 5 / 10 / 15 / 20 / 25.
+                                AD ratio increased to 100% AD from 70% AD.
+                                Removed:
+                                  At maximum Fury, no longer deals double damage and converts it to true damage.
+                                New Effect:
+                                  At maximum Fury, now deals 6 / 8 / 10 / 12 / 14% of target's maximum health bonus physical damage, capped at 60 − 400 based on level against monsters.
+                              Tunnel
+                                Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 26 / 24 / 22 / 20 / 18 seconds.
+                                Tunnel cooldown reduced to 6 / 5 / 4 / 3 / 2 seconds from 10 / 8 / 6 / 4 / 2 seconds.
+                                Manual cast dash speed reduced to 500 from 550.
+                                New Effect:
+                                  Manual cast dash speed now scales with total movement speed instead of movement speed from boots.
+                                Movement speed while burrowing and unburrowing slightly increased.
+                                Bug Fix:
+                                  Dash speed while in the Tunnel is now properly 850 (matching the movement command/re-use speed) instead of 550, if the Tunnel is created by casting this ability.
+                                Bug Fix:
+                                  No longer has a 0.05-second delay when entering a Tunnel after its creation by casting this ability.
+                                Void Rush
+                                  Bonus AD ratio reduced to 175% bonus AD from 200% bonus AD.
+                                V13.19
+                                Fury of the Xer'Sai
+                                  Maximum base heal reduced to 10 from 15 − 125 based on level.
+                                  Maximum heal health ratio reduced to 2% − 10% based on level from 2% − 12% based on level.
+                                  Queen's Wrath
+                                    AD ratio reduced to 34% / 38% / 42% / 46% / 50% total AD from 34% / 38% / 42% / 46% / 50% bonus AD at all ranks.
+                                    Burrow
+                                      Bonus movement speed reduced to 5 / 10 / 15 based on level from 15 / 20 / 25 / 30 / 35 based on level.
+                                    Unburrow
+                                      Base damage increased to 55 / 70 / 85 / 100 / 115 from 50 / 65 / 80 / 95 / 110.
+                                      V13.16
+                                      Queen's Wrath
+                                        Removed:
+                                          No longer has a base damage of 21 / 27 / 33 / 39 / 45.
+                                        AD ratio changed to 34% / 38% / 42% / 46% / 50% total AD from 50% bonus AD at all ranks.
+                                      Unburrow
+                                        Base damage reduced to 50 / 65 / 80 / 95 / 110 from 55 / 70 / 85 / 100 / 115.
+                                        Furious Bite
+                                          Bug Fix:
+                                            Now properly counts as an ability cast for triggering Spellblade effects.
+                                          V13.13
+                                          Stats
+                                            Base attack damage reduced to 58 from 61.
+                                            Base health reduced to 600 from 640.
+                                            V13.11
+                                            Fury of the Xer'Sai
+                                              Maximum base heal reduced to 15 − 125 based on level from 20 − 190 based on level.
+                                              New Effect:
+                                                Now heals up to 2% − 12% based on level of maximum health at maximum fury.
+                                            Queen's Wrath
+                                              Base damage reduced to 15 / 20 / 25 / 30 / 35 from 15 / 25 / 35 / 45 / 55.
+                                              AD ratio increased to 40% bonus AD from 30% bonus AD.
+                                              Prey Seeker
+                                                Cooldown reduced to 10 seconds at all ranks from 11 / 10.5 / 10 / 9.5 / 9 seconds.
+                                                Base damage increased to 60 / 95 / 130 / 165 / 200 from 60 / 90 / 120 / 150 / 180.
+                                                Bonus AD ratio increased to 50% bonus AD from 40% bonus AD.
+                                              Burrow
+                                                Bonus movement speed reduced to 5 / 10 / 15 from 15 / 20 / 25 / 30 / 35 based on level.
+                                                Unburrow
+                                                  Base damage changed to 40 / 80 / 120 / 160 / 200 from 40 / 85 / 120 / 160 / 200.
+                                                  Knock up duration increased to 1 second from 0.5 − 1 second.
+                                                  Knock up targeting changed to closest single target from area of effect targets.
+                                                  New Effect:
+                                                    Can now interact with plants by attacking them while burrowed.
+                                                  Furious Bite
+                                                    Damage changed to 50 / 60 / 70 / 80 / 90 (± 85% bonus AD) from 80 / 90 / 100 / 110 / 120% AD.
+                                                    Removed:
+                                                      Damage no longer scales linearly with Rek'Sai's current Fury.
+                                                      Damage is still doubled and dealt as true damage at maximum Fury.
+                                                    Tunnel
+                                                      Cooldown reduced to 26 / 23 / 20 / 17 / 14 seconds from 26 / 24 / 22 / 20 / 18.
+                                                      On-target cooldown reduced to 10 / 8 / 6 / 4 / 2 seconds from 10 / 9 / 8 / 7 / 6 seconds.
+                                                      Void Rush
+                                                        New Passive:
+                                                          Dealing damage to enemy champions marks them for the next 5 seconds.
+                                                          New Active:
+                                                            Rek'Sai targets a prey-marked enemy, burrowing after a 0.35-second cast time before emerging from underground, leaping at her target after an additional 0.75 seconds, dealing 100 / 250 / 400 (± 160% bonus AD) (± 20% / 25% / 30% of their missing health) physical damage. Rek'Sai is unstoppable during both the cast and leap.
+                                                            Cooldown: 100 / 80 / 60 seconds
+                                                            Range: 1500
+                                                            Removed Passive:
+                                                              Passively gains 20% / 40% / 60% bonus attack speed.
+                                                              Removed Active:
+                                                                After channeling for 1.5 seconds, Rek'Sai burrows into the ground and dashes to the target Tunnel entrance without shutting it down, becoming untargetable for the duration.
+                                                                Cooldown: 180 / 140 / 100 seconds
+                                                                Range: Global
+                                                                V7.4
+                                                                General
+                                                                  Adjusted splash artwork for Pool Party Rek'Sai.
+                                                                  V6.18
+                                                                  Stats
+                                                                    Base armor reduced to 24 from 28.
+                                                                    V6.17
+                                                                    Tunnel
+                                                                      Cooldown increased to 26 / 24 / 22 / 20 / 18 seconds from 20 / 19.5 / 19 / 18.5 / 18 seconds.
+                                                                      Void Rush
+                                                                       Cooldown increased to 180 / 140 / 100 seconds from 150 / 110 / 70 seconds.
+                                                                      V6.3
+                                                                      Tunnel
+                                                                        Bug Fix:
+                                                                          Rek'Sai occasionally failing to go through a tunnel when trying to use a second one as she exits the first.
+                                                                      V5.17
+                                                                      Fury of the Xer'Sai
+                                                                        Removed:
+                                                                          Grants 15 bonus Fury upon using Unburrow.
+                                                                      V5.13
+                                                                      Unburrow
+                                                                        Displacement radius reduced to 160 from 200.
+                                                                      V5.10
+                                                                      General
+                                                                        Base health reduced to 570 from 611.
+                                                                      V5.7
+                                                                      Queen's Wrath
+                                                                        AD ratio per hit reduced to (+ 20% bonus AD) from (+ 30% bonus AD)
+                                                                        Total AD ratio reduced to (+ 60% bonus AD) from (+ 90% bonus AD)
+                                                                      Tunnel
+                                                                        Per-tunnel cooldown reduced to 10 / 9 / 8 / 7 / 6 seconds from 10 at all ranks.
+                                                                        Bug Fix:
+                                                                          Duration error in tooltip.
+                                                                      V5.5
+                                                                      Tunnel
+                                                                        New Effect:
+                                                                          Uses the ward spawning UI (counter for existing vs. maximum as well as displaying to-be-destroyed ones upon reaching the limit)
+                                                                      V5.2
+                                                                      Queen's Wrath
+                                                                        Base damage reduced to 15 / 25 / 35 / 45 / 55 from 15 / 30 / 45 / 60 / 75.
+                                                                        Unburrow
+                                                                          Base damage reduced to 40 / 80 / 120 / 160 / 200 from 60 / 110 / 160 / 210 / 260.
+                                                                          On-target cooldown reduced to 10 / 9.5 / 9 / 8.5 / 8 seconds from 10 at all ranks.
+                                                                      V5.1
+                                                                      Queen's Wrath
+                                                                        Base bonus damage reduced to 15 / 35 / 55 / 75 / 95 from 15 / 35 / 55 / 75 / 95.
+                                                                        AD ratio reduced to (+ 30% bonus AD) from (+ 40% bonus AD).
+                                                                        Prey Seeker
+                                                                          AP ratio reduced to (+ 100% AP) from (+ 125% AP).
+                                                                          Unburrow
+                                                                            AD ratio reduced to (+ 40% bonus AD) from (+ 50% bonus AD).
+                                                                      V4.21
+                                                                      Rek'Sai is the first female Voidborn released.
+                                                                      Rek'Sai is the first fighter champion released without a secondary role.
+                                                                      Rek'Sai's design was greatly influenced by the canceled champion Omen.
+                                                                      Just like with Cho'Gath, Malphite, Nautilus, and Skarner, Rek'Sai's in-game size is smaller than in-universe (she is estimated to be as large as a 'small T. rex, mammoth, whale shark, large but not huge').
+                                                                      Rek'Sai had her game assets reused for several featured game modes.
+                                                                      She was given a retexture and features as a monster called the 'Grumpy Burrow Monster' (along with its huge variant) in Invasion.
+                                                                      Her animations were reused for the Anchortail, Brightcore, and Rhinodon monsters in Odyssey: Extraction.
+                                                                      See also
+                                                                        League of Legends Wiki
+                                                                        |
+                                                                        Champions
+                                                                        Cancelled Champions
+                                                                        Ao Shin
+                                                                        Avasha
+                                                                        Averdrian
+                                                                        CeeCee
+                                                                        Cyborg Cowboy
+                                                                        Eagle Rider
+                                                                        Gavid
+                                                                        Husk
+                                                                        Iron Engineer
+                                                                        Ivan
+                                                                        Omen
+                                                                        Priscilla
+                                                                        Rob Blackblade
+                                                                        Seth
+                                                                        Tabu
+                                                                        Tiki
+                                                                        Urf
+                                                                        Well
+                                                                        References
+                                                                        [
+                                                                          1
+                                                                        ]
+                                                                        Rek'Sai's profile page at LeagueOfLegends.com
+                                                                        [
+                                                                          2
+                                                                        ]
+                                                                        League of Legends 2014 Time Capsule OPENED

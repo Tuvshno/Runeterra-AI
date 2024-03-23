@@ -1,0 +1,587 @@
+**Games**
+
+**Universe**
+
+-
+-
+
+**League of Legends**
+
+* **Collection**
+* League of Legends
+*
+-
+-
+* Lee Sin
+
+**Gameplay**
+
+-
+-
+- Collection
+- Audio
+- Patch history
+- Past versions
+
+**Lee Sin**
+
+-
+-
+- Release date: 2011-04-01
+- Last changed: V13.19
+- Class(es): Diver, Legacy, Fighter, Assassin
+- Position(s): Jungle
+- Resource: Energy
+- Range type: Melee
+- Adaptive type: Physical
+- Store price: 1350 | 585 Crafting
+- Ratings:
+  * Damage: 3
+  * Toughness: 2
+  * Control: 2
+  * Mobility: 3
+  * Utility: 1
+- Style: Difficulty: Champion Spotlight
+
+**Lee Sin Champion Spotlight**
+
+Lee Sin is a champion in League of Legends.
+
+[1]
+
+**Gameplay**
+
+- Cosmetics
+- Audio
+- Development
+- Patch History
+- History
+- Trivia
+
+**Base statistics**
+
+LeeSin
+
+| Health | 645 + 105 |
+| --- | --- |
+| Energy | 200 + 0 |
+| Health regen. (per 5s) | 7.5 + 0.7 |
+| Energy regen. (per 5s) | 50 |
+| Armor | 36 + 4.9 |
+| Attack damage | 66 + 3.7 |
+| Magic resist. | 32 + 2.05 |
+| Crit. damage | 175% |
+| Move. speed | 345 |
+| Attack range | 125 |
+| Attack speed | Base AS: 0.651 |
+|  | Attack windup: 19.531% |
+|  | AS ratio: N/A |
+|  | Bonus AS: +3% |
+| Unit radius | Gameplay radius | 65 |
+| Selection radius | 103 |
+| Pathing radius | 35 |
+| Acq. radius | 400 |
+
+**Special statistics**
+
+- ARAM
+- Nexus Blitz
+- One For All
+- URF
+- Ult Spellbook
+- Arena
+- Damage Dealt: +5%
+- Damage Received: -5%
+- Healing: +20%
+- Shielding: +20%
+- Energy Regen: +20%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+- Damage Dealt: +0%
+- Damage Received: +0%
+
+**Abilities**
+
+[
+]
+
+**Edit**
+
+*Flurry*
+
+Flurry
+
+Innate: After casting an ability, Lee Sin's next 2 basic attacks within 3 seconds gain 40% bonus attack speed and restore energy. The first attack restores 20 / 30 / 40 (based on level) energy and the second attack restores half of the previous amount.
+
+**Details**
+
+*Info*
+
+Targeting input: Passive
+
+Counters: Parries
+
+Flurry will still restore energy even if the attacks are blocked or missed while Lee Sin is blinded, but not dodged.
+
+**Hide**
+
+*Details*
+
+Info: N/A
+
+Targeting input: Auto
+
+Damage type: Physical
+
+Sub-type: Spell damage
+
+Counters: Spell shield
+
+Blocked: Yes
+
+Notes: N/A
+
+**Hide**
+
+*Details*
+
+Info: N/A
+
+Targeting input: Auto
+
+Damage type: Physical
+
+Sub-type: Area damage
+
+Counters: Spell shield
+
+Blocked: Yes
+
+Notes: Tempest's sight reveal only reveals the affected targets, but visually also lights up the Fog of War in a 400 radius. Tempest's sight reveal is not removed when Lee Sin casts Cripple.
+
+This ability will cast from wherever the caster is at the end of the cast time.
+
+Targeting input: Auto
+
+Counters: Spell shield
+
+Blocked: No
+
+Notes: Tempest's reveal is not removed when Lee Sin casts Cripple.
+
+Cripple cannot be cast without a marked target within 550 range.
+
+The missiles Lee Sin sends out are nowadays missing their visual effects. (bug)
+
+**Hide**
+
+*Details*
+
+Info: N/A
+
+Targeting input: Auto
+
+Damage type: Physical
+
+Sub-type: Minion aggro
+
+Counters: N/A
+
+Applies: Spell damage to the primary target and area damage to secondary targets.
+
+The spell indicator for this ability also displays the direction for the knock back relative to Lee Sin's position.
+
+If the target of Dragon Rage dies initially on the first hit there will be no displacement of any kind.
+
+The displacement's direction is decided at the moment of impact and not by Lee Sin and his target's relative locations at the start of the cast. The only way for Lee Sin to control where his target is displaced is by using Flash before the cast time of Dragon's Rage ends.
+
+If the airborne debuff is removed from the target, its ability to collide with enemies is removed aswell, even if the target has not come to a stop yet. (bug)
+
+The airborne debuff and with it collision of the target remains for the normal duration even if its trajectory is displaced by another source (i.e - Headbutt ).
+
+The knockback distance is intended to be 800, but due to a bug, this is reduced by up-to the sum of Lee Sin's and his target's gameplay radius, depending on how far they are away from one another at the end of the cast time.
+
+If the target becomes untargetable, dies, or is too far away or no longer in sight during the cast time, this ability will cancel but does not go on cooldown nor pay its cost (if applicable).
+
+**Champion skins**
+
+[
+]
+
+This article section only contains champion skins. For all associated collection items, see Lee Sin (Collection).
+
+**Original**
+
+View in 3D
+
+880
+01.04.2011
+
+A master of Ionia’s ancient martial arts, Lee Sin is a principled fighter who channels the essence of the dragon spirit to face any challenge. Though he lost his sight many years ago, the warrior-monk has devoted his life to protecting his homeland against any who would dare upset its sacred balance. Enemies who underestimate his meditative demeanor will endure his fabled burning fists and blazing roundhouse kicks.
+
+Feodor Chin
+Unknown artist
+
+Loot eligible
+
+Traditional
+
+View in 3D
+
+520
+01.04.2011
+
+Every now and then, an upstart martial artist climbs the mountain to the monastery near the peak and challenges the blindfolded master who's made his home there. When that happens, those living at the mountain's base know to ready some clean bandages and hot tea—for it won't be long before the challenger returns, utterly defeated.
+
+Feodor Chin
+Unknown artist
+
+Traditional
+
+Loot eligible
+
+Acolyte
+
+View in 3D
+
+750
+01.04.2011
+
+The traditional garb of Shojin acolytes never sat well on the ambitious shoulders of young Lee Sin, who brimmed with more raw potential than any of his fellow acolytes could ever dream of. And yet, he grew into it: both the garb, and the dragon's power.
+
+Feodor Chin
+Unknown artist
+
+Otherroads
+
+Loot eligible
+
+Dragon Fist
+
+View in 3D
+
+975
+10.01.2012
+
+A famed martial artist beloved the world over, Lee Sin prefers to train far away from the public eye, honing his craft in solitude. Rumors claim that he can punch with the fury of a dragon—but if anyone knows for sure, they're not talking.
+
+Feodor Chin
+Robin Ruan
+
+Lunar Revel
+
+Loot eligible
+
+New SFX/VFX
+
+Chromas
+
+Dragon Fist Lee Sin Chromas
+
+Black
+Blue
+Emerald
+Meteorite
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Yellow
+
+Muay Thai
+
+View in 3D
+
+975
+24.07.2012
+
+Known as ‘the art of eight limbs’, Muay Thai is a multidisciplinary fighting style practiced by boxers for centuries. Lee Sin, who has mastered many forms of hand-to-hand combat, is among its greatest champions.
+
+Feodor Chin
+Unknown artist
+
+Wonders of the World
+
+Loot eligible
+
+New Animations/Recall
+
+Pool Party
+
+View in 3D
+
+975
+09.09.2013
+
+Lee Sin loves the feeling of the sand between his toes, the sound of the crashing waves, and the warm sun against his skin. He also loves a strong coconut drink. Lee Sin likes to party.
+
+Feodor Chin
+Evan 'Somnicidal' Monteiro
+
+Pool Party
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+SKT T1
+
+View in 3D
+
+750
+04.05.2014
+
+Honoring Bengi's winning performance as Lee Sin during the 2013 World Championship.
+
+Feodor Chin
+Bo Lu
+
+World Champions: 2013
+
+Loot eligible
+
+Legacy
+
+Knockout
+
+View in 3D
+
+1350
+31.05.2015
+
+'Knockout' Lee Sin is a brutal pit fighter, who made his name in the underground circuit, before leaving the bloody sport for greener, more criminal pastures. He currently sells his services as a ‘problem-solver’ to a select group of monied kingpins.
+
+Feodor Chin
+Christian Fell
+
+Crime City
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+God Fist
+
+View in 3D
+
+1820
+05.04.2017
+
+The arrogant wielder of the God Fist was once a mortal boy, tasked by his predecessor to defeat the master of each martial arts school while blindfolded, before facing him at the peak of a treacherous mountain. Emerging victorious, the boy assumed his title—as well as his immortal sight.
+
+Feodor Chin
+Alex 'alexplank' Flores
+
+Immortal Journey
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+Playmaker
+
+View in 3D
+
+975
+14.06.2018
+
+With a sixth sense for openings in any and all situations, Lee Sin can turn the opposing team's sloppy free kick into a once-in-a-lifetime play talked about for generations to come. Though it's his first year in the majors, some are saying there may never be another player like him.
+
+Feodor Chin
+Alvin Lee
+
+Soccer Cup
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Playmaker Lee Sin Chromas
+
+Aquamarine
+Citrine
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Sapphire
+Tanzanite
+Nightbringer
+
+View in 3D
+
+1350
+12.12.2019
+
+Lee Sin thrives in the heat of combat. An embodiment of passion and fury, he rules over the raw, chaotic emotions of the heart. While his siblings fight for various ideals, Lee Sin fights for the thrill of battle itself, striking with power and unpredictability.
+
+Feodor Chin
+West Studio
+
+Nightbringer and Dawnbringer
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Prestige Nightbringer
+
+View in 3D
+
+Special
+
+12.12.2019
+
+Fully consumed by chaos and his blind devotion to the thrill of battle, Lee Sin has become night incarnate, gilded by his divinity.
+
+Feodor Chin
+Malex Zhang, Kudos Productions
+
+Nightbringer and Dawnbringer
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+This skin is a variant of Nightbringer. Store variants are discounted for multiple purchases.
+
+FPX
+
+View in 3D
+
+1350
+30.04.2020
+
+Honoring Tian's winning performance as Lee Sin during the 2019 World Championship.
+
+Feodor Chin
+Pan Chengwei
+
+World Champions: 2019
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+FPX Lee Sin Chromas
+
+Elite
+
+Storm Dragon
+
+View in 3D
+
+1820
+01.10.2020
+
+A warrior ascetic consumed with an electric passion for justice, Lee Sin climbed the mountain of the storm dragon Ao Shin, hoping to receive his blessing. Having returned from the summit as a legendary Dragonmancer, Lee Sin now doles out thunderous punishment to villains everywhere—ever under the watchful eye of his draconic patron.
+
+Feodor Chin
+Pan Chengwei
+
+Dragonmancers
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Storm Dragon Lee Sin Chromas
+
+Emberclaw
+Jadeclaw
+Mythic
+Obsidian
+Pearl
+Ruby
+Sapphire
+Tanzanite
+Prestige Nightbringer (2022)
+
+View in 3D
+
+Special
+
+01.04.2022
+
+Fully consumed by chaos and his blind devotion to the thrill of battle, Lee Sin has become night incarnate, gilded by his divinity.
+
+Feodor Chin
+Malex Zhang, Kudos Productions
+
+Nightbringer and Dawnbringer
+
+Loot inelgible
+
+New SFX/VFX
+
+New Animations/Recall
+
+This skin is a variant of Prestige Nightbringer. Store variants are discounted for multiple purchases.
+
+Zenith Games
+
+View in 3D
+
+1350
+09.09.2022
+
+Martial artist Lee Sin's focus on overwhelming his opponents before they could react had won him many championships, but also burned him out. Realizing that his strategy had been rooted in fear, he augments his body not to give himself more strength, but to concentrate his mind and senses.
+
+Feodor Chin
+Eric Xie, West Studio
+
+Zenith Games
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Zenith Games Lee Sin Chromas
+
+Catseye
+Emerald
+Obsidian
+Pearl
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Heavenscale

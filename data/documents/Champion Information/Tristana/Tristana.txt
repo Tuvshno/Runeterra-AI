@@ -1,0 +1,607 @@
+**Games**
+
+* Universe
+  + League of Legends
+  + Teamfight Tactics
+  + Legends of Runeterra
+  + Wild Rift
+
+**Image**
+
+* Tristana
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Tristana**
+
+* Release date: 2009-02-21
+* Last changed: V13.16
+
+**Class(es)**
+
+* Marksman
+* Legacy
+* Marksman
+* Assassin
+
+**Position(s)**
+
+* Bottom
+* Middle
+
+**Resource**
+
+* Mana
+
+**Range type**
+
+* Ranged
+
+**Adaptive type**
+
+* Physical
+
+**Store price**
+
+* 1350
+* |
+* 585
+* Crafting: + 810
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 1
+* Control: 2
+* Mobility: 2
+* Utility: 1
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Base statistics**
+
+| **Tristana** | **Edit** |
+| --- | --- |
+| Health: 640 +102 | Health regen. (per 5s): 4 +0.65 |
+| Mana: 250 +32 | Mana regen. (per 5s): 7.2 +0.45 |
+| Armor: 30 +4.5 | Attack damage: 59 +3.7 |
+| Magic resist.: 28 +1.3 | Crit. damage: 175% |
+| Move. speed: 325 | Attack range: 525 |
+| Attack speed: Base AS: 0.656, Attack windup: 14.801%, AS ratio: 0.679, Bonus AS: +1.5%% |
+| Missile speed: 2250 | Unit radius: Gameplay radius: 55, Selection radius: 100, Pathing radius: 30, Acq. radius: 800 |
+
+**Special statistics**
+
+* ARAM
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena
+* Damage Dealt: +5%
+* Damage Received: -5%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* Damage Dealt: +0%
+* Damage Received: +0%
+
+**Abilities**
+
+[ ]
+
+**Edit**
+
+* Draw a Bead
+* Rapid Fire
+* Rocket Jump
+* Explosive Charge
+
+**Draw a Bead**
+
+* Passive
+* No additional details.
+
+**Rapid Fire**
+
+* COOLDOWN: 20 / 19 / 18 / 17 / 16
+* CAST TIME: none
+* Active: Tristana empowers her cannon, gaining bonus attack speed for 7 seconds.
+* Bonus Attack Speed: 65 / 80 / 95 / 110 / 125%
+
+**Rocket Jump**
+
+* COST: 60 mana
+* COOLDOWN: 22 / 20 / 18 / 16 / 14
+* CAST TIME: 0.25
+* Target RANGE: 900
+* EFFECT RADIUS: 350
+* SPEED: 1100
+* Active: Tristana jumps to the target location. Upon landing, she deals magic damage to nearby enemies and slows them by 60% for a duration.
+* Magic Damage: 95 / 145 / 195 / 245 / 295 (+ 50% AP)
+* Slow Duration: 1 / 1.5 / 2 / 2.5 / 3
+
+**Explosive Charge**
+
+* COST: 50 / 55 / 60 / 65 / 70 mana
+* COOLDOWN: 16 / 15.5 / 15 / 14.5 / 14
+* CAST TIME: 0.226 (at base attack speed)
+* TARGET RANGE: 525 − 661 (based on level)
+* EFFECT RADIUS: 300 / 300 / 600
+* SPEED: 2400
+* Passive: Tristana's basic attacks are empowered to trigger an explosion when they kill the target, dealing magic damage to nearby enemies.
+* Magic Damage: 55 / 80 / 105 / 130 / 155 (+ 25% AP)
+* Active: Tristana tosses an explosive charge at the target enemy that attaches to them for 4 seconds. The charge then detonates, dealing physical damage to nearby enemies.
+* Minimum Physical Damage: 70 / 80 / 90 / 100 / 110 (+ 50 / 75 / 100 / 125 / 150% bonus AD)
+* Tristana's basic attacks on-hit and abilities against the target increase Explosive Charge's damage by 30%, stacking up to 4 times for a maximum 120% increase, upon which the charge also detonates instantly.
+* The charge's total damage is additionally increased by 0% − 33.3% (based on critical strike chance).
+
+**Buster Shot**
+
+* COST: 100 mana
+* COOLDOWN: 120 / 110 / 100
+* CAST TIME: 0.25
+* TARGET RANGE: 525 − 661 (based on level)
+* EFFECT RADIUS: 200 / 1500
+* Active: Tristana fires a massive cannonball at the target enemy that deals magic damage. They and surrounding enemies are also knocked back and stunned for up-to 0.75 seconds, during which they are revealed.
+* Magical Damage: 300 / 400 / 500 (+ 100% AP)
+* Knock Back Distance: 600 / 800 / 1000
+
+**Champion Skins**
+
+[ ]
+
+* Original
+* Elspeth Eastman (Unknown artist)
+* Loot eligible
+* Riot Girl
+* Elspeth Eastman (Jean 'Curing' Go)
+* Riot
+* Loot ineligible
+* Earnest Elf
+* Elspeth Eastman
+* Snowdown Showdown
+* Loot eligible
+* Legacy
+* Firefighter
+* Elspeth Eastman (Shuohan Zhou)
+* Day Job
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* Guerilla
+* Elspeth Eastman (Viktor Titov, Grafit Studio)
+* Commando
+* Loot eligible
+* Legacy
+* Buccaneer
+* Elspeth Eastman (Robin Ruan)
+* Bilgewater: Burning Tides
+* Loot eligible
+* Rocket Girl
+* Elspeth Eastman (Kienan 'Knockwurst' Lafferty)
+* Silver Age
+* Loot eligible
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Rocket Girl Tristana Chromas
+* Navy
+* Orange
+* Purple
+* Dragon Trainer
+* Elspeth Eastman (Victor '3rdColossus' Maury)
+* Dragon World
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Dragon Trainer Tristana Chromas
+* Emerald
+* Obsidian
+* Rainbow
+* Rose Quartz
+* Ruby
+* Sapphire
+* Bewitching
+* Elspeth Eastman (Jennifer Wuestling)
+* Demonic
+* Loot eligible
+* Voice filter
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Little Demon Tristana Chromas
+* Amethyst
+* Aquamarine
+* Citrine
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Turquoise
+* Pengu Cosplay
+* Elspeth Eastman (Horace 'Hozure' Hsu)
+* Definitely Not
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Pengu Cosplay Tristana Chromas
+* Citrine
+* Obsidian
+* Pearl
+* Peridot
+* Rose Quartz
+* Ruby
+* Hextech
+* Elspeth Eastman (West Studio)
+* Hextech
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Firecracker
+* Elspeth Eastman (Julia Yurtsev)
+* Lunar Revel: Firecracker
+* Loot eligible
+* Legacy
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Firecracker Tristana Chromas
+* Catseye
+* Emerald
+* Golden Tiger
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Spirit Blossom
+* Elspeth Eastman (Horace 'Hozure' Hsu)
+* Spirit Blossom
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Spirit Blossom Tristana Chromas
+* Citrine
+* Emerald
+* Night Blossom
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Turquoise
+
+**Patch history**
+
+[ ]
+
+V13.16
+
+* Stats
+  + Base health reduced to 640 from 670.
+  + Base armor increased to 30 from 26.
+  + Armor growth increased to 4.5 from 4.
+  + Base magic resistance reduced to 28 from 30.
+
+V12.16
+
+* Rapid Fire
+  + Bonus attack speed increased to 65 / 80 / 95 / 110 / 125% from 50 / 62.5 / 75 / 87.5 / 100%.
+
+V12.14
+
+* General
+  + Bug Fix: Knocked up/stunned animation is now correctly played.
+
+V12.10
+
+* Stats
+  + Base health increased to 670 from 600.
+  + Health growth increased to 102 from 88.
+  + Armor growth increased to 4.2 from 3.
+  + Magic resistance growth increased to 1.3 from 0.5.
+
+V12.8
+
+* Stats
+  + Attack damage growth increased to 3.7 from 3.3.
+
+V12.2
+
+* Stats
+  + Base health increased to 600 from 559.
+  + Base health regeneration increased to 4 from 3.75.
+  + Base mana increased to 250 from 246.
+  + Base mana regeneration reduced to 7 from 8.
+
+V11.7
+
+* Stats
+  + Base attack damage reduced to 59 from 61.
+
+V10.16
+
+* Explosive Charge
+  + New Effect: Damage is now increased by 0% − 33.3% (based on critical strike chance).
+
+V10.11
+
+* Stats
+  + Attack speed ratio increased to 0.679 from 0.656.
+
+V10.8
+
+* Explosive Charge
+  + Minimum bonus AD ratio increased to 50 / 70 / 90 / 110 / 130% bonus AD from 50 / 65 / 80 / 95 / 110%.
+  + Maximum bonus AD ratio increased to 110 / 154 / 198 / 242 / 286% bonus AD from 110 / 143 / 176 / 209 / 242%.
+
+V10.7
+
+* Rapid Fire
+  + Bug Fix: No longer cancels basic attack animation.
+
+V9.13
+
+* Stats
+  + Attack damage growth increased to 3.11 from 3.1.
+  + Base mana increased to 246 from 245.
+  + Base mana regeneration reduced to 7.2 from 7.4.
+
+V9.1
+
+* Rapid Fire
+  + New Effect: Ability icon HUD now shows the remaining duration of the ability.
+
+V8.24b
+
+* Explosive Charge
+  + Active minimum base damage increased to 70 / 80 / 90 / 100 / 110 from 60 / 70 / 80 / 90 / 100.
+  + Active maximum base damage increased to 154 / 176 / 198 / 220 / 242 from 132 / 154 / 176 / 198 / 220.
+  + Active minimum bonus AD ratio increased to 50 / 70 / 90 / 110 / 130% bonus AD from 50 / 65 / 80 / 95 / 110%.
+  + Active maximum bonus AD ratio increased to 110 / 154 / 198 / 242 / 286% bonus AD from 110 / 143 / 176 / 209 / 242%.
+
+V8.24
+
+* Dragon Trainer Tristana
+  + Bug Fix: Champion-specific taunt and joke VO lines are now properly synchronized with her animations.
+
+V8.20
+
+* Explosive Charge
+  + Bug Fix: Passive no longer deals reduced damage when triggered by Stormrazor's guaranteed critical strike.
+
+V8.13
+
+* Hotfix
+  + Rapid Fire
+    * Bonus attack speed increased to 50 / 65 / 80 / 95 / 110% from 30 / 50 / 70 / 90 / 110%.
+  + Explosive Charge
+    * Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 70 / 75 / 80 / 85 / 90.
+  + Explosive Charge
+    * Bonus AD ratio increased to 50 / 65 / 80 / 95 / 110% bonus AD from 50 / 60 / 70 / 80 / 90%.
+
+* July 3rd Hotfix
+  + Rapid Fire
+    * Bonus attack speed increased to 50 / 65 / 80 / 95 / 110% from 30 / 50 / 70 / 90 / 110%.
+  + Explosive Charge
+    * Cooldown reduced to 16 / 15.5 / 15 / 14.5 / 14 seconds from 16 / 15 / 14 / 13 / 12 seconds.
+
+V8.11
+
+* Stats
+  + Base health increased to 559 from 542.
+  + Health growth increased to 88 from 82.
+  + Base armor reduced to 22 from 26.
+  + Base health regeneration reduced to 6 from 8.
+  + Base attack damage reduced to 56 from 58.
+  + Attack damage growth reduced to 3.0 from 3.3.
+
+V8.5
+
+* Stats
+  + Base attack range reduced to 525 from 550.
+  + Draw a Bead
+    * Bonus attack range increased to 0 − 136 (based on level) from 0 − 119 (based on level).
+  + Rocket Jump
+    * Base damage increased to 85 / 135 / 185 / 235 / 285 from 60 / 110 / 160 / 210 / 260.
+
+V8.4
+
+* Buster Shot
+  + Cooldown increased to 120 / 110 / 100 seconds from 100 / 85 / 70.
+
+V8.3
+
+* Stats
+  + Base health regeneration reduced to 6 from 8.
+
+V8.2
+
+* Buster Shot
+  + New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+
+V7.22
+
+* Stats
+  + Base attack damage increased to 56 from 53.
+  + Base armor increased to 26 from 22.
+  + Explosive Charge
+    * Active base damage increased to 60 / 70 / 80 / 90 / 100 from 55 / 65 / 75 / 85 / 95.
+
+V7.19
+
+* Omega Squad Tristana
+  + Bug Fix: Once again has her helicopter shadows during their recall animations.
+
+V7.18
+
+* Explosive Charge
+  + Bonus AD ratio reduced to 50 / 60 / 70 / 80 / 90% bonus AD from 50 / 65 / 80 / 95 / 110%.
+
+V7.16
+
+* Omega Squad Tristana
+  + Bug Fix: SFX have been restored during her dance and death animations.
+
+V7.9
+
+* Stats
+  + Magic resistance growth increased to 0.5 from 0.
+
+V7.3
+
+* Rapid Fire
+  + Duration increased to 7 seconds from 5.
+
+V6.16
+
+* General
+  + Bug Fix: Rocket Girl Tristana Punk chromas no longer use Tristana's base visual effects.
+
+V6.10
+
+* General
+  + New splash artwork for Riot Girl Tristana, Earnest Elf Tristana, Firefighter Tristana, Guerilla Tristana, and Buccaneer Tristana. Tweaked splash artwork for Rocket Girl Tristana.
+
+V5.22
+
+* Stats
+  + Base attack damage increased to 53.5 from 51.
+  + Attack damage growth reduced to 2.9 from 3.3.
+  + Rapid Fire removed: On-hit CDR for Explosive Charge cooldown.
+  + Rapid Fire removed: On-hit CDR for Rapid Fire when attacking Explosive Charge.
+  + Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 20 at all ranks.
+  + Rocket Jump
+    * Base damage changed to 60 / 110 / 160 / 210 / 260 from 80 / 105 / 130 / 155 / 180.
+    * Remove: Damage increase per Explosive Charge stacks.
+    * New effect: Cooldown is also reset if a fully charged Explosive Charge hits a champion.
+    * Explosive Charge
+      * New effect: Now detonates instantly on 4th stack.
+    * New effect: Rocket Jump and Buster Shot can apply stacks.
+    * Missile speed increased to 2400 from 1800.
+
+V5.18
+
+* Explosive Charge
+  + Explosive Charge no longer fizzles if detonated at 4 stacks by Rocket Jump.
+
+V5.9
+
+* Explosive Charge
+  + Bonus damage per stack increased to 30% from 25%.
+  + Cast time is now reduced by Attack Speed.
+
+V5.7
+
+* Rapid Fire
+  + Tristana's basic attacks during Rapid Fire reduce the cooldown of Explosive Charge by 0.5 seconds (1 second against champions).
+
+* V5.5
+  + Rapid Fire
+    * Each basic attack against a target marked with Explosive Charge reduces the cooldown of Rapid Fire by 1 second.
+
+V5.4
+
+* General
+  + New splash artwork for Original Tristana.
+
+V5.2
+
+* Visual Update
+* General
+  + Title changed to the Yordle Gunner from the Megling Gunner.
+* Complete visual upgrade across all skins.
+* New lore.
+* New ability icons.
+* New voice over.
+* removed: Explosive Shot
+* replaced by Explosive Charge.
+* Stats
+  + Base attack damage increased to 54 from 52.
+  + Attack speed per level reduced to 1.5% from 2.5%.
+  + Base health reduced to 542 from 552.
+  + Base armor reduced to 22 from 24.
+  + Draw a Bead
+    * Range per level reduced to 7 from 9.
+  + Rocket Jump
+    * Base damage reduced to 80 / 105 / 130 / 155 / 180 from 70 / 115 / 160 / 205 / 250.
+    * AP scaling reduced to (+ 50% AP) from (+ 80% AP).
+  + New Effect: If Rocket Jump strikes an enemy marked with Explosive Charge, Rocket Jump's damage to all targets is increased by 25% per stack of Explosive Charge.
+  + Rocket Jump will also detonate Explosive Charge if the target was at 4 stacks.
+  + Maximum damage on Rocket Jump is 160 / 210 / 260 / 310 / 360 (+ 100% AP).
+  + Explosive Charge
+    * Active: Tristana places a charge on the target enemy or tower that explodes after 4 seconds, dealing 60 / 70 / 80 / 90 / 100 (+ 50 / 65 / 80 / 95 / 110% Bonus AD) (+ 50% AP) physical damage to nearby enemies.
+    * Tristana's basic attacks against the target will increase Explosive Shot's damage by 25%, stacking up to 4 times, with the 5th attack detonating the charge immediately.
+  + Mana Cost: 70 / 75 / 80 / 85 / 90
+  + Cooldown: 16 / 15 / 14 / 13 / 12 seconds
+  + Buster Shot
+    * Ability power ratio reduced to 100% AP from 150% AP.
+* Trivia
+  + Rocket Jump is a reference to rocket jumping in FPS Arena games (like Quake) which allows oneself mobility by using a RPG or any other rocket launcher to accelerates one's jump.
+  + Buster Shot is a reference to the attack used by Megaman.
+  + Tristana has the fifth longest possible basic attack range in the game with 669 units at level 18, right after Kog'Maw when he uses his Bio-Arcane Barrage, which grants him a 710 attack range, Jinx's Fishbones at rank 5, which grants her a 725 attack range, Twitch when he uses Spray and Pray which grants him a total of 850 attack range, and Seraphine when she has full stacks(20 stacks) of her passive, Stage Presence, granting her a grand total of 1025 attack range(25 per note). This does not count champions that can have theoretically infinite range with stacking.
+  + Her dance references a typical soldier's stationary marching while singing a military cadence.
+  + A side-by-side comparison can be seen here.
+  + Tristana can attack the Baron Nashor over the back wall once she hits Level 15 due to the extra attack range she gains from Draw a Bead.
+  + Tristana is the only champion in the game who's passive ability Draw a Bead cannot do anything, under any circumstances, at level 1.
+  + See also [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Tristana).
+* References
+  + [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Tristana)
+  + [Cancelled Champions](https://leagueoflegends.fandom.com/wiki/Category:Cancelled_Champions)
+  + Ao Shin
+  + Avasha
+  + Averdrian
+  + CeeCee
+  + Cyborg Cowboy
+  + Eagle Rider
+  + Gavid
+  + Husk
+  + Ivan
+  + Omen
+  + Priscilla
+  + Rob Blackblade
+  + Seth
+  + Tabu
+  + Tiki
+  + Urf
+  + Well
+* References
+  + [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Tristana)
+  + [Cancelled Champions](https://leagueoflegends.fandom.com/wiki/Category:Cancelled_Champions)
+  + Ao Shin
+  + Avasha
+  + Averdrian
+  + CeeCee
+  + Cyborg Cowboy
+  + Eagle Rider
+  + Gavid
+  + Husk
+  + Ivan
+  + Omen
+  + Priscilla
+  + Rob Blackblade
+  + Seth
+  + Tabu
+  + Tiki
+  + Urf
+  + Well
+  + ↑
+  + Tristana's profile page at [LeagueOfLegends.com](https://www.leagueoflegends.com/en-us/champions/tristana/)

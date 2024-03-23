@@ -1,0 +1,215 @@
+Games
+
+---
+
+**Universe**
+
+•
+
+League of Legends
+
+•
+
+Teamfight Tactics
+
+•
+
+Legends of Runeterra
+
+•
+
+Wild Rift
+
+---
+
+**Image**
+
+![](Yone.png)
+
+---
+
+**Yone**
+
+**Gameplay**
+
+**Collection**
+
+**Audio**
+
+**Patch history**
+
+**Past versions**
+
+---
+
+**Yone, the Unforgotten**
+
+- **Release date:** 2020-08-06
+- **Last changed:** V13.19
+
+**Class(es)**
+
+Assassin, Skirmisher
+
+**Legacy**
+
+Assassin, Fighter
+
+**Position(s)**
+
+Top, Middle
+
+**Resource**
+
+Manaless
+
+**(Soul Unbound)**
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Physical
+
+**Store price**
+
+3150
+
+| 790
+
+**Crafting**
+
++ 1890
+
+---
+
+**Ratings**
+
+| **Damage** | 3 |
+| **Toughness** | 1 |
+| **Control** | 2 |
+| **Mobility** | 3 |
+| **Utility** | 1 |
+
+---
+
+**Style**
+
+Difficulty: ?/10
+
+---
+
+**Champion Spotlight**
+
+[Yone Champion Spotlight](https://www.youtube.com/watch?v=j7-vM_-T49E)
+
+---
+
+**Base statistics**
+
+| **Health** | 620 + 105 |
+| **Resource** | N/A |
+| **Health regeneration (per 5s)** | 7.5 + 0.75 |
+| **Armor** | 30 + 4.6 |
+| **Attack damage** | 60 + 2 |
+| **Magic resist.** | 32 + 2.05 |
+| **Crit. damage** | 175% (× 0.9) |
+| **Move. speed** | 345 |
+| **Attack range** | 175 |
+| **Attack speed** | Base AS 0.625, Attack windup 22% |
+| **Bonus AS %** | +3.5 |
+| **Unit radius** | Gameplay radius 65, Selection radius 75, Pathing radius 32, Acq. radius 400 |
+
+---
+
+**Special statistics**
+
+| **ARAM** | +5% Damage Dealt, -3% Damage Received |
+| **Nexus Blitz** | +0% Damage Dealt, +0% Damage Received |
+| **One For All** | N/A |
+| **URF** | N/A |
+| **Ult Spellbook** | N/A |
+| **Arena** | N/A |
+
+---
+
+**Abilities**
+
+[ **Way of the Hunter** ](#way-of-the-hunter)
+
+[ **Mortal Steel** ](#mortal-steel)
+
+[ **Spirit Cleave** ](#spirit-cleave)
+
+[ **Soul Unbound** ](#soul-unbound)
+
+---
+
+**Way of the Hunter**
+
+- **Innate - Intent:** Yone's total critical strike chance is multiplied by 2.
+- **5 from all other sources, but his critical strikes deal only (57.5% + 45%) AD bonus physical damage.**
+- **Additionally, every 1% critical strike chance in excess of 100% is converted into 0.4 bonus AD.**
+- **Every 50% critical strike chance in excess of 100% is converted into 20 bonus AD.**
+- **Innate - Steel and Spirit:** Yone's basic attacks alternate between his Steel Sword and Azakana Sword on-attack.**
+- **Yone begins attacking with Steel Sword, and basic attacks with Azakana Sword deal 50% AD physical damage and 50% AD magic damage.**
+- **There is no attack time-out between alternating swords. It will persist through death.**
+- **50% of Spellblade and Demolish damage will be converted to magic damage if applied by the Azakana Sword.**
+- **This will also occur if applied by Guinsoo's Rageblade's Phantom Hit after having last attacked with the Azakana Sword.**
+- **This will also occur if applied by Mortal Steel after having last attacked with the Azakana Sword.**
+
+---
+
+**Mortal Steel**
+
+- **CAST TIME:** 0.35 - 0.175 (based on bonus attack speed)
+- **Static COOLDOWN:** 4 - 1.33 (based on bonus attack speed)
+- **RANGE:** 450 / 450 / 1050
+- **COLLISION RADIUS:** 100
+- **WIDTH:** 80 / 160
+- **SPEED:** 1500
+- **Active:** Yone thrusts his Steel Sword in a line in the target direction that deals physical damage to enemies hit and applies on-hit and on-attack effects at 100% effectiveness to the first enemy hit.
+- **Mortal Steel's damage can critically strike for (47% + 42%) AD bonus physical damage.**
+- **Physical Damage:** 20 / 40 / 60 / 80 / 100 (+ 105% AD)
+- **If this hits at least one enemy, Yone generates a stack of Gathering Storm for 6 seconds, stacking up to 2 times and refreshing on subsequent hits.**
+- **At 2 stacks, the next Mortal Steel consumes them all to become empowered with a new effect.**
+
+---
+
+**Gathering Storm Bonus:**
+
+- **Yone dashes a fixed distance in the target direction and unleashes a whirlwind in the same direction, both dealing the same damage and knocking up all enemies hit in their path for 0.75 seconds, but being unable to affect the same target twice.**
+- **Mortal Steel's thrust is interrupted if Yone is affected by disarming crowd control during the cast time but its cooldown is reset to 0.1 seconds.**
+
+---
+
+**Physical Damage:**
+
+- **See above**
+
+---
+
+**Magic Damage:**
+
+- **See above**
+
+---
+
+**Spell shield**
+
+- **Does not prevent Yone from receiving and/or increasing the shield.**
+- **The shield's amount will also increase for each clone hit.**
+
+---
+
+**Spirit Cleave**
+
+- **CAST TIME:** 0.5 - 0.19 (based on bonus attack speed)
+- **Static COOLDOWN:** 14 - 6 (based on bonus attack speed)
+- **EFFECT RADIUS:** 600
+- **ANGLE:** 80°
+- **Active:** Yone cleaves with his Azakana Sword in the target direction, dealing equal parts physical and magic damage to enemies hit.
+- **The total mixed damage has a minimum threshold of 40 - 410 (based on level) against minions and a maximum threshold of 150 - 320 (based on level) against monsters.**
+- **If this hits an enemy, Yone grants himself a shield for 40 - 90 (based on level) (+ 65% bonus AD) for 1.5 seconds, increased by 100% if it hits a champion and by 50% for each subsequent champion hit.**

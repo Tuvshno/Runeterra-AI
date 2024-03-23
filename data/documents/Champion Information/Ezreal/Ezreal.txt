@@ -1,0 +1,378 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Ezreal
+* Image
+  * Ezreal
+
+**Ezreal**
+
+* Release date: 2010-03-16
+* Last changed: V14.3
+* Class(es): Marksman, Legacy Marksman, Mage
+* Position(s): Bottom
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Physical
+* Store price: 1350 (585 RP)
+* Crafting cost: + 810 RP
+
+**Base statistics**
+
+| Statistic          | Value                 |
+|---------------------|------------------------|
+| Health              | 600 + 102             |
+| Mana                | 375 + 70              |
+| Health regen. (per 5s)| 4                       |
+| Mana regen. (per 5s)| 0.65                   |
+| Attack damage       | 62 + 2.5              |
+| Armor               | 24 + 4.7              |
+| Magic resist.       | 30 + 1.3              |
+| Crit. damage        | 175%                   |
+| Move. speed         | 325                    |
+| Attack range        | 550                    |
+| Attack speed        | 0.625                  |
+| Missile speed       | 2000                   |
+| Unit radius         | 65                     |
+| Gameplay radius     | N/A                    |
+| Selection radius    | 115                    |
+| Pathing radius      | 35                     |
+| Acq. radius         | 550                    |
+
+**Special statistics**
+
+| Statistic          | Value                                                                                                 |
+|---------------------|------------------------------------------------------------------------------------------------------|
+| ARAM                | Damage Dealt: -5%, Damage Received: +0%                                                              |
+| Nexus Blitz        | Damage Dealt: 0%, Damage Received: +0%                                                              |
+| One For All        | Damage Dealt: 0%, Damage Received: 0%                                                              |
+| URF                 | Damage Dealt: -5%, Damage Received: +0%                                                              |
+| Ult Spellbook       | Damage Dealt: 0%, Damage Received: +0%                                                              |
+| Arena               | Damage Dealt: -5%, Damage Received: +0%                                                              |
+
+**Abilities**
+
+| Ability              | Details                                               |
+|----------------------|-------------------------------------------------------|
+| Rising Spell Force   | Ezreal gains a stack of Rising Spell Force for each enemy hit by his abilities, lasting for 6 seconds and stacking up to 5 times. Each stack grants 10% bonus attack speed. |
+| Mystic Shot         | Ezreal fires a bolt of energy that deals physical damage to the first enemy hit and applies on-hit and on-attack effects at 100% effectiveness. If Mystic Shot hits an enemy, Ezreal's current ability cooldowns, including Mystic Shot's, are reduced by 1 second. |
+| Essence Flux        | Ezreal fires an orb that marks the first enemy hit for 4 seconds. His next basic attack or ability against the target detonates the mark, dealing bonus magic damage. If the mark was detonated with an ability, Ezreal restores 60 mana plus the mana cost of that ability. |
+| Arcane Shift       | Ezreal blinks towards a target location and then fires a homing bolt that deals magic damage to the nearest enemy and reveals them for 1 second. The bolt prioritizes the target hit by Essence Flux. |
+| Trueshot Barrage    | Ezreal channels for 1 second to fire a powerful barrage of energy missiles that deal magic damage to each unit they pass through. The total damage is reduced by 50% against minions and non-epic monsters. |
+
+**Champion skins**
+
+* Original
+* View in 3D
+* 880 RP
+* 16.03.2010
+* A dashing adventurer, unknowingly gifted in the magical arts, Ezreal raids long-lost catacombs, tangles with ancient curses, and overcomes seemingly impossible odds with ease. His courage and bravado knowing no bounds, he prefers to improvise his way out of any situation, relying partially on his wits, but mostly on his mystical Shuriman gauntlet, which he uses to unleash devastating arcane blasts. One thing is for sure—whenever Ezreal is around, trouble isn’t too far behind. Or ahead. Probably everywhere.
+* Daniel Amerman
+* Suke 'hugehugesword' Su
+* Loot eligible
+* Nottingham
+* View in 3D
+* 520 RP
+* 16.03.2010
+* An adventuring elf from the outlying forest kingdoms, Ezreal likes to present himself as a “handsome rogue-paladin” named Jarro Lightfeather. Very few people believe his claims of knighthood, but they serve as a decent enough distraction between his disastrous misadventures.
+* Daniel Amerman
+* Kelly Aleshire
+* Albion
+* Loot eligible
+* Legacy
+* Striker
+* View in 3D
+* 520 RP
+* 24.06.2010
+* A young and flashy prodigy, Ezreal is Order United's most popular player. Or at least he was, until a long series of teleportation-related fouls got him in trouble with the oversight committee.
+* Daniel Amerman
+* Viktor Titov, Grafit Studio
+* Soccer Cup
+* Loot eligible
+* Legacy
+* Frosted
+* View in 3D
+* 520 RP
+* 18.07.2010
+* Ezreal occasionally finds himself in the Freljord, searching for such-and-such ancient artifact. But braving sub-zero temperatures, terrifying ice beasts, and angry Freljordian tribes is a tall order, even for him—that's why he goes in disguise. He's practically a different person!
+* Daniel Amerman
+* Yan Li
+* Freljord
+* Loot eligible
+* Explorer
+* View in 3D
+* 750 RP
+* 13.10.2010
+* Ezreal's almost suicidal obsession with braving tombs, ruins, forbidden temples, and abandoned cities has netted him a tidy handful of priceless relics. Most of those relics are sold off to pay exploration-related medical bills, but one of these days…
+* Daniel Amerman
+* Sangsoo Jeong
+* Legacy
+* Loot eligible
+* Legacy
+* Pulsefire
+* View in 3D
+* 3250 RP
+* 29.06.2012
+* Temporal fugitive and time-hopping explorer extraordinaire, Ezreal leaps across disparate realities searching for interesting technology to acquire. He is responsible for countless paradoxes and is currently wanted by the dystopian Remembrancers, who hunt him relentlessly.
+* Daniel Amerman, Christine Brynn Khalil
+* Jennifer Wuestling
+* Pulsefire
+* Loot eligible
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Transforming
+* Includes Extras
+* Chromas
+* Pulsefire Ezreal forms
+* Level 06
+* Level 11
+* Level 16
+* TPA
+* View in 3D
+* 750 RP
+* 23.05.2013
+* Honoring BeBe's winning performance as Ezreal during the 2012 World Championship.
+* Daniel Amerman
+* Bo Lu
+* World Champions: 2012
+* Loot eligible
+* Legacy
+* Debonair
+* View in 3D
+* 750 RP
+* 05.08.2014
+* Tailored suits, fitted vests, and an elegant gauntlet let everyone know the difference between Ezreal and the common rabble is simple. He makes this look good, and they… don't.
+* Daniel Amerman
+* Sperasoft Studio
+* Debonair
+* Loot eligible
+* Chromas
+* Debonair Ezreal Chromas
+* Amethyst
+* Meteorite
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sandstone
+* Striped
+* Ace of Spades
+* View in 3D
+* 750 RP
+* 20.05.2015
+* First is the Ace, at a hurtling pace, A man of both talent and vim, Who holds all the cards in the court of High Stakes Because everything's about him.
+* Daniel Amerman
+* Michal Ivan, Sixmorevodka Studio
+* Highstakes
+* Loot eligible
+* Arcade
+* View in 3D
+* 1350 RP
+* 24.08.2016
+* A skilled gamer transported to Arcade World by Veigar, Ezreal holds the world record for speedrunning the original version of Hyper Crystal Dungeon in 45 seconds, using a custom-made mobile controller. Veigar has made a terrible mistake.
+* Daniel Amerman
+* Xu 'Crow God' Cheng
+* Arcade: Heroes
+* Loot eligible
+* Additional/unique quotes
+* New SFX/VFX
+* New Animations/Recall
+* Star Guardian
+* View in 3D
+* 1350 RP
+* 06.09.2017
+* Honoring Haru's winning performance as Ezreal during the 2017 World Championship.
+* Daniel Amerman
+* Rudy Siswanto, Pan Chengwei
+* World Champions: 2017
+* Loot eligible
+* Legacy
+* Dreadnova
+* View in 3D
+* 1350 RP
+* 21.11.2018
+* After accidentally unleashing an ancient evil sorceress while doing research in the university archive, Ezreal narrowly escaped certain death when Lux and the spirit of the Tiger Relic stepped in to save him. Though he is new to the world of magic, Ezreal has joined the Protectors— determined to help solve the problem he inadvertently caused.
+* Daniel Amerman
+* Edward Chee, West Studio
+* Porcelain
+* Loot eligible
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+* Transforming
+* Chromas
+* Porcelain Protector Ezreal Chromas
+* Catseye
+* Golden Tiger
+* Pearl
+* Rose Quartz
+* Ruby
+* Tanzanite
+
+**Patch history**
+
+| Patch | Changes                                      |
+|-------|---------------------------------------------|
+| V14.3 | Mystic Shot: AD ratio reduced to 130% AD      |
+| V14.2 | Mystic Shot: AD ratio increased to 135% AD     |
+| V14.1 | Essence Flux: Cooldown reduced to 8 seconds    |
+| V13.21| Bug fix: Voice lines for when he scores First Blood or attacks epic monsters have been restored. |
+| V13.18| Bug fix: Mark is now properly triggered when hitting a target with an ability that doesn't apply on-hit effects even if they are under the effect of a dodging ability. |
+| V13.8  | Stats: Base attack damage increased to 62      |
+| V13.6  | Pulsefire Ezreal: Thruster particles no longer displaced during the cast. |
+| V13.5  | Essence Flux: Bug fix: Can no longer be triggered by a Mystic Shot that was blocked. |
+| V13.4  | General: Bug fix: Critical strike hit VFX now properly play for some skins. Bug fix: Skins with capes now play the correct animations for their cape. |
+| V13.1b| Stats: Mana regeneration growth increased to 1. |
+| V13.1  | Star Guardian Ezreal / Pajama Guardian Ezreal: Bug fix: Homeguard animation is now properly played. |
+| V12.17| Arcane Shift: Cooldown reduced to 26 / 23 / 20 / 17 / 14 seconds. |
+| V12.10| Stats: Base health increased to 600. |
+| V12.8  | Trueshot Barrage: Cooldown reduced to 120 / 105 / 90 seconds. |
+| V11.21| Mystic Shot: Bug fix: Fixed a bug where it did not count toward the stacking effect of Mortal Reminder's passive. |
+| V11.12| General: Adjusted splash artwork for TPA Ezreal. |
+| V11.11| General: Bug fix: Voice lines for opening the shop plays once again. Stats: Health regeneration growth increased to 0.65. |
+| V11.5  | Mystic Shot: Bug fix: Runaan's Hurricane's Wind's Fury is now properly triggered when Ezreal casts it and turns around before it hits. |
+| V11.3  | Mystic Shot: AD ratio increased to 130% AD. |
+| V11.1  | Mystic Shot: Bug fix: Now properly triggers on-attack effects. |
+| V10.23| Stats: Mana growth increased 70. |
+| V10.16| Pulsefire Ezreal: Bug fix: VFX can now properly be seen in spectator mode. |
+| V10.14| Arcane Shift: Cooldown increased to 28 / 25 / 22 / 19 / 16 seconds. |
+| V10.11| Stats: Base health increased to 530. Health growth increased to 88. |
+| V10.4  | Essence Flux: Bug fix: Orb now has a debuff icon when it attaches to a target. |
+| V10.3  | Stats: Mana growth increased to 50 from 42. Attack speed growth increased to 2.5%. |
+| V9.24b| Mystic Shot: AD ratio increased to 110% AD. |
+| V9.23  | Bug fix: Base health increased to 491. Base mana increased to 375. Base mana regeneration increased to 4. |
+| V9.16  | Mystic Shot: Base damage reduced to 35 / 55 / 75 / 95 / 115. |
+| V7.24b | Stats: Attack speed growth reduced to 1.5%. |
+| V7.24  | Mystic Shot: AD ratio reduced to 110% AD. |
+| V7.22  | Stats: Base attack damage increased to 64.6. Base armor increased to 31.8. |
+| V7.19  | Pulsefire Ezreal: Bug fix: Homeguard animation has been restored. |
+| V7.17  | Mystic Shot: AD ratio increased to 110% AD. |
+| V7.15  | Mystic Shot: Cooldown reduced to 5.5/5.25/4.75/4.25/3.75 seconds. |
+| V7.11  | Pulsefire Ezreal: Bug fix: Fixed a bug where he would occasionally not see gold popups for some of his last hits on targets in plain view. Bug fix: Fixed a bug where he would play his death animation a second time if Trueshot Barrage was leveled up while dead. |
+| V7.10  | General: Pulsefire Ezreal has been updated with a new VO, recall and new texture for all of his forms. |
+| V7.9   | Stats: Magic resistance growth increased to 0.5. |
+| V7.7   | Pulsefire Ezreal: Bug fix: If he uses Mystic Shot while affected by the aura buff of Sona's Hymn of Valor, he now properly uses his own VFX rather than Sona's. |
+| V7.3   | Pulsefire Ezreal: Bug fix: Fixed a bug where the flying animation stopped, but the audio didn't. |
+| V6.21  | Pulsefire Ezreal: Bug fix: Recall VO lines no longer stop playing after he dies. |
+| V6.17  | Rising Spell Force: Bonus attack speed increased to 10/12/14 (based on level)%. |
+| V6.15  | General: Adjusted splash artwork for Frosted Ezreal. |
+| V6.4   | Trueshot Barrage: Cooldown increased to 120 seconds. |
+| V5.22  | Stats: Base attack damage increased to 55.6. Base mana increased to 360.6. |
+| V5.20  | General: New splash artwork for Frosted Ezreal. |
+| V5.18  | Arcane Shift: New Effect: Now has a 50% bonus AD. |
+| V5.13  | Pulsefire Ezreal: Updated basic attack animation and visual effects to feel more responsive. Mystic Shot: Updated animation to feel more responsive. |
+| V5.11  | General: Adjusted artwork for Ace of Spades Ezreal. |
+| V4.20  | General: Texture update to Classic, Explorer, Frosted, Nottingham and Striker Ezreal. |
+| V4.19  | General: New splash artwork for Original Ezreal. |
+| V4.18  | Rising Spell Force: Buff duration increased to 6 seconds from 5. |
+| V4.16  | General: New lore. |
+| V4.12  | Essence Flux: New Effect: Can now benefit from the attack speed increase if he places himself within the wave. |
+| V4.5   | Stats: Base armor increased to 16. |
+| V4.4   | Mystic Shot: AP ratio increased to 40% AP. |
+| V3.10  | Mystic Shot: Animation changed to match auto-attack animation. |
+| V3.6   | Pulsefire Ezreal: Bug fix: Fixed a bug where he would occasionally not see gold popups for some of his last hits on targets in plain view. Bug fix: Fixed a bug where he would play his death animation a second time if Trueshot Barrage was leveled up while dead. |
+| V3.01  | Stats: Base movement speed reduced to 325 from 330. Rising Spell Force: Duration reduced to 5 seconds from 6. Trueshot Barrage: Damage falloff per target hit increased to 10% from 8%. |
+| V1.0.0.154| Stats: Base attack speed reduced to 0.665 from 0.665. |
+| V1.0.0.152| Movement speed increased to 330 from 305. |
+| V1.0.0.150| Essence Flux: No longer reduces enemy champion attack speed. |
+| V1.0.0.146| Mystic Shot: Mana cost reduced to 30/35/40/45/50 from 30/35/40/45/50. Essence Flux: Base damage reduced to 70/115/160/205/250 from 80/130/180/230/280. AP ratio increased to 80% AP from 60% AP. Missile width reduced to 80 from 120. |
+| V1.0.0.144| General: Splash artwork for Original Ezreal, Nottingham Ezreal, Striker Ezreal, Frosted Ezreal, and Explorer Ezreal updated to the Chinese art. |
+| V1.0.0.142| Mystic Shot: Bug fix: Fixed a bug where it had different ranges at different levels. |
+| V1.0.0.140b| Essence Flux: Mana cost reduced to 50/60/70/80/90 from 60/70/80/90/100. Trueshot Barrage: Mana cost reduced to 100 from 150. |
+| V1.0.0.133| General: Bug fix: Fixed a bug where Ezreal would lose his run animation and appear to be "skating" after 390 movement speed. |
+| V1.0.0.129| Trueshot Barrage: New Effect: Now grants vision while in flight. |
+| V1.0.0.125| Essence Flux: Bug fix: Fixed a discrepancy in its level-up tooltip that incorrectly mentioned a heal. |
+| V1.0.0.122| Mystic Shot: Bug fix: Fixed a bug where it did not interact with spell shields. |
+| V1.0.0.121| General: Adjusted auto attack animation to be more responsive. Essence Flux: Mana cost reduced to 60/70/80/90/100 from 70/80/90/100/110. Trueshot Barrage: Cooldown reduced to 80 seconds from 100. |
+| V1.0.0.116| Mystic Shot: New Effect: Now additionally scales with 20% AP. Trueshot Barrage: New Effect: Now scales additively with both attack damage and ability power instead of just the higher of the two. |
+| V1.0.0.115| Mystic Shot: Bug fix: Fixed a bug where it was granting 2 charges of Guinsoo's Rageblade/Tear of the Goddess up on cast. |
+| V1.0.0.114| Arcane Shift: Bug fix: Fixed a bug where it could target unseen minions such as wards. |
+| V1.0.0.112| Trueshot Barrage: New Effect: Now scales with the higher of a 100% bonus AD ratio OR the existing 90% AP ratio. |
+| V1.0.0.110| Rising Spell Force: New Effect: Now has a particle to indicate the amount of stacks. Bug fix: Fixed a tooltip bug that stated Ezreal was gaining 15% attack speed per stack instead of 10%. Bug fix: Fixed a bug where some of Ezreal's spells were displaying incorrect text on cast. |
+| V1.0.0.107| Stats: Base damage increased to 47.6 from 45. |
+| V1.0.0.104| Essence Flux: Changed the attack speed increase to be additive rather than multiplicative. Cooldown reduced to 9 seconds from 10. Trueshot Barrage: AP ratio increased to 90% AP from 80% AP. |
+| V1.0.0.103| Essence Flux: AP ratio increased to 70% AP from 60% AP. Trueshot Barrage: AP ratio increased to 80% AP from 70% AP. |
+| V1.0.0.100| Stats: Base damage reduced to 45 from 47.6. Damage per level reduced to 2.6 from 3. Attack speed per level reduced to 2.8 from 3.22. |
+| V1.0.0.99| Mystic Shot: AD ratio reduced to 100% AD from 110% AD. |
+| V1.0.0.98| Trueshot Barrage: Bug fix: Fixed a bug where Ezreal's voice would play at the target location instead of where Ezreal was. |
+| V1.0.0.97| Essence Flux: Bug fix: Fixed a discrepancy in its level-up tooltip that incorrectly mentioned a heal. |
+| V1.0.0.94(b)| Mystic Shot: Range reduced to 1100 from 1200. AD ratio reduced to 110% AD from 120% AD. Arcane Shift: Cooldown increased to 19/17/15/13/11 seconds from 17/15/13/11/9 seconds. |
+| V1.0.0.94| Essence Flux: Attack speed buff/debuff increased to 20/23/26/29/32% from 5/10/15/20/25%. Removed the heal component. |
+| V1.0.0.87| Mystic Shot: AD ratio increased to 120% AD from 100% AD. Essence Flux: Heal reduced to 70% of the damage value from 100%. Attack speed buff/debuff reduced to 5/10/15/20/25% from 20/25/30/35/40%. |
+| V1.0.0.85| Essence Flux: Heal reduced to 70% of the damage value from 100%. |
+| V1.0.0.81| Stats: Base armor increased to 12 from 9. Base damage increased to 49 from 47. Base mana regeneration increased to 0.9 from 0.8. Move- | |
+|  |  | ment speed increased to 305 from 300. Rising Spell Force: Duration increased to 6 seconds from 5. Mystic Shot: Base damage increased to 40/65/90/115/140 from 40/60/80/100/120. Essence Flux: Missile width increased to 120 from 100. Arcane Shift: Closest unit targeting range increased to 750 from 650. Mana cost reduced to 90 from 100. |
+| V1.0.0.79| Added Rising Spell Force (Innate) – Hitting a target with any of Ezreal's abilities increases his attack speed by 15% for 5 seconds, up to 75%. Mystic Shot (Q) – Ezreal fires a bolt of energy, if it strikes an enemy unit it reduces all of Ezreal's cooldowns by 1 second. Essence Flux (W) – Ezreal fires a fluctuating wave of energy, damaging and reducing enemy champions attack speed, as well as healing and increasing allied champions attack speed. Arcane Shift (E) – Ezreal teleports to a target nearby location and then fires a homing arrow which strikes the nearest enemy unit. Trueshot Barrage (Ultimate) – Ezreal channels for 1 second to fire a powerful barrage of energy missiles which do massive damage to each unit they pass through (deals 8% less damage to each unit it passes through). |
+| V1.0.0.77 | Trueshot Barrage (Ultimate) – Bug fix: Fixed a bug where the missiles were not properly hitting targets behind turrets. |
+| V1.0.0.73 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions. |
+| V1.0.0.71 | Mystic Shot (Q) – Bug fix: Fixed a bug where the ability was not properly hitting targets behind turrets. |
+| V1.0.0.69 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions even when they were hit by Ezreal's abilities. |
+| V1.0.0.67 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not being properly applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.65 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.64 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.63 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.62 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.61 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.60 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.59 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.58 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.57 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.56 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.55 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.54 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.53 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.52 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.51 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.50 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.49 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.48 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.47 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.46 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.45 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.44 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.43 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.42 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.41 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.40 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.39 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.38 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.37 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.36 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.35 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.34 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.33 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.32 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.31 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.30 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.29 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.28 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.27 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.26 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.25 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.24 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.23 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.22 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.21 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.20 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.19 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.18 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.17 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.16 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.15 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.14 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.13 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.12 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.11 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.10 | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.9  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.8  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.7  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.6  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.5  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.4  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.3  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.2  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |
+| V1.0.0.1  | Essence Flux (W) – Bug fix: Fixed a bug where the debuff was not properly being applied to enemy champions when they were hit by Ezreal's abilities. |

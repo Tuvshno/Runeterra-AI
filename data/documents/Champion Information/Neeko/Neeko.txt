@@ -1,0 +1,149 @@
+**Games**
+
+* Universe
+  + League of Legends
+  + Teamfight Tactics
+  + Legends of Runeterra
+
+**Image:** Neeko
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Neeko**
+
+* Release date: 2018-12-05
+* Last changed: V14.4
+* Class(es): Burst, Catcher, Legacy, Mage, Support
+* Position(s): Middle, Support
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 4800 (880, 2880 for crafting)
+
+**Base statistics**
+
+* Health: 610 (+104)
+* Mana: 450 (+30)
+* Health regen. (per 5s): 7.5 (+0.75)
+* Mana regen. (per 5s): 7 (+0.7)
+* Armor: 21 (+5.2)
+* Attack damage: 48 (+2.5)
+* Magic resist.: 30 (+1.3)
+* Crit. damage: 175%
+* Move. speed: 340
+* Attack range: 550
+* Attack speed: Base AS - 0.625, Attack windup - 20%, AS ratio - 0.67, Bonus AS - +3.5%
+* Missile speed: 2000
+* Unit radius: Gameplay radius - 65, Selection radius - 90, Pathing radius - 35, Acq. radius - 600
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+* Damage Dealt: +0%, Damage Received: +0%
+
+**Abilities**
+
+**Inherent Glamour**
+
+[Passive]
+
+* Neeko can store the Sho'Ma of multiple units at a time.
+* Inherent Glamour's cooldown only prevents Neeko from activating disguises; she can still store and remove Sho'Ma while the passive is on cooldown.
+* If Neeko attempts to activate a disguise while near and for the trap, ward, or jungle plant she stored Sho'Ma for, she will leap to that unit's exact position over 1 second and then become disguised.
+
+**Blooming Burst**
+
+[Q]
+
+* Cost: 50 / 60 / 70 / 80 / 90 Mana
+* Cooldown: 9 / 8.5 / 8 / 7.5 / 7 seconds
+* Cast time: 0.25 seconds
+* Range: 800
+* Effect radius: 250
+
+**Shapesplitter**
+
+[W]
+
+* Passive: Neeko's basic attacks on-hit generate a stack of Shapesplitter.
+* At 2 stacks, her next basic attack on-attack consumes them all to become non-projectile, deal bonus magic damage, and grant her bonus movement speed for 1 second.
+
+**Tangle-Barbs**
+
+[E]
+
+* Cost: 60 / 65 / 70 / 75 / 80 Mana
+* Cooldown: 12 / 11.5 / 11 / 10.5 / 10 seconds
+* Cast time: 0.25 seconds
+* Target range: 900
+* Width: 140 / 200
+* Speed: 1300 / 1500
+
+**Pop Blossom**
+
+[R]
+
+* Cost: 100 Mana
+* Cooldown: 120 / 105 / 90 seconds
+* Cast time: 0.6 seconds
+* Effect radius: 600
+
+---
+
+**Map-Specific Differences**
+
+**Blooming Burst**
+
+* In Arena, base damage changed to 90 / 140 / 190 / 240 / 290.
+
+**Shapesplitter**
+
+* Clones disappear when Pop Blossom's cast time starts.
+
+---
+
+**Champion skins**
+
+* Original
+* Flora Paulita (Winter Wonder)
+* Jennifer Wuestling (Winter Wonder)
+* Atey Ghailan (Winter Wonder)
+* Legacy
+* New SFX/VFX
+* New Animations/Recall
+* Chromas: Winter Wonder Neeko Chromas (Amethyst, Catseye, Emerald, Obsidian, Rainbow, Rose Quartz, Ruby, Turquoise)
+* Star Guardian
+* Prestige Star Guardian
+* Shan Hai Scrolls
+* Prestige Star Guardian (2022)
+* Bewitching
+* Street Demons
+
+---
+
+**Patch history**
+
+* V14.4: Shapesplitter bug fix - recasting the ability no longer causes the clone to visually teleport to the targeted location.
+* V14.3: Shapesplitter bug fix - properly inherits Smolder's horn in the model due to tier 1 upgrade of Super Scorcher Breath.
+* V14.2: Shapesplitter bug fix - no longer sometimes causes her to become stuck in her running animation. Bug fix: clone no longer causes turrets to lose their backdoor protection.
+* V14.1: Inherent Glamour bug fix - Dark Harvest and Heartsteel no longer reveal her when she's disguised. Shapesplitter bug fix - no longer scales with ultimate ability haste. Pop Blossom new effect: knockup no longer moves enemies outside of the stun range.
+* V13.24: Inherent Glamour bug fix - no longer allows Neeko to attack and unintentionally gain attack damage and attack speed when transforming into a non-attacking unit. Bug fix: no longer is allowed to inherit the attributes of more than one unit at a time.
+* V13.22: Attack windup reduced to 20% from 21.48387%. Shapesplitter bug fix: clone's Recall now properly displays the VFX for Honor 5 or Challenger recall.
+* V13.20: Undocumented: the empowered attack no longer triggers against wards and jungle plants.
+* V13.19: Pop Blossom VFX is no longer visible to enemies from the fog of war.
+* V13.18: Inherent Glamour bug fix: KDA score no longer changes based on unit she is disguised as.
+* V13.13: Inherent Glamour bug fix: can now attack when transformed into a Totem Ward, Farsight Ward, or Control Ward. Bug fix: Pop Blossom cooldown increased to 90 at all ranks.
+* V13.12: Inherent Glamour bug fix: can no longer use basic attacks while disguised as a Zombie Ward.
+* V13.10: Inherent Glamour bug fix: passive disguise no longer breaks from basic attacks if disguised as a monster that had died. Bug fix: players that ping her items while she is disguised will no longer reveal who she is disguised as. Bug fix: in-game reporting system no longer reveals her disguise on the scoreboard. Bug fix: target champions only setting now properly takes the disguise into account. Bug fix: no longer retains 2.5 attack speed after transforming into a minion or monster while standing next to a ward which the passive chargeup can start on. Bug fix: activating the disguise for an allied Ahri using the Spirit Blossom Ahri skin and having Spirit Rush active now properly causes the disguise to lose the empowered form of that skin after the buff times out.
+* V13.9: Inherent Glamour new innate: while within 300 units of a non-epic monster, minion, trap, ward, pet, or plant, Neeko stores their Sho'Ma over 2 seconds. Only one of these units can be stored at a time and she can clear out the Sho'Ma of the current unit to change the disguise to a different one. Afterwards, she can transform into that unit by selecting them in the interface. Removed: disguise no longer breaks upon taking damage. New effect: disguise now also breaks upon the form taking lethal damage or when Neeko becomes immobilized or deals damage to a structure while in the form of a non-champion. Removed: disguise no longer modifies her attack speed or movement speed if the unit's values are higher than hers. Cooldown reduced to 6 seconds at all levels from 25 - 10 (based on level). Bug fix: jungle companion now properly becomes invisible while she is disguised as an allied champion.
+* V13.1: Blooming Burst bloom base damage reduced to 35 / 60 / 85 / 110 / 135 from 40 / 65 / 90 / 115 / 140. Blooming Burst AP ratio increased to 25% AP from 20% AP. Effect radius increased to 250 from 225. New effect: now deals 30 / 40 / 50 / 60 / 70 bonus damage against monsters per bloom. New effect: casting the ability beyond its maximum range will now cast the ability at maximum range instead of having her walk into position to throw it.
+* Shapesplitter new effect: can now recast the ability in order to send her clone to the target location. New effect: clone now plays her Blooming Burst, Tangle-Barbs, dance, joke, taunt, laugh, and Recall animations and their respective sound effects. New effect: on-hit now deals 50 bonus damage against monsters. Clone now spawns directly on top of her, instead of 100 units in front of her. Bug fix: now properly copies certain debuff effects.
+* Tangle-Barbs base damage reduced to 70 / 105 / 140 / 175 / 210 from 80 / 115 / 150 / 185 / 220. AP ratio increased to 65% AP from 60% AP.
+* Pop Blossom cooldown increased to 120 / 105 / 90 seconds from 90 at all ranks. Base damage reduced to 150 / 350 / 550 from 200 / 425 / 650. Damage AP ratio reduced to 100% AP from 130% AP. New effect: now knocks up nearby enemies for 0.6 seconds after starting the windup. Stun duration reduced to 0.75 seconds from 1.25. Removed: no longer shields her for 75 / 100 / 125 (+75% AP) after starting the windup, increased by 40 / 60 / 80 (+40% AP) per champion, for 2 seconds.

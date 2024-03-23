@@ -1,0 +1,487 @@
+Games
+
+-------------
+
+Universe
+--------------------
+
+•
+
+League of Legends
+•
+Teamfight Tactics
+•
+Legends of Runeterra
+•
+Wild Rift
+
+---------------------
+
+Image
+------------------
+
+Galio
+
+------------------
+
+Gameplay
+---------
+
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+
+------------------
+
+Base statistics
+---------------
+
+Galio
+
+Edit
+---------------------
+
+Health: 632 + 126
+Mana: 500 + 40
+Health regen. (per 5s): 8 + 0.8
+Mana regen. (per 5s): 9.5 + 0.7
+Armor: 24 + 4.7
+Attack damage: 59 + 3.5
+Magic resist.: 32 + 2.05
+Crit. damage: 175%
+Move. speed: 335
+Attack range: 150
+Attack speed: Base AS 0.625, Bonus AS +1.5%
+Unit radius: Gameplay radius 80, Selection radius 125, Pathing radius 50, Acq. radius 600
+
+---------------------
+
+Special statistics
+-------------------
+
+ARAM: Damage Dealt -10%, Damage Received +10%
+Nexus Blitz: N/A
+One For All: N/A
+URF: N/A
+Ult Spellbook: N/A
+Arena: Damage Dealt +0%, Damage Received +0%
+
+---------------------
+
+Abilities
+--------
+
+[ ]
+Edit
+------------------
+
+Colossal Smash
+
+STATIC
+COOLDOWN: 5s
+EFFECT RADIUS: 250
+
+Innate: Galio's next basic attack is empowered to have an uncancellable windup, gain 40% bonus attack speed, and deal modified magic damage to the target and all enemies near them. Whenever Galio hits at least one enemy champion or epic monster with an ability, Colossal Smash's cooldown is reduced by 3 seconds. This may occur only once per cast. Colossal Smash can critically strike for (75% + 50%) AD bonus magic damage to all targets hit.
+
+Link
+▶️
+"Smash!"
+
+Details
+-------
+
+Targeting input: Passive
+Damage type: Type: Magic, Sub-type: Default
+Counters: Spell shield, Parries, Not Blocked, Spellblade does not get converted to magic damage and it will deal its damage only to the primary target, Empowered attack will not trigger against wards, Even if the ability hit is spell shielded, Colossal Smash's cooldown will still be reduced.
+
+Winds of War
+
+COST: 70 / 75 / 80 / 85 / 90 Mana
+COOLDOWN: 12 / 10.75 / 9.5 / 8.5 / 8s
+CAST TIME: 0.25s
+TARGET RANGE: 825
+EFFECT RADIUS: 150
+WIDTH: 120
+SPEED: 1400 / 50
+
+Active: Galio creates two windblasts 250 units to either side of him that arc out before converging to the target location, dealing magic damage to all enemies they pass through. Upon impact, the gusts form a tornado that persists for 2 seconds, slowly moving forward and dealing magic damage equal to 2.5% (+ 1% per 100 AP) of the target's maximum health every 0.5 seconds to enemies within the area, capped at 150 per tick against monsters, and 600 total against champions. Winds of War will cast at max range if cast beyond that.
+
+Map-Specific Differences
+-----------------------
+
+Arena: Base damage changed to 100 / 145 / 190 / 235 / 280, Knock up duration changed to 1.5s.
+
+---------------------
+
+Shield of Durand
+
+COST: 50 Mana
+COOLDOWN: 18 / 17 / 16 / 15 / 14s
+CAST TIME: none
+EFFECT RADIUS: 175 - 350 (based on channel time)
+
+Passive: Galio gains Anti-Magic Bulwark, and restores it after 12 / 10 / 8 (based on level) seconds without taking damage.
+
+Active: Galio charges for up to 2 seconds, slowing himself by 15%, and gaining magic damage reduction and half of that amount as physical damage reduction; charging increases Shield of Durand's radius, damage and taunt duration over the first 1.5 seconds of the channel.
+
+Magic Damage Reduction: 20 / 25 / 30 / 35 / 40% (+ 4% per 100 AP) (+ 8% per 100 bonus magic resistance) (+ 1% per 100 bonus health)
+Physical Damage Reduction: 10 / 12.5 / 15 / 17.5 / 20% (+ 1.5% per 100 AP) (+ 4% per 100 bonus magic resistance) (+ 0.5% per 100 bonus health)
+
+Recast: Galio refreshes the damage reduction for 2 seconds and deals magic damage to nearby enemy champions, increased by 0% - 200% (based on channel time), as well as taunts them for 0.5 - 1.5 (based on channel time) seconds during which their movement speed is set to a static 60 for the same duration.
+
+Minimum Magic Damage: 20 / 30 / 40 / 50 / 60 (+ 30% AP)
+Maximum Magic Damage: 60 / 90 / 120 / 150 / 180 (+ 90% AP)
+
+---------------------
+
+Tips & Tricks
+------------
+
+Since Anti-Magic Bulwark is instantly granted upon learning the ability, the shield may be gained once per game while in combat.
+
+---------------------
+
+Champion skins
+---------------
+
+[ ]
+This article section only contains champion skins. For all associated collection items, see Galio (Collection) .
+
+Original
+View in 3D
+790
+10.08.2010
+Outside the gleaming city of Demacia, the stone colossus Galio keeps vigilant watch. Built as a bulwark against enemy mages, he often stands motionless for decades until the presence of powerful magic stirs him to life. Once activated, Galio makes the most of his time, savoring the thrill of a fight and the rare honor of defending his countrymen. But his triumphs are always bittersweet, for the magic he destroys is also his source of reanimation, and each victory leaves him dormant once again.
+
+Josh Petersdorf
+Victor '3rdColossus' Maury
+
+Loot eligible
+Enchanted
+View in 3D
+520
+10.08.2010
+Josh Petersdorf
+Mike Azevedo
+
+Legacy
+Loot eligible
+New SFX/VFX
+Hextech
+View in 3D
+520
+10.08.2010
+Sensing a shift in the marketability of Hextech items, several of Piltover's largest industrial families pooled resources to create Galio, a massive golem donated to the city and her people. While he is ostensibly a walking advertisement, the protective creature is both curious about the world, and proud of his responsibility.
+
+Josh Petersdorf
+Bo 'chenbowow' Chen
+
+Hextech
+Loot eligible
+Legacy
+New SFX/VFX
+
+Commando
+View in 3D
+520
+18.01.2011
+Issues with the military industrial complex notwithstanding, why would a government put all its petricite resources into a giant statue that punches things? Or a pair of sunglasses big enough for one to wear?
+
+Josh Petersdorf
+Mist XG
+
+Commando
+Loot eligible
+New SFX/VFX
+
+Gatekeeper
+View in 3D
+1820
+23.04.2012
+One of the great dukes of Hell, Galio stands before his kingdom's black gates as the judge of all sinners, casting souls into their proper torments. Attempting to invoke him generally ends in tragedy, as he's several hundred feet tall and refuses to shrink in the service of mortals.
+
+Josh Petersdorf
+Viktor Titov, Grafit Studio
+
+Demonic
+Loot eligible
+New voiceover
+New SFX/VFX
+New Animations/Recall
+
+Debonair
+View in 3D
+750
+13.04.2015
+Savor that elixir. Highlight that heavenly white tux with a royal purple reserved for kings and queens who just don't deserve it. Because when you're an eighty foot tall petricite gargoyle, you're always the center of attention.
+
+Josh Petersdorf
+Sixmorevodka Studio
+
+Debonair
+Loot eligible
+New SFX/VFX
+
+Birdio
+View in 3D
+975
+29.03.2018
+A proud and noble salesman of delicious fried chicken, Birdio is the regional manager (and salesman of the year) for one of the world's largest chicken restaurants. Not one to be beaten at literally anything, he and Sivir have a well documented rivalry over who is the better employee.
+
+Josh Petersdorf
+Rudy Siswanto
+
+Culinary Masters
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+
+Chromas
+Birdio Chromas
+Aquamarine
+Catseye
+Citrine
+Meteorite
+Rose Quartz
+Ruby
+Worlds Early Bird
+Infernal
+
+---------------------
+
+Patch history
+------------
+
+[ ]
+For the expanded patch notes, see here .
+
+V13.24
+Winds of War
+Cooldown reduced to 12 / 11 / 10 / 9 / 8s from 12 / 11.5 / 11 / 10.5 / 10s.
+
+Shield of Durand
+Cooldown reduced to 18 / 17 / 16 / 15 / 14s from 18 / 17.5 / 17 / 16.5 / 16s.
+
+V13.19
+Hero's Entrance
+Cooldown reduced to 180 / 160 / 140s from 200 / 180 / 160s.
+
+V13.6
+Shield of Durand
+Base magic damage reduction increased to 25 / 30 / 35 / 40 / 45% from 20 / 25 / 30 / 35 / 40%.
+Base physical damage reduction increased to 12.5 / 15 / 17.5 / 20 / 22.5% from 10 / 12.5 / 15 / 17.5 / 20%.
+Magic damage reduction magic resistance ratio increased to 12% per 100 bonus magic resistance from 8%.
+Physical damage reduction magic resistance ratio increased to 6% per 100 bonus magic resistance from 4%.
+
+Justice Punch
+Cooldown reduced to 11 / 10 / 9 / 8 / 7s from 12 / 11 / 10 / 9 / 8s.
+
+V13.4
+Colossal Smash
+Bug fix: When used against a minion, no longer causes Spoils of War items to prioritize executing nearby lower health minions instead of the primary target minion.
+
+V12.13
+Winds of War
+Tornado base damage per tick increased to 2.5% of target's maximum health from 2%.
+Total tornado base damage increased to 10% of target's maximum health from 8%.
+Tornado AP ratio per tick increased to 1% per 100 AP from 0.66%.
+Total tornado AP ratio increased to 4% per 100 AP from 2.64%.
+
+V12.10
+Stats
+Base health increased to 632 from 562.
+Health growth increased to 126 from 112.
+Armor growth increased to 4.7 from 3.5.
+Magic resistance growth increased to 2.05 from 1.25.
+
+V11.24
+Gatekeeper Galio
+Bug fix: Voice lines now play more consistently and accurately.
+
+V11.23
+General
+Bug fix: Death animation VFX has been restored.
+
+V11.22
+Justice Punch
+Undocumented/Bug fix: Once again locks out movement spells during the cast time and dash.
+
+V11.20
+Justice Punch
+Undocumented: No longer locks out movement spells, excluding Hexflash, during the cast time and dash.
+
+V11.19
+Shield of Durand
+Cooldown reduced to 18 / 17.5 / 17 / 16.5 / 16s from 18 at all ranks.
+
+V11.14
+Shield of Durand
+Bug fix: Recasting it right before Flash comes off cooldown while having Hexflash no longer unlocks the ability to cast Flash during the channel.
+
+V11.10
+Shield of Durand
+Cooldown increased to 18s at all ranks from 18 / 17.5 / 17 / 16.5 / 16s.
+
+V10.25
+- December 15th Hotfix
+Shield of Durand
+Cooldown increased to 18 / 17.5 / 17 / 16.5 / 16s from 16 / 15.5 / 15 / 14.5 / 14s.
+
+Colossal Smash
+Bug fix: Now properly scales with ability haste.
+
+V10.22
+Justice Punch
+New effect: Now has a minimum 250 dash distance (starting from E origination, not the dashback).
+
+V10.18
+Winds of War
+Base damage reduced to 80 / 115 / 150 / 185 / 220 from 80 / 110 / 150 / 190 / 230.
+
+V10.10
+Shield of Durand
+New effect: Passive now has new visual and sound effects.
+
+V10.7
+Hero's Entrance
+New effect: On cast, now grants Shield of Durand's passive magic damage shield to all allied champions in the area he casted it at for 5 seconds.
+
+V10.3
+- February 6th Hotfix
+Gatekeeper Galio
+Winds of War
+Bug fix: Visual effects no longer time out before the damage ticks stop.
+
+Winds of War
+Tornado duration increased to 2s from 1.5s.
+Tick count increased to 4 from 3.
+Tornado maximum damage increased to 8% (+ 2.66% per 100 AP) of target's maximum health from 6% (+ 2% per 100 AP).
+Damage per tick unchanged.
+
+V9.17
+Stats
+Base mana regeneration increased to 9.335 from 9.
+
+Winds of War
+Cooldown reduced to 12 / 11.5 / 11 / 10.5 / 10s from 14 / 13 / 12 / 11 / 10s.
+Gust base damage increased to 80 / 110 / 150 / 190 / 230 from 50 / 80 / 110 / 140 / 170.
+Gust AP ratio increased to 90% AP from 80% AP.
+Total tornado damage changed to 6% (+ 4% per 100 AP) of target's maximum health from 30 / 40 / 50 / 60 / 70 (+ 60% AP) (+ 3% per 100 AP of target's maximum health).
+
+Justice Punch
+Windup before dash reduced to 0.4s from 0.45s.
+Dash speed increased to 2300 from 1900.
+New effect: Now deals 50% reduced damage to non-champions.
+
+Hero's Entrance
+Removed: The targeted ally no longer gains 20 / 25 / 30% (+ 8% per 100 bonus magic resistance) damage reduction.
+Removed: Enemies hit in the center of the impact zone are no longer knocked up for 1.25s.
+All enemies hit are now knocked up for 0.75s.
+
+V8.9
+Stats
+Base mana increased to 500 from 400.
+Mana growth reduced to 20 from 40.
+
+Birdio
+Bug fix: Is no longer incorrectly listed as a Mythic skin.
+
+V8.8
+Hero's Entrance
+Cooldown increased to 200 / 180 / 160s from 180 / 150 / 120s.
+
+V8.7
+Birdio
+Winds of War
+Bug fix: Fade out VFX are no longer misplaced when ability is cast from lower to higher elevation change.
+
+Justice Punch
+Bug fix: No longer has redundant white trail VFX after using Justice Punch.
+
+V8.5
+Winds of War
+Mana cost increased to 70 / 85 / 100 / 115 / 130 from 70 / 75 / 80 / 85 / 90.
+Cooldown increased to 10 / 9.5 / 9 / 8.5 / 8s from 10 / 9 / 8 / 7 / 6s.
+
+V8.2
+Shield of Durand
+Bug fix: Shield now correctly returns out of combat after falling off.
+
+V8.1
+Shield of Durand
+Bug fix: Fixed a bug where his shield would expire, rather than refresh 12 seconds after taking damage.
+
+V7.24
+Colossal Smash
+AP ratio reduced to 50% AP from 70% AP.
+
+Shield of Durand
+New effect: Deals between 20 / 30 / 40 / 50 / 60 (+ 20% AP) and 60 / 90 / 120 / 150 / 180 (+ 60% AP) magic damage, based on charge time.
+Deals 100% - 300% (based on charge time) damage.
+Bug fix: Fixed a bug where the taunt duration of partially-charged W casts was sometimes shorter than intended.
+
+Justice Punch
+Cooldown reduced to 12 / 11 / 10 / 9 / 8s from 14 / 13 / 12 / 11 / 10s.
+
+V7.22
+Stats
+Base health increased to 562 from 550.
+Health growth increased to 112 from 100.
+
+V7.21
+October 26th Hotfix
+Winds of War
+AP ratio on gusts reduced to 80% AP from 90% AP.
+Tornado maximum health ratio reduced to 1% per 100 AP of target's maximum health from 3% per 100 AP of target's maximum health.
+
+V7.21
+Colossal Smash
+AP ratio increased to 70% AP from 40% AP.
+
+Winds of War
+Base damage on gusts reduced to 60 / 95 / 130 / 165 / 200 from 60 / 90 / 120 / 150 / 180.
+AP ratio on gusts increased to 90% AP from 75% AP.
+Tornado maximum health ratio changed to '1% per 33 AP of target's maximum health' and '3% per 100 AP of target's maximum health' from 2% of target's maximum health.
+
+Shield of Durand
+Damage reduction now splits into separate values for physical and magic damage.
+New effect: Magic damage reduction now scales at '1% per 20 AP' and '5% per 100 AP'.
+New effect: Physical damage reduction now scales at '1% per 40 AP' and '2.5% per 100 AP'.
+Base physical damage reduction reduced to 10 / 12.5 / 15 / 17.5 / 20% from 20 / 25 / 30 / 35 / 40%.
+Physical damage reduction MR ratio reduced to 4% per 100 bonus magic resistance from 8%.
+Justice Punch
+Base damage reduced to 100 / 140 / 180 / 220 / 260 from 100 / 140 / 180 / 220 / 260 / 300.
+AP ratio increased to 90% AP from 70% AP.
+
+V7.16
+Hero's Entrance
+Cooldown increased to 180 / 150 / 120s from 160 / 140 / 120.
+Ally damage reduction reduced to 20 / 25 / 30% from 20 / 30 / 40%.
+
+V7.13
+Stats
+Base armor reduced to 24 from 27.
+Winds of War
+Tornado base damage reduced to 45 / 60 / 75 / 90 / 105 from 60 / 85 / 110 / 135 / 160.
+Tornado AP ratio increased to 60% AP from 45% AP.
+Hero's Entrance
+Channel duration before jumping increased to 1.25s from 1s.
+Hover time before dashing reduced by 0.25s.
+Total time to reach target unchanged.
+
+V7.8
+Gatekeeper Galio
+Bug fix: Recall particles no longer stretch back to the Spawning Pool.
+Shield of Durand
+Bug fix: Magic shield now properly recharges after he revives.
+Hero's Entrance
+Bug fix: Fixed a bug where disconnecting during the cast of Hero's Entrance caused Galio to be unable to target units and structures after reconnecting.

@@ -1,0 +1,529 @@
+**Games**
+
+* Universe
+* League of Legends
+	+ •
+	+ League of Legends: Champions
+	+ •
+	+ Jax
+		- Gameplay
+		- Collection
+		- Audio
+		- Patch history
+		- Past versions
+* Image
+* Jax
+
+**Jax**
+
+* Grandmaster at Arms
+* Release date: 2009-02-21
+* Last changed: V14.5
+* Class(es): Skirmisher, Legacy, Fighter, Assassin
+* Position(s): Top, Jungle
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 1350 (585 RP)
+* Crafting cost: + 810 RP
+
+**Base statistics**
+
+| Statistic          | Value                      |
+|--------------------|----------------------------|
+| Health             | 665 (+100)                |
+| Mana               | 339 (+52)                |
+| Health regen. (per 5s)| 8.5 (+0.55)           |
+| Mana regen. (per 5s)| 7.6 (+0.7)             |
+| Armor              | 36 (+4.2)                |
+| Attack damage       | 68 (+4.25)                |
+| Magic resist.       | 32 (+2.05)                |
+| Crit. damage        | 175%                       |
+| Move. speed        | 350                        |
+| Attack range       | 125                        |
+| Attack speed       | Base AS: 0.638             |
+| Bonus attack speed | +3.4%                       |
+
+**Style**
+
+* Difficulty: Champion
+
+**Champion Spotlight**
+
+* Jax Champion Spotlight
+
+**Abilities**
+
+* [Relentless Assault](#relentless-assault)
+* [Grandmaster at Angling](#grandmaster-at-angling)
+* [Leap Strike](#leap-strike)
+* [Empower](#empower)
+
+**Map-Specific Differences**
+
+* Arena: differences
+
+**Champion skins**
+
+* Original
+* View in 3D
+* 585 RP
+* 21.02.2009
+* Erik Braa
+* Foritis Wang, Pandart Studio
+* Loot eligible
+* **The Mighty**
+* View in 3D
+* 520 RP
+* 12.02.2010
+* Erik Braa
+* Lejia Chan, Kudos Productions
+* Winter Sports
+* Loot eligible
+* **Vandal**
+* View in 3D
+* 520 RP
+* 24.02.2010
+* Erik Braa
+* Jiunn Kuo, Kudos Productions
+* Vandal
+* Loot eligible
+* **Angler**
+* View in 3D
+* 975 RP
+* 08.06.2010
+* Erik Braa
+* Unknown artist
+* Day Job
+* Loot eligible
+* **PAX**
+* View in 3D
+* Special
+* 26.03.2010
+* Erik Braa
+* Yuyu Wong, Kudos Productions
+* PAX
+* Loot inelgible
+* **Jaximus**
+* View in 3D
+* 975 RP
+* 10.05.2011
+* Erik Braa
+* Herbie Wang, Kudos Productions
+* Legacy
+* Loot eligible
+* **Temple**
+* View in 3D
+* 750 RP
+* 15.11.2011
+* Erik Braa
+* Roanna Peroz, Kudos Productions
+* Legacy
+* Loot eligible
+* **Nemesis**
+* View in 3D
+* 975 RP
+* 14.09.2012
+* Erik Braa
+* Lejia Chan, Kudos Productions
+* Legacy
+* Loot eligible
+* **Chromas**
+	+ Nemesis Jax Chromas
+	+ Amber
+	+ Brick
+	+ Cream
+	+ SKT T1
+* A special event skin given away at PAX East 2010, PAX Prime 2010, and PAX East 2011.
+* Erik Braa
+* Foritis Wang, West Studio
+* Conqueror
+* Loot eligible
+* **New SFX/VFX**
+* New voice filter
+* New Animations/Recall
+* Mecha Kingdoms
+* View in 3D
+* 1820 RP
+* 15.01.2020
+* Erik Braa
+* Bo Lu
+* World Champions: 2013
+* Loot eligible
+* **Warden**
+* View in 3D
+* 750 RP
+* 30.09.2015
+* Erik Braa
+* Sixmorevodka Studio
+* Warden
+* Loot eligible
+* **God Staff**
+* View in 3D
+* 1350 RP
+* 11.01.2018
+* Erik Braa
+* Jojo So
+* Immortal Journey
+* Loot eligible
+* **Voice filter**
+* New SFX/VFX
+* New Animations/Recall
+* Mecha Kingdoms Jax Chromas
+	+ Peacekeeper
+	+ Pearl
+	+ Peridot
+	+ Rose Quartz
+	+ Ruby
+	+ Conqueror
+* Celebrating MSI 2021 in Reykjavík.
+* Erik Braa
+* Foritis Wang, West Studio
+* Conqueror
+* Loot eligible
+* **Legacy**
+* New SFX/VFX
+* New Animations/Recall
+* Prestige Conqueror
+* View in 3D
+* Special
+* 29.04.2021
+* Erik Braa
+* Foritis Wang, West Studio
+* Conqueror
+* Loot eligible
+* **This skin is a variant of** [Conqueror](#conqueror) **.**
+* Empyrean
+* View in 3D
+* 1350 RP
+* 03.11.2022
+* Erik Braa
+* Bo 'chenbowow' Chen
+* Empyrean
+* Loot eligible
+* **Voice filter**
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Empyrean Jax Chromas
+	+ Catseye
+	+ Citrine
+	+ Emerald
+	+ Neon Flare
+	+ Pearl
+	+ Rose Quartz
+	+ Ruby
+	+ Tanzanite
+	+ Turquoise
+* A special event Skin celebrating PAX and Jax's 2023 visual update.
+* Erik Braa
+* Jiunn Kuo, Kudos Productions
+* PAX
+* Loot inelgible
+* **New SFX/VFX**
+* This skin is a variant of [PAX](#pax).
+* Project
+* View in 3D
+* 1350 RP
+* 06.03.2024
+* An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge.
+* Erik Braa
+* Ina Wong, West Studio
+* PROJECT
+* Loot eligible
+* **Voice filter**
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* PROJECT: Jax Chromas
+	+ Amethyst
+	+ Catseye
+	+ Emerald
+	+ Obsidian
+	+ Ruby
+	+ Sandstone
+	+ Sapphire
+	+ Turquoise
+
+---
+
+### Abilities
+
+#### **Relentless Assault** (Passive)
+
+* Jax's basic attacks generate a stack of Relentless Assault on-attack for 2.5 seconds, refreshing on subsequent attacks and stacking up to 8 times. Stacks expire by one every 0.25 seconds when the duration ends.
+* For each stack, Jax gains 3.5% - 11% (based on level) bonus attack speed.
+
+#### **Grandmaster at Angling** (Passive)
+
+* While out-of-combat with champions and idle in the river for 10 seconds, Jax will occasionally catch a fish, granting him 1 and 1 ability power for 5 seconds. He catches a fish at an average rate of one every 15 seconds. He also has a 5% chance to catch a rare fish that grants 10 and 10 ability power for 5 seconds.
+* Jax catching a fish is a random event and will play a special animation.
+* The total number of fish caught during the game is displayed when fishing as Grandmaster at Angling passive.
+
+#### **Leap Strike** (Q)
+
+* Cost: 65 Mana
+* Cooldown: 8 / 7.5 / 7 / 6.5 / 6 seconds
+* Cast Time: None
+* Target Range: 700
+* Active: Jax dashes to the target unit's location. If the target is an enemy and they are in range upon arrival, Jax deals them physical damage. Physical Damage: 65 / 105 / 145 / 185 / 225 (+ 100% bonus AD). Jax can cast any of his abilities during the dash.
+* Leap Strike cannot be cast on structures.
+* If the target is an enemy champion, Jax will be ordered to basic attack them after the dash ends.
+* Spell shield will block the damage, including when empowered.
+
+#### **Empower** (W)
+
+* Cost: 30 Mana
+* Cooldown: 7 / 6 / 5 / 4 / 3 seconds
+* Cast Time: None
+* Active: Jax empowers his next basic attack or Leap Strike against an enemy within 10 seconds to deal bonus magic damage, reduced to 50% against structures. Bonus Magic Damage: 50 / 85 / 120 / 155 / 190 (+ 60% AP). Empower resets Jax's basic attack timer.
+
+---
+
+### Map-Specific Differences
+
+#### **Arena**
+
+* Differences:
+	+ Base damage changed to 30 / 55 / 80 / 105 / 130.
+	+ Active base damage changed to 100 / 175 / 250.
+	+ Minimum health ratio reduced to 3.5% of target's maximum health.
+	+ Maximum health ratio reduced to 7% of target's maximum health.
+	+ Counter Strike minimum base damage reduced to 40 / 70 / 100 / 130 / 160.
+	+ Counter Strike maximum base damage reduced to 80 / 140 / 200 / 260 / 320.
+	+ Grandmaster-At-Arms passive stacks can now be consumed against structures to deal 50% damage.
+	+ Empowered attacks now deal 50% damage against structures.
+
+---
+
+### Champion skins
+
+For all associated collection items, see [Jax (Collection)](#).
+
+---
+
+#### Original
+
+* View in 3D
+* 585 RP
+* 21.02.2009
+* Erik Braa
+* Foritis Wang, Pandart Studio
+* Loot eligible
+
+---
+
+#### The Mighty
+
+* View in 3D
+* 520 RP
+* 12.02.2010
+* Erik Braa
+* Lejia Chan, Kudos Productions
+* Winter Sports
+* Loot eligible
+
+---
+
+#### Vandal
+
+* View in 3D
+* 520 RP
+* 24.02.2010
+* Erik Braa
+* Jiunn Kuo, Kudos Productions
+* Vandal
+* Loot eligible
+
+---
+
+#### Angler
+
+* View in 3D
+* 975 RP
+* 08.06.2010
+* Erik Braa
+* Unknown artist
+* Day Job
+* Loot eligible
+
+---
+
+#### PAX
+
+* View in 3D
+* Special
+* 26.03.2010
+* Erik Braa
+* Yuyu Wong, Kudos Productions
+* PAX
+* Loot inelgible
+
+---
+
+#### Jaximus
+
+* View in 3D
+* 975 RP
+* 10.05.2011
+* Erik Braa
+* Herbie Wang, Kudos Productions
+* Legacy
+* Loot eligible
+
+---
+
+#### Temple
+
+* View in 3D
+* 750 RP
+* 15.11.2011
+* Erik Braa
+* Roanna Peroz, Kudos Productions
+* Legacy
+* Loot eligible
+
+---
+
+#### Nemesis
+
+* View in 3D
+* 975 RP
+* 14.09.2012
+* Erik Braa
+* Lejia Chan, Kudos Productions
+* Legacy
+* Loot eligible
+
+---
+
+#### Chromas
+
+* Nemesis Jax Chromas
+* Amber
+* Brick
+* Cream
+* SKT T1
+
+---
+
+#### Conqueror
+
+* View in 3D
+* 750 RP
+* 15.11.2011
+* Erik Braa
+* Roanna Peroz, Kudos Productions
+* Legacy
+* Loot eligible
+
+---
+
+#### Warden
+
+* View in 3D
+* 750 RP
+* 30.09.2015
+* Erik Braa
+* Sixmorevodka Studio
+* Warden
+* Loot eligible
+
+---
+
+#### God Staff
+
+* View in 3D
+* 1350 RP
+* 11.01.2018
+* Erik Braa
+* Jojo So
+* Immortal Journey
+* Loot eligible
+
+---
+
+#### Mecha Kingdoms
+
+* View in 3D
+* 1820 RP
+* 15.01.2020
+* Erik Braa
+* Bo Lu
+* World Champions: 2013
+* Loot eligible
+
+---
+
+#### Mecha Kingdoms Jax Chromas
+
+* Peacekeeper
+* Pearl
+* Peridot
+* Rose Quartz
+* Ruby
+* Conqueror
+
+---
+
+#### Empyrean
+
+* View in 3D
+* 1350 RP
+* 03.11.2022
+* Erik Braa
+* Bo 'chenbowow' Chen
+* Empyrean
+* Loot eligible
+
+---
+
+#### Empyrean Jax Chromas
+
+* Catseye
+* Citrine
+* Emerald
+* Neon Flare
+* Pearl
+* Rose Quartz
+* Ruby
+* Tanzanite
+* Turquoise
+
+---
+
+#### PAX
+
+* View in 3D
+* Special
+* 26.03.2010
+* Erik Braa
+* Yuyu Wong, Kudos Productions
+* PAX
+* Loot inelgible
+
+---
+
+#### Project
+
+* View in 3D
+* 1350 RP
+* 06.03.2024
+* An ancient warrior whose lifespan was extended through experimental tech, Jax once defended the city's outskirts from the horrors of PROJECT's control. His hopes for the future were crushed, however, when Mordekaiser's virus forced him to purge his own people. The only flame that now lights his path is revenge.
+* Erik Braa
+* Ina Wong, West Studio
+* PROJECT
+* Loot eligible
+
+---
+
+#### PROJECT: Jax Chromas
+
+* Amethyst
+* Catseye
+* Emerald
+* Obsidian
+* Ruby
+* Sandstone
+* Sapphire
+* Turquoise

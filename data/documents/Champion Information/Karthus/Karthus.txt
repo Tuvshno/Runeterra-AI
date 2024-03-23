@@ -1,0 +1,1752 @@
+**Games**
+
+**Universe**
+
+-
+- League of Legends
+  -
+  -
+  **Image**
+
+  Karthus
+  -
+  **Gameplay**
+    * Collection
+    * Audio
+    * Patch history
+    * Past versions
+  **Karthus**
+    * Release date: 2009-06-12
+    * Last changed: V14.2
+    * Class(es): Battlemage, Legacy, Mage
+    * Position(s): Jungle
+    * Resource: Mana
+    * Range type: Ranged
+    * Adaptive type: Magical
+    * Store price: 3150 (375)
+    * Crafting: +1890 (2310)
+    * Ratings: Damage: 3, Toughness: 1, Control: 1, Mobility: 1, Utility: 2
+    * Style: Difficulty: Champion
+
+  **Style**: Difficulty: Champion
+
+  **Champion Spotlight**
+
+  **Karthus**
+
+  **Champion Spotlight**
+
+  **Karthus**
+
+  is a champion in League of Legends.
+  [1]
+
+  **Gameplay**
+
+  * **Cosmetics**
+  * **Audio**
+  * **Development**
+  * **Patch History**
+  * **History**
+  * **Trivia**
+
+  **Base statistics**
+
+  **Karthus**
+
+  **Edit**
+
+  | Health: 620 (+110) |
+  | Mana: 467 (+31) |
+  | Health regen. (per 5s): 6.5 (+0.55) |
+  | Mana regen. (per 5s): 8 |
+  | Armor: 21 (+4.7) |
+  | Attack damage: 46 (+3.25) |
+  | Magic resist.: 30 (+1.3) |
+  | Crit. damage: 175% |
+  | Move. speed: 335 |
+  | Attack range: 450 |
+  | Attack speed: Base AS: 0.625, Attack windup: 34.375%, AS ratio: N/A, Bonus AS: +2.11% |
+  | Missile speed: 1500 |
+  | Unit radius: Gameplay radius: 65, Selection radius: 100, Pathing radius: 35, Acq. radius: 450 |
+
+  **Special statistics**
+
+  **ARAM**
+
+  * Damage Dealt: -10%, Damage Received: +5%
+
+  **Lay Waste**
+
+  **Lay Waste**
+
+  **Cost:** 20 / 25 / 30 / 35 / 40 Mana
+
+  **CoolDown:** 1
+
+  **Cast Time:** 0.25
+
+  **Target Range:** 875
+
+  **Effect Radius:** 160
+
+  **Active:** Karthus conjures a blast at the target location that detonates after 0.528 to 0.759 seconds, granting sight of the area and dealing magic damage to all enemies within, doubled when only one target is struck.
+
+  **Magic Damage:** 45 / 65 / 85 / 105 / 125 (+ 35% AP), Enhanced Damage: 90 / 130 / 170 / 210 / 250 (+ 70% AP)
+
+  **During Death Defied, Lay Waste will cast at maximum range if cast beyond that.**
+
+  **Hide**
+
+  **Details**
+
+  **Info**
+
+  **Targeting input**
+
+  **Location**
+
+  **Damage type**
+
+  **Type**
+
+  **Sub-type**
+
+  **Magic**
+
+  **Counters**
+
+  **Spell shield**
+
+  **Blocked**
+
+  * The delay between the cast and the detonation is inconsistent, but always matches up with the VFX.
+  * Defile's ticks beyond the first have a similar issue.
+  * Applies spell damage if it hits a single target and area damage if it hits multiple targets.
+  * Lay Waste also plays a different sound effect when it only hits one target.
+
+  **Wall of Pain**
+
+  **Wall of Pain**
+
+  **Cost:** 70 Mana
+
+  **CoolDown:** 15
+
+  **Cast Time:** 0.25
+
+  **Target Range:** 1000
+
+  **Active:** Karthus erects a wall of pain at the target location perpendicular to his facing that lasts 5 seconds, granting sight around its pillars and center.
+
+  **Wall Length:** 800 / 900 / 1000 / 1100 / 1200, Enemies that touch the wall are inflicted with 25% magic resistance reduction and become slowed for 5 seconds, decaying over the duration. This can affect enemies only once per cast.
+
+  **Slow:** 40 / 50 / 60 / 70 / 80%, Reduced Slow: 20 / 25 / 30 / 35 / 40%
+
+  **Hide**
+
+  **Details**
+
+  **Info**
+
+  **Targeting input**
+
+  **Location**
+
+  **Counters**
+
+  **Spell shield**
+
+  **Not Blocked**
+
+  * No additional details.
+
+  **Defile**
+
+  **Defile**
+
+  **Cost:** 30 / 42 / 54 / 66 / 78 Mana per second
+
+  **CAST TIME:** none
+
+  **STATIC**
+
+  **COOLDOWN:** 0.5
+
+  **EFFECT RADIUS:** 550
+
+  **Passive:** Karthus restores mana whenever he kills an enemy.
+
+  **Mana Restored:** 10 / 20 / 30 / 40 / 50
+
+  **Toggle:** Karthus surrounds himself in a necrotic aura that deals magic damage every 0.25 seconds to all nearby enemies. Toggling Defile off triggers a final tick of damage.
+
+  **Magic Damage Per Tick:** 7.5 / 12.5 / 17.5 / 22.5 / 27.5 (+ 5% AP), Damage Per Second: 30 / 50 / 70 / 90 / 110 (+ 20% AP)
+
+  **Defile cannot be toggled off during Death Defied.**
+
+  **Hide**
+
+  **Details**
+
+  **Info**
+
+  **Targeting input**
+
+  **Auto**
+
+  **Damage type**
+
+  **Type**
+
+  **Sub-type**
+
+  **AOE DOT damage**
+
+  **Magic**
+
+  **Counters**
+
+  **Spell shield**
+
+  **Not Blocked**
+
+  * Toggle abilities do not count as ability activations for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+  * Defile will restore mana if Karthus destroys an enemy structure.
+  * Defile re-calculates its damage with each tick based on changes in Karthus's ability power or an increase in the rank of Defile without the need to toggle it off and on again.
+  * Defile will toggle off automatically if Karthus enters resurrection.
+
+  **Requiem**
+
+  **Requiem**
+
+  **Cost:** 100 Mana
+
+  **CoolDown:** 200 / 180 / 160
+
+  **Cast Time:** 0.25
+
+  **Effect Radius:** Global
+
+  **Active:** Karthus channels for 3 seconds, then deals magic damage to all targetable enemy champions upon completion.
+
+  **Magic Damage:** 200 / 350 / 500 (+ 75% AP)
+
+  **Link** ▶️ **"Die!"**
+
+  **Hide**
+
+  **Map-Specific Differences**
+
+  **Howling Abyss differences**
+
+  **Duration reduced to 5 seconds.**
+
+  ---
+
+  **Champion skins**
+
+  [ ]
+
+  This article section only contains champion skins. For all associated collection items, see Karthus (Collection).
+
+  **Original**
+
+  **View in 3D** 790 11.06.2009
+
+  The harbinger of oblivion, Karthus is an undying spirit whose haunting songs are a prelude to the horror of his nightmarish appearance. The living fear the eternity of undeath, but Karthus sees only beauty and purity in its embrace, a perfect union of life and death. When Karthus emerges from the Shadow Isles, it is to bring the joy of death to mortals, an apostle of the unliving.
+
+  **Unknown voice actor**
+
+  **Alex 'alexplank' Flores**
+
+  **Loot eligible**
+
+  **Phantom**
+
+  **View in 3D** 460 13.01.2010
+
+  **Unknown voice actor**
+
+  **Unknown artist**
+
+  **Legacy**
+
+  **Loot eligible**
+
+  **Legacy**
+
+  **Statue of Karthus**
+
+  **View in 3D** 520 03.07.2010
+
+  At the entry point of one of the world's most powerful nations stands the three-hundred-and-five-foot-tall statue of an evil, undead preacher holding a giant torch. Sometimes it comes to life. It's fun. Statues are fun.
+
+  **Unknown voice actor**
+
+  **Unknown artist**
+
+  **Wonders of the World**
+
+  **Loot eligible**
+
+  **Grim Reaper**
+
+  **View in 3D** 975 26.09.2010
+
+  **Unknown voice actor**
+
+  **Unknown artist**
+
+  **Trick-or-Treat**
+
+  **Loot eligible**
+
+  **Chromas**
+
+  **Grim Reaper Karthus Chromas**
+
+  **Blight**
+
+  **Burn**
+
+  **Frostbite**
+
+  **Pentakill**
+
+  **View in 3D** 750 29.08.2011
+
+  **Lead singer of heavy-metal sensation PENTAKILL, Karthus sings in the voice of a fallen angel made of freshly polished chrome and dynamite that eats other dynamite. His vocals explode the sun in the sky, igniting the flame of metal within the hearts of all who hear.**
+
+  **Unknown voice actor**
+
+  **Pan Chengwei**
+
+  **Pentakill**
+
+  **Loot eligible**
+
+  **Additional/unique quotes**
+
+  **New SFX/VFX**
+
+  **Fnatic**
+
+  **View in 3D** 750 24.09.2014
+
+  **Honoring xPeke's winning performance as Karthus during the 2011 World Championship.**
+
+  **Unknown voice actor**
+
+  **Unknown artist**
+
+  **World Champions: 2011**
+
+  **Loot eligible**
+
+  **Legacy**
+
+  **Karthus Lightsbane**
+
+  **View in 3D** 975 17.11.2016
+
+  **Dark sorcerer, master of forbidden magic, aspiring lich—all could describe Karthus Lightsbane, a high level spellcaster with shadowy motivations. The rest of the party is convinced he'll eventually betray them, since nothing in the Riftquest rules says he can't.**
+
+  **Unknown voice actor**
+
+  **Unknown artist**
+
+  **Rift Quest**
+
+  **Loot eligible**
+
+  **New SFX/VFX**
+
+  **New Animations/Recall**
+
+  **Infernal**
+
+  **View in 3D** 1350 16.07.2020
+
+  **The disciples of Karthus usher this infernal harbinger into the world by singing his discordant chorus, a pledge that beckons pillars of flame unto them. On his arrival, the deathsinger's chant summons columns of hellfire that descend from the heavens above. Few live to tell of the dirge they heard before flames swept the land.**
+
+  **Unknown voice actor**
+
+  **West Studio**
+
+  **Infernal**
+
+  **Loot eligible**
+
+  **New SFX/VFX**
+
+  **New Animations/Recall**
+
+  **Chromas**
+
+  **Infernal Karthus Chromas**
+
+  **Amethyst**
+
+  **Citrine**
+
+  **Emerald**
+
+  **Rose Quartz**
+
+  **Ruby**
+
+  **Sapphire**
+
+  **Pentakill Lost Chapter**
+
+  **View in 3D** 1350 09.09.2021
+
+  **All hail, Karthus, the Voice of Doom, and Chosen of Perpetuum! His songs are bleak murder ballads, a bitter reminder that all things must die. Though, perhaps, not him?**
+
+  **Unknown voice actor**
+
+  **David Villegas, West Studio**
+
+  **Pentakill III: The Lost Chapter**
+
+  **Loot eligible**
+
+  **Additional/unique quotes**
+
+  **New SFX/VFX**
+
+  **New Animations/Recall**
+
+  **Chromas**
+
+  **Pentakill III: Lost Chapter Karthus Chromas**
+
+  **Catseye**
+
+  **Emerald**
+
+  **Obsidian**
+
+  **Pearl**
+
+  **Rose Quartz**
+
+  **Ruby**
+
+  **Sapphire**
+
+  **Tanzanite**
+
+  **Elderwood**
+
+  **View in 3D** 1350 28.06.2023
+
+  **Karthus was a brilliant scholar once upon a time. But when a disease nearly eradicated his people, he researched forbidden Coven magic, hoping to resurrect his loved ones... with catastrophic consequences. Now, he roams the Elderwood as a decaying creature, spreading his plague throughout the forest and inviting its inhabitants to transcend through death.**
+
+  **Unknown voice actor**
+
+  **Huyy Nguyen, West Studio**
+
+  **Elderwood**
+
+  **Loot eligible**
+
+  **New SFX/VFX**
+
+  **New Animations/Recall**
+
+  **Chromas**
+
+  **Elderwood Karthus Chromas**
+
+  **Catseye**
+
+  **Emerald**
+
+  **Obsidian**
+
+  **Pearl**
+
+  **Rose Quartz**
+
+  **Ruby**
+
+  **Sapphire**
+
+  **Turquoise**
+
+  **Patch history**
+  [ ]
+
+  For the expanded patch notes, see [here](https://leagueoflegends.fandom.com/wiki/Patch_History_V14.2).
+
+  V14.2
+  - January 24th Hotfix
+    * Wall of Pain
+      * Bug Fix: Magic resistance reduction while in zombie form no longer multiplies the magic resistance of enemies hit by 25 instead of 0.
+    * Requiem
+      * Bug Fix: Now properly benefits from ability haste as soon as he respawns.
+  - January 24th Hotfix
+    * Lay Waste
+      * Base damage increased to 45 / 65 / 85 / 105 / 125 from 43 / 61 / 79 / 97 / 115.
+      * Single-target damage increased to 90 / 130 / 170 / 210 / 250 from 86 / 122 / 158 / 194 / 230.
+      * Wall of Pain magic resistance reduction increased to 25% from 15%.
+  - December 15th, 2022
+    * Stats
+      * Basic attack missile speed increased to 1500 from 1200.
+  - December 1st, 2022
+    * Death Defied
+      * Bug Fix: No longer leaves a square VFX on the ground after the effect ends.
+  - November 17th Hotfix
+    * Death Defied
+      * Can no longer momentarily revive from the effect if he had the Chemtech Dragon Soul buff.
+  - November 17th Hotfix
+    * Stats
+      * Mana growth increased to 31 from 30.5.
+  - November 11th, 2022
+    * Death Defied
+      * Bug Fix: Enemy champions that deal lethal damage to trigger the zombie state are no longer considered to deal damage to the source when the effect ends.
+  - November 8th, 2022
+    * Lay Waste
+      * Base damage reduced to 43 / 61 / 79 / 97 / 115 from 45 / 62.5 / 80 / 97.5 / 115.
+      * Monster damage increased to 100% from 95%.
+      * Defile
+        * Mana restored reduced to 10 / 20 / 30 / 40 / 50 from 15 / 25 / 35 / 45 / 55.
+  - October 20th, 2022
+    * Death Defied
+      * Bug Fix: No longer deals damage to his allies with Defile when the effect was triggered by taking lethal damage from an enemy Briar in her Blood Frenzy state.
+  - October 11th, 2022
+    * Lay Waste
+      * Base damage reduced to 45 / 62.5 / 80 / 97.5 / 115 from 45 / 65 / 85 / 105 / 125.
+      * Single-target damage reduced to 90 / 130 / 170 / 210 / 250 from 90 / 125 / 160 / 195 / 230.
+  - September 29th, 2022
+    * Stats
+      * Base armor increased to 21 from 18.
+      * Health growth increased to 110 from 101.
+  - September 27th, 2022
+    * Death Defied
+      * Bug Fix: Corpse is no longer an obstacle to other units' pathing.
+  - September 23rd, 2022
+    * Stats
+      * Base health increased to 620 from 550.
+      * Health growth increased to 101 from 87.
+      * Armor growth increased to 4.7 from 3.5.
+      * Magic resistance growth increased to 1.3 from 0.5.
+  - September 19th, 2022
+    * Death Defied
+      * Bug Fix: Enemy champions that deal lethal damage to trigger the zombie state are no longer considered to deal damage to the source when the effect ends.
+  - September 15th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where it granted Tear of the Goddess stacks despite not hitting a valid target.
+  - September 12th, 2022
+    * Stats
+      * Base health increased to 550 from 528.
+      * Base movement speed increased to 335 from 325.
+      * Lay Waste base damage increased to 50 / 70 / 90 / 110 / 130 from 45 / 65 / 85 / 105 / 125.
+      * AP ratio increased to 35% AP from 30% AP.
+      * New Effect: Damage against monsters is now reduced by 15%.
+      * Defile
+        * Now always restores mana on kill.
+        * Tick rate reduced to 1 per 0.25 seconds from 1 per 1 second.
+        * New Effect: Deactivating Defile deals 1 tick's worth of damage.
+      * Bug Fix: Tooltip now accurately mentions the increased mana cost per second at each level.
+  - September 8th, 2022
+    * Stats
+      * Movement speed reduced to 325 from 335.
+  - August 23rd, 2022
+    * Death Defied
+      * Bug Fix: When in Death Defied, Wall of Pain now properly grants vision around the wall.
+  - August 18th, 2022
+    * Requiem
+      * Bugfix: No longer hits through untargetability.
+  - August 16th, 2022
+    * Stats
+      * Base attack damage increased to 46 from 45.66.
+  - August 12th, 2022
+    * Wall of Pain
+      * Bug Fix: Enemy champions sometimes dashing through wall and not being slowed.
+  - August 9th, 2022
+    * Requiem
+      * AP ratio increased to 75% AP from 70% AP.
+  - August 3rd, 2022
+    * Requiem
+      * Base damage reduced to 200 / 350 / 500 from 250 / 400 / 550.
+      * AP ratio reduced to 65% AP from 75% AP.
+      * Undocumented: No longer goes on full cooldown if cast after respawning.
+      * Can now hit through untargetability.
+  - July 29th, 2022
+    * General
+      * Bug Fix: Can now dance.
+  - July 26th, 2022
+    * Lay Waste
+      * Base damage reduced to 45 / 65 / 85 / 105 / 125 from 50 / 70 / 90 / 110 / 130.
+      * Isolated base damage reduced to 90 / 130 / 170 / 210 / 250 from 100 / 140 / 180 / 220 / 260.
+      * Bug Fix: Now triggers runes more consistently.
+  - July 19th, 2022
+    * Death Defied
+      * New Effect: All abilities are free to cast while active.
+  - July 15th, 2022
+    * Lay Waste
+      * Mana cost reduced to 20 / 28 / 36 / 44 / 52 from 24 / 32 / 40 / 48 / 54.
+      * Wall of Pain cooldown reduced to 18 seconds from 22.
+  - July 12th, 2022
+    * Death Defied
+      * New Effect: Grants 20% death timer reduction to compensate for active duration.
+  - July 8th, 2022
+    * Wall of Pain
+      * Bug Fix: Rank-up tooltip displaying incorrect slow increase.
+  - July 6th, 2022
+    * Requiem
+      * Mana cost reduced to 150 / 175 / 200 from 200 / 300 / 400.
+  - July 1st, 2022
+    * Lay Waste
+      * Bug Fix: Corrected AP ratio.
+      * Wall of Pain bug fix: Slowing units 2 seconds after particle had faded.
+      * Duration reduced to 7 seconds from 9.
+      * Defile
+        * Mana cost increased to 30 / 45 / 60 / 75 / 90 from 30 / 40 / 50 / 60 / 70.
+  - June 28th, 2022
+    * Wall of Pain
+      * Wall updated for visibility.
+      * Bug Fix: Incorrect wall appearance.
+      * Targets sometimes not being slowed when crossing the wall.
+      * Duration reduced to 7 seconds from 9.
+  - June 25th, 2022
+    * Defile
+      * Mana cost increased to 30 / 45 / 60 / 75 / 90 from 30 / 40 / 50 / 60 / 70.
+  - June 22nd, 2022
+    * Lay Waste
+      * Mana cost increased to 24 / 32 / 40 / 48 / 54 from 18 / 26 / 34 / 42 / 50.
+      * Defile on-kill mana gain changed to 20 / 27 / 34 / 41 / 48 from 15 / 25 / 35 / 45 / 55.
+      * Mana cost increased to 30 / 40 / 50 / 60 / 70 from 25 / 35 / 45 / 55 / 65.
+      * Requiem AP ratio reduced to 60% AP from 70% AP.
+      * Can no longer be cast while dead.
+  - June 18th, 2022
+    * Defile
+      * Cooldown increased to 18 / 15 / 12 / 9 / 6 seconds from 15 / 12 / 9 / 6 / 3 seconds.
+      * Bug Fix: Karthus sometimes immediately awarding a double kill when affected by both Sunlight and Storm Shield.
+  - June 15th, 2022
+    * Wall of Pain
+      * Wall duration reduced to 5 seconds from 7.
+      * Slowing units 2 seconds after particle had faded.
+  - June 11th, 2022
+    * Death Defied
+      * Duration reduced to 8 seconds from 10.
+      * Removed: 20% death timer reduction.
+  - June 8th, 2022
+    * Requiem
+      * AP ratio reduced to 60% AP from 70% AP.
+      * Can no longer be disrupted by Cleanse.
+  - June 4th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Lay Waste could be cast during Wall of Pain and cause it to not apply the slow.
+  - May 31st, 2022
+    * Lay Waste
+      * AP ratio increased to 25% AP from 20% AP.
+      * Bug Fix: Fixed a bug where Lay Waste appeared to give more vision than it actually did.
+      * Wall of Pain
+        * Bug Fix: No longer interrupted by movement commands.
+        * Particle updated for visibility.
+        * Targets sometimes not being slowed when crossing the wall.
+        * Duration reduced to 7 seconds from 9.
+  - May 27th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste could be cast while on cooldown.
+  - May 24th, 2022
+    * Lay Waste
+      * Base damage reduced to 45 / 65 / 85 / 105 / 125 from 50 / 70 / 90 / 110 / 130.
+      * Single-target damage reduced to 90 / 130 / 170 / 210 / 250 from 90 / 125 / 160 / 195 / 230.
+  - May 20th, 2022
+    * Wall of Pain
+      * Wall duration reduced to 7 seconds from 9.
+  - May 17th, 2022
+    * Lay Waste
+      * Mana cost increased to 24 / 32 / 40 / 48 / 54 from 18 / 26 / 34 / 42 / 50.
+      * Defile on-kill mana gain changed to 20 / 27 / 34 / 41 / 48 from 15 / 25 / 35 / 45 / 55.
+      * Mana cost increased to 30 / 40 / 50 / 60 / 70 from 25 / 35 / 45 / 55 / 65.
+      * Requiem
+        * Mana cost increased to 200 / 300 / 400 from 180 / 250 / 320.
+      * AP ratio reduced to 60% AP from 70% AP.
+      * Can no longer be cast while dead.
+  - May 13th, 2022
+    * Defile
+      * Mana cost reduced to 30 / 45 / 60 / 75 / 90 from 30 / 40 / 50 / 60 / 70.
+  - May 10th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Rank-up tooltip was displaying incorrect slow increase.
+  - May 6th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Wall of Pain was not slowing targets properly when hit by Lay Waste.
+  - May 3rd, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was dealing less damage than intended when using Defile.
+  - April 29th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not slowing targets properly when hit by Lay Waste.
+  - April 26th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were in brush.
+  - April 23rd, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were using certain abilities or items.
+  - April 20th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were in certain positions.
+  - April 16th, 2022
+    * Requiem
+      * Bug Fix: Fixed a bug where Requiem was not revealing champions properly during its cast animation.
+  - April 13th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to certain champions when they were in certain positions.
+  - April 9th, 2022
+    * Requiem
+      * Bug Fix: Fixed a bug where Requiem was not revealing champions properly during its cast animation.
+  - April 6th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 3rd, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk over Wall of Pain without being slowed.
+  - March 30th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not slowing enemies properly when they were hit by Lay Waste.
+  - March 28th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not slowing enemies properly when they were hit by Defile.
+  - March 25th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not slowing enemies properly when they were hit by other abilities.
+  - March 22nd, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not preventing enemies from casting abilities while within its area.
+  - March 18th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Lay Waste.
+  - March 15th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were hit by Defile.
+  - March 12th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were in certain positions.
+  - March 8th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were using certain abilities or items.
+  - March 5th, 2022
+    * Lay Waste
+      * Bug Fix: Fixed a bug where Lay Waste was not dealing damage to enemies when they were in certain brush.
+  - February 28th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 25th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Lay Waste.
+  - February 22nd, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Defile.
+  - February 19th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by other abilities.
+  - February 15th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly preventing enemies from casting abilities while within its area.
+  - February 12th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 8th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Lay Waste.
+  - February 5th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Defile.
+  - February 2nd, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by other abilities.
+  - January 29th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly preventing enemies from casting abilities while within its area.
+  - January 26th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Lay Waste.
+  - January 22nd, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Defile.
+  - January 18th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by other abilities.
+  - January 15th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly preventing enemies from casting abilities while within its area.
+  - January 11th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 8th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Lay Waste.
+  - January 5th, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Defile.
+  - January 1st, 2022
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by other abilities.
+  - December 28th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 25th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Lay Waste.
+  - December 22nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by Defile.
+  - December 18th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly applying the slow to enemies when they were hit by other abilities.
+  - December 15th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to cast abilities through Wall of Pain.
+  - December 11th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where Wall of Pain was not properly preventing enemies from using certain abilities while within its area.
+  - December 8th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 4th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 1st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 27th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 24th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 20th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 17th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 13th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 10th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 6th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 3rd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 30th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 27th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 23rd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 20th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 16th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 13th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 9th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 6th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 2nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 29th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 26th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 22nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 19th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 15th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 12th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 8th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 5th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 1st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 29th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 25th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 22nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 18th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 15th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 11th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 8th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 4th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 1st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 25th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 22nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 18th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 15th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 11th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 8th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 4th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 1st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 27th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 24th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 20th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 17th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 13th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 10th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 6th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 3rd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 30th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 27th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 23rd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 20th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 16th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 13th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 9th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 6th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 2nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 29th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 25th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 22nd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 18th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 15th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 11th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 8th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 4th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 1st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 28th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 25th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 21st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 18th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 14th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 11th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 7th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 4th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 28th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 25th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 21st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 18th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 14th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 11th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 7th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 4th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 31st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 28th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 24th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 21st, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 17th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 13th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 10th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 6th, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 3rd, 2021
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 30th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 27th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 23rd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 20th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 16th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 13th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 9th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 6th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 2nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 29th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 25th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 21st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 18th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 14th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 11th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 7th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 4th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 31st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 28th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 24th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 21st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 17th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 14th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 10th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 7th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 3rd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 30th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 26th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 23rd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 19th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 16th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 12th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 9th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 5th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 2nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 29th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 26th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 22nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 19th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 15th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 12th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 8th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 5th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 1st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 29th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 25th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 22nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 18th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 15th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 11th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 8th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 4th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 1st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 27th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 24th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 20th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 17th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 13th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 10th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 6th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 3rd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 30th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 27th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 23rd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 20th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 16th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 13th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 9th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 6th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 2nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 29th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 25th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 22nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 18th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 15th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 11th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 8th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 4th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 1st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 28th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 25th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 21st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 18th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 14th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 11th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 7th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 4th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 29th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 26th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 22nd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 19th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 15th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 12th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 8th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 5th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 31st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 28th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 24th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 21st, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 17th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 13th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 10th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 6th, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 3rd, 2020
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 30th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 27th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 23rd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 20th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 16th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 13th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 9th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 6th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 2nd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 29th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 25th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 21st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 18th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 14th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 11th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 7th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - November 4th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 31st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 28th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 24th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 21st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 17th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 14th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 10th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - October 7th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - October 3rd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 30th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 26th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 23rd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 19th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 16th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 12th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 9th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - September 5th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - September 2nd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 29th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 26th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 22nd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 19th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 15th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 12th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 8th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - August 5th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - August 1st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 29th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 25th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 22nd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 18th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 15th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 11th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 8th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - July 4th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - July 1st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 27th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 24th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 20th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 17th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 13th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 10th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - June 6th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - June 3rd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 31st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 28th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 24th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 21st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 17th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 14th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 10th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - May 7th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - May 3rd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 29th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 26th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 22nd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 18th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 15th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 11th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 8th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - April 4th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - April 1st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 28th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 25th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 21st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 18th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 14th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 11th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - March 7th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - March 4th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 28th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 25th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 21st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 18th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 14th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 11th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - February 7th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - February 4th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 31st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 28th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 24th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 21st, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 17th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 13th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 10th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - January 6th, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - January 3rd, 2019
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 30th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 27th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 23rd, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 20th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 16th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 13th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 9th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - December 6th, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to walk through Wall of Pain without being slowed.
+  - December 2nd, 2018
+    * Wall of Pain
+      * Bug Fix: Fixed a bug where enemies were able to dash through Wall of Pain.
+  - November 

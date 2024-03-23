@@ -1,0 +1,258 @@
+**Games**
+
+* Universe
+  * **League of Legends**
+    - •
+    - **Teamfight Tactics**
+    - •
+    - **Legends of Runeterra**
+  * **Image**
+  * **Xerath**
+
+**Universe**
+
+* •
+* League of Legends
+  + **Gameplay**
+    - **Collection**
+    - **Audio**
+    - **Patch history**
+    - **Past versions**
+  + **Xerath**
+    - **Release date**: 2011-10-05
+    - **Last changed**: V13.22
+    - **Classes(es)**: Artillery, Legacy, Mage
+    - **Position(s)**: Middle, Support
+    - **Resource**: Mana
+    - **Range type**: Ranged
+    - **Adaptive type**: Magical
+    - **Store price**: 1350
+    |
+    | 585
+    | Crafting
+    - +
+    - 810
+  + **Ratings**
+    - **Damage**: 3
+    - **Toughness**: 1
+    - **Control**: 2
+    - **Mobility**: 1
+    - **Utility**: 1
+  + **Style**: Difficulty
+  + **Champion Spotlight**
+    - **Xerath Champion Spotlight**
+  * **Image**
+  * **Xerath**
+  * **Gameplay**
+    * **Cosmetics**
+    * **Audio**
+    * **Development**
+    * **Patch History**
+    * **History**
+    * **Trivia**
+
+**Base statistics**
+
+| Xerath |
+| --- |
+| **Health**: 596 +106 |
+| **Mana**: 400 +22 |
+| **Health regen. (per 5s)**: 5.5 +0.55 |
+| **Mana regen. (per 5s)**: 6.85 +0.8 |
+| **Armor**: 22 +4.7 |
+| **Attack damage**: 55 +3 |
+| **Magic resist.**: 30 +1.3 |
+| **Crit. damage**: 175% |
+| **Move. speed**: 340 |
+| **Attack range**: 525 |
+| **Attack speed**: Base AS 0.658, Attack windup 20% |
+| **Bonus AS%**: +1.36 |
+| **Missile speed**: 2000 |
+| **Unit radius**: Gameplay radius 65, Selection radius 89, Pathing radius 35, Acq. radius 600 |
+
+**Special statistics**
+
+| ARAM | Nexus Blitz | One For All | URF | Ult Spellbook | Arena |
+| --- | --- | --- | --- | --- | --- |
+| Damage Dealt -7% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% | Damage Dealt +3% | Damage Received +0% |
+| Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% |
+| Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% |
+| Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% |
+| Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% |
+| Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% | Damage Dealt +0% | Damage Received +0% |
+
+**Abilities**
+
+* **Mana Surge**
+  + **STATIC**
+  + **COOLDOWN**: 16 seconds
+  + **Innate**: Periodically, Xerath empowers his next basic attack to restore 30 − 195 (based on level) mana, doubled to 60 − 390 (based on level) against enemy champions. Mana Surge's cooldown is reduced by 2.5 seconds whenever Xerath kills an enemy. Mana Surge does not trigger if Xerath would restore above his maximum mana.
+  + **Details**
+    * Map-Specific Differences
+      + Arena differences: Passive damage to plants changed to 2, Damage Dealt -7%, Damage Received +0%.
+    * Targeting input: Passive
+    * Counters: Parries, Missing, Mana Surge triggers against structures.
+      + Mana Surge will trigger even if the attack is blocked.
+      + The empowered attack will not trigger against structures.
+    * Pending for test: Mana Surge's interactions with dodging, and blinding effects.
+
+* **Arcanopulse**
+  + **COST**: 80 / 90 / 100 / 110 / 120 mana
+  + **COOLDOWN**: 9 / 8 / 7 / 6 / 5 seconds
+  + **CAST TIME**: none
+  + **RANGE**: 700 − 1450 (based on channel time)
+  + **WIDTH**: 140
+  + **Active**: Xerath charges while being slowed by 0% − 40% (based on channel time) for up to 3 seconds, increasing Arcanopulse's range over the first 1.5 to 1.75 seconds of the channel. Arcanopulse can be recast within the duration. If the charge is interrupted or completes without reactivation, Arcanopulse is cancelled and refunds half the mana cost.
+  + **Mana Refunded**: 40 / 45 / 50 / 55 / 60
+  + **Recast**: After a 0.528 seconds delay, Xerath fires a beam of energy in a line in the target direction that deals magic damage to enemies hit.
+  + **Magic Damage**: 70 / 110 / 150 / 190 / 230 (+ 85% AP)
+  + **Details**
+    * Map-Specific Differences
+      + Arena differences: Passive damage to plants changed to 2, Damage Dealt -7%, Damage Received +0%.
+    * Targeting input: Direction
+    * Damage type: Magic
+    * Counters: Spell shield, Projectile, Disruption, Blocked.
+      + The onset of Arcanopulse's self-slow and first range increase is at a random interval of 0 to 0.25 seconds. The real time to maximum self-slow and range is thus 1.5 to 1.75 seconds.
+      + The rectangle hitbox's minimum range is 0, right through Xerath's center.
+      + Arcanopulse will not fire and deal damage if Xerath dies during the 0.528 seconds recast delay.
+      + (bug)
+
+* **Eye of Destruction**
+  + **COST**: 80 / 90 / 100 / 110 / 120 mana
+  + **COOLDOWN**: 14 / 13 / 12 / 11 / 10 seconds
+  + **CAST TIME**: 0.25 seconds
+  + **TARGET RANGE**: 1000
+  + **EFFECT RADIUS**: 275 / 125 / 250
+  + **Active**: Xerath casts down a blast of arcane energy that strikes the target location after 0.528 seconds, briefly granting sight of the area and dealing magic damage to enemies hit and slowing them by 25% for 2.5 seconds. Enemies in the epicenter take 66.7% increased damage and are slowed by a greater amount, decaying to 25% over the duration.
+  + **Increased Damage**: 100.02 / 158.365 / 216.71 / 275.055 / 333.4
+  + **Increased Slow**: 60 / 65 / 70 / 75 / 80%
+  + **Details**
+    * Map-Specific Differences
+      + Arena differences: Base damage changed to 100 / 140 / 180 / 220 / 260, Base slow changed to 40%, Enhanced slow is unchanged.
+    * Targeting input: Location
+    * Damage type: Magic
+    * Counters: None
+      + Xerath's location gets revealed to the enemy (400 radius for 4.5 seconds) if Eye of Destruction's cast location is within 100 units of a valid enemy at the start of the cast time due to something related to targeting types.
+      + (bug) Eye of Destruction's targeting indicator appears on the player's minimap, despite the ability not having the longer range of others with this quality.
+      + Eye of Destruction will not fire and deal damage if Xerath dies during the 0.25 seconds cast time.
+      + (bug)
+
+* **Shocking Orb**
+  + **COST**: 60 / 65 / 70 / 75 / 80 mana
+  + **COOLDOWN**: 13 / 12.5 / 12 / 11.5 / 11 seconds
+  + **CAST TIME**: 0.25 seconds
+  + **RANGE**: 1125
+  + **WIDTH**: 120
+  + **SPEED**: 1400
+  + **Active**: Xerath fires an orb of energy in the target direction that deals magic damage to the first enemy hit and stuns them for 0.75 − 2.25 (based on orb travel distance) seconds.
+  + **Magic Damage**: 80 / 110 / 140 / 170 / 200 (+ 45% AP)
+  + **Details**
+    * Map-Specific Differences
+      + Arena differences: Minimum stun duration changed to 1.25 seconds, maximum stun duration changed to 2.5 seconds, cooldown changed to 11 / 10.5 / 10 / 9.5 / 9 seconds.
+    * Targeting input: Direction
+    * Damage type: Magic
+    * Counters: None
+      + This ability casts from wherever the caster is at the end of the cast time.
+
+* **Rite of the Arcane**
+  + **COST**: 100 mana
+  + **COOLDOWN**: 130 / 115 / 100 seconds
+  + **CAST TIME**: none
+  + **TARGET RANGE**: 5000
+  + **EFFECT RADIUS**: 200
+  + **Active**: Xerath channels for up to 10 seconds, gaining the ability to recast Rite of the Arcane multiple times after 0.5 seconds within the duration. If Rite of the Arcane ends without any of the recasts being used, half of its cooldown is refunded.
+  + **Number of Recasts**: 4 / 5 / 6
+  + **Recast - Arcane Barrage**: Xerath catapults an arcane missile that strikes the target location after a 0.627 seconds delay, briefly granting sight of the area and dealing magic damage to enemies hit. Each cast has a static cooldown of 0.5 seconds.
+  + **Magic Damage**: 180 / 230 / 280 (+ 40% AP)
+  + **Total Magic Damage**: 720 / 1150 / 1680 (+ 160 / 200 / 240% AP)
+  + **Details**
+    * Map-Specific Differences
+      + Arena differences: Base damage changed to 85 / 120 / 155, Total base damage changed to 340 / 600 / 930.
+    * Targeting input: Auto / Location
+    * Damage type: Magic
+    * Counters: None
+      + Each cast counts as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+      + Arcane Barrage will not apply its increased damage per stack to the cast that granted the stack. Only successive casts of the ability will benefit from the damage increase.
+      + A circular indicator will be displayed at the target location to signify that the area will be blasted.
+      + A circle indicating the ability's maximum range forms on the map over 1 second (starting small and rapidly expanding to the maximum range over the delay) for the channel's duration.
+      + The maximum-range indicator is visible to both allies and enemies and is color coded for friendly (blue) or hostile (red).
+      + Rite of the Arcane uses a barrage system, so that it can be recast multiple times within a given period at no additional cost.
+      + Xerath will turn to face toward the direction of the target location after using a recast.
+      + Xerath gains a wider field of view during Rite of the Arcane.
+      + Xerath can use Dark Passage while channeling.
+      + The following table refers for interactions while Xerath is channeling:
+        * Type: Channel, Attacking, Interrupts, Abilities: Disabled, Movement: Disabled for the first 1.25 seconds, otherwise, interrupts, Items: Usable, Spells: Usable.
+
+**Champion skins**
+
+* [Original](https://i.imgur.com/6a9gwNm.png)
+* [Runeborn](https://i.imgur.com/67Yv8T7.png)
+* [Battlecast](https://i.imgur.com/6P8gPZg.png)
+* [Scorched Earth](https://i.imgur.com/4i4wWYL.png)
+* [Guardian of the Sands](https://i.imgur.com/24l3dZA.png)
+* [Dark Star](https://i.imgur.com/4ZkvAxO.png)
+* [New Animations/Recall](https://i.imgur.com/1XEbE6G.png)
+* [Chromas](https://i.imgur.com/D6H71Jj.png)
+* [Amethyst](https://i.imgur.com/a6jKfH3.png)
+* [Citrine](https://i.imgur.com/6Pw3udN.png)
+* [Emerald](https://i.imgur.com/53vJCyR.png)
+* [Obsidian](https://i.imgur.com/7QS8z1a.png)
+* [Pearl](https://i.imgur.com/7QS8z1a.png)
+* [Rose Quartz](https://i.imgur.com/7QS8z1a.png)
+* [Ruby](https://i.imgur.com/7QS8z1a.png)
+* [Sapphire](https://i.imgur.com/7QS8z1a.png)
+* [Astronaut](https://i.imgur.com/18Yw0Oj.png)
+* [Amethyst](https://i.imgur.com/3jG34hh.png)
+* [Catseye](https://i.imgur.com/6nYoN95.png)
+* [Obsidian](https://i.imgur.com/6nYoN95.png)
+* [Rose Quartz](https://i.imgur.com/6nYoN95.png)
+* [Ruby](https://i.imgur.com/6nYoN95.png)
+* [Sandstone](https://i.imgur.com/6nYoN95.png)
+* [Sapphire](https://i.imgur.com/6nYoN95.png)
+* [Turquoise](https://i.imgur.com/6nYoN95.png)
+
+**Patch history**
+
+| V13.22 |
+| --- |
+| **General** |
+| - The two basic attack animations now have a 50% chance to play instead of 75% for the first and 25% for the second. |
+| **Stats** |
+| + Base attack speed increased to 0.658 from 0.625. |
+| + Attack windup reduced to 20% from 25.074%. |
+| **Rite of the Arcane** |
+| + Bug Fix: Stacking damage buff is now properly applied to the last recast. |
+| + Number of recasts increased to 4 / 5 / 6 from 3 / 4 / 5. |
+| + Base damage reduced to 180 / 230 / 280 from 200 / 250 / 300. |
+| + AP ratio reduced to 40% AP from 45%. |
+| + New Effect: Hitting at least one enemy champion grants a stack of Arcane Perfection during the channel, stacking up to 4 / 5 / 6 times. Each stack increases Arcane Barrage's damage by 20 / 25 / 30 (+ 5% AP). |
+| **Arcanopulse** |
+| + New Effect: Now triggers against structures. |
+| + Cooldown increased to 16 seconds from 12. |
+| + New Effect: Cooldown is now reduced by 2 seconds per unit killed. |
+| **Eye of Destruction** |
+| + New Effect: Hitting at least one enemy champion grants a stack of Arcane Perfection during the channel, stacking up to 4 / 5 / 6 times. Each stack increases Eye of Destruction's slow by 5%. |
+| + Base damage reduced to 60 / 95 / 130 / 165 / 200 from 60 / 90 / 120 / 150 / 180. |
+| + Maximum base damage reduced to 100.02 / 158.365 / 216.71 / 275.055 / 333.4 from 100.02 / 150.03 / 200.04 / 250.05 / 300.06. |
+| + Increased Damage: 100.02 / 158.365 / 216.71 / 275.055 / 333.4 from 100.02 / 150.03 / 200.04 / 250.05 / 300.06. |
+| + Increased Slow: 60 / 65 / 70 / 75 / 80% from 40 / 45 / 50 / 55 / 60%. |
+| **Shocking Orb** |
+| + Minimum stun duration changed to 1.25 seconds from 1 second. |
+| + Maximum stun duration changed to 2.5 seconds from 2 seconds. |
+| + Cooldown changed to 11 / 10.5 / 10 / 9.5 / 9 seconds from 13 / 12.5 / 12 / 11.5 / 11 seconds. |
+| **Mana Surge** |
+| + Cooldown refund increased to 2.5 seconds from 2 seconds. |
+| + No longer triggers if Xerath would restore above his maximum mana. |
+| + Bug Fix: Now properly triggers against structures. |
+| **New Effects** |
+| + Xerath's body quickly becomes unstable and overly shiny, just to blow up a moment later, much like a nuclear-powered machine when he dies. |
+| + The icon for Xerath's ability, Arcanopulse, is slightly similar to that of the Season 3 mastery Blast. |
+| + Xerath's dance is a reference to industrial dancing, which is evident in the song Pong by Eisenfunk. |
+| + Xerath himself can be seen when he performs his taunt. As he disarms the parts of his sarcophagus, a person made of pure energy or electricity can be briefly seen. |
+| + When he dies, this "person" disappears, what remains on the ground are the shattered remains of his sarcophagus. |
+| + Some speculate that Xerath is ambidextrous as he uses both left and right hands for different attacks and abilities, unlike most champions who almost always use their dominant hand (usually their right one). |
+| + Xerath is, along with Blitzcrank, Caitlyn, Lissandra, Rumble, Sion, Varus, Vi, and Ziggs, one of the few champions that can apply crowd control on themselves. |
+| + Xerath's ethereal form imprisoned in a human-shaped sarcophagus also resembles Battle Realms' Master Warlock, consisting of an ethereal warlock inside another warlock's skeletal remains. |
+| + Xerath features as the Ancient Ascendant in the Ascension featured game mode. |
+| **References** |
+| ↑ Xerath's profile page at LeagueOfLegends.com |

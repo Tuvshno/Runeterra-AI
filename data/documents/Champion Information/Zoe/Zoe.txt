@@ -1,0 +1,163 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Zoe
+         **Format:**
+         ```
+         ## Zoe
+         
+         ### Universe
+         
+         •
+         
+         ### Gameplay
+         
+         - Cosmetics
+         - Audio
+         - Development
+         - Patch History
+         - History
+         - Trivia
+         
+         ### Base statistics
+         
+         - Health: 630 (+106)
+         - Mana: 425 (+25)
+         - Health regeneration (per 5s): 7.5 (+0.6)
+         - Mana regeneration (per 5s): 8
+         - Armor: 21 (+4.7)
+         - Attack damage: 58 (+3.3)
+         - Magic resist.: 30 (+1.3)
+         - Crit. damage: 175%
+         - Move. speed: 340
+         - Attack range: 550
+         - Attack speed: Base AS: 0.658, Attack windup: 16.146%
+         - Bonus AS: +2.5%
+         - Unit radius: Gameplay radius: 65, Selection radius: 120, Pathing radius: 35, Acq. radius: 550
+         
+         ### Special statistics
+         
+         - ARAM: Damage Dealt: +10%, Damage Received: -5%
+         - Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+         - One For All: Damage Dealt: +10%, Damage Received: -10%
+         - URF: Damage Dealt: +0%, Damage Received: +0%
+         - Ult Spellbook: Damage Dealt: +10%, Damage Received: -5%
+         - Arena: Damage Dealt: +10%, Damage Received: -5%
+         
+         ### Abilities
+         
+         [
+         ]
+         - More Sparkles!: Innate, After casting an ability, Zoe's next basic attack or Spell Thief bolt within 5 seconds deals 16 − 130 (based on level) (± 20% AP) bonus magic damage.
+         - Paddle Star: COST: 40 / 45 / 50 / 55 / 60 Mana, COOLDOWN: 8.5 / 8 / 7.5 / 7 / 6.5 / 6 / 5.5 / 5 / 4.5 seconds, CAST TIME: 0.25 seconds, RANGE: 800, EFFECT RADIUS: 180, WIDTH: 100 / 140, SPEED: 1200 / 2500, Active: Zoe shoots a star in the target direction that explodes upon hitting an enemy, dealing magic damage to nearby enemies hit, reduced to 80% for enemies hit beyond the first. The total damage is increased by 0% − 150% (based on distance traveled).
+         
+         ### Paddle Star (Recast)
+         
+         - Zoe redirects the star in the target path, empowering it with increased speed and radius, and resetting its damage modifier on cast. The redirected star can travel until it reaches 800-units outbound from Zoe.
+         
+         ### Spell Thief
+         
+         - Passive - Wheeeee: Whenever Zoe casts Spell Thief or a summoner spell, she gains bonus movement speed for a duration, and summons three bolts that orbit her for the next 10 seconds.
+         - Bonus Movement Speed: 30 / 40 / 50 / 60 / 70%, Bonus Movement Speed Duration: 2 / 2.5 / 3 / 3.5 / 4 seconds.
+         - Minions that can drop Spell Shards are marked with a tied cosmic balloon that floats above them.
+         - Minions do not drop a shard for Teleport.
+         - Zoe utilizes an attack-like animation whenever one of the bubbles hurls itself at an enemy, making it look as if she can attack while moving.
+         
+         ### Spell Thief (Shard Collection)
+         
+         - Zoe can collect a Spell Shard for 60 seconds, and replace it by moving directly onto another Spell Shard.
+         
+         ### Spell Thief (Mimic)
+         
+         - Zoe mimics the details of the mimicked active.
+         
+         ### Spell Thief (Map-Specific Differences)
+         
+         - Arena differences: Now drops Spell Shards for the following: Banner of Command, Blade Waltz, Castle, Defensive Maneuvers, Die Another Day, Evocation, Feel the Burn, Flee, Frozen Foundations, Now You See Me, Oathsworn, Orbital Laser, Vanish, and Warmup Routine.
+         
+         ### Sleepy Trouble Bubble
+         
+         
+         - COST: 80 Mana, COOLDOWN: 16 / 15 / 14 / 13 / 12 seconds, CAST TIME: 0.25 seconds, RANGE: 800 + 50, EFFECT RADIUS: 250, WIDTH: 100 / 200, SPEED: 1850, Active: Zoe kicks a bubble in the target direction that bursts upon the first enemy hit, otherwise lingering at maximum range over 1 second, then becoming a trap for 5 seconds that bursts upon contact with an enemy. The bubble can move through terrain only once, but travels the entire distance as bonus range, and will fall short if it would enter terrain again.
+         
+         ### Sleepy Trouble Bubble (Sleep)
+         
+         - The burst deals magic damage to the target and inflicts them with drowsy for 1.4 seconds, which gradually slows them until they fall asleep for 2.25 seconds. While the target is asleep, they are inflicted with 30% magic resistance reduction.
+         
+         ### Sleepy Trouble Bubble (Triggered Damage)
+         
+         - The next instance of non-persistent damage that the sleeping target takes from champions, large monsters, or structures consumes the debuff to deal bonus true damage equal to the post-mitigation damage dealt, capped at Sleepy Trouble Bubble's damage. The bonus damage is dealt before the triggering damage.
+         - Bonus Damage Cap: 70 / 110 / 150 / 190 / 230 (± 45% AP).
+         
+         ### Map-Specific Differences (Sleepy Trouble Bubble)
+         
+         - Sleepy Trouble Bubble can interact with player-generated terrain.
+         
+         - Sleepy Trouble Bubble's range will be extended if Zoe casts it right before blinking back from Portal Jump.
+         
+         - At the end of the path of the initial missile, before continuing with the short bounce, Sleepy Trouble Bubble checks for targets in a 100 radius to immediately collide with.
+         
+         ### Sleepy Trouble Bubble (Lollipop)
+         
+         - This "lollipop" is one of only a few that is larger than the ability's missile width.
+         
+         
+         ### Portal Jump
+         
+         
+         - COST: 40 Mana, COOLDOWN: 11 / 8 / 5 seconds, CAST TIME: 0.25 seconds, RANGE: 575, Active: Zoe blinks in the target direction and remains there for 0.75 seconds, during which she sets her movement speed to a static 0 and has unobstructed vision. Afterwards, she blinks back to her casting position.
+         
+         ### Portal Jump (Movement Restriction)
+         
+         - Zoe is unable to basic attack and cast her abilities and movement spells for 0.75 seconds after casting Portal Jump and for 0.5 seconds after blinking back.
+         
+         ### Champion skins
+         
+         [
+         ]
+         
+         ### Original
+         
+         
+         - View in 3D, 975, 21.11.2017, Erica Lindbeck, Jessica 'OwleyCat' Oyhenart
+         
+         
+         ### Cyber Pop
+         
+         
+         - View in 3D, 1350, 21.11.2017, Erica Lindbeck, Zeen Chin, Jessica 'OwleyCat' Oyhenart
+         
+         
+         ### Pool Party
+         
+         
+         - View in 3D, 1350, 02.08.2018, Who let this ageless, cosmic child in here unattended? This a public pool, not some sort of ageless, cosmic daycare., Bo 'chenbowow' Chen
+         
+         
+         ### Star Guardian
+         
+         
+         - View in 3D, 1350, 12.09.2019, A member of the ancient, first group of Star Guardians, Zoe's heart desired not love, but chaos -- twisting her newfound power into a malignant expression of cosmic madness. After numberless eons of hunting the First Star's chosen, she has finally come to Valoran City, hoping to destroy the latest generation of Guardians as she has countless others., Erica Lindbeck, Jennifer Wuestling, Star Guardian Season 3
+         
+         
+         ### Transforming
+         
+         
+         - View in 3D, 1350, 09.07.2020, A promising student of magic at the Arcanist Academy, Zoe has ignored the advice of her headmaster and embarked upon a grand adventure the likes of which she is utterly unprepared for. Considering her penchant for sewing chaos wherever she goes, the world might be more unprepared than she is., Erica Lindbeck, Zuoan Dong, Kudos Productions
+         
+         
+         ### Arcanists
+         
+         
+         - View in 3D, 1350, 12.05.2022, Honoring Scout's winning performance as Zoe during the 2021 World Championship., Erica Lindbeck, Bo 'chenbowow' Chen
+         
+         
+         ### Winterblessed
+         
+         
+         - View in 3D, 1350, 08.12.2022, An impatient Warden Zoe strode past the waiting Sage to make her plea. Everyone relied on her flock and crops, and her harvest would be unequaled with the Aurora's blessings. Polaris considered the three leaders' wishes, and with a wave of her hand, conjured the Aurora into two shapes: a sinewy mass of teeth and fur, and a tireless, smiling soldier., Erica Lindbeck, Unknown artist
+
+         ```
+         ```

@@ -1,0 +1,223 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champion: Katarina
+       + Image
+       * Gameplay
+          - Collection
+          - Audio
+          - Patch history
+          - Past versions
+       * Champion Details
+          + Release date: 2009-09-19
+          + Last changed: V14.2
+          + Class(es): Assassin, Legacy, Assassin, Mage
+          + Position(s): Middle
+          + Resource: Manaless
+          + Range type: Melee
+          + Adaptive type: Magic
+          + Store price: 3150
+        + Ratings
+          - Damage: 3
+          - Toughness: 1
+          - Control: 1
+          - Mobility: 3
+          - Utility: 1
+        + Style: Difficulty: Champion Spotlight
+       * Champion Spotlight
+
+**Image**
+
+* Katarina
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Champion Details**
+
+* Release date: 2009-09-19
+* Last changed: V14.2
+* Class(es): Assassin, Legacy, Assassin, Mage
+* Position(s): Middle
+* Resource: Manaless
+* Range type: Melee
+* Adaptive type: Magic
+* Store price: 3150
+
+| Ratings |
+| --- |
+| Damage: 3 |
+| Toughness: 1 |
+| Control: 1 |
+| Mobility: 3 |
+| Utility: 1 |
+
+**Style:** Difficulty: Champion Spotlight
+
+---
+
+* Katarina Champion Spotlight
+
+**Champion:** Katarina
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+---
+
+**Base statistics**
+
+* Health: 672 + 108
+* Resource: N/A
+* Health regen. (per 5s): 7.5 + 0.7
+* Resource regen.: N/A
+* Armor: 28 + 4.7
+* Attack damage: 58 + 3.2
+* Magic resist.: 32 + 2.05
+* Crit. damage: 175%
+* Move. speed: 335
+* Attack range: 125
+* Attack speed: Base AS: 0.658, Attack windup: 15%
+* AS ratio: N/A
+* Bonus AS: +2.74%
+* Unit radius: Gameplay radius: 65, Selection radius: 120, Pathing radius: 35, Acq. radius: 400
+
+---
+
+**Special statistics**
+
+* ARAM: N/A
+* Nexus Blitz: N/A
+* One For All: N/A
+* URF: N/A
+* Ult Spellbook: N/A
+* Arena: Damage Dealt: +0%, Damage Received: +0%
+* Ability Haste: +10
+* Tenacity & Slow Resist: +20%
+* Damage Dealt: +0%, Damage Received: -5%, Damage Dealt: +5%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +0%, Damage Received: +0%
+
+---
+
+**Abilities**
+
+* [Voracity]
+  + Effect radius: 340
+  + Innate: Scoring a champion takedown within 3 seconds of damaging them reduces the current cooldowns of Katarina's abilities by 15 seconds.
+  + Innate - Sinister Steel: Whenever Katarina retrieves a Dagger, she slashes around to deal 68 - 240 (based on level) (+ 60% bonus AD) (+ 70 / 80 / 90 / 100% based on level) AP magic damage to nearby enemies and against champions, and reduces Shunpo's current cooldown by 78 / 84 / 90 / 96% (based on level) of its total cooldown. Daggers grant sight of their radius and will disappear after being on the ground for 4 seconds.
+  + Map-Specific Differences: Arena differences
+* [Bouncing Blade]
+  + Cooldown: 11 / 10 / 9 / 8 / 7
+  + Cast time: 0.25 seconds
+  + Target range: 625
+  + Effect radius: 450
+  + Active: Katarina throws a Dagger at the target enemy that deals magic damage and can bounce to up to two additional nearby enemies. Magic Damage: 80 / 110 / 140 / 170 / 200 (+ 35% AP). The Dagger then lands onto the ground after 1 second, about 350 units opposite from where it struck the first target. The target does not have to be visible for the Dagger to bounce to them.
+  + Map-Specific Differences: Map-Specific Differences - Arena differences
+* [Preparation]
+  + Cooldown: 15 / 14 / 13 / 12 / 11
+  + Cast time: None
+  + Active: Katarina tosses a Dagger into the air above her current location and gains bonus movement speed that decays until it lands after 1.25 seconds, becoming ghosted for the same duration. Bonus Movement speed: 50 / 60 / 70 / 80 / 90%.
+* [Shunpo]
+  + Cooldown: 14 / 12.5 / 11 / 9.5 / 8
+  + Cast time: None
+  + Target range: 725 / 775
+  + Active: Katarina blinks to the target location around the target unit or Dagger, dealing magic damage to the nearest enemy in range and applying on-hit effects at 100% effectiveness. Magic Damage: 20 / 35 / 50 / 65 / 80 (+ 40% AD) (+ 25% AP). Shunpo resets Katarina's basic attack timer. Upon blinking, Katarina enters a 0.15-second cast time.
+  + Map-Specific Differences: Map-Specific Differences - Targeting input, Unit Target out-of-range override, Walk in range of the target, Damage type, Type, Sub-type, Minion Aggro, Spell damage, Magic, Drawn, Counters, Spell shield, Parries, Grounded, Blocked, See Notes, Disabled, Shunpo can be used on any unit except structures and wards, Shunpo can be cast on Daggers that haven't landed yet, Shunpo prioritizes damaging enemy champions within range at the targetted location, If Katarina Shunpos on an ally, any attack command she is given during its cast time will be negated, and every movement command will be delayed by 1 second (starting at the start of the cast time), Shunpo should be an instant ability but it has extra logic to consider which makes it have a short cast time, Flash can be used during cast time but it will not cancel the blink.
+* [Death Lotus]
+  + Cooldown: 90 / 60 / 45
+  + Cast time: None
+  + Effect radius: 550
+  + Speed: 2400
+  + Active: Katarina channels for up to 2.5 seconds, rapidly throwing a dagger every 0.166 seconds to up to 3 of the closest nearby enemy champions, revealing herself in the process. Each dagger deals physical damage and magic damage, applies on-attack and on-hit (without applying life steal) effects, and inflicts Grievous Wounds on the target for 3 seconds. Physical Damage Per Dagger: 16% (+ 50% per 100% bonus attack speed) bonus AD. Maximum Physical Damage: 240% (+ 750% per 100% bonus attack speed) bonus AD. On-Attack/On-Hit Effectiveness: 30 / 35 / 40%. An enemy champion within 500 units is required to cast this ability. The target does not have to be visible to be hit by this ability.
+
+---
+
+**Map-Specific Differences**
+
+* Arena differences: Map-Specific Differences - Bonus AD ratio changed to 80% bonus AD, Passive cooldown reduction changed to 20 seconds.
+
+---
+
+**Champion skins**
+
+* Original
+* Mercenary
+* Red Card
+* Bilgewater
+* Bilgewater: Burning Tides
+* Kitty Cat
+* High Command
+* Sandstorm
+* Guardian of the Sands
+* Slay Belle
+* Soccer Cup
+* Battle Academia
+* Battle Academia: Citrine, Formal, Obsidian, Pearl, Ruby, Sapphire, Tanzanite, Turquoise, Blood Moon
+* Battle Queen
+* High Noon
+* Faerie Court
+* Faerie Court: Aquamarine, Citrine, Emerald, Obsidian, Rose Quartz, Ruby, Sapphire, Tanzanite, Winsome, Prestige Faerie Court
+* Special
+* Don't let the butterflies fool you: otherworldly elegance may be Katarina's game, but that gala-ready look is sharper than her knives. Fashion is a metamorphosis, after all. Try to keep up.
+* This skin is a variant of Faerie Court. Store variants are discounted for multiple purchases.
+
+---
+
+**Patch history**
+
+* For the expanded patch notes, see here.
+* V13.15: Shunpo - Bug Fix: Casting the ability now properly breaks stealth.
+* V13.7: Voracity - AP ratio increased to 70 / 80 / 90 / 100% (based on level) AP from 55 / 66 / 77 / 88% (based on level) AP. Bouncing Blade - Base damage increased to 80 / 110 / 140 / 170 / 200 from 75 / 105 / 135 / 165 / 195. AP ratio increased to 35% AP from 30% AP. Death Lotus - On-hit modifier increased to 30 / 35 / 40% from 28 / 33 / 38%. Physical damage per dagger increased to (18% × (1 + 312.5% per 100% bonus attack speed) bonus AD) from (18% × (1 + 166.67% per 100% bonus attack speed) bonus AD). Physical damage per dagger formula rewritten in dependency on bonus attack speed: New: 18% (± 30% per 100% bonus attack speed) bonus AD, Old: 18% (± 8.424% per 100% bonus attack speed) bonus AD. Maximum total damage over 2.5 seconds, for comparison: New: 375 / 562.5 / 750 (+ 285% AP) magic damage plus 240% (± 342.84% per 100% bonus attack speed) bonus AD physical damage plus 450 / 525 / 600% on-hit damage, Old: 375 / 562.5 / 750 (+ 285% AP) magic damage plus 366.336% (± 126.336% per 100% bonus attack speed) bonus AD physical damage plus 375 / 450 / 525% on-hit damage.
+* V12.14: General - Bug Fix: Knocked up/stunned animation is now correctly played.
+* V12.12: - June 30th Hotfix - Voracity - AP ratio increased to 55 / 66 / 77 / 88% (based on level) AP from 55 / 70 / 85 / 100% (based on level) AP. Bouncing Blade - Base damage increased to 75 / 105 / 135 / 165 / 195 from 60 / 85 / 110 / 135 / 160. AP ratio increased to 30% AP from 25% AP. Death Lotus - On-hit modifier increased to 28 / 33 / 38% from 25 / 30 / 35%. Physical damage per dagger changed to (16% × (1 + 142.85% per 100% bonus attack speed) bonus AD) from (16% × (1 + 80% total attack speed)) and is no longer affected by attack speed reductions. Physical damage per dagger formula rewritten in dependency on bonus attack speed: New: 16% (± 22.856% per 100% bonus attack speed) bonus AD, Old: 24.4224% (± 8.4224% per 100% bonus attack speed) bonus AD. This becomes even at 58.3527% bonus AS, including bonus AS from stat growth per level. Maximum total damage over 2.5 seconds, for comparison: New: 375 / 562.5 / 750 (+ 285% AP) magic damage plus 240% (± 342.84% per 100% bonus attack speed) bonus AD physical damage plus 420 / 495 / 570% on-hit damage, Old: 375 / 562.5 / 750 (+ 285% AP) magic damage plus 366.336% (± 126.336% per 100% bonus attack speed) bonus AD physical damage plus 375 / 450 / 525% on-hit damage.
+* V12.11: Death Lotus - Grievous Wounds strength reduced to 60% from 40%.
+* V11.10: Stats - Base movement speed reduced to 335 from 340.
+* V11.6: Death Lotus - New Effect: Now triggers effects that are triggered by DoT AoE abilities.
+* V11.4: Death Lotus - On-hit modifier increased to 25 / 30 / 35% from 25% at all ranks. Bonus AD ratio per dagger increased to 16% bonus AD from 15%. Attack speed ratio per dagger increased to 12.8% total attack speed from 9.9%. Bug Fix: Tooltip now properly states that the ability also triggers on-attack effects.
+* V11.2: Death Lotus - Bug Fix: Now properly modifies damage dealt by Kraken Slayer's Bring It Down.
+* V11.1: Stats - Base armor increased to 28.88 from 26.88. Base magic resistance reduced to 32.1 from 32.1.
+* V10.24: Death Lotus - Bug Fix: No longer stacks Grievous Wounds effects.
+* V10.23: Voracity - New Effect: Daggers now apply on-hit effects against all champions struck. Shunpo - New Effect: Now applies on-hit effects. Death Lotus - New Effect: Each dagger now applies on-hit effects at 25% effectiveness. Removed: No longer deals 22% bonus AD magic damage per dagger. New Effect: Now deals 15% bonus AD (± 9.9% attack speed) physical damage per dagger.
+* V10.20: Voracity - Bonus AD ratio reduced to 75% bonus AD from 100%.
+* V10.10: Voracity - AP ratio reduced to 55 / 66 / 77 / 88% (based on level) AP from 55 / 70 / 85 / 100% (based on level) AP.
+* V10.3: Sinister Steel - Bug Fix: Daggers no longer gain 2 stacks of Conqueror per target hit; now properly gains 2 stacks per cast. Shunpo - Bug Fix: No longer attempts to basic attack her last target after Shunpo, unless they're already in attack range.
+* V10.2: Shunpo - Bug Fix: Using it to kill a target no longer makes her unresponsive for a few moments.
+* V9.16: Shunpo - Bug Fix: If she drops a dagger near a wall and then casts Shunpo so that she can blink to the other side of the wall, she now properly gets a reset on the ability.
+* V9.15: Shunpo - Bug Fix: Now properly counts towards triggering Electrocute and Phase Rush and is usable in Mordekaiser's Realm of Death.
+* V9.14: Death Lotus - Healing reduction increased to 60% from 40%.
+* V9.6: Death Lotus - New Effect: Now triggers effects that are triggered by DoT AoE abilities.
+* V9.4: General - Bug Fix: Base skin and all of her other skins' SFX have been restored and are no longer quiet. Death Sworn Katarina - Bug Fix: Smoke VFX on her daggers during her Recall no longer appear below the ground.
+* V9.1: Slay Belle Katarina - Voracity - Bug Fix: No longer gets stuck in her recall animation if she uses Voracity right before beginning her recall.
+* V7.24b: Shunpo - Base damage reduced to 15 / 30 / 45 / 60 / 75 from 30 / 45 / 60 / 75 / 90.
+* V7.22: Stats - Base health increased to 590 from 510. Health growth increased to 82 from 83.
+* General - Bug Fix: Base skin and all of her other skins' SFX have been restored and are no longer quiet. Death Sworn Katarina - Bug Fix: Smoke VFX on her daggers during her Recall no longer appear below the ground.
+* V7.17: Slay Belle Katarina - Voracity - Bug Fix: No longer gets stuck in her recall animation if she uses Voracity right before beginning her recall.
+* V7.7: Shunpo - Cooldown increased to 14 / 12.5 / 11 / 9.5 / 8 seconds from 10 / 9.5 / 9 / 8.5 / 8 seconds.
+* V7.5: General - Bug Fix: Intermediate bot now has a keystone mastery.
+* V7.4: Stats - Base magic resistance reduced to 32.1 from 34.1.
+* V7.2: Shunpo - AD ratio reduced to 50% AD from 65% AD.
+* V6.24: Voracity - Base damage changed to 75 - 287 (based on level) from 75 - 285 (based on level).
+* Preparation - Bug Fix: If Katarina catches Preparation dagger at the end of Shunpo's cast time, the Preparation dagger's damage no longer follows her to Shunpo's location.
+* Shunpo - Bug Fix: If Katarina Shunpos to an ally or a dagger, Shunpo's damage now properly transfers to the nearest minion or jungle monster if no enemy champions are in range.
+* Death Lotus - Bug Fix: Icon no longer lights up while dead when enemies walk near her corpse.
+* V6.23: General - Bug Fix: Warring Kingdom Katarina's visual effects have been adjusted to re-add some of the flair lost in her pre-season update.
+* Shunpo - Movement commands are canceled if Shunpo targets a plant or enemy champion.
+* V6.22: General - New ability icons.
+* Stats - Base health increased to 590 from 510. Health growth reduced to 82 from 83. Base health regeneration increased to 7.5 from 4.5. Health regeneration growth increased to 0.7 from 0.55. Base armor increased to 27.88 from 26.88. Base magic resistance increased to 34.1 from 32.1. Base movement speed reduced to 340 from 345.
+* Voracity - New Effect - Flourish: Catching or picking up one of her fallen Daggers causes Katarina to flourish it, dealing 75 - 285 (based on level) 100% bonus AD) 55 / 70 / 85 / 100 (based on level) % AP) magic damage to nearby enemies, as well as refunding 78 / 84 / 90 / 96 (based on level) % of Shunpo's cooldown. Range: 340. Bouncing Blade - Cooldown changed to 11 / 10 / 9 / 8 / 7 seconds from 10 / 9.5 / 9 / 8.5 / 8 seconds. Base damage changed to 75 / 105 / 135 / 165 / 195 from 60 / 85 / 110 / 135 / 160. AP ratio reduced to 30% AP from 45% AP. Range reduced to 625 from 675. Targets hit reduced to 3 from 4. New Effect: After bouncing, the Dagger falls to the ground on the opposite side from where it struck the first target for 4 seconds, getting there in the same amount of time regardless of how many times it bounces. Removed: On-hit effect. Preparation - (new W) New Effect: Katarina tosses a Dagger up in the air and gains 50 / 60 / 70 / 80 / 90% movement speed that decays over 1.25 seconds. After a 1.25-second delay, the Dagger hits the ground. Cooldown: 15 / 14 / 13 / 12 / 11 seconds. Shunpo - Cooldown changed to 10 / 9.5 / 9 / 8.5 / 8 seconds from 12 / 10.5 / 9 / 8 / 7.5 seconds. Base damage reduced to 30 / 45 / 60 / 75 / 90 from 40 / 70 / 100 / 130 / 160. New Effect: Now scales with 65% AD. Range increased to 725 from 700. New Effect: Can target Daggers. New Effect: If she targets an ally or dagger, she will deal Shunpo's damage to the nearest enemy within a radius of her target. New Effect: Resets basic attack timer. Removed: 15% damage reduction. Removed: Targeting wards. Death Lotus - Ticks increased to 15 from 10. Duration unchanged at 2.5 seconds. Base damage per blade reduced to 25 / 37.5 / 50 + 19% AP from 35 / 55 / 75 + 37.5% bonus AD + 25% AP. Maximum potential damage to single target changed to 375 / 562.5 / 750 + 330% bonus AD + 285% AP from 350 / 550 / 750 + 375% bonus AD) + 250% AP. New Effect: Cannot be cancelled by movement and basic attack commands in the first and last 0.25 seconds of channeling. New Effect: Maximum range indicator visible to all players.

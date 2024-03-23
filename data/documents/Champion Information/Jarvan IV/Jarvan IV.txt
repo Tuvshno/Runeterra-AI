@@ -1,0 +1,106 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Jarvan IV
+
+**Jarvan IV**
+
+* Release date: 2011-03-01
+* Last changed: V14.5
+* Class(es): Diver, Legacy, Tank, Fighter
+* Position(s): Jungle
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Physical
+* Store price: 3150
+
+**Base statistics**
+
+| Statistic           | Value                   |
+|---------------------|-------------------------|
+| Health              | 640 + 104              |
+| Mana                | 300 + 55                |
+| Health regen. (per 5s)| 8                      |
+| Mana regen. (per 5s)| 6.5 + 0.45             |
+| Armor               | 36 + 5.2                 |
+| Attack damage       | 64 + 3                   |
+| Magic resist.       | 32 + 2.05                |
+| Crit. damage        | 175%                    |
+| Move. speed        | 340                     |
+| Attack range       | 175                     |
+| Attack speed        | 0.658                   |
+| Attack windup       | 17.544%                  |
+| AS ratio            | N/A                     |
+| Bonus AS            | +2.5%                    |
+| Unit radius         | Gameplay radius: 65       |
+| Selection radius   | 125                     |
+| Pathing radius      | 35                      |
+| Acq. radius        | 600                     |
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+
+**Abilities**
+
+* Martial Cadence
+* Dragon Strike
+* Golden Aegis
+* Demacian Standard
+* Cataclysm
+
+[**Martial Cadence**]
+
+* Passive: Jarvan IV's basic attacks are empowered to deal bonus physical damage equal to 6% of the target's current health, with a minimum threshold of 20 and capped at 400 against all targets.
+* This effect cannot occur on the same target more than once every few seconds.
+
+[**Dragon Strike**]
+
+* Cost: 45 / 50 / 55 / 60 / 65 Mana
+* Cooldown: 10 / 9 / 8 / 7 / 6
+* Cast time: 0.4
+* Range: 65-785
+* Collision radius: 180
+* Width: 136/300
+* Active: Jarvan IV extends his lance in the target direction, dealing physical damage to enemies hit and inflicting them with armor reduction for 3 seconds.
+* Physical Damage: 80 / 120 / 160 / 200 / 240 (+ 140% bonus AD)
+* Armor Reduction: 10 / 14 / 18 / 22 / 26% of target's armor
+
+[**Golden Aegis**]
+
+* Cost: 30 Mana
+* Cooldown: 9
+* Cast time: none
+* Effect radius: 600
+* Active: Jarvan IV slows all nearby enemies for 2 seconds and grants himself a shield for 4 seconds, increased by 1.3% of his maximum health for each enemy champion hit.
+* Shield Strength: 60 / 80 / 100 / 120 / 140 (+ 70% bonus AD)
+
+[**Demacian Standard**]
+
+* Cost: 55 Mana
+* Cooldown: 12 / 11.5 / 11 / 10.5 / 10
+* Cast time: none
+* Target range: 860
+* Effect radius: 200/1000/700
+* Passive: Jarvan IV gains bonus attack speed.
+* Bonus Attack Speed: 20 / 22.5 / 25 / 27.5 / 30%
+* Active: Jarvan IV throws a Demacian flag to the target location, dealing magic damage to enemies within the area.
+* Magic Damage: 80 / 120 / 160 / 200 / 240 (+ 80% AP)
+* The flag then remains for 8 seconds, granting sight of its surroundings and providing an aura that grants bonus attack speed equal to Demacian Standard's passive to Jarvan IV and all nearby allied champions.
+* Demacian Standard will cast at max range if cast beyond that.
+
+[**Cataclysm**]
+
+* Cost: 100 Mana
+* Cooldown: 120 / 105 / 90
+* Cast time: none
+* Target range: 650
+* Effect radius: 350/1700
+* Speed: Varies
+* Impassable perimeter: 255-445
+* Active: Jarvan IV leaps with displacement immunity to the target enemy champion's location over 0.35 seconds, dealing physical damage to all nearby enemies upon arrival.
+* Physical Damage: 200 / 325 / 450 (+ 180% bonus AD)
+* Upon impact, he creates a circle of impassable terrain that initially pulls units inside it. The terrain lasts for 3.5 seconds and grants sight of the area.
+* Cataclysm can be recast after 0.75 seconds while the terrain is active.
+* Recast: Jarvan IV destroys the terrain created by Cataclysm.

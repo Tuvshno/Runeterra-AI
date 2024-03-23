@@ -1,0 +1,518 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      **Xin Zhao**
+        **Gameplay**
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        **Base statistics**
+          * XinZhao
+          * Edit
+            * Health: 640 (+106)
+            * Mana: 274 (+55)
+            * Health regen. (per 5s): 8 (+0.7)
+            * Mana regen. (per 5s): 7.25 (+0.45)
+            * Armor: 35 (+4.7)
+            * Attack damage: 63 (+3)
+            * Magic resist.: 32 (+2.05)
+            * Crit. damage: 175%
+            * Move. speed: 345
+            * Attack range: 175
+            * Attack speed: Base AS: 0.645, Attack windup: 18.71%%, AS ratio: N/A, Bonus AS: +3.5%
+            * Unit radius: Gameplay radius: 65, Selection radius: 108, Pathing radius: 35, Acq. radius: 750
+        **Special statistics**
+          * ARAM: Damage Dealt: -5%, Damage Received: +0%
+          * Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+          * One For All: Damage Dealt: -5%, Damage Received: +5%
+          * URF: Damage Dealt: -3%, Damage Received: +2%
+          * Ult Spellbook: Damage Dealt: -5%, Damage Received: +0%
+          * Arena: Damage Dealt: -5%, Damage Received: +10%
+        **Abilities**
+          * Determination
+            * Innate: Xin Zhao's basic attacks and Wind Becomes Lightning strikes generate a stack of Determination, stacking up to 3 times. The third stack consumes them all to deal 15 / 30 / 45 / 60% (based on level) AD bonus physical damage and heal Xin Zhao for 3 / 3.5 / 4% (based on level) of his maximum health (+ 65% AP).
+            * Hide: Details, Info
+              * Targeting input: Passive
+              * Damage type: Type: Physical, Sub-type: Proc damage
+              * Procs: Parries, Missing
+              * The stack counter displays 1-3 rather than the usual 0-2, meaning that a count of 1 does not translate to having 1 stack.
+              * Wind Becomes Lightning's generates one stack per strike that hits at least one enemy.
+              * Stacks reset when Xin Zhao dies.
+              * Stacks of Determination will be gained even if the attack is blocked.
+              * PENDING FOR TEST: Determination's interaction with parrying effects (dodge, blind).
+              * Determination deals proc damage.
+              * Since it is a separate instance of damage when applied by basic attack or either of Wind Becomes Lightning's strikes, flat damage reduction that applies to both the main and bonus damage such as Amumu's Tantrum's passive will reduce each, for twice the reduction.
+              * The bonus damage cannot critically strike.
+              * When applied by a basic attack: The attack uses a unique animation. The bonus damage benefits from life steal.
+              * PENDING FOR TEST: It applies life steal specifically.
+              * When applied by either of Wind Becomes Lightning's strikes: Triggers against the closest target struck by the strike (equals first target to receive spell effects). Does not benefit from life steal, including not healing from Wind Becomes Lightning's 33% conversion for this bonus damage. Since proc damage is 'single target', Vamp will heal from 100% of the bonus damage.
+          * Three Talon Strike
+            * Cost: 30 Mana
+            * Cooldown: 7 / 6.5 / 6 / 5.5 / 5
+            * Cast time: none
+            * Active: Xin Zhao empowers his next three basic attacks within 5 seconds to each have an uncancellable windup, deal bonus physical damage, and reduce his other abilities' current cooldowns by 1 second. Each attack refreshes the duration.
+            * Bonus Physical Damage: 16 / 25 / 34 / 43 / 52 (+ 40% bonus AD)
+            * Total Bonus Physical Damage: 48 / 75 / 102 / 129 / 156 (+ 120% bonus AD)
+            * The third attack knocks up the target for 0.75 seconds.
+            * Three Talon Strike's bonus damage is affected by critical strike modifiers.
+            * Three Talon Strike resets Xin Zhao's basic attack timer.
+          * Hide: Details, Info
+            * Targeting input: Auto
+            * Damage type: Type: Physical, Sub-type: Spell damage
+            * Counters: Spell shield, Parries
+            * Blocked: Spell shield will only block the third attack. The enhanced attacks present input buffering during their wind-up animation (Xin Zhao cannot be issued any commands until after it ends).
+          * Wind Becomes Lightning
+            * Cost: 60 / 55 / 50 / 45 / 40 Mana
+            * Cooldown: 12 / 11 / 10 / 9 / 8
+            * Cast time: 0.5 seconds
+            * Range: 1000 / 940
+            * Effect radius: 275 / 125
+            * Width: 80
+            * Angle: 160º
+            * Speed: 6250
+            * Active: Xin Zhao slashes in an arc and, after the cast time, thrusts his spear in a line in the target direction. Each strike deals physical damage to enemies hit, modified to 50% - 100% (based on level) against minions. The thrust deals increased damage, further by 0% - 33.3% (based on critical strike chance), and slows enemies hit by 50% for 1.5 seconds. Enemy champions and monsters hit are also marked Challenged for 3 seconds, during which they are revealed. Slash Physical Damage: 30 / 40 / 50 / 60 / 70 (+ 30% AD), Thrust Physical Damage: 50 / 85 / 120 / 155 / 190 (+ 90% AD) (+ 65% AP), Total Physical Damage: 80 / 125 / 170 / 215 / 260 (+ 120% AD) (+ 65% AP)
+            * The durations of Three Talon Strike, Audacious Charge's bonus attack speed, and Crescent Guard are delayed relative to Wind Becomes Lightning's cast time after 0.2 seconds of its activation.
+            * Wind Becomes Lightning's damage heals Xin Zhao for 33.3% of his life steal.
+          * Audacious Charge
+            * Cost: 50 Mana
+            * Cooldown: 11 seconds
+            * Cast time: none
+            * Target range: 650 / 1100
+            * Effect radius: 250
+            * Passive - Challenge: The last enemy champion hit by Xin Zhao's basic attacks or Audacious Charge is marked Challenged for 3 seconds.
+            * Active: Xin Zhao dashes to the target enemy's location, dealing magic damage to enemies near them and slowing them by 30% for 0.5 seconds. Audacious Charge's range is increased against Challenged targets. Xin Zhao then gains bonus attack speed for 5 seconds. Three Talon Strike and Crescent Guard can be cast during the dash.
+          * Hide: Details, Info
+            * Targeting input: Unit / Location
+            * Damage type: Type: Magic, Sub-type: Minion aggro, Area damage
+            * Counters: Spell shield, Grounded, Knockdown, Blocked, Disabled, Interrupted
+            * The primary target cannot dodge Audacious Charge's effects. The target will always emit the area of effect from their position. If no unit is targeted directly, Audacious Charge will search for possible targets in a 200 radius around the target location.
+          * Crescent Guard
+            * Cost: 100 Mana
+            * Cooldown: 120 / 110 / 100 seconds
+            * Cast time: 0.35 seconds
+            * Passive - Challenge: The last enemy champion hit by Xin Zhao's basic attacks or Audacious Charge is marked Challenged for 3 seconds.
+            * Active: Xin Zhao sweeps his spear around him, dealing physical damage to nearby enemies, capped at 600 against monsters, and knocking back all non-Challenged targets hit up-to 700 units over 0.75 seconds, as well as stunning them for the same duration.
+          * Hide: Tips & Tricks
+            * Targeting input: Auto
+            * Damage type: Type: Physical, Sub-type: Area damage
+            * Counters: Spell shield, Projectile, Blocked, Not Blocked
+            * Pets, traps, ground AoEs, DoTs, and delayed-damage abilities (e.g. Death Mark, Explosive Charge, Hemoplague) will not damage Xin Zhao if the enemy champion source is outside the circle when the damage applies. This ability will cast from wherever the caster is at the end of the cast time. Displacement immunity will also resist the application of the stun.
+          * Tips & Tricks: Enemies will not be marked as Challenged if Crescent Guard has not been learned. Learning the ability after an enemy would have been marked will still cause them to be knocked back. Champion skins [ ] This article section only contains champion skins. For all associated collection items, see Xin Zhao (Collection) .
+
+**Xin Zhao**
+
+Xin Zhao is a champion in League of Legends.
+[1]
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+XinZhao
+
+* Health: 640 (+106)
+* Mana: 274 (+55)
+* Health regen. (per 5s): 8 (+0.7)
+* Mana regen. (per 5s): 7.25 (+0.45)
+* Armor: 35 (+4.7)
+* Attack damage: 63 (+3)
+* Magic resist.: 32 (+2.05)
+* Crit. damage: 175%
+* Move. speed: 345
+* Attack range: 175
+* Attack speed: Base AS: 0.645, Attack windup: 18.71%, AS ratio: N/A, Bonus AS: +3.5%
+* Unit radius: Gameplay radius: 65, Selection radius: 108, Pathing radius: 35, Acq. radius: 750
+
+**Special statistics**
+
+* ARAM: Damage Dealt: -5%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%
+* Nexus Blitz: Damage Dealt: +0%, Damage Received: +0%
+* One For All: Damage Dealt: -5%, Damage Received: +5%
+* URF: Damage Dealt: -3%, Damage Received: +2%
+* Ult Spellbook: Damage Dealt: -5%, Damage Received: +0%
+* Arena: Damage Dealt: -5%, Damage Received: +10%
+
+**Abilities**
+
+[ ]
+
+* Determination
+  * Innate: Xin Zhao's basic attacks and Wind Becomes Lightning strikes generate a stack of Determination, stacking up to 3 times. The third stack consumes them all to deal 15 / 30 / 45 / 60% (based on level) AD bonus physical damage and heal Xin Zhao for 3 / 3.5 / 4% (based on level) of his maximum health (+ 65% AP).
+* Three Talon Strike
+  * Cost: 30 Mana
+  * Cooldown: 7 / 6.5 / 6 / 5.5 / 5
+  * Cast time: none
+  * Active: Xin Zhao empowers his next three basic attacks within 5 seconds to each have an uncancellable windup, deal bonus physical damage, and reduce his other abilities' current cooldowns by 1 second. Each attack refreshes the duration.
+* Bonus Physical Damage: 16 / 25 / 34 / 43 / 52 (+ 40% bonus AD)
+* Total Bonus Physical Damage: 48 / 75 / 102 / 129 / 156 (+ 120% bonus AD)
+  * The third attack knocks up the target for 0.75 seconds.
+* Three Talon Strike's bonus damage is affected by critical strike modifiers.
+* Three Talon Strike resets Xin Zhao's basic attack timer.
+* Hide: Details, Info
+  * Targeting input: Auto
+  * Damage type: Type: Physical, Sub-type: Spell damage
+  * Counters: Spell shield, Parries
+  * Blocked: Spell shield will only block the third attack. The enhanced attacks present input buffering during their wind-up animation (Xin Zhao cannot be issued any commands until after it ends).
+* Wind Becomes Lightning
+  * Cost: 60 / 55 / 50 / 45 / 40 Mana
+  * Cooldown: 12 / 11 / 10 / 9 / 8
+  * Cast time: 0.5 seconds
+  * Range: 1000 / 940
+  * Effect radius: 275 / 125
+  * Width: 80
+  * Angle: 160º
+  * Speed: 6250
+  * Active: Xin Zhao slashes in an arc and, after the cast time, thrusts his spear in a line in the target direction. Each strike deals physical damage to enemies hit, modified to 50% - 100% (based on level) against minions. The thrust deals increased damage, further by 0% - 33.3% (based on critical strike chance), and slows enemies hit by 50% for 1.5 seconds. Enemy champions and monsters hit are also marked Challenged for 3 seconds, during which they are revealed.
+* Slash Physical Damage: 30 / 40 / 50 / 60 / 70 (+ 30% AD)
+* Thrust Physical Damage: 50 / 85 / 120 / 155 / 190 (+ 90% AD) (+ 65% AP)
+* Total Physical Damage: 80 / 125 / 170 / 215 / 260 (+ 120% AD) (+ 65% AP)
+  * The durations of Three Talon Strike, Audacious Charge's bonus attack speed, and Crescent Guard are delayed relative to Wind Becomes Lightning's cast time after 0.2 seconds of its activation.
+  * Wind Becomes Lightning's damage heals Xin Zhao for 33.3% of his life steal.
+* Audacious Charge
+  * Cost: 50 Mana
+  * Cooldown: 11 seconds
+  * Cast time: none
+  * Target range: 650 / 1100
+  * Effect radius: 250
+  * Passive - Challenge: The last enemy champion hit by Xin Zhao's basic attacks or Audacious Charge is marked Challenged for 3 seconds.
+  * Active: Xin Zhao dashes to the target enemy's location, dealing magic damage to enemies near them and slowing them by 30% for 0.5 seconds. Audacious Charge's range is increased against Challenged targets. Xin Zhao then gains bonus attack speed for 5 seconds. Three Talon Strike and Crescent Guard can be cast during the dash.
+* Hide: Details, Info
+  * Targeting input: Unit / Location
+  * Damage type: Type: Magic, Sub-type: Minion aggro, Area damage
+  * Counters: Spell shield, Grounded, Knockdown, Blocked, Disabled, Interrupted
+  * The primary target cannot dodge Audacious Charge's effects. The target will always emit the area of effect from their position. If no unit is targeted directly, Audacious Charge will search for possible targets in a 200 radius around the target location.
+* Crescent Guard
+  * Cost: 100 Mana
+  * Cooldown: 120 / 110 / 100 seconds
+  * Cast time: 0.35 seconds
+  * Passive - Challenge: The last enemy champion hit by Xin Zhao's basic attacks or Audacious Charge is marked Challenged for 3 seconds.
+  * Active: Xin Zhao sweeps his spear around him, dealing physical damage to nearby enemies, capped at 600 against monsters, and knocking back all non-Challenged targets hit up-to 700 units over 0.75 seconds, as well as stunning them for the same duration.
+* Hide: Tips & Tricks
+  * Targeting input: Auto
+  * Damage type: Type: Physical, Sub-type: Area damage
+  * Counters: Spell shield, Projectile, Blocked, Not Blocked
+  * Pets, traps, ground AoEs, DoTs, and delayed-damage abilities (e.g. Death Mark, Explosive Charge, Hemoplague) will not damage Xin Zhao if the enemy champion source is outside the circle when the damage applies. This ability will cast from wherever the caster is at the end of the cast time. Displacement immunity will also resist the application of the stun.
+* Tips & Tricks: Enemies will not be marked as Challenged if Crescent Guard has not been learned. Learning the ability after an enemy would have been marked will still cause them to be knocked back.
+
+**Champion skins**
+[ ]
+This article section only contains champion skins. For all associated collection items, see Xin Zhao (Collection) .
+
+**Original**
+
+View in 3D
+
+585
+13.07.2010
+
+Xin Zhao is a resolute warrior loyal to the ruling Lightshield dynasty. Once condemned to the fighting pits of Noxus, he survived countless gladiatorial bouts, but after being freed by Demacian forces, he swore his life and allegiance to these brave liberators. Armed with his favored three-talon spear, Xin Zhao now fights for his adopted kingdom, audaciously challenging any foe, no matter the odds.
+
+Richard Epcar
+Bo 'chenbowow' Chen, Victor '3rdColossus' Maury
+Loot eligible
+Commando
+View in 3D
+
+520
+13.07.2010
+
+An expert at jungle warfare, Xin Zhao can harpoon a fruit from the rainforest canopy at a hundred yards. He just chooses not to, because it gets fruit chunks all over his spear.
+
+Richard Epcar
+Unknown artist
+Commando
+Loot eligible
+Imperial
+View in 3D
+
+520
+13.07.2010
+
+A member of the vaunted winged hussars, Xin Zhao is one of the last standard bearers of a military order tracing its roots back to the late 17th century. Of course, his progenitors didn't ride an army of armored black pegasi into battle, but you know how it is.
+
+Richard Epcar
+Robin Ruan
+Chronicle
+Loot eligible
+Legacy
+Warring Kingdoms
+View in 3D
+
+1350
+08.02.2013
+
+Legendary warrior and proud general both, Xin Zhao fights across the Warring Kingdoms to preserve peace for the common man. His spear is said to be sharp enough to pierce the sky, striking with the force of thunder.
+
+Richard Epcar
+Michal Ivan, Puppetworks Animation Studio
+Lunar Revel: Warring Kingdoms
+Loot eligible
+New SFX/VFX
+Chromas
+Warring Kingdoms Xin Zhao Chromas
+Amethyst
+Aquamarine
+Golden
+Pearl
+Peridot
+Rose Quartz
+Ruby
+
+**Patch history**
+[ ]
+For the expanded patch notes, see here.
+
+V14.5
+Three Talon Strike
+New Effect:
+Now triggers spell effects upon dealing damage.
+
+V13.17
+Determination
+Base heal changed to 3 / 3.5 / 4% (based on level) maximum health from 6 - 74 (based on level).
+Removed: Heal no longer scales with 10% AD.
+V12.22
+Stats
+Base mana regeneration reduced to 7.25 from 7.5.
+V12.21
+Determination
+Bonus damage AD ratio increased to 15 / 30 / 45 / 60% (based on level) AD from 15 / 25 / 35 / 45% (based on level).
+Heal AP ratio increased to 65% AP from 55% AP.
+Audacious Charge
+Cooldown reduced to 11 seconds from 12.
+V12.11
+Determination
+Heal AD ratio increased to 10% AD from 7% AD.
+Wind Becomes Lightning
+Thrust base damage increased to 50 / 85 / 120 / 155 / 190 from 40 / 75 / 110 / 145 / 180.
+Thrust AD ratio increased to 90% AD from 80% AD.
+Thrust AP ratio increased to 65% AP from 50% AP.
+Mana cost reduced to 60 / 55 / 50 / 45 / 40 from 60 at all ranks.
+V12.10
+Stats
+Base health increased to 640 from 600.
+Health growth increased to 106 from 92.
+Armor growth increased to 4.7 from 3.5.
+Magic resistance growth increased to 2.05 from 1.5.
+Determination
+Base heal reduced to 6 - 74 (based on level) from 7 - 92 (based on level).
+Heal AD ratio reduced to 7% AD from 10% AD.
+V12.5
+Audacious Charge
+Cooldown increased to 12 seconds from 11.
+Crescent Guard
+Duration reduced to 4 seconds from 5.
+V12.4
+Crescent Guard
+Undocumented: Now indicates the invulnerability status UI on the health bar to self and allies.
+V11.16
+Stats
+Base attack damage reduced to 63 from 66.
+V11.14
+Wind Becomes Lightning
+Cooldown increased to 12 / 10.5 / 9 / 8 / 7 seconds from 12 / 10.
+V11.11
+Audacious Charge
+Bug Fix: Fixed a bug where it would go on cooldown and use mana despite it not being actually activated when trying to cast it on an enemy outside of its range and recasting it afterwards without a target.
+V11.8
+Audacious Charge
+Bug Fix: Now properly triggers and grants charges for Manaflow Band's, Muramana, Ravenous Hydra and Tear of the Goddess.
+V11.7
+Audacious Charge
+Bug Fix: Can no longer be cast while grounded.
+V11.6
+Determination
+Base heal reduced to 7 - 92 (based on level) from 10 - 112 (based on level).
+Heal AP ratio increased to 55% AP from 45% AP.
+Bug Fix: Basic attacking an enemy after casting Wind Becomes Lightning now correctly consumes all Determination stacks.
+Three Talon Strike
+Base damage reduced to 15 / 20 / 25 / 30 / 35 from 15 / 25 / 35 / 45 / 55.
+Wind Becomes Lightning
+Visual clarity updates to hitbox and indicator.
+New Effect: Thrust damage is now increased by 0% - 33.3% (based on critical strike chance).
+Cast time changed to 0.5 seconds at all attack speed from 0.4 / 0.35 (based on bonus attack speed).
+Cooldown reduced to 12 / 10.5 / 10 / 9 / 8.5 seconds from 12 / 11 / 10 / 9 / 8.
+Mana cost increased to 60 from 50.
+Thrust range increased to 1000 units from 900.
+Thrust missile speed increased to 6250 from 5000.
+Minion damage increased to 50% - 100% (based on level) from 50% at all levels.
+New Effect: Thrust damage now scales with 50% AP.
+New Effect: Thrust damage now Challenges and reveals champions and monsters for 3 seconds.
+New Effect: Hitbox now extends slightly behind him for visual clarity.
+Audacious Charge
+New Effect: Dash range is now increased to 1100 units against Challenged targets.
+Cooldown reduced to 11 seconds from 12.
+Dash speed reduced to 2500 from 3000.
+Crescent Guard
+Duration increased to 5 seconds from 3.
+Removed: Basic attacks and ability casts no longer extend the duration by 0.3 seconds.
+New Effect: Damage now scales with 110% AP.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 35.
+V10.23
+Stats
+Mana growth increased to 55 from 35.
+V10.18
+Wind Becomes Lightning
+Thrust base damage increased to 30 / 65 / 100 / 135 / 170 from 20 / 60 / 100 / 140 / 180.
+Thrust AD ratio increased to 75% AD from 70% AD.
+V10.7
+Determination
+Base heal increased to 10 - 112 (based on level) from 10 - 78 (based on level).
+V10.6
+General
+Recommended items updated.
+V9.19
+Determination
+Base heal increased to 10 - 78 (based on level) from 8 - 59 (based on level).
+Three Talon Strike
+Base damage increased to 15 / 20 / 25 / 30 / 35 from 15 / 15 / 20 / 25 / 30.
+V9.10
+Three Talon Strike
+Cooldown reduced to 9 / 8 / 7 / 6 / 5.5 seconds from 10 / 9 / 8 / 7 / 6 seconds.
+V9.2
+General
+Updated store assets for Warring Kingdoms Xin Zhao's chroma set.
+V9.1
+Crescent Guard
+Bug Fix: No longer deals more damage than intended when it hits multiple enemies.
+V8.11
+Stats
+Attack damage growth reduced to 3 from 3.3.
+Audacious Charge
+Slow reduced to 30% from 35%.
+V8.8
+Secret Agent Xin Zhao
+Bug Fix: Recall SFX have been restored.
+V8.7
+Viscero Xin Zhao
+Bug Fix: Seam lines have been minimized.
+V8.6
+Wind Becomes Lightning
+Bug Fix: No longer stops attacking after casting the ability.
+V8.4
+General
+New splash artwork for Original Xin Zhao.
+Determination
+Bonus physical damage reduced to 15 / 25 / 35 / 45 (based on level)% AD from 20 / 40 / 60 / 80 (based on level)% AD.
+Wind Becomes Lightning
+Base cast time and duration extend of other abilities reduced to 0.3 from 0.4.
+Spear Thrust now originates from Xin Zhao's position at the end of the cast.
+Audacious Charge
+Short-ranged dashes will now correctly move him forward to the target.
+V8.3
+Stats
+Base health regeneration reduced to 8 from 8.5.
+V8.2
+Audacious Charge
+New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+V7.24
+Stats
+Base health reduced to 570 from 580.
+Wind Becomes Lightning
+Thrust AD ratio reduced to 70% AD from 75% AD.
+Warring Kingdoms Xin Zhao
+Bug Fix: Ruby Chroma's in-game texture now matches its store/champion select asset.
+V7.22
+Stats
+Base attack damage increased to 66 from 63.
+Base armor increased to 35 from 32.
+Three Talon Strike
+Base damage increased to 15 / 15 / 20 / 25 / 30 from 15 / 15 / 20 / 25 / 35.
+V7.21
+General
+Recommended items have been updated.
+V7.19
+General
+New animations.
+New sound effects.
+New ability icons.
+Stats
+Base attack speed reduced to 0.645 from 0.66.
+Attack speed growth increased to 3.5% from 3%.
+Determination
+-
+New Innate
+Innate:
+Every third hit deals bonus physical damage and restores health.
+Removed:
+Damage component's classification as critical strike damage.
+New Effect:
+Damage and heal component share the same counter.
+Both now stack on hit.
+Bonus damage changed to 20% / 40% / 60% / 80% (based on level)% AD.
+Heal's base value changed to 8 - 59 (based on level) from 10 - 85 (based on level).
+Heal's AD ratio changed to 10% AD from 20% bonus AD.
+Three Talon Strike
+-
+Q
+Base damage per hit reduced to 15 / 15 / 20 / 20 / 25 from 15 / 25 / 35 / 45 / 55.
+Now has unique animation on each attacks and classified as on-attack instead of on-hit, so that it will not interact with Guinsoo's Rageblade.
+Wind Becomes Lightning
+-
+New W
+Active:
+Xin Zhao performs two swift strikes over a 0.6 / 0.5 / 0.4 (based on bonus attack speed) second period, the first dealing physical damage to all enemies in an arc and the second dealing a greater amount of damage and slowing all enemies in a line for 50% for 1.5 seconds.
+Wind Becomes Lighting benefits from 33.3% of Xin Zhao's lifesteal and each strike will stack and can apply Determination.
+Slash deals 30 / 40 / 50 / 60 / 70 (+ 30% AD) damage.
+Thrust deals 30 / 65 / 100 / 135 / 170 (+ 90% AD) (+ 65% AP) damage.
+The duration on his other abilities is paused during the effect.
+Deals only 50% damage against minions.
+Audacious Charge
+-
+E
+Mana cost reduced to 50 from 60.
+Cast range increased to 650 from 600.
+Effect radius increased to 125 from 112.
+5
+.
+Base damage reduced to 50 / 70 / 90 / 110 / 130 from 70 / 110 / 150 / 190 / 230.
+Slow duration reduced to 0.5 seconds from 2 seconds.
+Slow increased to 50% at all ranks from 25% / 30% / 35% / 40% / 45%.
+New Effect:
+Grants 40 / 45 / 50 / 55 / 60% bonus attack speed for 5 seconds after reaching his target.
+This is repurposed from Battle Cry's Active, value unchanged.
+Crescent Guard
+-
+R
+Renamed to Crescent Guard from Crescent Sweep.
+Base damage increased to 75 / 150 / 225 from 75 / 125 / 175.
+Effect radius increased to 250 from 187.
+5
+.
+New Passive - Challenge:
+The last enemy champion that Xin Zhao attacked or targeted with Audacious Charge is Challenged for 3 seconds.
+Removed: 15 / 20 / 25 bonus resistances per champion hit.
+New Effect:
+For the next 3 seconds, Xin Zhao gains Awareness, taking 100% reduced damage from enemies who are more than 450 units away from him. Basic attacks and abilities versus champions will extend the duration by 0.3 seconds, but the remaining duration cannot exceed 3 seconds.
+Trivia
+[ ]
+Xin Zhao is voiced by Richard Epcar.
+Xin Zhao was released when Season One started.
+Xin Zhao's dance references Seung Mi-na's dance from Soulcalibur II.
+A side-by-side comparison can be seen here.
+During development, he was called XenZiou or XenZhao.
+Xin Zhao is rendered, in Chinese localization, as Zhào Xìn [ʈ͡ʂau̯˥˩ ɕin˥˩], coincidentally the name of a Xiongnu general who temporarily defected to Han Chinese forces, though historical inspiration for Xin Zhao is evidently another Chinese general, Zhao Yun.
+信 xìn means 'to believe, to trust' [Old Chinese *sins < *winʔ (cf. Sino-Tibetan root *yum [2] > 允 yǔn [ɥyn˨˩˦] "to be proper, to consent") ].
+As a gladiator, Xin Zhao took the name of the fishing boat Viscero < Latin viscus 'entrails', where he once worked on.
+See also
+[ ]
+League of Legends Wiki
+| Champions Cancelled Champions Ao Shin Avasha Averdrian CeeCee Cyborg Cowboy Eagle Rider Gavid Husk Ivan Omen Priscilla Rob Blackblade Seth Tabu Tiki Urf Well References
+[ ]
+↑ Xin Zhao's profile page at LeagueOfLegends.com
+↑ <http://stedt.berkeley.edu/~stedt-cgi/rootcanal.pl/etymon/5675>
+[3] Schuessler, A. ABC Etymological Dictionary of Old Chinese , p. 539, 597

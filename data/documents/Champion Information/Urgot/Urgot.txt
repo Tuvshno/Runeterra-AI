@@ -1,0 +1,313 @@
+Games
+
+---
+
+**Universe**
+
+•
+
+**League of Legends**
+
+•
+
+- League of Legends
+- Teamfight Tactics
+- Wild Rift
+
+---
+
+**Image**
+
+Urgot
+
+---
+
+**Gameplay**
+
+- Cosmetics
+- Audio
+- Development
+- Patch History
+- History
+- Trivia
+
+---
+
+**Urgot**
+
+- Release date: 2010-08-24
+- Last changed: V14.4
+
+---
+
+**Class(es)**
+
+- Juggernaut
+- Legacy
+- Fighter
+- Tank
+
+---
+
+**Position(s)**
+
+- Top
+
+---
+
+**Resource**
+
+- Mana
+
+---
+
+**Range type**
+
+- Ranged
+
+---
+
+**Adaptive type**
+
+- Physical
+
+---
+
+**Store price**
+
+- 3150
+
+---
+
+| 790 |
+
+---
+
+**Crafting**
+
++ 1890
+
+---
+
+**Ratings**
+
+- Damage: 2
+- Toughness: 2
+- Control: 2
+- Mobility: 1
+- Utility: 1
+
+---
+
+**Style**
+
+- Difficulty: Champion Spotlight
+
+---
+
+**Urgot Champion Spotlight**
+
+- Urgot is a champion in League of Legends.
+
+---
+
+**Base statistics**
+
+- Health: 655
+- Mana: 340
+- Health regen. (per 5s): 7.5
+- Mana regen. (per 5s): 7.25
+- Armor: 36
+- Attack damage: 63
+- Magic resist.: 32
+- Crit. damage: 175%
+- Move. speed: 330
+- Attack range: 350
+- Attack speed: Base AS 0.625, AS ratio N/A
+- Bonus AS: +3.75%
+- Missile speed: 2500
+- Unit radius: Gameplay radius 80
+- Selection radius: 136
+- Pathing radius: 50
+- Acq. radius: 550
+
+---
+
+**Special statistics**
+
+- ARAM: No changes
+- Nexus Blitz: No changes
+- One For All: No changes
+- URF: No changes
+- Ult Spellbook: No changes
+- Arena: Damage Dealt +0%, Damage Received +10%
+
+---
+
+**Abilities**
+
+[ ]
+
+---
+
+**Echoing Flames**
+
+**Effect Radius:** 700
+**Angle:** 60°
+**Per-Leg Cooldown:** 30 / 20 / 10 / 5 / 2.5 (based on level)
+**Innate:** Urgot's six legs each conceal a shotgun that covers an arc, together forming a full circle of cover around him. Each shotgun has one shell and an individual reload timer.
+
+The next basic attack in the direction of a loaded shotgun causes it to fire, dealing 40% - 100% (based on level) % AD (+ 2% - 6% (based on level) of target's maximum health) physical damage to all enemies hit within, up to 25 - 365 (based on level) against monsters.
+
+Echoing Flames deals 10% reduced damage to enemies recently damaged in the last 5 seconds, stacking up to 3 times.
+
+---
+
+**Corrosive Charge**
+
+**Cost:** 70 Mana
+**Cooldown:** 10 / 9.5 / 9 / 8.5 / 8 seconds
+**Cast Time:** 0.25 seconds
+**Target Range:** 800
+**Effect Radius:** 210
+**Active:** Urgot launches a canister at the target location. Upon landing, it explodes after 0.3 seconds to deal physical damage and slow all enemies hit by 45% / 50% / 55% / 60% / 65% for 1 second.
+
+Corrosive Charge prevents Purge from firing for 0.3 seconds.
+
+---
+
+**Purge**
+
+**Cost:** 40 / 30 / 20 / 10 / 0 Mana
+**Cooldown:** 12 / 9 / 6 / 3 / 0 seconds
+**Cast Time:** None
+**Static Cooldown:** 0.5 / 0.25 / 0.2 / 0.15 / 0.1 seconds
+**Effect Radius:** 490
+**SPEED:** 2500
+**Passive:** Urgot's other abilities mark enemy champions hit for 5 seconds. Only one enemy can be marked at a time. At maximum rank, Purge lasts indefinitely and becomes a toggled ability.
+
+**Active:** Urgot equips his machine gun for 4 seconds, granting ghosting to minions and non-epic monsters around him and autonomously firing at the nearest enemy at a fixed 3.0 attack speed, prioritizing marked enemy champions and refreshing the mark with every attack. While firing, Urgot is able to move and gains 40% slow resist, but his base movement speed is reduced by 125. Attacks with Purge deal modified physical damage, with a minimum threshold of 50 against monsters and minions, and apply on-hit and on-attack damage at 50% effectiveness, but they cannot critically strike.
+
+Urgot cannot perform attacks while unable to declare basic attacks.
+
+Modified Physical Damage: 12 (± 20 / 23.5 / 27 / 30.5 / 34% AD)
+
+Purge can be recast after 0.5 seconds within the duration, and does so automatically afterwards.
+
+---
+
+**Map-Specific Differences**
+
+---
+
+**Arena differences**
+
+New Effect: On-hit damage modifier now applies to the on-hit effects of the Firebrand, Heavy Hitter, Light 'em Up, and Angel of Retribution augments.
+
+---
+
+**Disdain**
+
+**Cost:** 60 / 70 / 80 / 90 / 100 Mana
+**Cooldown:** 16 / 15.5 / 15 / 14.5 / 14 seconds
+**Cast Time:** 0.45 seconds
+**Target Range:** 450
+**Speeds:** 1200 + 100% movement speed
+**Active:** Urgot grants himself a shield for 4 seconds.
+
+Shield Strength: 55 / 75 / 95 / 115 / 135 (± 135% bonus AD) (± 13.5% bonus health)
+
+After the cast time, Urgot dashes in the target direction, though not through terrain, dealing physical damage to enemies he passes through, knocking them aside and stunning them for 1 second.
+
+Physical Damage: 90 / 120 / 150 / 180 / 210 (± 100% bonus AD)
+
+Purge can be cast during the dash.
+
+---
+
+**Fear Beyond Death**
+
+**Cost:** 100 Mana
+**Cooldown:** 100 / 85 / 70 seconds
+**Cast Time:** 0.5 seconds
+**Target Range:** 2500
+**Effect Radius:** Global / 600 width
+**Width:** 160
+**Speeds:** 3200
+**Active:** Urgot fires a chem-drill in the target direction that impales the first enemy champion hit, dealing physical damage and leashing the target for 4 seconds, during which they are revealed and slowed by 0% - 75% (based on target's missing health) .
+
+If the leashed target is below 25% of their maximum health, Fear Beyond Death can be re-activated, and does so automatically after 3 seconds if the target is within the threshold.
+
+Recast - Mercy: Urgot launches chains at the leashed target, then channels for 1.5 seconds once they latch on. During this time, he reels them toward him, suppressing them, revealing them, rendering them untargetable, and preventing them from taking damage from other sources. If the target is near Urgot when the chains connect, they are pushed up to 1000 units away based on their proximity to him. This channel cannot be interrupted by crowd control.
+
+Upon completing the channel, the target is executed. If the execution is successful, he fears nearby enemies for 1.5 seconds, during which they are slowed by 75%.
+
+Fear Beyond Death's recast can be used while affected by cast-inhibiting crowd control.
+
+Fear Beyond Death prevents Purge from firing for 0.8 seconds.
+
+The recast prevents Purge from firing for 1.5 seconds.
+
+If Urgot is channeling or dashing while the chains are in transit, Mercy's forced movement will be deferred until the cast or dash is complete. The target will still be untargetable, prevented from taking damage from other sources, and suppressed during this time.
+
+If Urgot is channeling, the channel is interrupted when the chains hit.
+
+Removing or resisting the slow has no effect on the mark debuff.
+
+The initial cast always counts as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+
+If the ability hits a target who is below the threshold, it will automatically recast itself and it won't be considered as an ability activation.
+
+If the ability hits a target who is above the threshold and it's recast early, the recast will happen automatically when they reach the threshold and it won't be considered as an ability activation.
+
+If the target got hit while above the threshold and it is recast after they fall below it, the recast will be considered as an ability activation.
+
+Reactivating the ability early will reel the target as soon as they reach the 25% maximum health threshold.
+
+Mercy can be cast and will automatically do so at the end of the duration if the target is below the execute threshold regardless of Urgot being affected by crowd control, including self or enemy-imposed stasis.
+
+Fear Beyond Death can affect clones and activates its fear when executing one.
+
+Fear Beyond Death's recast cannot be used if the target is untargetable.
+
+Fear Beyond Death's recast cannot be used during resurrection. Attempting to do so places the recast on a 5-second cooldown.
+
+If the target is below the threshold at the end of the duration and Urgot is revived, the recast will initiate regardless of this cooldown.
+
+The recast's chains are classified as a projectile and they will fail to affect their target if:
+
+- Urgot or his target dies
+- enters resurrection
+- becomes untargetable
+- removes or resists the suppression
+- collides with Wind Wall or Unbreakable
+
+If the target removes the suppression by any means they will prevent themselves from being executed and stop the forced movement from being renewed, though allowing the most recent one to be present and move them to Urgot's previous location.
+
+If the target's displacement immunity does not end within 10 seconds, Fear Beyond Death will cancel.
+
+When the chains start reeling in and suppressing a player's champion, chains will also cover the sides of their screen.
+
+The target champion shrinks in size in several steps after reaching Urgot's grinder and before being executed.
+
+If the suppression ends in any way, the target returns to its normal size.
+
+If the execution is successful, the victim's corpse will be effectively invisible unless they enter a zombie state.
+
+The target will die regardless of their current health once the recast's chains hit, even if they are healed.
+
+If the target has invulnerability that persists for the duration of the channel, Undying Rage will prevent Tryndamere from dying by the execute. In this case, the execute will bypass his minimum health threshold though and reduce him to 1 health.
+
+The effect will also not prevent the activation of resurrection effects, such as Guardian Angel or Anivia's Rebirth.
+
+Post-death events such as Zombie State effects (e.g., Karthus' Death Defied, Kog'Maw's Icathian Surprise, and Sion's Glory in Death) will be triggered.
+
+Only the target's current health will count as Urgot's damage in post-game statistics and spell vamp healing.
+
+Fear Beyond Death's initial cast will not perform the automatic recast from dealing enough damage to kill Sion.
+
+Fear Beyond Death's recast will be placed on a 5-second cooldown if the target is below the threshold and becomes targetable again after completing the dash from Hero's Entrance.
+
+The following table refers for interactions while Urgot is channeling:
+
+Type Channel Attacking Disabled Abilities Disabled Movement Allowed Items Usable Shurelya's Battlesong Youmuu's Ghostblade Randuin's Omen Disabled All the other item-actives are disabled Interrupted by N/A Consumables Usable Spells Usable Barrier Clarity Cleanse Exhaust Ghost Heal Ignite Smite Flash Disabled Teleport Interrupted by N/A Interrupted by Death

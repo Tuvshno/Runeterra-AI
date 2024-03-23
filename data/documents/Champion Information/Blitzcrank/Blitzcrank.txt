@@ -1,0 +1,2147 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Blitzcrank
+        **•**
+        *Gameplay*
+          *Cosmetics*
+          *Audio*
+          *Development*
+          *Patch History*
+          *History*
+          *Trivia*
+        **Image**
+          *Blitzcrank*
+        **/***
+        *Release date: 2009-09-02*
+        *Last changed: V14.4*
+        *Class(es): Catcher, Legacy, Tank, Fighter*
+        *Position(s): Support*
+        *Resource: Mana*
+        *Range type: Melee*
+        *Adaptive type: Magic*
+        *Store price: 1350*
+        *|*
+        *585*
+        *Crafting: +810*
+        *Ratings*
+          *Damage: 1*
+          *Toughness: 2*
+          *Control: 3*
+          *Mobility: 1*
+          *Utility: 1*
+        *Style: Difficulty*
+
+**Champion Spotlight**
+
+*Blitzcrank Champion Spotlight*
+
+**Blitzcrank**
+
+* is a champion in League of Legends.*
+
+[1]
+
+**Gameplay**
+
+*Cosmetics*
+*Audio*
+*Development*
+*Patch History*
+*History*
+*Trivia*
+
+**Base statistics**
+
+| **Blitzcrank** | **Edit** |
+| --- | --- |
+| Health: 650 +109 | **Health** |
+| Mana: 267 +40 | **Mana** |
+| Health regen. (per 5s): 7.5 +0.75 | **Health regen.** |
+| Mana regen. (per 5s): 8.5 +0.8 | **Mana regen.** |
+| Armor: 37 +4.7 | **Armor** |
+| Attack damage: 62 +3.5 | **Attack damage** |
+| Magic resist.: 32 +2.05 | **Magic resist.** |
+| Crit. damage: 175% | **Crit. damage** |
+| Move. speed: 325 | **Move. speed** |
+| Attack range: 125 | **Attack range** |
+| Attack speed: Base AS 0.625, Attack windup 27%, AS ratio N/A, Bonus AS +1.13% | **Attack speed** |
+| Unit radius: Gameplay radius 80, Selection radius 165, Pathing radius 50, Acq. radius 600 | **Special statistics** |
+
+**ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena, Damage Dealt, Damage Received**
+
+**Abilities**
+
+[ [ ]]
+
+**Mana Barrier**
+
+*Mana Barrier*
+*STATIC*
+*COOLDOWN: 90*
+*Innate: Periodically, when damaged to 30% maximum health, Blitzcrank generates a shield equal to 30% of maximum mana, lasting up to 10 seconds.*
+*Targeting input: Passive*
+*The shield will absorb the portion of incoming damage that would reduce health past 30%.*
+*Map-Specific Differences: Arena differences*
+*Video*
+*Info: Targeting input, Passive, The shield will absorb the portion of incoming damage that would reduce health past 30%.*
+*Map-Specific Differences: Arena differences*
+*Video: https://leagueoflegends.fandom.com/wiki/File:Blitzcrank_IVideo.ogv*
+
+**Rocket Grab**
+
+*Rocket Grab*
+*COST: 100 mana*
+*COOLDOWN: 20 / 19 / 18 / 17 / 16*
+*CAST TIME: 0.25*
+*Active: Blitzcrank fires their right hand in the target direction that catches the first enemy hit, dealing them magic damage, stunning them for 0.65 seconds, and pulling them towards Blitzcrank, during which they are revealed.*
+*Magic Damage: 105 / 150 / 195 / 240 / 285 (+ 120% AP)*
+*Blitzcrank is unable to move or attack while Rocket Grab is in flight.*
+*Targeting input: Direction*
+*Damage type: Type, Sub-type: Spell damage, Magic*
+*Counters: Spell shield, Projectile, Blocked, Blocked*
+*Rocket Grab's range is composed of a missile with 1080 range, and a smaller center-range area check at the end (colloquially known as a 'lollipop').*
+*The area check is currently half as long as it is supposed to be, reducing the intended 1150 range of the ability to 1115 range.*
+*Hitting an enemy with this area check only also fails to play the ability's hit SFX. This makes it possible to easily distinguish whether the target was picked up by the missile collision or 'lollipop'.*
+*Targets larger than 95 units in radius can be hit by a different edge-range circle check at the end of the missile.*
+*The airborne debuff lasts for up to 1 second but will end prematurely when the target's movement stops, while the stun will persist (if duration permits).*
+*Displacement immunity will not resist the application of the stun.*
+*The target's destination lies 75 units in front of Blitzcrank.*
+*If the target is closer than this, the effect will still move them to this location.*
+*If Blitzcrank is being moved (e.g. Airborne, Kinematics, or Fate's Call) during the grab, the target will be pulled towards Blitzcrank's old location.*
+*Blitzcrank will be ordered to basic attack the target once the target arrives.*
+*If the target dies to Rocket Grab's damage, they will not be pulled.*
+*This ability will cast from wherever the caster is at the end of the cast time.*
+*Type: Cast time, Attacking, Disabled, Abilities, Disabled, Movement, Disabled, Items, Usable, Spells, Usable, Interrupted by, Interrupted by, Interrupted by, Resurrection*
+*Map-Specific Differences: Arena differences*
+*Video: https://leagueoflegends.fandom.com/wiki/File:Blitzcrank_QVideo.ogv*
+
+**Overdrive**
+
+*Overdrive*
+*COST: 75 mana*
+*COOLDOWN: 15*
+*CAST TIME: none*
+*Active: Blitzcrank shifts into overdrive, gaining bonus attack speed for 5 seconds and bonus movement speed that decays to 10% over the first 2.9 seconds.*
+*Bonus Attack Speed: 30 / 40 / 50 / 60 / 70%*
+*Bonus Movement Speed: 70 / 75 / 80 / 85 / 90%*
+*When Overdrive ends, Blitzcrank is slowed by 30% for 1.5 seconds.*
+*Targeting input: Auto*
+*Damage type: Type, Sub-type: Proc damage, Magic*
+*Counters: Parries, Blocked*
+*The movement speed boost's decay is linear. On the first stat update after the buff is gained, the boost does not decay.*
+*The self-slow is affected by slow resist and Tenacity.*
+*Video: https://leagueoflegends.fandom.com/wiki/File:Blitzcrank_WVideo.ogv*
+
+**Power Fist**
+
+*Power Fist*
+*COST: 25 mana*
+*COOLDOWN: 9 / 8 / 7 / 6 / 5*
+*CAST TIME: none*
+*Active: Blitzcrank empowers their next basic attack within 5 seconds to have an uncancellable windup, deal 80% AD (+ 25% AP) bonus physical damage, and knock up the target for 1 second. This damage is affected by critical strike modifiers.*
+*Power Fist resets Blitzcrank's basic attack timer.*
+*Targeting input: Auto*
+*Damage type: Type, Sub-type: Spell damage, Physical*
+*Counters: Spell shield, Parries, See Notes*
+*The knockup is applied even if the attack is dodged or missed.*
+*It is not applied if it is blocked.*
+*Spell shield prevents the knockup but not the damage. The enhanced attack will still complete and hit the target even if they become untargetable during the attack's windup.*
+*The target is displaced a short distance during the knockup in a random direction.*
+*Video: https://leagueoflegends.fandom.com/wiki/File:Blitzcrank_EVideo.ogv*
+
+**Static Field**
+
+*Static Field*
+*COST: 100 mana*
+*COOLDOWN: 60 / 40 / 20*
+*CAST TIME: 0.25*
+*Passive: While Static Field is not on cooldown, Blitzcrank's basic attacks apply a stack to the target on-hit.*
+*After every 1 second, one stack is consumed to deal them magic damage.*
+*Magic Damage: 50 / 100 / 150 (+ 30 / 40 / 50% AP) (+ 2% maximum mana)*
+*Active: Blitzcrank detonates a static field that destroys the damage-mitigating shields of all nearby enemies, excluding the shields of monsters, and then deals them magic damage and silences them for 0.5 seconds.*
+*Magic Damage: 275 / 400 / 525 (+ 100% AP)*
+*Targeting input: Auto*
+*Damage type: Type, Sub-type: See Notes, Magic*
+*Counters: Spell shield, Blocked*
+*Blitzcrank's attacks do not have to deal damage to apply the mark. The mark will be consumed even if the target becomes untargetable.*
+*The lightning bolts deal spell damage while the static field applies area damage.*
+*Even if Static Field is blocked by a spell shield, it will still destroy any existing damage shields on the target.*
+*The visual effects will appear from wherever Blitzcrank is at the end of the cast time.*
+*Map-Specific Differences: Arena differences*
+*Video: https://leagueoflegends.fandom.com/wiki/File:Blitzcrank_RVideo.ogv*
+
+**Champion skins**
+
+[ [ ]]
+
+**Original**
+
+*View in 3D*
+*790*
+*01.09.2009*
+*Blitzcrank is an enormous, near-indestructible automaton from Zaun, originally built to dispose of hazardous waste. However, he found this primary purpose too restricting, and modified his own form to better serve the fragile people of the Sump. Blitzcrank selflessly uses his strength and durability to protect others, extending a helpful metal fist or burst of energy to subdue any troublemakers.*
+*Duncan Watt, Esben Lash Rasmussen*
+*Loot eligible*
+*Chromas: Original Blitzcrank Chromas*
+*Cobalt, Gunmetal, Molten, Rusty*
+*View in 3D*
+*520*
+*20.11.2009*
+*Duncan Watt, Unknown artist*
+*Legacy*
+*Loot inelgible*
+*Goalkeeper*
+*View in 3D*
+*520*
+*24.06.2010*
+*One of the all time greatest keepers for Chaos FC, Blitzcrank has finally taken their place in the Sports Hall of Fame. Their image rests proudly with the likes of Volleyball Dragon, Women's Tennis Scuttle Crab, and Badminton Baron Nashor.*
+*Duncan Watt, Unknown artist*
+*Soccer Cup*
+*Loot eligible*
+*Legacy*
+*Boom Boom*
+*View in 3D*
+*520*
+*29.08.2010*
+*Their fists are named ‘boom’ and ‘boom,’ proving that robots are a perfect facsimile of human life.*
+*Duncan Watt, Unknown artist*
+*Day Job*
+*Loot eligible*
+*Piltover Customs*
+*View in 3D*
+*1350*
+*07.03.2011*
+*Your robot's legs were busted, so we replaced them with a vintage '32 hot rod, and eight-cylinder external mounted coal engine. Plus we painted flames on his fists. The flames cost extra.*
+*Duncan Watt, Unknown artist*
+*Piltover Customs*
+*Loot eligible*
+*New SFX/VFX, New Animations/Recall, Definitely Not*
+*View in 3D*
+*975*
+*19.10.2011*
+*I, not a robot.*
+*Duncan Watt, Kienan 'Knockwurst' Lafferty*
+*Definitely Not*
+*Loot eligible*
+*iBlitzcrank*
+*View in 3D*
+*1350*
+*01.03.2013*
+*Built as household assistance automata, thousands of iBlitzcranks were corrupted by Program during a routine software update. With their human owners oblivious to this fact, they continue to help, waiting patiently for the time their new command lines are initiated.*
+*Duncan Watt, Unknown artist*
+*Program*
+*Loot eligible*
+*New SFX/VFX, New Animations/Recall*
+*Riot*
+*View in 3D*
+*975*
+*21.10.2013*
+*A Riot Games skin obtained by either meeting a Rioter or attending an official Riot event in 2013.*
+*Duncan Watt, Sperasoft Studio*
+*Riot*
+*Loot eligible*
+*Legacy*
+*New SFX/VFX, New Animations/Recall*
+*Battle Boss*
+*View in 3D*
+*1350*
+*16.11.2015*
+*A boss hailing from a popular science fiction shooter, Blitzcrank is well known in the gaming community for cheap mechanics, powerful attacks, and a massive health pool. Veigar fittingly made them the gatekeeper of his personal fortress, because Veigar hates fun.*
+*Duncan Watt, Alvin Lee*
+*Arcade: Battle Bosses*
+*Loot eligible*
+*New SFX/VFX, New Animations/Recall, Chromas: Battle Boss Blitzcrank Chromas*
+*Catseye, Citrine, Pearl, Rainbow, Rose Quartz, Ruby, Sapphire, Turquoise, Lancer Rogue*
+*View in 3D*
+*1350*
+*16.11.2017*
+*An ancient sentinel corrupted by mysterious black lightning, Rogue Lancer Blitzcrank mercilessly crushes provincial armies, destroying entire castles with kings still on their thrones. What caused its rampage is still uncertain, but for now it seems to be following its dread protocol to the letter.*
+*Duncan Watt, Jojo So*
+*Lancer*
+*Loot eligible*
+*Voice filter, Additional/unique quotes, New SFX/VFX, New Animations/Recall*
+*This skin is a variant of Lancer Paragon.*
+*Store variants are discounted for multiple purchases.*
+*Lancer Paragon*
+*View in 3D*
+*1350*
+*16.11.2017*
+*A silent protector of the masses, the artificial paladin Blitzcrank was aroused from the earth by a bolt of mysterious white lightning. It now serves all honorable subjects, defending with true and calculated precision.*
+*Duncan Watt, Jojo So*
+*Lancer*
+*Loot eligible*
+*Voice filter, Additional/unique quotes, New SFX/VFX, New Animations/Recall*
+*This skin is a variant of Lancer Rogue.*
+*Store variants are discounted for multiple purchases.*
+*Witch's Brew*
+*View in 3D*
+*1350*
+*24.10.2019*
+*Once nothing but a simple cauldron, Blitzcrank was enchanted, brought to life in order to assist Miss Fortune in her beguiling bewitchments.*
+*Duncan Watt, Choe HeonHwa*
+*Trick-or-Treat*
+*Loot eligible*
+*Legacy*
+*New SFX/VFX, New Animations/Recall, Chromas: Witch's Brew Blitzcrank Chromas*
+*Aquamarine, Catseye, Emerald, Obsidian, Ruby, Turquoise*
+*Space Groove*
+*View in 3D*
+*1820*
+*01.04.2021*
+*Blitz and Crank are Cat Planet's fiercest warriors, and work together seamlessly (mostly) to pilot their mech, Blitzcrank. While Crank believes that he can overcome his lack of rhythm with the help of his exuberant copilot, Blitz is… well… he's busy dancing to his own beat.*
+*Joe Zieja, David Villegas, West Studio*
+*Space Groove*
+*Loot eligible*
+*New voiceover, New SFX/VFX, New Animations/Recall, Chromas: Space Groove Blitz & Crank Chromas*
+*Amethyst, Catseye, Disco, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite*
+*Victorious*
+*View in 3D*
+*Special*
+*16.11.2021*
+*Victorious Blitzcrank was awarded to players who reached Gold or higher in the 2021 season.*
+*Duncan Watt, Forrest Imel, West Studio*
+*Victorious*
+*Loot inelgible*
+*New SFX/VFX, New Animations/Recall, Chromas: Victorious Blitzcrank Chromas*
+*Flex Challenger, Flex Diamond, Flex Grandmaster, Flex Master, Flex Platinum, Solo/Duo Challenger, Solo/Duo Diamond, Solo/Duo Grandmaster, Solo/Duo Master, Solo/Duo Platinum*
+*Zenith Games*
+*View in 3D*
+*1350*
+*09.09.2022*
+*Originally a bomb defusal robot, Blitzcrank was made a referee because of their ability to make split-second adjustments to stay ahead of the prodigious athletes. Only later did everyone realize that the bot's background made them unusually effective in defusing the intense... disagreements that often arise.*
+*Duncan Watt, Augusto Quirino, West Studio*
+*Zenith Games*
+*Loot eligible*
+*New SFX/VFX, New Animations/Recall, Chromas: Zenith Games Blitzcrank Chromas*
+*Citrine, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sapphire, Tanzanite*
+*Beezcrank*
+*View in 3D*
+*1350*
+*22.11.2023*
+*Beezcrank has a reputation for getting his bee-infantry into sticky situations. Probably because of that giant honey-comb mech-arm.*
+*Duncan Watt, Augusto Quirino, West Studio*
+*Bees!*
+*Loot eligible*
+*New SFX/VFX, New Animations/Recall, Chromas: Beezcrank Chromas*
+*Amethyst, Emerald, Obsidian, Pearl, Rainbow, Rose Quartz, Ruby, Sapphire*
+
+**Patch history**
+
+[ [ ]]
+
+*V14.4*
+  *Static Field*
+    *Removed: No longer destroys shields against monsters.*
+*V14.2*
+  *Stats*
+    *Base armor reduced to 37 from 40.*
+  *Power Fist*
+    *AD ratio reduced to 80% AD from 100% AD.*
+*V13.18*
+  *General*
+    *Updated ability icons.*
+*V13.17*
+  *Stats*
+    *Base health increased to 650 from 633.*
+    *Base magic resistance increased to 32 from 28.*
+    *Base attack speed reduced to 0.625 from 0.65.*
+    *Attack speed ratio reduced to 0.625 from 0.7.*
+  *Mana Barrier*
+    *Shield strength changed to 30% at all levels from 15% − 45% (based on level).*
+  *Overdrive*
+    *Mana cost reduced to 75 from 85.*
+    *Bonus attack speed reduced to 30 / 40 / 50 / 60 / 70% from 30 / 43 / 56 / 69 / 82%.*
+    *Removed: No longer deals 1% of target's maximum health magic damage on-hit while active, increased by 60 − 220 (based on level) against non-champions.*
+  *Power Fist*
+    *Mana cost reduced to 25 from 40.*
+    *AD ratio increased to 100% AD from 75% AD.*
+    *Removed: Damage is no longer increased by 175% AD (+ 125% AP) against non-champions.*
+  *Static Field*
+    *New Effect: On-hit damage now scales with 2% maximum mana.*
+*V13.9*
+  *Power Fist*
+    *Bug Fix: No longer causes Glacial Augment's ice zones to last longer than intended.*
+*V12.22*
+  *Mana Barrier*
+    *Bug Fix: Tooltip now properly displays the shield's mana and level scaling.*
+*V12.21*
+  *Stats*
+    *Base health reduced to 633 from 653.*
+    *Base magic resistance reduced to 28 from 32.*
+  *Overdrive*
+    *Bonus attack speed reduced to 30 / 43 / 56 / 69 / 82% from 40 / 53 / 66 / 79 / 92%.*
+  *Mana Barrier*
+    *Shield strength changed to 15% − 45% (based on level) maximum mana from 30% at all levels.*
+  *Rocket Grab*
+    *Base damage reduced to 105 / 150 / 195 / 240 / 285 from 105 / 155 / 190 / 245 / 305.*
+  *Overdrive*
+    *Bonus non-champion damage increased to 60 − 180 (based on level) from 60 − 120 (based on level).*
+  *Power Fist*
+    *AD ratio reduced to 75% AD from 100% AD.*
+  *Non-champion AD ratio increased to 175% AD from 150% AD.*
+    *New Effect: Now occasionally knocks up minions and monsters if it overkills them.*
+*V12.19*
+  *Stats*
+    *Base attack speed increased to 0.65 from 0.625.*
+    *Attack speed ratio increased to 0.7 from 0.625.*
+  *Overdrive*
+    *Bonus attack speed increased to 40 / 53 / 66 / 79 / 92% from 30 / 38 / 46 / 54 / 62%.
+    *Mana cost increased to 85 from 75.*
+    *New Effect: Basic attacks now deal 1% of the target's maximum health bonus magic damage on-hit while active, increased by 60 − 180 (based on level) against minions and monsters.*
+  *Bug Fix: The movement speed boost's decay is now linear instead of decaying by 20% of the current value every update tick (exponential). The boost no longer decays on the first update tick after the buff is gained.*
+  *Power Fist*
+    *Knock up duration increased to 1 second from 0.9.*
+    *Mana cost increased to 40 from 25.*
+    *New Effect: Damage now scales with 25% AP.*
+    *New Effect: Now deals an additional 150% AD (+ 125% AP) bonus physical damage against minions and monsters.*
+    *New Effect: Critical strikes now increase the bonus damage as well.*
+*V12.12*
+  *Static Field*
+    *Active base damage increased to 275 / 400 / 525 from 250 / 375 / 500.*
+*V12.10*
+  *Stats*
+    *Base health increased to 653 from 583.*
+    *Health growth increased to 109 from 95.*
+    *Armor growth increased to 4.7 from 3.5.*
+    *Magic resistance growth increased to 2.05 from 1.25.*
+*V12.4*
+  *Stats*
+    *Base health regeneration reduced to 7.5 from 8.51.*
+*V11.21*
+  *Power Fist*
+    *New Effect: Now triggers spell effects when dealing damage.*
+*V11.15*
+  *Rocket Grab*
+    *Base damage increased to 90 / 140 / 190 / 240 / 290 from 70 / 120 / 170 / 220 / 270.*
+    *AP ratio increased to 120% AP from 100% AP.*
+*V11.1*
+  *Stats*
+    *Base health increased to 583 from 582.6.*
+    *Base attack damage increased to 61 from 60.54.*
+    *Base magic resistance reduced to 32 from 33.*
+*V10.16*
+  *Rocket Grab*
+    *Bug Fix: Now properly grants a stack of Electrocute and Phase Rush and two stacks of Conqueror from the basic attack following after.*
+*V10.6*
+  *General*
+    *Recommended items updated.*
+*V10.5*
+  *Stats*
+    *Base armor reduced to 37 from 39.*
+*V9.23*
+  *Mana Barrier*
+    *Undocumented: Tooltip now correctly notes the threshold for activation as 30% instead of 20%.*
+*V9.22*
+  *Rocket Grab*
+    *Base damage reduced to 70 / 120 / 170 / 220 / 270 from 80 / 135 / 190 / 245 / 300.*
+*V9.20*
+  *Stats*
+    *Base armor reduced to 40 from 44.*
+    *Armor growth reduced to 3.5 from 4.*
+*V9.19*
+  *- September 26th Hotfix*
+    *Rocket Grab*
+      *Bug Fix: Lollipop now checks for the target's center rather than their edge, alike the missile. No longer gives an effective bonus range towards larger units.*
+  *V9.19*
+    *Rocket Grab*
+      *Range increased to 1100 units from 1050.*
+      *Now does a lollipop at the end of the missile for a bonus 50 units range.*
+    *Static Field*
+      *Maximum mark stacks increased to 3 from 2.*
+*V9.14*
+  *- July 19th Hotfix*
+    *Static Field*
+      *Passive damage is no longer 50 too high at all ranks.*
+  *V9.14*
+    *Static Field*
+      *New Effect: Destroys shields on affected enemies before applying the damage and silence.*
+*V9.9*
+  *- May 2nd Hotfix*
+    *Static Field*
+      *Detonation damage increased to 250 / 375 / 500 from 150 / 275 / 400.*
+*V9.9*
+  *General*
+    *New visual effects.*
+    *New basic attack hit effects.*
+*Mana Barrier*
+    *Shield strength changed to 30% of his maximum mana from 50% of his current mana.*
+    *Clean up shield effect.*
+*Rocket Grab*
+    *VFX updated to show the actual width and distance of the hook that is more consistent with the hitbox and cleaned up with a small cast effect.*
+*Overdrive*
+    *VFX is now more sparky.*
+*Power Fist*
+    *VFX now has more of a static shock with an uppercut hit effect.*
+*Static Field*
+    *Detonation base damage reduced to 150 / 275 / 400 from 250 / 375 / 500.*
+    *New Passive Effect: While Static Field is off-cooldown, Blitzcrank fires lightning bolts that hit a random visible enemy unit every 3.5 seconds, dealing 50 / 100 / 150 (+ 30% AP) magic damage.*
+    *Removed Passive Effect: While Blitzcrank is in combat and Static Field is off-cooldown, he fires a lightning bolt at a random visible enemy unit within a 450 radius every 2.5 seconds, dealing 100 / 200 / 300 (+ 20% AP) magic damage.*
+    *VFX updated to show the actual range and clean up the electricity on Blitzcrank's body.*
+*Rusty Blitzcrank*
+    *VFX updated to be more rusty.*
+*Piltover Customs Blitzcrank*
+    *Overdrive*
+      *Recolored effects and cleaned up.*
+*iBlitzcrank*
+    *Rocket Grab*
+      *VFX cleaned up.*
+    *Overdrive*
+      *Added jetpacks to his run animation.*
+*Battle Boss Blitzcrank*
+    *Static Field*
+      *Added a hint of red.*
+*Lancer Rogue Blitzcrank*
+    *Static Field*
+      *Cleaned up noise.*
+*Lancer Paragon Blitzcrank*
+    *Static Field*
+      *Cleaned up noise.*
+*V8.8*
+  *Lancer Paragon Blitzcrank*
+  *and*
+  *Lancer Rogue Blitzcrank*
+    *Bug Fix: Recall is no longer missing lightning effects VFX.*
+*V8.3*
+  *Stats*
+    *Base health regeneration reduced to 8.5 from 8.51.*
+*V7.23*
+  *Power Fist*
+    *Bug Fix: Fixed a bug where the empowered basic attack was fizzling if the buff expired mid-attack. The empowered attacks now properly complete.*
+*Lancer Rogue Blitzcrank*
+    *Bug Fix: Dance SFX are now synced with the animations.*
+    *Bug Fix: Recall SFX is no longer too quiet.*
+*Lancer Paragon Blitzcrank*
+    *Bug Fix: Dance SFX are now synced with the animations.*
+*V7.22*
+  *Stats*
+    *Base armor increased to 44 from 24.38.*
+*V7.3*
+  *Battle Boss Blitzcrank*
+    *Bug Fix: Removed a frame his idle animation from the end of his recall animation.*
+*Boom Boom Blitzcrank*
+    *Static Field*
+      *Bug Fix: Fixed a bug where the golden buckle was stretching severely during his death and Static Field animations.*
+*Texture updated with a new coat of rust.*
+*Power Fist*
+      *Fixed a bug where the cooldown was 12 / 10 / 8 / 6 / 4 seconds instead of 9 / 8 / 7 / 6 / 5.*
+*V1.0.0.154*
+  *Mana Barrier*
+    *Cooldown increased to 90 seconds from 60.*
+  *Rocket Grab*
+    *Now grants vision when it hits a target.*
+*V1.0.0.152*
+  *Rocket Grab*
+      *Animation improved.*
+*V1.0.0.150*
+  *Stats*
+    *Health reduced to 518 from 568.*
+    *Health per level reduced to 95 from 100.*
+*V1.0.0.139*
+  *General*
+    *Playing Against tips updated.*
+*V1.0.0.136*
+  *Rocket Grab*
+    *Mana cost reduced to 110 from 140.*
+  *Base damage increased to 80 / 135 / 190 / 245 / 300 from 60 / 120 / 180 / 240 / 300.*
+  *AP ratio increased to (+ 100% AP) from (+ 80% AP).*
+*V1.0.0.123*
+  *Mana Barrier*
+    *Fixed a bug where it could be bypassed if the damage taken would instantly kill Blitzcrank
+*Mana Barrier*
+    *Fixed a bug where it would activate when the cooldown expired even if not taking damage.*
+*Power Fist*
+    *Fixed a bug where it failed to grant life steal effects.*
+*V1.0.0.121*
+  *Rocket Grab*
+    *Animation improved.*
+*V1.0.0.120*
+  *Rocket Grab*
+      *Blitzcrank will now attempt to immediately attack successfully-grabbed champions.*
+*V1.0.0.106*
+  *General*
+    *Recommended items updated.*
+*Stats*
+  *Base attack speed increased to 0.625 from 0.596.*
+  *Overdrive*
+    *Removed: Movement speed reduction when it ends.*
+  *Power Fist*
+    *Fixed a bug where it was not breaking spell shields.*
+    *Fixed a bug where it did not display the hit particle when it killed a unit.*
+  *Static Field*
+    *Fixed a bug where it did not display the hit particle when it killed a unit.*
+*V1.0.0.104*
+  *Stats*
+    *Magic resistance per level increased to 1.25 from 1.*
+  *Mana per level increased to 40 from 36.*
+  *Mana Barrier*
+    *No longer uses nor refunds Blitzcrank's mana when activated.*
+  *Overdrive*
+      *Cooldown reduced to 15 seconds from 20.*
+      *Mana cost reduced to 75 from 90.*
+      *Now reduces movement speed by 75 instead of 25%.*
+      *Fixed an edge case bug as a result.*
+  *Static Field*
+    *Cooldown reduced to 30 seconds from 40.*
+    *No longer targets stealthed units.*
+*V1.0.0.101*
+  *Power Fist*
+    *Now resets Blitzcrank's auto attack timer.*
+*V1.0.0.98*
+  *Rocket Grab*
+    *Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 22 / 21 / 20 / 19 / 18.*
+  *Overdrive*
+    *Cooldown reduced to 20 seconds from 22.*
+*V1.0.0.97*
+  *Rocket Grab*
+    *Fixed a bug that allowed blink spells like Flash to transport people out of a grab after it had already hit and they were in the process of being pulled.*
+*V1.0.0.94*
+  *Mana Barrier*
+    *Cooldown timer added*
+  *Power Fist*
+    *No longer dodgeable.*
+  *Static Field*
+    *New Effect: Silences for 0.5 seconds (previously removed in V0.9.25.24).*
+*V1.0.0.87*
+  *Rusty Blitzcrank*
+    *Fixed a bug where the hand projectile was showing up as the Classic color while using the skin.*
+    *Texture updated with a new coat of rust.*
+*Power Fist*
+    *Fixed a bug where the cooldown was 12 / 10 / 8 / 6 / 4 seconds instead of 9 / 8 / 7 / 6 / 5.*
+*V1.0.0.86*
+  *Power Fist*
+    *Slow particle from the affected target removed.*
+  *Static Field*
+    *Tooltip now shows the bonus damage based on Blitzcrank's ability power.*
+*V1.0.0.70*
+  *Overdrive*
+    *Now applies additive attack and movement speed boosts rather than multiplicative.*
+  *Rocket Grab*
+    *Return speed increased.*
+*V1.0.0.61*
+  *General*
+    *Recommended items updated.*
+  *Rocket Grab*
+    *Now it will fire directionally even if targeting a point outside of cast range.*
+*V1.0.0.58*
+  *Rocket Grab*
+    *Fixed a bug where it could be interrupted by the Hold key.*
+*V1.0.0.52*
+  *Static Field*
+    *Base damage increased to 250 / 375 / 500 from 200 / 300 / 400.*
+*V0.9.25.34*
+  *General*
+    *Secondary/critical strike animations updated.*
+*V0.9.25.24*
+  *Rocket Grab*
+    *Projectile speed increased to 1800 from 1550.*
+  *Static Field*
+    *Removed: Silence effect.*
+    *Cooldown reduced to 40 seconds from 60.*
+*V0.9.25.21*
+  *Added*
+  *Mana Barrier*
+    *-*
+  *When Blitzcrank is lowered to 200 health a mana shield activates, absorbing damage equal to a maximum of 50% current mana. The shield lasts for 10 seconds and refunds any unspent mana. Has a cooldown of 60 seconds.*
+*Rocket Grab*
+    *-*
+  *Q*
+    *Blitzcrank fires his right hand to grab a target on its path, dealing damage and pulling it to him.*
+  *Overdrive*
+    *-*
+  *W*
+    *Blitzcrank supercharges himself to increase movement speed and attack speed. When this effect ends his movement speed is decreased by 25% for 3 seconds.*
+  *Power Fist*
+    *-*
+  *E*
+    *Blitzcrank charges up his fist to make his next basic attack deal double damage and knock up his target.*
+  *Static Field*
+    *-*
+  *R*
+      *Passive: While on cooldown, Blitzcrank fires lightning bolts that hit a random enemy unit every 3.5 seconds.
+      *Active: Blitzcrank deals a large amount of magic damage and silences nearby enemy champions.*
+*Trivia*
+[ [ ]]
+
+*While initially referred to using He/Him pronouns, Blitzcrank's most recent lore update updated pronouns to They/Them.*
+*Ingame and spell descriptions still refer to Blitzcrank using He/Him pronouns.*
+*Concept art for a champion codenamed the Iron Engineer was likely incorporated on Blitzcrank.*
+*Rocket Grab's icon displays Blitzcrank's left hand even though they use their right one in-game.*
+*Their dance references the Macarena dance.*
+*A side-by-side comparison can be seen here.*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*Blitzcrank and Amumu were planned to have Sewn Chaos skins, but both were cancelled for failing to meet Riot's quality standards. They may return in the future.*
+*The icon for Rocket Grab is reused for the Teamfight Tactics item Rocket-Propelled Fist.*
+*On V12.20, a change was added to where Power Fist would occasionally knock up non-champion targets it killed 'to the moon'.*
+*See also*
+[ [ ]]
+
+*League of Legends Wiki*
+| Champions |
+| Cancelled Champions |
+| Ao Shin |
+| Avasha |
+| Averdrian |
+| CeeCee |
+| Cyborg Cowboy |
+| Eagle Rider |
+| Gavid |
+| Husk |
+| Iron Engineer |
+| Ivan |
+| Omen |
+| Priscilla |
+| Rob Blackblade |
+| Seth |
+| Tabu |
+| Tiki |
+| Urf |
+| Well |
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about Blitzcrank*
+*↑ Another fantastic change by Riot!*
+*[2]*
+*They resemble Zog from the 2009 Astro Boy movie.*
+*Riot's love of ducks has made it so Blitzcrank's feet resemble theirs.*
+*[3]*
+*See also*
+*League of Legends Wiki | Champions | Cancelled Champions |
+*Ao Shin*
+*Avasha*
+*Averdrian*
+*CeeCee*
+*Cyborg Cowboy*
+*Eagle Rider*
+*Gavid*
+*Husk*
+*Iron Engineer*
+*Ivan*
+*Omen*
+*Priscilla*
+*Rob Blackblade*
+*Seth*
+*Tabu*
+*Tiki*
+*Urf*
+*Well*
+*References*
+[ [ ]]
+
+*↑ Blitzcrank's profile page at LeagueOfLegends.com*
+*↑ Zileas post about

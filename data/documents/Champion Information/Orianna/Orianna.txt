@@ -1,0 +1,998 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Orianna
+        **************************
+        *Gameplay*
+        *Cosmetics*
+        *Audio*
+        *Development*
+        *Patch History*
+        *History*
+        *Trivia*
+        **************************
+        
+        **Orianna**
+        
+        *Release date*
+          2011-06-01
+        
+        *Last changed*
+          V14.3
+        
+        *Classes*
+          Burst
+          Legacy
+          Mage
+          Support
+        
+        *Position(s)*
+          Middle
+        
+        *Resource*
+          Mana
+        
+        *Range type*
+          Ranged
+        
+        *Adaptive type*
+          Magic
+        
+        *Store price*
+          4800
+        
+          |
+          ---
+        
+        *Styles*
+          Difficulty
+        
+        **********
+
+        **Champion Spotlight**
+        *Orianna Champion Spotlight*
+
+        Orianna is a champion in League of Legends.
+        *[1]*
+
+        *Gameplay*
+        
+        **Base statistics**
+        
+        Health: 585 + 110
+        Mana: 418 + 25
+        Health regeneration (per 5s): 7
+        Mana regeneration (per 5s): 8
+        Armor: 20 + 4.2
+        Attack damage: 40 + 2.6
+        Magic resist.: 26 + 1.3
+        Crit. damage: 175%
+        Move. speed: 325
+        Attack range: 525
+        Attack speed: 0.658
+        Attack windup: 17.544%
+        AS ratio: N/A
+        Bonus AS: +3.5%
+        Missile speed: 1500
+        Unit radius: Gameplay radius
+         65
+        Selection radius: 120
+        Pathing radius: 35
+        Acq. radius: 525
+        
+        **Special statistics**
+        
+        ARAM: No damage bonuses or penalties
+        Nexus Blitz: No damage bonuses or penalties
+        One For All: No damage bonuses or penalties
+        URF: Damage dealt -10%, damage received +10%
+        Ult Spellbook: Damage dealt +0%, damage received +0%
+        Arena: Damage dealt +0%, damage received +0%
+        
+        **Abilities**
+        
+        **Clockwork Windup**
+        
+        *Effect radius*: 1290 / 1355 / 135
+        *Innate - The Ball*
+        
+        Orianna is accompanied by The Ball, which she commands with her abilities.
+        The Ball incurs a 0.01-second global cooldown on all of her abilities when she casts any ability. Additionally, The Ball attaches to Orianna if she is near it, and snaps back to her if she moves too far away from it, which incurs a 0.75-second cooldown on Command: Shockwave.
+        Orianna's basic attacks generate a stack of Clockwork Winding for 4 seconds, refreshing on subsequent attacks and stacking up to 2 times. All stacks are lost when attacking a new enemy.
+        *Clockwork Winding*
+        
+        Orianna's basic attacks are empowered to deal 10 − 50 (based on level) (+ 15% AP) bonus magic damage on-hit, increased by  «20%»  «2 - 10 (based on level) (+ 3% AP)» per stack, up to 14 − 70 (based on level) (+ 21% AP) total bonus magic damage.
+        
+        **Details**
+        
+        Info
+          Targeting input: Passive
+          Damage type: Type: Magic
+          Sub-type: Proc damage
+          Counters: Parries, Blocked
+          The Ball's stack count can be seen in Orianna's buff bar.
+          The Ball will not incur its global cooldown from a Command: Protect cast that is used on a target already attached to it.
+          The attacks do not deal the bonus damage against structures.
+          Runaan's Hurricane's extra bolts will cause Clockwork Winding to reset its stacks, as she hits targets other than her latest one on-hit.
+        
+        **Command: Attack**
+        
+        *Cost*: 30 / 35 / 40 / 45 / 50 Mana
+        *Cooldown*: 6 / 5.25 / 4.5 / 3.75 / 3 Mana
+        *Cast time*: None
+        *Target range*: 825
+        *Effect radius*: 175
+        *Width*: 160
+        *Speed*: 1400
+        
+        Active: Orianna commands The Ball to fly to the target location and remain there, dealing magic damage to enemies it passes through and nearby enemies upon arrival, reduced to 70% against those hit beyond the first.
+        Magic Damage: 60 / 90 / 120 / 150 / 180 (+ 50% AP)
+        Reduced Damage: 42 / 63 / 84 / 105 / 126 (+ 35% AP)
+        
+        **Details**
+        
+        Info
+          Targeting input: Location
+          Damage type: Type: Magic
+          Sub-type: Area damage
+          Counters: Spell shield, Projectile, Blocked
+          If The Ball is currently on Orianna, Command: Attack will have it cast to fly at least 150 units if the player attempts to cast it closer.
+          The Ball does not grant sight while in flight, but the sound effect of striking an enemy is audible through the Fog of War.
+          Orianna cannot use Command: Protect while The Ball is in transit with Command: Attack, but she may buffer Command: Dissonance and Command: Shockwave to cast once it has reached the location.
+          The Ball will remain at the target location until Orianna retrieves it or if she goes beyond its leash range.
+          Orianna will attempt to walk to Command: Attack's cast point if it lies outside cast range, and The Ball will never exceed its leash range regardless of target direction.
+          PENDING FOR TEST: The Ball will drop to the ground upon colliding with Yasuo's Wind Wall, but not with Braum's Unbreakable.
+          Samira's Blade Whirl ?
+
+        **Command: Dissonance**
+        
+        *Cost*: 60 / 65 / 70 / 75 / 80 Mana
+        *Cooldown*: 7
+        
+        *Cast time*: None
+        *Effect radius*: 225
+        
+        Active: Orianna commands The Ball to emit an electric pulse that deals magic damage to nearby enemies.
+        Magic Damage: 70 / 120 / 170 / 220 / 270 (+ 70% AP)
+        The pulse leaves behind an electric field that lasts 3 seconds, granting bonus movement speed to Orianna and her allies when they move within, and slowing enemies that move within the field by the same amount, decaying over 2 seconds after leaving.
+        Movement Speed Modifier: 20 / 25 / 30 / 35 / 40%
+
+        **Details**
+        
+        Info
+          Targeting input: Auto
+          Damage type: Type: Magic
+          Sub-type: Area damage
+          Counters: Spell shield, Blocked
+          No additional notes.
+
+        **Command: Protect**
+        
+        *Cost*: 60 Mana
+        *Cooldown*: 9
+        
+        *Cast time*: None
+        *Target range*: 1120
+        *Width*: 160
+        *Speed*: 1850
+        *Passive: The Ball*
+        
+        The Ball grants bonus armor and bonus magic resistance to the unit it is attached to.
+        Bonus Resistances: 6 / 12 / 18 / 24 / 30
+        
+        *Active: Orianna*
+        
+        Orianna commands The Ball to fly to herself or the target allied champion and attach itself to the target, dealing magic damage to enemies it passes through and granting the target a shield for 2.5 seconds upon arrival.
+        Magic Damage: 60 / 90 / 120 / 150 / 180 (+ 30% AP)
+        Shield Strength: 55 / 90 / 125 / 160 / 195 (+ 45% AP)
+         
+        **Details**
+        
+        Info
+          Targeting input: Unit
+          Target out-of-range override: Walk in range of the target
+          Damage type: Type: Magic
+          Sub-type: Area damage
+          Counters: Spell shield, Projectile, Blocked
+          The Ball does not grant sight while in flight, but the sound effect of striking an enemy is audible through the Fog of War.
+          Orianna cannot cast her other abilities while the The Ball is moving to the target with Command: Protect.
+          Orianna gains Command: Protect's bonus resistances whenever The Ball is attached to her, even if she didn't self-cast.
+          The Ball will remain where Command: Protect's target ally died, or, if they died or became untargetable before The Ball reaches them, it will instead snap back to Orianna.
+          The Ball will join Command: Protect's target ally in stealth if they are affected by it when Orianna targets them.
+          The Ball snaps back to Orianna upon being intercepted by projectile-blocking effects.
+        
+        **Command: Shockwave**
+        
+        *Cost*: 100 Mana
+        *Cooldown*: 110 / 95 / 80
+        
+        *Cast time*: 0.5
+        *Effect radius*: 415
+        
+        Active: Orianna commands The Ball to unleash a shockwave that deals magic damage to nearby enemies, stuns them for 0.75 seconds, and pulls them over 325 units, though not through terrain.
+        Magic Damage: 250 / 400 / 550 (+ 95% AP)
+         
+        **Details**
+        
+        Info
+          Targeting input: Auto
+          Damage type: Type: Magic
+          Sub-type: Area damage
+          Counters: Spell shield
+          Cast VFX is now properly and consistently tracked in Fog of War, such as when cast on units that are moving very fast before entering vision.
+          Command: Shockwave tosses enemies a set distance (those on the edge of the flinging area will be tossed to the center while those close to the middle will go over The Ball towards the edge), and can send them through walls.
+          This ability will cast from wherever the unit the The Ball is attached to is at the end of the cast time, even if the unit exceeds max tether range.
+          Displacement immunity will not resist the application of the stun.
+
+        **Pets**
+        *The Ball*
+        
+        *Statistics*
+        
+        Sight radius: 700 / 225
+        Control type: Can be commanded by Orianna to perform certain actions when she casts Command: Attack, Command: Dissonance, Command: Protect, or Command: Shockwave.
+        Target type: Untargetable
+        Spell effects: The Ball, when hitting enemies, applies spell effects as area damage.
+        Abilities: Escort, Clockwork Affinity, Collision Immunity
+
+        **General**
+        An arrow will appear near Orianna whenever The Ball is not attached to her, pointing towards its location. The arrow will change colors depending on how far away The Ball and Orianna are from each other. If they are relatively near each other, the arrow is blue. If they are close to being outside of range of each other, the arrow is yellow (lime in colorblind mode). If it is very close, the arrow is red.
+
+        **Champion skins**
+        
+        *Original*
+        View in 3D
+        880
+        01.06.2011
+
+        Once a curious girl of flesh and blood, Orianna is now a technological marvel comprised entirely of clockwork. She became gravely ill after an accident in the lower districts of Zaun, and her failing body had to be replaced with exquisite artifice, piece by piece. Accompanied by an extraordinary brass sphere she built for companionship and protection, Orianna is now free to explore the wonders of Piltover, and beyond.
+
+        Heath Pennington
+        Alex 'alexplank' Flores
+        Loot eligible
+        Gothic
+        View in 3D
+        520
+        01.06.2011
+
+        Her father gave her the light of life—and yet, Orianna always preferred the dark.
+
+        Heath Pennington
+        Unknown artist
+        Goth
+        Loot eligible
+
+        Sewn Chaos
+        View in 3D
+        520
+        01.06.2011
+
+        Even the bravest children shy away from Orianna—a raggedy, whispering doll as old as the house itself. Some toys just aren't meant to be played with.
+
+        Heath Pennington
+        Katie 'TeaTime' De Sousa
+        Toy Box
+        Loot eligible
+
+        Bladecraft
+        View in 3D
+        975
+        29.02.2012
+
+        Heath Pennington
+        Unknown artist
+        Legacy
+        Loot eligible
+        New SFX/VFX
+        TPA
+        View in 3D
+        750
+        23.05.2013
+
+        Honoring Toyz's winning performance as Orianna during the 2012 World Championship.
+
+        Heath Pennington
+        Bo Lu
+        World Champions: 2012
+        Loot eligible
+        Legacy
+        Winter Wonder
+        View in 3D
+        975
+        15.12.2014
+
+        A strange clockwork girl imbued with the magic of the Winterlands, Orianna once lived within a snowglobe created by a kindly old inventor. At the end of his life he freed her, and now she searches for greater purpose, serving in the court of the Poro King.
+
+        Heath Pennington
+        Jason Chan
+        Winter Wonder
+        Loot eligible
+        Legacy
+        New SFX/VFX
+        New Animations/Recall
+        Heartseeker
+        View in 3D
+        1350
+        11.02.2016
+
+        A mechanical girl built to find and comfort broken hearts, Orianna still does not understand why people run from her when she's only trying to help them. Still, she goes about her duties diligently, performing beautiful clockwork dances for any who would give her a chance.
+
+        Heath Pennington
+        Alex 'alexplank' Flores
+        Heartbreakers
+        Loot eligible
+        Legacy
+        New SFX/VFX
+        New Animations/Recall
+        Dark Star
+        View in 3D
+        1350
+        03.05.2017
+
+        Born out of the remnants of a magnificently advanced system, Orianna serves the Dark Star with meticulous precision. She dances across galaxies in an endlessly horrifying performance, the only witness is the silent trail of destruction left in her wake.
+
+        Heath Pennington
+        Jem Flores
+        Dark Star
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Dark Star Orianna Chromas
+        Antimatter
+        Victorious
+        View in 3D
+        21.11.2018
+
+        Victorious Orianna was awarded to players who reached Gold or higher in Ranked Queues for Season 8. Her body has been reforged by Piltover's finest artificers, and enhanced with experimental hextech.
+
+        Heath Pennington
+        Jessica 'OwleyCat' Oyhenart
+        Victorious
+        Loot inelgible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Victorious Orianna Chromas
+        Amber
+        Peridot
+        Pool Party
+        View in 3D
+        1350
+        02.07.2020
+
+        With her latest outfit, Orianna is finally able to submerge completely in aquatic biomes. This brings her great joy, as a day at the beach previously required subsequent weeks of scrubbing salt, sand, and sometimes an angry crab out of her gears.
+
+        Heath Pennington
+        Sean 'Raiko' Tay, West Studio
+        Pool Party
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Pool Party Orianna Chromas
+        Emerald
+        Obsidian
+        Pearl
+        Ruby
+        Orbeeanna
+        View in 3D
+        1350
+        03.03.2022
+
+        Careful not to get honey caught in those gears!
+
+        Heath Pennington
+        Mingchen Shen, West Studio
+        Bees!
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Orbeeanna Chromas
+        Emerald
+        Obsidian
+        Pearl
+        Rose Quartz
+        Ruby
+        Sapphire
+        Tanzanite
+        Turquoise
+        Star Guardian
+        View in 3D
+        1350
+        28.06.2023
+
+        When this robot girl wished upon the First Star, it granted her deepest desire: to become human. With that gift came all the responsibilities of a Star Guardian. Orianna analyzed the risks. Her chances of falling are… 1.3%. Of successfully blending in with high schoolers? The odds aren't looking great.
+
+        Heath Pennington
+        Félix Donadio, West Studio
+        Star Guardian Season 4
+        Loot eligible
+        New SFX/VFX
+        New Animations/Recall
+        Chromas
+        Star Guardian Orianna Chromas
+        Amethyst
+        Catseye
+        Emerald
+        Obsidian
+        Pearl
+        Rose Quartz
+        Ruby
+        Sapphire
+
+        **Patch history**
+        
+        V14.3
+        Command: Shockwave
+        Bug Fix:
+          Cast VFX is now properly and consistently tracked in Fog of War, such as when cast on units that are moving very fast before entering vision.
+        
+        V13.24
+        * December 12th Hotfix
+          Stats
+            Base health reduced to 585 from 600.
+          Command: Dissonance
+            Movement speed modifier reduced to 20 / 25 / 30 / 35 / 40% from 30 / 35 / 40 / 45 / 50%.
+        
+        V13.22
+        Stats
+          Basic attack missile speed increased to 1500 from 1450.
+        
+        V13.19
+        Command: Shockwave
+        Bug Fix:
+          No longer is castable beyond its intended range.
+        
+        V13.18
+        General
+          Updated ability icons.
+        Clockwork Windup
+        Bug Fix:
+          Basic attacks no longer improperly cancel when the ball returns to her location.
+        
+        V13.17
+        Stats
+          Health growth increased to 110 from 105.
+        Command: Dissonance
+        Base damage increased to 70 / 120 / 170 / 220 / 270 from 60 / 105 / 150 / 195 / 240.
+        
+        V13.12
+        Command: Shockwave
+        Base damage increased to 250 / 400 / 550 from 250 / 350 / 450.
+        AP ratio increased to
+         95% AP
+        from
+         90% AP
+        .
+        
+        V13.4
+        Stats
+          Base armor increased to 20 from 17.
+        Command: Dissonance
+        Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+        Command: Shockwave
+        Bug Fix:
+          Displacement distance is no longer farther than normal for enemies based on how close they were to the location of the
+        The Ball
+        .
+        
+        V13.3
+        Command: Shockwave
+        Bug Fix:
+          Visual effects now properly follow the movement of the unit that the
+        The Ball
+        is attached to and thereby properly indicate the spell's behaviour.
+        
+        V13.1b
+        Clockwork Windup
+        Base damage changed to
+         10 − 50 (based on level)
+        from
+         10 − 50 (based on level)
+        (every 3 levels).
+        Command: Attack
+        Damage against secondary targets changed to 70% for all enemies hit from 100% − 40% (based on enemies hit)
+        .
+        Command: Dissonance
+        Mana cost reduced to 70 / 75 / 80 / 85 / 90 from 70 / 80 / 90 / 100 / 110.
+        Command: Shockwave
+        Base damage increased to 250 / 350 / 450 from 200 / 275 / 350.
+        AP ratio increased to
+         90% AP
+        from
+         80% AP
+        .
+        
+        V12.19
+        * October 10th Hotfix
+          Command: Shockwave
+        Bug Fix:
+          VFX of the ability are no longer improperly displayed on top of the caster if it was cast as
+        The Ball
+        attached to an ally with
+        Command: Protect
+        .
+        
+        V12.10
+        Stats
+          Base health increased to 600 from 530.
+          Health growth increased to 105 from 91.
+          Armor growth increased to 4.2 from 3.
+        
+        Command: Protect
+        Base shield reduced to 55 / 90 / 125 / 160 / 195 from 60 / 100 / 140 / 180 / 220.
+        Shield AP ratio reduced to
+         45% AP
+        from
+         50% AP
+        .
+        
+        V12.7
+        General
+          Updated visual effects.
+        Command: Shockwave
+        Bug Fix:
+          Cast location no longer sometimes originates from the caster's position than the unit that
+        The Ball
+        is attached to.
+        
+        Original Orianna
+        Complete overhaul.
+        
+        Gothic Orianna
+        ,
+        Sewn Chaos Orianna
+        ,
+        TPA Orianna
+        Same as new base.
+        Bladecraft Orianna
+        Recolored from base.
+        Winter Wonder Orianna
+        Recolored from base.
+        Heartseeker Orianna
+        Complete overhaul.
+        Dark Star Orianna
+        Complete overhaul.
+        
+        Victorious Orianna
+        ,
+        Pool Party Orianna
+        ,
+        Orbeeanna
+        Updated to match new base.
+        
+        V11.24
+        General
+        Bug Fix:
+          Base voice lines now play more consistently and accurately.
+        
+        V11.12
+        General
+        Adjusted splash artwork for
+        TPA Orianna
+        .
+        
+        V11.8
+        Command: Protect
+        Bonus resistances reduced to 6 / 12 / 18 / 24 / 30 from 10 / 15 / 20 / 25 / 30.
+        Bug Fix:
+          Fixed the tooltip which switched the damage and shield values.
+        
+        V11.1
+        Stats
+          Base attack damage reduced to 40 from 44.
+          Base armor reduced to 17 from 17.04.
+        
+        V10.20
+        Winter Wonder Orianna
+        Command: Shockwave
+        Bug Fix:
+          Sparkles VFX no longer render over structures.
+        
+        V10.8
+        Command: Dissonance
+        Movement speed modifier increased to 30 / 35 / 40 / 45 / 50% from 20 / 25 / 30 / 35 / 40%.
+        Command: Protect
+        Shield AP ratio increased to
+         50% AP
+        from
+         40% AP
+        .
+        
+        V9.19
+        Command: Shockwave
+        Base damage increased to 200 / 275 / 350 from 150 / 225 / 300.
+        AP ratio increased to
+         80% AP
+        from
+         70% AP
+        .
+        
+        V9.16
+        Command: Protect
+        Bug Fix:
+          Allies with
+        Command: Protect
+        on them will now see an indicator centered on her.
+        
+        V9.8
+        Command: Protect
+        Bug Fix:
+          Range/cast indicator now appears correctly.
+        
+        V8.20
+        General
+          Adjusted splash artwork for
+        TPA Orianna
+        .
+        
+        V8.17
+        General
+          Adjusted splash artwork for
+        TPA Orianna
+        .
+        
+        V8.16
+        Stats
+          Base magic resistance reduced to 26 from 30.
+        
+        V8.13
+        Command: Dissonance
+        Cooldown reduced to 7 seconds from 9.
+        
+        V8.12
+        Command: Protect
+        Shield duration reduced to 2.5 seconds from 4.
+        
+        V8.9
+        Stats
+          Base mana increased to 418 from 334.
+          Mana growth reduced to 25 from 50.
+          Base mana regeneration increased to 8 from 6.
+        
+        V8.3
+        Stats
+          Base health regeneration increased to 7 from 6.874.
+        
+        V7.23
+        Sewn Chaos Orianna
+        and
+        TPA Orianna
+        Bug Fix:
+          Is no longer missing SFX during her taunt animations.
+        
+        V7.22
+        Stats
+          Base health increased to 530 from 517.
+          Health growth increased to 91 from 79.
+        
+        Command: Attack
+        Missile speed increased to 1400 from 1200.
+        Command: Dissonance
+        New Effect:
+          If buffered, will fire at the destination when the ball has stopped moving.
+        Command: Shockwave
+        New Effect:
+          If buffered, will fire at the destination when the ball has stopped moving.
+        
+        V7.18
+        Dark Star Orianna
+        Bug Fix:
+          The gems on her ball no longer disappear when moving the camera away and back on lower graphics settings.
+        
+        V7.16
+        August 11th Hotfix
+          Command: Dissonance
+          Bug Fix:
+            Command: Dissonance
+            and
+            Command: Shockwave
+            cast rules while The Ball is traveling now function exactly as they did prior to
+            V7.16
+            .
+        
+        V7.16
+          Command: Dissonance
+          Base damage reduced to 60 / 105 / 150 / 195 / 240 from 70 / 115 / 160 / 205 / 250.
+          While
+          The Ball
+          is moving from
+          Command: Attack
+         , queued-up
+          Command: Dissonance
+          casts will fire at Q's target location once
+          The Ball
+          is 75 units away from Q's target location.
+          Bug Fix:
+            The ability will not fire at a wildly misleading distance away from
+          The Ball
+          .
+          Command: Protect
+          Base shield strength reduced to 60 / 100 / 140 / 180 / 220 from 80 / 120 / 160 / 200 / 240.
+        
+        V7.15
+        Winter Wonder Orianna
+        Bug Fix:
+          Recall poros have been dusted off and now use updated textures.
+        
+        V7.14
+        Heartseeker Orianna
+        Bug Fix:
+          Restored custom audio effects for her basic abilities.
+        Gothic Orianna
+        Bug Fix:
+          Model textures no longer change slightly depending on whether she's currently holding
+          The Ball
+          or not.
+        
+        V7.9
+          Stats
+            Magic resistance growth increased to 0.5 from 0.
+        
+        V7.6
+        Command: Protect
+        New Effect:
+          If an ally dies while holding the
+        Ball
+        , it now drops in place rather than returning to
+        Orianna
+        .
+        
+        V7.5
+        Winter Wonder Orianna
+        Bug Fix:
+          Fixed a bug where poros wouldn't have shadows during her recall animation.
+        
+        V6.23
+        Command: Dissonance
+        Bug Fix:
+          When cast during the travel time of
+          Command: Attack
+         ,
+          Command: Dissonance
+          now waits to fire until the ball has stopped moving.
+        
+        V6.17
+        Command: Shockwave
+        Mana cost reduced to 100 at all ranks from 100 / 125 / 150.
+        Cooldown reduced to 110 / 95 / 80 seconds from 120 / 105 / 90.
+        
+        V6.16
+        Command: Protect
+        Bug Fix:
+          The Ball visually disappearing if target ally it is attached to dies (but reappears after Orianna uses an ability).
+        
+        V6.6
+        Command: Attack
+        Bug Fix:
+          Passive bonus resistances not interacting with
+          Windspeaker's Blessing
+          .
+        
+        V5.11
+        Command: Shockwave
+        Global cooldown upon Ball returning to Orianna increased to 0.75 seconds from 0.5.
+        
+        V4.17
+        General
+        Texture update to Classic, Gothic, Sewn Chaos, and Bladecraft.
+        
+        V4.16
+        General
+        New splash artwork for
+        Original Orianna
+        .
+        
+        V4.14
+          Stats
+            Base attack damage reduced to 38 from 44.
+        
+        V4.5
+          Stats
+            Base armor increased to 12 from 8.
+        
+        V3.9
+        Command: Protect
+        New Effect:
+          Has a leash range indicator visible to Orianna when The Ball is attached to an allied champion.
+        
+        V1.0.0.152
+          Stats
+            Movement speed increased to 325 from 300.
+        
+        V1.0.0.143
+          Stats
+            Attack range changed to 525 at all times.
+          Command: Attack
+          AP ratio increased to
+          (+ 50% AP)
+          from
+          (+ 40% AP)
+          .
+          Command: Shockwave
+          New Effect:
+            Stuns enemies during their movement abilities.
+        
+        V1.0.0.142
+          Clockwork Windup
+          Global cooldown reduced to 0.15 seconds from 0.5.
+          Clockwork Winding
+          Base damage increased to
+          10 − 50 (based on level)
+          from
+          5 − 30 (based on level)
+          .
+          Stacks reduced to 2 from 3.
+          Per-stack bonus damage increased to 20% from 15.
+          AP ratio reduced to
+          (+ 15% AP)
+          from
+          (+ 20% AP)
+          .
+          Command: Attack
+          Projectile speed reduced to 1200 from 1275.
+          Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 100 / 140 / 180 / 220.
+          AP ratio reduced to
+          (+ 40% AP)
+          from
+          (+ 60% AP)
+          .
+          Cooldown changed to 6 / 5.25 / 4.5 / 3.75 / 3 seconds from 6 / 5.5 / 5 / 4.5 / 4 seconds.
+          Interaction with
+          Command: Dissonance
+          and
+          Command: Shockwave
+          updated to be more responsive.
+          Command: Dissonance
+          AP ratio increased to
+          (+ 70% AP)
+          from
+          (+ 50% AP)
+          .
+          Command: Protect
+          Cast range increased by 100.
+          New Effect:
+            Ball leash range is increased by 100 when attached to an allied champion.
+          Interaction with
+          Command: Dissonance
+          and
+          Command: Shockwave
+          updated to be more responsive.
+          Command: Shockwave
+          Cast time increased to 0.5 seconds from 0.4.
+          Removed:
+            Stun duration being longer than displacement's.
+          New Effect:
+            Goes on a brief cooldown if The Ball forcibly leashes back to Orianna when she casts.
+          V1.0.0.138
+            Command: Attack
+            Mana cost reduced to 50 at all ranks from 50 / 55 / 60 / 65 / 70.
+        
+        V1.0.0.136
+          General
+            Abilities targeting display updated.
+        
+        V1.0.0.129
+          Stats
+            Base mana regen increased to 7 from 4.5.
+          Mana regen per level increased to 0.5 from 0.45.
+          Command: Attack
+          Cast range increased to 800 from 650.
+        
+        V1.0.0.127
+          Stats
+            Attack range increased to 525 from 500.
+        
+        V1.0.0.125
+          Stats
+            Attack range reduced to 500 from 550.
+          Command: Attack
+          Mana cost increased to 50 / 55 / 60 / 65 / 70 from 40 / 45 / 50 / 55 / 60.
+          Range reduced to 650 from 750.
+        
+        V1.0.0.124
+          Command: Dissonance
+          Damage changed to 70 / 115 / 160 / 205 / 250 from 70 / 120 / 170 / 220 / 270.
+          Command: Protect
+          Shield AP ratio reduced to
+          (+ 40% AP)
+          from
+          (+ 60% AP)
+          .
+          Command: Shockwave
+          Bug Fix:
+            Dealing extra damage at Ranks 2 and 3.
+        
+        V1.0.0.122
+          Command: Dissonance
+          AP ratio reduced to
+          (+ 50% AP)
+          from
+          (+ 60% AP)
+          .
+          Movement speed modifier reduced to 20 / 25 / 30 / 35 / 40% from 25 / 30 / 35 / 40 / 45%.
+        
+        V1.0.0.120
+          Clockwork Windup
+          Bug Fix:
+            Tooltip display error
+            Bug Fix:
+              Stacking damage being lower than intended
+          Command: Protect
+          Bug Fix:
+            Shield particle not displaying
+          Bug Fix:
+            Interaction with clones and other movement-related effects
+        
+        V1.0.0.119
+          Added
+            Trivia
+          [
+        
+        Orianna is a widespread Romance name, merged from two Latin roots with feminine suffix
+        -na
+        :
+        Oriolar
+        'I rise'; cf.
+        Orientalis
+        , referring the rising sun.
+        Aurum
+        '
+        gold
+        '; which she shares with
+        Aurelion Sol
+        .
+        Orianna was the last champion priced lower than
+        6300
+        on release.
+        Clockwork Winding
+        is named after and references
+        the eponymous gear mechanism
+        .
+        Orianna's icon during her 'Champion Spotlight' was a
+        walfas-styled face.
+        Multiple miniature copies of
+        The Ball
+        can be seen on
+        Corporate Mundo's
+        desk during the game's Mac Version trailer.
+        In the now-removed official League of Legends
+        forums
+        , the
+        icon
+        of
+        Command: Shockwave
+        was used to represent the 'Forum Games' section.
+        See also
+          [
+        
+        [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Orianna)
+        |
+        Champions
+        Cancelled Champions
+        Ao Shin
+        Avasha
+        Averdrian
+        CeeCee
+        Cyborg Cowboy
+        Eagle Rider
+        Gavid
+        Husk
+        Ivan
+        Omen
+        Priscilla
+        Rob Blackblade
+        Seth
+        Tabu
+        Tiki
+        Urf
+        Well
+        References
+          [
+        
+        ↑
+        [Orianna's profile page](https://leagueoflegends.com/en-us/champions/orianna/)

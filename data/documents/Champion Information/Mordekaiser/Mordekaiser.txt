@@ -1,0 +1,307 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * **Champions**
+      * Mordekaiser
+        **Image**
+        **Gameplay**
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        **Base statistics**
+        **Abilities**
+          * Darkness Rise
+          * Obliterate
+          * Indestructible
+          * Death's Grasp
+          * Realm of Death
+        **Chromas**
+          * Dark Star Mordekaiser Chromas
+          * Ashen Graveknight Mordekaiser Chromas
+          * Pentakill Lost Chapter Mordekaiser Chromas
+          * Amethyst
+          * Aquamarine
+          * Catseye
+          * Emerald
+          * Obsidian
+          * Pearl
+          * Rainbow
+          * Reckoning
+          * Ruby
+          * Sapphire
+          * Sandstone
+          * Tanzanite
+        * Voice filter
+        * New Animations/Recall
+        * Transforming Chromas
+          * PROJECT: Mordekaiser Chromas
+          * PROJECT: Mordreapkiller Chromas
+      * Mordekaiser (Collection)
+    * Cancelled Champions
+      * Ao Shin
+      * Avasha
+      * Averdrian
+      * CeeCee
+      * Cyborg Cowboy
+      * Eagle Rider
+      * Gavid
+      * Husk
+      * Ivan
+      * Omen
+      * Priscilla
+      * Rob Blackblade
+      * Seth
+      * Tabu
+      * Tiki
+      * Urf
+      * Well
+  * **References**
+    * League of Legends Wiki
+
+**Mordekaiser**
+
+* **Gameplay**
+  * **Darkness Rise**
+    * EFFECT RADIUS: 375
+    * Innate: Mordekaiser's basic attacks are empowered to deal 40% AP bonus magic damage on-hit.
+    * Mordekaiser generates a stack for each enemy champion or large monster hit by his damaging basic attacks or basic abilities, lasting for 4 seconds and refreshing on subsequent hits, stacking up to 3 times. At 3 stacks, he gains Darkness Rise.
+    * Darkness Rise: Mordekaiser gains 3/6/9% (based on level) bonus movement speed and deals 5% − 15.2 (based on level) (+ 30% AP) (+ 1% − 5% (based on level) of target's maximum health) magic damage every second to nearby enemies. Against monsters, the damage is capped at 28 − 164 (based on level) per second. Against champions, the damage is 0.63 − 1.9 (based on level) (+ 3.75% AP) (+ 0.13 − 0.63% (based on level) of target's maximum health) magic damage every 0.125 seconds.
+  * **Obliterate**
+    * COOLDOWN: 9/7.75/6.5/5.25/4 seconds
+    * CAST TIME: 0.5 seconds
+    * RANGE: 625
+    * WIDTH: 160
+    * Active: Mordekaiser strikes his mace down in a line in the target direction, dealing magic damage to enemies within, increased if only one enemy is hit.
+    * Magic Damage: 5 − 139 (based on level) (+ 75 / 95 / 115 / 135 / 155) (+ 70% AP)
+    * Damage Increase: 40/45/50/55/60%
+  * **Indestructible**
+    * PASSIVE: Mordekaiser stores 45% of the post-mitigation damage he deals and 7.5% of the pre-mitigation damage he takes as Potential Shield on his secondary resource bar, up to 30% of his maximum health.
+    * COOLDOWN: 12/11/10/9/8 seconds
+    * CAST TIME: none
+    * Active: Mordekaiser consumes his Potential Shield to grant himself a shield for the same amount for 4 seconds. The shield decays exponentially over the duration.
+    * Active: Mordekaiser consumes the remaining shield, healing for 35/37.5/40/42.5/45% of the shield.
+  * **Death's Grasp**
+    * COOLDOWN: 18/16/14/12/10 seconds
+    * CAST TIME: 0.25 seconds
+    * TARGET RANGE: 700/900
+    * WIDTH: 200
+    * SPEED: 3000
+    * Passive: Mordekaiser gains magic penetration.
+    * Magic Penetration: 5/7.5/10/12.5/15%
+    * Active: Mordekaiser summons a claw in the target direction that grants sight of the area. After 0.5 seconds, it deals magic damage to enemies within and pulls them 250 units.
+    * Magic Damage: 80/95/110/125/140 (+ 60% AP)
+  * **Realm of Death**
+    * COOLDOWN: 140/120/100 seconds
+    * CAST TIME: 0.5 seconds
+    * TARGET RANGE: 650
+    * EFFECT RADIUS: 1200
+    * Active: Mordekaiser aims his mace towards the target enemy champion, slowing them by 75% and revealing them over the cast time, and then banishing them with him to the Death Realm for 7 seconds.
+    * Mordekaiser also consumes the target's soul for 7 seconds, healing himself for 10% of their maximum health and reducing their current attack damage, ability power, total attack speed, maximum health, armor, magic resist, and size by 10%. If the target dies while inside the Death Realm, Mordekaiser keeps their partial stats until they respawn.
+    * Units between realms see each other as spirits, considering each other dead and negating any interactions between the two. Only the target and Mordekaiser will enter the realm, other champions cannot follow them. Everything that occurs inside the Death Realm is hidden, and all non-champion pets still inside are destroyed at the end.
+    * If one of the two affected champions leaves the Death Realm, because of having died or having it dispelled, the other will do so as well.
+* **Mordekaiser's Realm of Death**
+  * The Realm of Death is a battlefield that exists outside of the normal realm in an alternate "dimension." It exists only for Mordekaiser and his target. It consists of an arena that has a radius of 1200 units and includes any terrain features that would exist in the map of the normal realm, including walls and brushes.
+  * The boundaries of the arena are impassable but not considered terrain themselves, and enemies that try to move out of the area will be displaced back inside. Dashes, blinks, displacements, and other forms of movement will cap their effect range to the boundary. Targets will stop at the boundary even after it expires.
+  * Realm of Death retains Mordekaiser's previous current health percentage when granting him a portion of the target's maximum health.
+  * Realm of Death can be dispelled if the target uses a cleansing effect, with the exceptions of Cleanse, Mikael's Blessing, and Kled's Dismount.
+  * Mordekaiser or the target casting another Realm of Death will cause both champions to remain stuck for the duration of the new circle.
+  * Spell shield will not block the initial slow.
+  * The reveal effect lasts for 1.25 seconds from the start of the cast time if the cast does not complete. Otherwise, the reveal ends as soon as the cast time completes.
+  * If the target's health is lower than the amount that should be stolen, they will be brought down to 1 health. Mordekaiser will still get the usual amount of maximum health.
+  * Entering or leaving the Death Realm will cause all targeted projectiles to be destroyed. The transition in and out of the Death Realm does not interrupt channels.
+  * Grand Starfall will always be interrupted from the transition into the realm.
+  * Realm of Death will not be dispelled if either of the two affected champions enter resurrection after taking lethal damage. It is dispelled if the target enters a zombie state.
+  * Any active tether effects (both friendly and hostile ones) existing on either of the two champions entering the realm are broken (unless the tether is between those two).
+  * Upon entering the realm, Mordekaiser and the target are cleansed from all forced action effects. (bug)
+  * Unlike other stats, Mordekaiser does not steal enemy total size; instead, he gains 10% of his own size and reduces the enemy's size by 10% of theirs (all size modifiers stack additively).
+  * Mordekaiser grows in size over 0.25 seconds after successfully stealing his targets' stats, and shrinks over 0.25 seconds after the buff runs out again. The target shrinks over 0.25 seconds after their stats are stolen, but grows back to normal size instantly when the effect ends.
+* **Map-Specific Differences**
+  * Nexus Blitz differences
+    * When certain Events begin, both Mordekaiser and his target immediately leave the Death Realm.
+* **Champion skins**
+  * Original
+  * Dragon Knight
+  * Infernal
+  * Pentakill
+  * Lord
+  * King of Clubs
+  * Dark Star
+  * PROJECT
+  * Pentakill Lost Chapter
+  * Ashen Graveknight
+  * Old God
+* **Voice filter**
+* **New voiceover**
+* **New SFX/VFX**
+* **New Animations/Recall**
+* **Chromas**
+  * Dark Star Mordekaiser Chromas
+  * Ashen Graveknight Mordekaiser Chromas
+  * Pentakill III: Lost Chapter Mordekaiser Chromas
+  * Aquamarine
+  * Citrine
+  * Obsidian
+  * Peridot
+  * Rose Quartz
+  * Ruby
+  * Sapphire
+  * Sandstone
+  * Tanzanite
+* **Patch history**
+  * For the expanded patch notes, see here.
+  * V14.4
+    * Bug Fix: Homeguard run VFX no longer appears more intense than intended.
+  * V14.1
+    * Realm of Death
+      * Bug Fix: No longer brings Akali's shroud with her through dimensions.
+  * V13.24
+    * Obliterate
+      * AP ratio increased to 70% AP from 60% AP.
+    * Realm of Death
+      * New Effect: Now reveals the target for the duration of the cast.
+  * V13.12
+    * Realm of Death
+      * Bug Fix: Caster and the target now properly see a wisp for each player outside the realm.
+  * V13.10
+    * Realm of Death
+      * Bug Fix: No longer causes Aurelion Sol's abilities to not function properly.
+  * V13.4
+    * Realm of Death
+      * Bug Fix: Champions in the realm can no longer escape the boundaries under certain conditions.
+  * V13.3
+    * Indestructible
+      * Bug Fix: Tooltip no longer displays doubled values for the damage taken to Potential Shield conversion.
+  * V13.1b
+    * Indestructible
+      * Undocumented: Damage taken to shield resource conversion factor reduced to 3.75% from 7.5%.
+  * V13.1
+    * Darkness Rise
+      * Bug Fix: No longer grants stacks from hitting medium and small monsters with abilities.
+  * V12.23
+    * Darkness Rise
+      * Bug Fix: No longer grants stacks from hitting medium and small monsters with basic attacks.
+      * Damage cap against monsters reduced to 28 − 164 (based on level) from 180 at all levels.
+  * V12.21
+    * Death's Grasp
+      * Bug Fix: VFX no longer sometimes plays twice per cast.
+  * V12.10
+    * Stats
+      * Base health increased to 645 from 575.
+      * Health growth increased to 104 from 90.
+      * Armor growth increased to 4 from 3.
+      * Magic resistance growth increased to 1.5 from 1.25.
+    * Indestructible
+      * Shield to healing reduced to 35/37.5/40/42.5/45% from 40/42.5/45/47.5/50%.
+  * V12.8
+    * Darkness Rise
+      * Bonus movement speed increased to 3/6/9% (based on level) from 3% at all levels.
+  * V11.19
+    * Death's Grasp
+      * Cooldown reduced to 18/16/14/12/10 seconds from 22/19/16/13/10.
+  * V11.17
+    * Realm of Death
+      * Bug Fix: When he uses it on Graves, Smoke Screen now properly remains in the realm that it was cast in.
+  * V11.15
+    * Indestructible
+      * Cooldown reduced to 12/11/10/9/8 seconds from 14/13/12/11/10.
+      * Damage dealt stored increased to 45% from 35%.
+      * Damage dealt stored to non-champions increased to 11.25% from 8.75%.
+  * V11.10
+    * Lord Mordekaiser
+      * Updated visual effects.
+  * V11.8
+    * Darkness Rise
+      * Damage cap against monsters increased to 180 at all levels from 28 − 164 (based on level).
+      * New Effect: Now gains a stack from damaging all jungle monsters rather than just large monsters.
+  * V11.7
+    * Obliterate
+      * Single target bonus damage increased to 40/45/50/55/60% from 30/35/40/45/50%.
+  * V11.3
+    * Death's Grasp
+      * Cooldown reduced to 22/19/16/13/10 seconds from 24/21/18/15/12.
+  * V10.25
+    * Obliterate
+      * Single target bonus damage increased to 30/35/40/45/50% from 20/25/30/35/40%.
+  * V10.12
+    * Realm of Death
+      * Bug Fix: No longer locks out his enemies' Unsealed Spellbook -granted Teleport (and any Summoner Spell that's switched out) for the remainder of the game when he stops their teleporting with Realm of Death.
+  * V10.9
+    * Realm of Death
+      * Bug Fix: Rift Scuttler's speed shrine is now properly functional outside of the Realm of Death even when he captures the champion that killed it in his Realm of Death.
+  * V10.8
+    * Realm of Death
+      * Bug Fix: Can no longer cast Teleport while being in his Realm of Death.
+  * V10.6
+    * General
+      * Recommended items updated.
+    * Realm of Death
+      * Bug Fix: No longer deals an additional 10% of the target's maximum health in damage when cast on a target at full health.
+  * V10.5
+    * Darkness Rise
+      * Damage cap against monsters increased to 28 − 164 (based on level) from 25 − 120 (based on level).
+  * V10.4
+    * Darkness Rise
+      * Damage cap against monsters increased to 25 − 120 (based on level) from 15 − 100 (based on level).
+  * V10.3
+    * Darkness Rise
+      * Bug Fix: Now properly deals damage to enemies only when the ability is active.
+  * V10.1
+    * Darkness Rise
+      * Duration reduced to 4 seconds from 5.
+      * Bonus movement speed reduced to 3% at all levels from 3% − 9% (based on level).
+  * V9.19
+    * Indestructible
+      * Damage dealt stored increased to 35% from 30%.
+  * V9.17
+    * Realm of Death
+      * Bug Fix: Statikk Shiv will no longer hit nearby targets outside of Realm of Death when the holder attacks him within it.
+      * Casting abilities in a realm will no longer affect units in that realm if the realm has been switched during the cast time. It will now affect units in the same realm after the cast time.
+  * V9.15
+    * Realm of Death
+      * Bug Fix: Pets that are created/cast at the very end of Realm of Death will no longer remain in the Realm after its duration.
+      * Draven's unempowered basic attacks now properly deal damage in Realm of Death.
+      * Katarina's Shunpo is usable in Realm of Death.
+  * V9.14
+    * Darkness Rise
+      * Base damage reduced to 5 − 15.2 (based on level) from 8 − 25 (based on level).
+      * Bug Fix: No longer activates on his corpse if it procs via Death's Grasp hitting 3 enemies after he dies.
+    * Death's Grasp
+      * Magic penetration reduced to 5/10/15/20/25% from 5/10/15/20/25%.
+  * V9.13
+    * Darkness Rise
+      * Bug Fix: Tooltip now notes it works on large monsters.
+  * V9.12
+    * Full Relaunch
+      * General
+        * Complete visual upgrade across all skins.
+        * New artwork for Original Mordekaiser, Infernal Mordekaiser, Lord Mordekaiser, and Dragon Knight Mordekaiser.
+        * Adjusted artwork for King of Clubs Mordekaiser and Pentakill Mordekaiser.
+        * New voice over.
+        * New lore.
+      * Stats
+        * Base movement speed increased to 335 from 325.
+        * Base attack speed increased to 0.625 from 0.601.
+        * Base attack damage increased to 65 from 61.
+        * Base armor increased to 39 from 25.
+        * Base magic resistance reduced to 32 from 32.1.
+      * Darkness Rise
+        * (Innate)
+          * Innate: Mordekaiser's basic attacks deal 40% AP bonus magic damage on-hit.
+          * After 3 basic attacks or abilities against enemy champions and large monsters, Mordekaiser gains Darkness Rise for 5 seconds. Further basic attacks and abilities against enemy champions and large monsters refresh the duration.
+        * Darkness Rise: Mordekaiser deals 10 − 35.5 (based on level) (+ 30% AP) (+ 1% − 6.1% (based on level) of target's maximum health) magic damage per second to all nearby enemies and gains 5% − 10% (based on level) bonus movement speed.
+      * Obliterate (Q)
+      * Indestructible (W)
+      * Death's Grasp (E)
+      * Realm of Death (R)
+        * Active: Mordekaiser slows the targeted enemy champion by 75% for 0.5 seconds. If the target is still in range and targetable by the end of the duration, they're banished together with Mordekaiser to the Death Realm for 7 seconds, during which they cannot leave.
+        * Units between realms see each other as spirits, considering each other dead and negating any interactions between the two. Only the target and Mordekaiser will enter the realm, other champions cannot follow them.
+        * Everything that occurs inside the Death Realm is hidden, and all non-champion pets still inside are destroyed at the end.
+        * For the same duration, Mordekaiser also steals 10% of the target's current size, armor, magic resist, health, attack damage, ability power, and attack speed. If Mordekaiser kills his target, he consumes their soul, keeping their partial stats until they respawn.
+        * If one of the two affected champions leaves the Death Realm, because of having died or having it dispelled, the other will do so as well, but the stats will remain stolen for the full duration.
+        * Target Range: 650.
+        * Effect Radius: 1200.
+        * Cooldown: 140/130/120/110/100 seconds.

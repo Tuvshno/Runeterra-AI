@@ -1,0 +1,82 @@
+Games
+
+**Universe**
+
+* League of Legends
+	+ *Champions*
+		- **Naafiri**
+			* **Image**
+			* **Gameplay**
+				* Cosmetics
+				* Audio
+				* Development
+				* Patch History
+				* History
+				* Trivia
+			* **Base statistics**
+				* Health: 635 +120
+				* Mana: 400 +55
+				* Health regen. (per 5s): 9 +0.9
+				* Mana regen. (per 5s): 7.5 +1
+				* Armor: 30 +4.7
+				* Attack damage: 55 +2.1
+				* Magic resist.: 32 +2.05
+				* Crit. damage: 175%
+				* Move. speed: 340
+				* Attack range: 125
+				* Attack speed: Base AS: 0.663, Attack windup: 17.5%, AS ratio: 0.625, Bonus AS: +2.1%
+				* Unit radius: Gameplay radius: 55, Selection radius: 111, Pathing radius: 35, Acq. radius: 400
+			* **Special statistics**
+				* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+				* Damage Dealt: +5%, Damage Received: +0%, Ability Haste: +10, Damage Received: +0%, Damage Received: +0%, Damage Received: +0%, Damage Received: +0%, Damage Received: +0%, Damage Received: +0%, Damage Received: +0%
+			* **Abilities**
+				* **We Are More**
+					* Passive: During The Call of the Pack, We Are More's cooldown is reduced to 15 / 12.5 / 10 (based on level)
+					* Map-Specific Differences: Arena differences: Packmate attack damage bonus AD ratio changed to 6% bonus AD
+				* Innate: Periodically, Naafiri summons a Packmate that fights alongside her. She may have up to 2 / 3 (based on level) Packmates at a time. Naafiri summons the maximum number of Packmates when the game starts and upon respawning. Hitting champions or large monsters with abilities reduces the cooldown by 4 seconds. Killing enemies reduces it by 1 second.
+					* Static Cooldown: 25 / 20 / 15 / 10 (based on level) seconds
+				* Darkin Daggers (Q)
+					* Active: Naafiri hurls a dagger in the target direction that deals physical damage to enemies hit and inflicts them with a bleed for 5 seconds, which deals bonus physical damage every 0.5 seconds over the duration and executes minions if they would be damaged below 30 − 70 (based on level) health
+					* Cost: 55 / 60 / 65 / 70 / 75 mana
+					* Cooldown: 11 / 10 / 9 / 8 / 7 seconds
+					* Cast time: 0.25 seconds, Target range: 900, Width: 50
+					* Initial Physical Damage: 35 / 45 / 55 / 65 / 75 (+ 20% bonus AD)
+					* Bonus Physical Damage per Tick: 3 / 6 / 9 / 12 / 15 (+ 8% bonus AD)
+					* Total Bonus Physical Damage: 30 / 60 / 90 / 120 / 150 (+ 80% bonus AD)
+					* Total Physical Damage: 65 / 105 / 145 / 185 / 225 (+ 100% bonus AD)
+					* If a target is already bleeding, they are instead dealt the remaining bleed damage plus additional bonus physical damage which is increased by 0% − 100% (based on target's missing health) if that target is also a champion, Naafiri heals herself
+					* Minimum Bonus Physical Damage: 30 / 45 / 60 / 75 / 90 (+ 40% bonus AD)
+					* Maximum Bonus Physical Damage: 60 / 90 / 120 / 150 / 180 (+ 80% bonus AD)
+					* Heal: 45 / 60 / 75 / 90 / 105 (+ 40% bonus AD)
+					* Recast: Naafiri mimics the first cast's effects
+					* Darkin Daggers deals 60% damage against minions
+				* Map-Specific Differences: Arena differences: Initial base damage changed to 45 / 57.5 / 70.5 / 83.5 / 96.5, Initial damage bonus AD ratio changed to 25% bonus AD, Bleed base damage changed to 40 / 80 / 120 / 160 / 200, Bleed total bonus AD ratio changed to 100% bonus AD, Minimum bonus damage changed to 40 / 55 / 70 / 85 / 100 (+ 40% bonus AD), Maximum bonus damage changed to 80 / 110 / 140 / 170 / 200 (+ 80% bonus AD), Minimum bonus damage bonus AD ratio changed to 45% bonus AD, Maximum bonus damage bonus AD ratio changed to 90% bonus AD, Base heal changed to 60 / 82.5 / 104.5 / 126.5 / 148.5 (+ 50% bonus AD), Heal bonus AD ratio changed to 50% bonus AD
+				* Hounds' Pursuit (W)
+					* Active: Naafiri channels for 0.75 seconds to single out the target enemy. Upon completion, the target is revealed for 1.5 seconds and Naafiri and her Packmates dash to the target, each colliding with the first enemy champion hit. Upon impact, Naafiri deals physical damage and slows the target by 99% for 0.25 seconds, while Packmates deal 10% of that damage to their own targets
+					* Cost: 70 / 60 / 50 / 40 / 30 mana
+					* Cooldown: 22 / 20 / 18 / 16 / 14 seconds
+					* Cast time: None, Target range: 700 / 780 / 860 / 940 (based on The Call of The Pack's rank)
+					* Physical Damage: 30 / 70 / 110 / 150 / 190 (+ 80% bonus AD)
+					* Packmate Physical Damage: 3 / 7 / 11 / 15 / 19 (+ 8% bonus AD)
+					* Packmates become untargetable during their windup and dash, and can individually damage targets
+					* Hounds' Pursuit refunds 50% of its cooldown if the channel is cancelled
+				* Map-Specific Differences: Arena differences: Initial base damage changed to 45 / 57.5 / 70.5 / 83.5 / 96.5, Initial damage bonus AD ratio changed to 25% bonus AD
+				* Eviscerate (E)
+					* Active: Naafiri dashes in the target direction and deals physical damage to enemies she passes through. Upon arrival, she explodes in a flurry of blades to deal physical damage to nearby enemies. Packmates vanish during the dash and reappear near Naafiri on her arrival. They are also healed to full health
+					* Cost: 35 mana
+					* Cooldown: 10 / 9.5 / 9 / 8.5 / 8 seconds
+					* Cast time: None, Target range: 350, Collision radius: 50, Effect radius: 210
+					* Dash Physical Damage: 35 / 50 / 65 / 80 / 95 (+ 50% bonus AD)
+					* Flurry Physical Damage: 60 / 90 / 120 / 150 / 180 (+ 80% bonus AD)
+					* Total Physical Damage: 95 / 140 / 185 / 230 / 275 (+ 130% bonus AD)
+					* Packmates vanish during the dash and reappear near Naafiri on her arrival. They are also healed to full health both when Naafiri casts Eviscerate or the hunt from The Call of the Pack is refreshed or ends
+				* Replenish: Packmates are healed to full health both when Naafiri casts Eviscerate or the hunt from The Call of the Pack is refreshed or ends
+				* The Call of the Pack (R)
+					* Passive: Hounds' Pursuit gains bonus cast range
+					* Active: Naafiri prepares her grand hunt, immediately despawning all active Packmates then summoning the maximum number of new ones along with extra Packmates. She grants herself and all Packmates bonus movement speed that decays over 4 seconds and is doubled while out-of-combat. She also grants sight of the surrounding area for 2 seconds, and reveals nearby enemy champions for 4 seconds. Naafiri goes on the hunt for 15 seconds, during which she gains bonus attack damage, increases the maximum health of all her Packmates by 25%, and reduces the total cooldown of We Are More by 50%. Her first basic attack or ability hit against a champion will grant her a shield for 3 seconds
+					* Cooldown: 120 / 110 / 100 seconds
+					* Cast time: 0.75 seconds, Effect radius: 2100 / 2100
+					* Bonus Movement Speed: 70 / 85 / 100%
+					* Reduced Bonus Movement Speed: 35 / 42.5 / 50%
+					* Naafiri goes on the hunt for 15 seconds, during which she gains 10 / 20 / 30 (+ 15 / 20 / 25% AD) bonus attack damage, increases the maximum health of all her Packmates by 25%, and reduces the total cooldown of We Are More by 50%. Her first basic attack or ability hit against a champion will grant her a shield for 125 / 325 / 525 (+ 50% bonus AD) for 3 seconds
+					* First champion takedown within the duration refreshes all effects of The Call of the Pack, restores all Packmates to full health, and grants Naafiri the same shield again, though not stacking with the first one. When the hunt ends, any extra Packmates are despawned and all other ones are restored to full health.

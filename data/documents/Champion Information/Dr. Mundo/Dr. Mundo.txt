@@ -1,0 +1,140 @@
+**Games**
+
+* Universe
+* **:**
+
+**League of Legends**
+
+* **:**
+	+ League of Legends
+	+ Teamfight Tactics
+	+ Wild Rift
+
+**Image**
+
+**Dr. Mundo**
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+| **Champion** | **DrMundo** |
+| --- | --- |
+| **Release date** | 2009-09-02 |
+| **Last changed** | V13.22 |
+| **Class(es)** | Juggernaut, Legacy, Fighter, Tank |
+| **Position(s)** | Top |
+| **Resource** | Health |
+| **Range type** | Melee |
+| **Adaptive type** | Physical |
+| **Store price** | 450 |
+
+**Resource**
+
+* 260
+* 01.09.2009
+
+**Cosmetics**
+
+* Original
+* Toxic
+* Corporate Mundo
+* Mr. Mundoverse
+* Executioner Mundo
+* Rageborn Mundo
+* TPA Mundo
+* Pool Party Mundo
+* El Macho Mundo
+* Frozen Prince Mundo
+* Street Demons Dr. Mundo
+
+**Audio**
+
+* New voiceover
+* New SFX/VFX
+* New Animations/Recall
+
+**Patch history**
+
+* V13.22: Blunt Force Trauma bonus attack damage increased
+* V13.21: Blunt Force Trauma bonus attack damage reduced; Maximum Dosage cooldown increased
+* V13.16: Infected Bonesaw missile visuals corrected
+* V13.6: Stats base health regeneration increased; Blunt Force Trauma damage against monsters increased
+* V13.5: Maximum Dosage bug fix
+* V13.1: Stats base health reduced; Blunt Force Trauma bonus attack damage reduced; Infected Bonesaw health cost changed
+* V12.23: Multiple stat and ability changes; Infected Bonesaw and Heart Zapper health cost changes; Maximum Dosage cooldown increased
+* V12.22: Inconsistencies in ability tooltips resolved
+* V12.12: Multiple stat and ability changes
+* V12.10: Stats base health and health growth increased; Goes Where He Pleases crowd control immunity bug fix; Maximum Dosage increased base health reduction
+* V12.4: Stats attack damage growth reduced; Maximum Dosage cooldown increased
+* V11.24: Multiple stat changes; Infected Bonesaw minimum damage reduction
+* V11.21: Blunt Force Trauma new effect
+* V11.18: Goes Where He Pleases immobilizing effect bug fix
+* V11.17: Infected Bonesaw bug fix
+* V11.14: Multiple stat and ability changes
+* V11.13: Heart Zapper bug fix; Goes Where He Pleases Mordekaiser's Realm of Death interaction bug fix
+* V11.12: Multiple champion visual and stat changes
+* V11.11: Goes Where He Pleases canister interaction with Mordekaiser's Realm of Death bug fix
+* V11.10: Goes Where He Pleases canister interaction with crowd control effects bug fix
+* V11.9: Goes Where He Pleases canister interaction with Veigar's Cursed Quiver bug fix
+* V11.5: Goes Where He Pleases canister interaction with Rell's Magnet Storm bug fix
+* V11.3: Goes Where He Pleases canister interaction with Blitzcrank's Rocket Grab bug fix
+
+**Abilities**
+
+* **Goes Where He Pleases**
+	+ Innate: Health regeneration and immunity to immobilizing effects
+	+ Passive: Periodically regenerates health and gains immunity to immobilizing effects
+	+ Active: Throws a canister that heals on consumption and resets the cooldown
+* **Infected Cleaver** ➔ **Infected Bonesaw**
+	+ Cost: 50 / 60 / 70 / 80 / 90
+	+ Cooldown: 4
+	+ Cast Time: 0.25
+	+ Target Range: 1050 / 990
+	+ Width: 120
+	+ Speed: 2000
+	+ Active: Throws an infected bonesaw that deals magic damage and slows the first enemy hit
+	+ Minimum Damage: 80 / 130 / 180 / 230 / 280
+	+ Capped Monster Damage: 350 / 425 / 500 / 575 / 650
+	+ Heals on hit: 50% of health cost, increased to 100% against champions or monsters
+
+* **Heart Zapper**
+	+ Cost: 8% current health
+	+ Cooldown: 17 / 16.5 / 16 / 15.5 / 15
+	+ Cast Time: None
+	+ Effect Radius: 325
+	+ Active: Charges up a defibrillator for up to 3 seconds, dealing magic damage every 0.25 seconds to nearby enemies and storing post-mitigation damage taken
+	+ Recast: Detonates the defibrillator, dealing magic damage to nearby enemies and healing for 50% of stored damage
+	+ Heals on recast: 100% if at least one enemy champion or large monster is hit
+	+ Health cost: 5% current health on-cast
+	+ Cooldown: 1 second between activations
+
+* **Blunt Force Trauma**
+	+ Cost: 10 / 25 / 40 / 55 / 70
+	+ Cooldown: 9 / 8.25 / 7.5 / 6.75 / 6
+	+ Cast Time: None
+	+ Range: 800
+	+ Passive: Grants bonus attack damage
+	+ Bonus Attack Damage: 2 / 2.35 / 2.7 / 3.05 / 3.4% maximum health
+	+ Active: Empowers next basic attack with uncancellable windup, increased range, and bonus damage
+	+ Bonus Damage: 5 / 15 / 25 / 35 / 45 (+ 7% bonus health)
+	+ Damage against minions and non-epic monsters: 40% increased
+	+ Knocks enemies killed by attack away in a line, dealing damage to other enemies they pass through
+	+ Minimum Bonus Physical Damage: 5 / 15 / 25 / 35 / 45
+	+ Maximum Bonus Physical Damage: 7 / 21 / 35 / 49 / 63
+
+* **Maximum Dosage**
+	+ Cooldown: 120
+	+ Cast Time: None
+	+ Active: Injects himself with chemicals to become enhanced for 10 seconds, gaining increased base health, bonus movement speed, and bonus health regeneration
+	+ Increased Base Health: 15 / 20 / 25% missing health
+	+ Bonus Movement Speed: 15 / 25 / 35%
+	+ Bonus Health Regeneration: 20 / 40 / 60% maximum health
+	+ At rank 3, increased base health and health regeneration are both increased by 5% per enemy champion within 1200 units at the time of cast

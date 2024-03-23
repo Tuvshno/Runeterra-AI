@@ -1,0 +1,729 @@
+**Games**
+
+**Universe**
+
+- League of Legends
+  - **Champions**
+    - **Hwei**
+      - **Gameplay**
+        - Cosmetics
+        - Audio
+        - Development
+        - Patch History
+        - History
+        - Trivia
+      - **Base Statistics**
+      - **Abilities**
+        - **Signature of the Visionary**
+          * Innate: Hwei's damaging abilities mark enemies hit for 4 seconds. Damaging them with a different ability consumes the mark to create an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to enemies in the area after 0.85 seconds.
+          Effect Radius: 285.
+        - **Subject: Disaster**
+          * Active: Hwei enters a disastrous mood, gaining access to its abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+          Mana Cost: 100 / 105 / 110 / 115 / 120.
+          Cooldown: 10 / 9 / 8 / 7 / 6 seconds.
+          Cast Time: None.
+        - **Devastating Fire**
+          * Active – QQ: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+          Cast Time: 0.25 seconds.
+          Range: 800.
+          Speed: 2000.
+        - **Severing Bolt**
+          * Active – QW: Hwei calls upon a lightning bolt to strike at the target location after 1 second, dealing 80 / 100 / 120 / 140 / 160 (+ 25% AP) magic damage to enemies within the area.
+          Against enemies that are immobilized or isolated from their allies, Severing Bolt deals 200 / 237.5 / 275 / 312.5 / 350% increased damage based on the target's missing health. This bonus damage is capped at 300 against monsters.
+          Severing Bolt deals 50% damage to minions and non-epic monsters.
+          Cast Time: 0.5 seconds.
+          Target Range: 1900.
+        - **Molten Fissure**
+          * Active – QE: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies.
+          Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing 5 / 10 / 15 / 20 / 25 (+ 6.25% AP) magic damage every 0.25 seconds to enemies within the area and slowing them by 30%.
+          Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+          Cast Time: 0.35 seconds.
+      - **Special Statistics**
+      - ARAM
+      - Nexus Blitz
+      - One For All
+      - URF
+      - Ult Spellbook
+      - Arena
+      - Damage Dealt: +0%
+      - Damage Received: +0%
+      - Ability Haste: +20
+      - Damage Dealt: +0%
+      - Damage Received: +0%
+      - Damage Dealt: +0%
+      - Damage Received: +0%
+      - Damage Dealt: +0%
+      - Damage Received: +0%
+      - Damage Dealt: +0%
+      - Damage Received: +0%
+      - Damage Dealt: +0%
+      - Damage Received: +0%
+      - Abilities
+        - **Signature of the Visionary**
+          * Effect Radius: 285
+          * Innate: Hwei's damaging abilities mark enemies hit for 4 seconds. Damaging them with a different ability consumes the mark to create an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to enemies in the area after 0.85 seconds.
+        - **Subject: Disaster**
+          * Active: Hwei enters a disastrous mood, gaining access to its abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+        - **Devastating Fire**
+          * Active – QQ: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+          Cast Time: 0.25 seconds.
+          Range: 800.
+          Speed: 2000.
+        - **Severing Bolt**
+          * Active – QW: Hwei calls upon a lightning bolt to strike at the target location after 1 second, dealing 80 / 100 / 120 / 140 / 160 (+ 25% AP) magic damage to enemies within the area.
+          Against enemies that are immobilized or isolated from their allies, Severing Bolt deals 200 / 237.5 / 275 / 312.5 / 350% increased damage based on the target's missing health. This bonus damage is capped at 300 against monsters.
+          Severing Bolt deals 50% damage to minions and non-epic monsters.
+          Cast Time: 0.5 seconds.
+          Target Range: 1900.
+        - **Molten Fissure**
+          * Active – QE: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies.
+          Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing 5 / 10 / 15 / 20 / 25 (+ 6.25% AP) magic damage every 0.25 seconds to enemies within the area and slowing them by 30%.
+          Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+          Cast Time: 0.35 seconds.
+      - **Targeting Input**
+        - Auto
+      - **Notes**
+        - No additional details.
+      - **Champion Skins**
+        - Original
+        - Winterblessed
+      - **Lore**
+        - Hwei is a brooding painter who creates brilliant art in order to confront Ionia's criminals and comfort their victims. Beneath his melancholy roils a torn, emotional mind—haunted by both the vibrant visions of his imagination and the gruesome memories of his temple's massacre. Hwei seeks to understand this light and dark, which drives him inevitably toward the artist who unraveled him. With paintbrush and palette, Hwei shapes endless possibilities as he draws ever closer to earning closure or embracing despair.
+      - Stephen Fu
+      - Bo 'chenbowow' Chen
+      - Winterblessed
+      - Loot eligible
+      - New SFX/VFX
+      - New Animations/Recall
+      - Chromas
+      - Winterblessed Hwei Chromas
+      - Catseye
+      - Emerald
+      - Obsidian
+      - Pearl
+      - Ruby
+      - Sapphire
+      - Turquoise
+      - Wreathguard
+      - **Trivia**
+      - Hwei is currently the champion with the largest number of abilities in League of Legends: 11 when excluding his subject selection spells, and 15 when including them.
+      - Hwei's kit obeys the rule of thirds in multiple aspects: He has 3 × 3 basic abilities. His passive requires two damaging abilities in order to deal a third damaging ability. He studies two negative subjects and one positive subject. Serenity, Hwei's positive mood, is placed between his other two negative moods, anger and anguish. This fact stems from lore implications, namely his inner turmoil, as detailed in his universe short stories - "Hwei faces the conflicting hues of Ionia" in 'The Visionary' and "Art saves me, yet it can shatter me" in 'Paintings Framed in Half-Light'.
+      - When Hwei dies, his eyes, that reflect his current mood, fade into a colorless blankness, symbolizing the absence of any emotional presence in death.
+      - **Patch History**
+        - V14.5
+          * Bug Fix: Subjects no longer sometimes share the cooldown of the last used basic spell.
+        - V14.4
+          * New Effect: In the Golden Ratio Quest, Spiraling Despair now has a 3 second forgiveness window for him to kill Jhin for quest completion.
+        - V14.3
+          * Bug Fix: Wash Brush no longer locks him out of his subject selection upon casting Wash Brush during a buffer or cast time of any of his basic abilities when those abilities are targeted outside of their maximum cast range.
+        - V14.2
+          * Bug Fix: Spell slot is no longer locked temporarily if he leveled up a skill while entering a Subject.
+          * Bug Fix: Can no longer sometimes enter a Subject while he was out of mana.
+          * Bug Fix: No longer becomes locked out of leaving the Subject if he died while casting Devastating Fire as the player was reconnecting to the game.
+          * Bug Fix: No longer sometimes explodes prematurely when hitting walls or other champion abilities.
+          * Bug Fix: Slow no longer stacks with the slow of Crushing Maw.
+        - V14.1
+          * Bug Fix: No longer sometimes casts a different ability from the same subject if his previous cast was interrupted by an item activation.
+          * Bug Fix: Basic abilities no longer go on cooldown from certain rapid button press combinations.
+          * Bug Fix: No longer sometimes casts a different spell than the one he input while casting during movement.
+          * Bug Fix: No longer expires before reaching a moving target.
+        - V13.24
+          * Stats
+            * Base armor increased to 21 from 18.
+          * General
+            * Bug Fix: No longer sometimes casts a different ability from the same subject if his previous cast was interrupted by an item activation.
+            * Bug Fix: Basic abilities no longer go on cooldown from certain rapid button press combinations.
+            * Bug Fix: No longer sometimes casts a different spell than the one he input while casting during movement.
+            * Gaze of the Abyss
+              * Bug Fix: No longer expires before reaching a moving target.
+          * V13.24
+            * December 12th Hotfix
+              * Subject: Disaster
+                * Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 100 / 105 / 110 / 115 / 120.
+                * AP ratio increased to 70% AP from 60% AP.
+              * Grim Visage
+                * Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 90 / 120 / 150 / 180.
+              * Gaze of the Abyss
+                * Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 90 / 120 / 150 / 180.
+              * Crushing Maw
+                * Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 90 / 120 / 150 / 180.
+              * Spiraling Despair
+                * Missile width increased to 180 from 160.
+          * V13.24
+            * December 7th Hotfix
+              * Subject: Disaster
+                * Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 100 / 105 / 110 / 115 / 120.
+                * AP ratio increased to 70% AP from 60% AP.
+                * Health ratio increased to 4 / 5 / 6 / 7 / 8% of target's maximum health from 4 / 4.5 / 5 / 5.5 / 6%.
+              * Grim Visage
+                * AP ratio increased to 60% AP from 55% AP.
+              * Gaze of the Abyss
+                * AP ratio increased to 60% AP from 55% AP.
+              * Crushing Maw
+                * AP ratio increased to 60% AP from 55% AP.
+          * V13.24
+            * Added Signature of the Visionary
+            * New Effect: Signature of the Visionary – Innate: Hwei's damaging abilities mark enemies hit for 4 seconds. Damaging them with a different ability consumes the mark to create an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to enemies in the area after 0.85 seconds.
+            Effect Radius: 285.
+          * Subject: Disaster
+            * Active: Hwei enters a disastrous mood, gaining access to its abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+            Mana Cost: 100 / 105 / 110 / 115 / 120.
+            Cooldown: 10 / 9 / 8 / 7 / 6 seconds.
+            Cast Time: None.
+          * Devastating Fire
+            * Active – QQ: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+            Cast Time: 0.25 seconds.
+            Range: 800.
+            Speed: 2000.
+          * Severing Bolt
+            * Active – QW: Hwei calls upon a lightning bolt to strike at the target location after 1 second, dealing 80 / 100 / 120 / 140 / 160 (+ 25% AP) magic damage to enemies within the area.
+            Against enemies that are immobilized or isolated from their allies, Severing Bolt deals 200 / 237.5 / 275 / 312.5 / 350% increased damage based on the target's missing health. This bonus damage is capped at 300 against monsters.
+            Severing Bolt deals 50% damage to minions and non-epic monsters.
+            Cast Time: 0.5 seconds.
+            Target Range: 1900.
+          * Molten Fissure
+            * Active – QE: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies.
+            Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing 5 / 10 / 15 / 20 / 25 (+ 6.25% AP) magic damage every 0.25 seconds to enemies within the area and slowing them by 30%.
+            Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+            Cast Time: 0.35 seconds.
+        - V13.23
+          * December 3rd Hotfix
+            * Subject: Disaster
+              * Bug Fix: No longer throws Devastating Fire at immobile champions or units while casting during movement.
+        - V13.22
+          * November 23rd Patch
+            * Subject: Disaster
+              * Bug Fix: No longer throws Devastating Fire at immobile champions or units while casting during movement.
+          * V13.21
+            * November 16th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei could occasionally throw an ability at the incorrect target while casting during movement.
+          * V13.20
+            * November 9th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei could occasionally throw an ability at the incorrect target while casting during movement.
+          * V13.19.1
+            * November 2nd Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally malfunction when casting during movement.
+          * V13.19
+            * October 26th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's Severing Bolt could occasionally deal more damage than intended to minions and monsters.
+                * Bug Fix: Fixed an issue where Hwei's Molten Fissure could occasionally not deal damage to enemies at the edge of its radius.
+          * V13.18
+            * October 19th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's Grim Visage could occasionally deal more damage than intended to minions and monsters.
+          * V13.17
+            * October 12th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's Molten Fissure could occasionally deal less damage than intended to minions and monsters.
+          * V13.16.1
+            * October 5th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V13.16
+            * September 28th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's Devastating Fire could occasionally deal less damage than intended to minions and monsters.
+          * V13.15
+            * September 21st Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V13.14
+            * September 14th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V13.13
+            * September 7th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V13.12
+            * August 31st Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V13.11
+            * August 24th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V13.10
+            * August 17th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V13.9
+            * August 10th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V13.8
+            * August 3rd Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V13.7
+            * July 27th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V13.6
+            * July 20th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V13.5
+            * July 13th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V13.4
+            * July 6th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V13.3
+            * June 29th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V13.2
+            * June 22nd Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V13.1
+            * June 15th Hotfix
+              * Subject: Disaster
+                * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V13.0
+            * June 8th Patch
+              * Subject: Disaster
+                * New Champion: Hwei, the Visionary.
+                * Base Stats: Health 580, Mana 480, Health Regen 5.5, Mana Regen 7.5, Armor 21, Attack Damage 54, Magic Resist 30, Crit Damage 175%, Move Speed 330, Attack Range 550, Attack Speed Base 0.69, Attack Windup 18.729%, AS Ratio 0.658, Bonus AS 2.5%.
+                * Classes: Artillery, Legacy, Mage.
+                * Positions: Middle, Support.
+                * Resources: Mana.
+                * Range Type: Ranged.
+                * Adaptive Type: Magic.
+                * Store Price 6300, 975 RP.
+                * Abilities:
+                  * Signature of the Visionary
+                  * Subject: Disaster
+                  * Subject: Serenity
+                * Passive: Hwei gains a passive that marks enemies hit by his damaging abilities for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for a short duration, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals damage, knocks up, and fears enemies hit, slowing them for a duration.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After a short delay, the path erupts into volcanic explosions, dealing damage to enemies in the area and leaving a lava fissure that deals damage over time and slows enemies.
+              * Changelog:
+                * New Champion: Hwei, the Visionary.
+                * Base Stats: Health 580, Mana 480, Health Regen 5.5, Mana Regen 7.5, Armor 21, Attack Damage 54, Magic Resist 30, Crit Damage 175%, Move Speed 330, Attack Range 550, Attack Speed Base 0.69, Attack Windup 18.729%, AS Ratio 0.658, Bonus AS 2.5%.
+                * Classes: Artillery, Legacy, Mage.
+                * Positions: Middle, Support.
+                * Resources: Mana.
+                * Range Type: Ranged.
+                * Adaptive Type: Magic.
+                * Store Price 6300, 975 RP.
+                * Abilities:
+                  * Signature of the Visionary
+                  * Subject: Disaster
+                  * Subject: Serenity
+                * Passive: Hwei gains a passive that marks enemies hit by his damaging abilities for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for a short duration, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals damage, knocks up, and fears enemies hit, slowing them for a duration.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After a short delay, the path erupts into volcanic explosions, dealing damage to enemies in the area and leaving a lava fissure that deals damage over time and slows enemies.
+                * Signature of the Visionary: Hwei's damaging abilities mark enemies hit for 4 seconds. Damaging them with a different ability consumes the mark to create an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to enemies in the area after 0.85 seconds.
+                * Subject: Disaster: Hwei enters a disastrous mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Subject: Serenity: Hwei enters a serene mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for 4 / 4.5 / 5 / 5.5 / 6 seconds, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals 60 / 90 / 120 / 150 / 180 (+ 55% AP) magic damage to the first enemy hit and fears them for 1 second, during which they are slowed by 60%.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing 5 / 10 / 15 / 20 / 25 (+ 6.25% AP) magic damage every 0.25 seconds to enemies within the area and slowing them by 30%.
+                * Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+          * V12.23
+            * November 16th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V12.22
+            * November 9th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.21
+            * November 2nd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V12.20
+            * October 26th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V12.19
+            * October 19th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.18
+            * October 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V12.17
+            * October 5th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.16
+            * September 28th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V12.15
+            * September 21st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V12.14
+            * September 14th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.13
+            * September 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V12.12
+            * August 31st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.11
+            * August 24th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V12.10
+            * August 17th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.9
+            * August 10th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V12.8
+            * August 3rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.7
+            * July 27th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V12.6
+            * July 20th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V12.5
+            * July 13th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.4
+            * July 6th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V12.3
+            * June 30th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V12.2
+            * June 23rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V12.1
+            * June 16th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V12.0
+            * June 9th Patch
+              * New Champion: Hwei, the Visionary.
+              * Base Stats: Health 580, Mana 480, Health Regen 5.5, Mana Regen 7.5, Armor 21, Attack Damage 54, Magic Resist 30, Crit Damage 175%, Move Speed 330, Attack Range 550, Attack Speed Base 0.69, Attack Windup 18.729%, AS Ratio 0.658, Bonus AS 2.5%.
+              * Classes: Artillery, Legacy, Mage.
+              * Positions: Middle, Support.
+              * Resources: Mana.
+              * Range Type: Ranged.
+              * Adaptive Type: Magic.
+              * Store Price 6300, 975 RP.
+              * Abilities:
+                * Signature of the Visionary
+                * Subject: Disaster
+                * Subject: Serenity
+                * Passive: Hwei gains a passive that marks enemies hit by his damaging abilities for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for a short duration, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals damage, knocks up, and fears enemies hit, slowing them for a duration.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After a short delay, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies.
+                * Signature of the Visionary: Hwei's damaging abilities mark enemies hit for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Subject: Disaster: Hwei enters a disastrous mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Subject: Serenity: Hwei enters a serene mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for 4 / 4.5 / 5 / 5.5 / 6 seconds, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals 60 / 90 / 120 / 150 / 180 (+ 55% AP) magic damage to the first enemy hit and fears them for 1 second, during which they are slowed by 60%.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+          * V11.24
+            * December 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V11.23
+            * December 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.22
+            * November 30th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V11.21
+            * November 23rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V11.20
+            * November 16th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V11.19
+            * November 9th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.18
+            * November 2nd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V11.17
+            * October 26th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V11.16
+            * October 19th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.15
+            * October 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V11.14
+            * October 5th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.13
+            * September 28th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V11.12
+            * September 21st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V11.11
+            * September 14th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.10
+            * September 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V11.9
+            * August 31st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.8
+            * August 24th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V11.7
+            * August 17th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.6
+            * August 10th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V11.5
+            * August 3rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.4
+            * July 27th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V11.3
+            * July 20th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V11.2
+            * July 13th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V11.1
+            * July 6th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V11.0
+            * June 29th Patch
+              * New Champion: Hwei, the Visionary.
+              * Base Stats: Health 580, Mana 480, Health Regen 5.5, Mana Regen 7.5, Armor 21, Attack Damage 54, Magic Resist 30, Crit Damage 175%, Move Speed 330, Attack Range 550, Attack Speed Base 0.69, Attack Windup 18.729%, AS Ratio 0.658, Bonus AS 2.5%.
+              * Classes: Artillery, Legacy, Mage.
+              * Positions: Middle, Support.
+              * Resources: Mana.
+              * Range Type: Ranged.
+              * Adaptive Type: Magic.
+              * Store Price 6300, 975 RP.
+              * Abilities:
+                * Signature of the Visionary
+                * Subject: Disaster
+                * Subject: Serenity
+                * Passive: Hwei gains a passive that marks enemies hit by his damaging abilities for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for a short duration, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals damage, knocks up, and fears enemies hit, slowing them for a duration.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After a short delay, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+                * Signature of the Visionary: Hwei's damaging abilities mark enemies hit for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Subject: Disaster: Hwei enters a disastrous mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Subject: Serenity: Hwei enters a serene mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for 4 / 4.5 / 5 / 5.5 / 6 seconds, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals 60 / 90 / 120 / 150 / 180 (+ 55% AP) magic damage to the first enemy hit and fears them for 1 second, during which they are slowed by 60%.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+          * V10.24
+            * December 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V10.23
+            * December 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.22
+            * November 30th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V10.21
+            * November 23rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V10.20
+            * November 16th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V10.19
+            * November 9th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.18
+            * November 2nd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V10.17
+            * October 26th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V10.16
+            * October 19th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.15
+            * October 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V10.14
+            * October 5th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.13
+            * September 28th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V10.12
+            * September 21st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V10.11
+            * September 14th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.10
+            * September 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V10.9
+            * August 31st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.8
+            * August 24th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V10.7
+            * August 17th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.6
+            * August 10th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V10.5
+            * August 3rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.4
+            * July 27th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V10.3
+            * July 20th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V10.2
+            * July 13th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V10.1
+            * July 6th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V10.0
+            * June 29th Patch
+              * New Champion: Hwei, the Visionary.
+              * Base Stats: Health 580, Mana 480, Health Regen 5.5, Mana Regen 7.5, Armor 21, Attack Damage 54, Magic Resist 30, Crit Damage 175%, Move Speed 330, Attack Range 550, Attack Speed Base 0.69, Attack Windup 18.729%, AS Ratio 0.658, Bonus AS 2.5%.
+              * Classes: Artillery, Legacy, Mage.
+              * Positions: Middle, Support.
+              * Resources: Mana.
+              * Range Type: Ranged.
+              * Adaptive Type: Magic.
+              * Store Price 6300, 975 RP.
+              * Abilities:
+                * Signature of the Visionary
+                * Subject: Disaster
+                * Subject: Serenity
+                * Passive: Hwei gains a passive that marks enemies hit by his damaging abilities for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for a short duration, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals damage, knocks up, and fears enemies hit, slowing them for a duration.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After a short delay, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+                * Signature of the Visionary: Hwei's damaging abilities mark enemies hit for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Subject: Disaster: Hwei enters a disastrous mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Subject: Serenity: Hwei enters a serene mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for 4 / 4.5 / 5 / 5.5 / 6 seconds, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals 60 / 90 / 120 / 150 / 180 (+ 55% AP) magic damage to the first enemy hit and fears them for 1 second, during which they are slowed by 60%.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+          * V9.24
+            * December 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V9.23
+            * December 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.22
+            * November 30th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V9.21
+            * November 23rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V9.20
+            * November 16th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V9.19
+            * November 9th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.18
+            * November 2nd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V9.17
+            * October 26th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V9.16
+            * October 19th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.15
+            * October 12th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V9.14
+            * October 5th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.13
+            * September 28th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V9.12
+            * September 21st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to deal damage to enemies.
+          * V9.11
+            * September 14th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.10
+            * September 7th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V9.9
+            * August 31st Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.8
+            * August 24th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V9.7
+            * August 17th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.6
+            * August 10th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V9.5
+            * August 3rd Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.4
+            * July 27th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V9.3
+            * July 20th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally fail to trigger their effects on enemies.
+          * V9.2
+            * July 13th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal less damage than intended to minions and monsters.
+          * V9.1
+            * July 6th Hotfix
+              * Bug Fix: Fixed an issue where Hwei's abilities could occasionally deal more damage than intended to minions and monsters.
+          * V9.0
+            * June 29th Patch
+              * New Champion: Hwei, the Visionary.
+              * Base Stats: Health 580, Mana 480, Health Regen 5.5, Mana Regen 7.5, Armor 21, Attack Damage 54, Magic Resist 30, Crit Damage 175%, Move Speed 330, Attack Range 550, Attack Speed Base 0.69, Attack Windup 18.729%, AS Ratio 0.658, Bonus AS 2.5%.
+              * Classes: Artillery, Legacy, Mage.
+              * Positions: Middle, Support.
+              * Resources: Mana.
+              * Range Type: Ranged.
+              * Adaptive Type: Magic.
+              * Store Price 6300, 975 RP.
+              * Abilities:
+                * Signature of the Visionary
+                * Subject: Disaster
+                * Subject: Serenity
+                * Passive: Hwei gains a passive that marks enemies hit by his damaging abilities for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for a short duration, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals damage, knocks up, and fears enemies hit, slowing them for a duration.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After a short delay, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.
+                * Signature of the Visionary: Hwei's damaging abilities mark enemies hit for 4 seconds. Consuming the mark with a different damaging ability will cause an explosion beneath them, dealing 35 – 180 (+ 30% AP) bonus magic damage to nearby enemies.
+                * Subject: Disaster: Hwei enters a disastrous mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Subject: Serenity: Hwei enters a serene mood, gaining access to his abilities as well as Wash Brush. He will exit the mood upon casting any of them.
+                * Q – Devastating Fire: Hwei slings a fireball in the target direction that explodes upon colliding with the first enemy or reaching maximum range, dealing 60 / 90 / 120 / 150 / 180 (+ 60% AP) (+ 4 / 4.5 / 5 / 5.5 / 6% of target's maximum health) magic damage to all nearby enemies. The damage based on the target's health ratio is capped at 250 against monsters.
+                * W – Fleeting Current: Hwei creates a current in the target direction that grants him and allied champions bonus movement speed for 4 / 4.5 / 5 / 5.5 / 6 seconds, refreshing every 0.125 seconds while they remain in the area.
+                * E – Grim Visage: Hwei launches a terrifying grin in the target direction that deals 60 / 90 / 120 / 150 / 180 (+ 55% AP) magic damage to the first enemy hit and fears them for 1 second, during which they are slowed by 60%.
+                * R – Molten Fissure: Hwei marks a blazing path in the target direction. After 0.7 seconds, the path erupts into volcanic explosions every 0.175 seconds from the point of cast. Each explosion creates a shockwave that deals 20 / 40 / 60 / 80 / 100 (+ 30% AP) magic damage to nearby enemies. Each explosion also leaves a lava fissure in its wake. A fissure lasts for 2.5 seconds, dealing damage over time and slowing enemies. Molten Fissure's damage is reduced to 60% against minions and increased to 135% against monsters.

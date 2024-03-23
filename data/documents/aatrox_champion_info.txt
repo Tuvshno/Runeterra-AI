@@ -1,0 +1,1667 @@
+Games
+Universe
+•
+League of Legends
+•
+Teamfight Tactics
+•
+Legends of Runeterra
+•
+Wild Rift
+Image
+Aatrox
+Gameplay
+Collection
+Audio
+Patch history
+Past versions
+Aatrox
+the Darkin Blade
+Release date
+2013-06-13
+Last changed
+V14.4
+Class(es)
+Juggernaut
+Legacy
+Fighter
+Tank
+Position(s)
+Top
+Resource
+Manaless
+(
+Blood Well
+)
+Range type
+Melee
+Adaptive type
+Physical
+Store price
+4800
+|
+880
+Crafting
++
+2880
+Ratings
+Damage
+3
+Toughness
+3
+Control
+2
+Mobility
+2
+Utility
+2
+Style
+Difficulty
+Champion Spotlight
+Aatrox Champion Spotlight
+Aatrox
+is a
+champion
+in
+League of Legends
+.
+[1]
+Gameplay
+•
+Cosmetics
+•
+Audio
+•
+Development
+•
+Patch History
+•
+History
+•
+Trivia
+Statistics
+[
+]
+Base statistics
+Aatrox
+Edit
+Health
+650
++114
+Resource
+N/A
+Health regen. (per 5s)
+3
++1
+Resource regen.
+N/A
+Armor
+38
++4.45
+Attack damage
+60
++5
+Magic resist.
+32
++2.05
+Crit. damage
+175%
+Move. speed
+345
+Attack range
+175
+Attack speed
+Base AS
+0.651
+Attack windup
+19.737%
+AS ratio
+N/A
+Bonus AS
++2.5
+%
+Unit radius
+Gameplay radius
+65
+Selection radius
+135
+Pathing radius
+35
+Acq. radius
+475
+Special statistics
+ARAM
+Nexus Blitz
+One For All
+URF
+Ult Spellbook
+Arena
+Damage Dealt
++5%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++15%
+Damage Received
+-30%
+Damage Dealt
++0%
+Damage Received
++0%
+Damage Dealt
++0%
+Damage Received
++0%
+Abilities
+[
+]
+Edit
+Deathbringer Stance
+Deathbringer Stance
+STATIC
+COOLDOWN:
+22 − 10 (based on level)
+Innate:
+Periodically,
+Aatrox
+empowers his next
+basic attack
+to gain
+50
+bonus
+range
+and deal
+bonus
+magic damage
+equal to
+4% − 12% (based on level)
+of the target's
+maximum
+health
+, capped at 100 against
+monsters
+.
+Aatrox
+heals
+for 80% of the
+post-mitigation
+bonus
+damage
+dealt, reduced to 25% against
+minions
+.
+Whenever
+Aatrox
+hits at least one enemy
+champion
+or large
+monster
+with a basic attack
+on-hit
+or an
+ability
+, the
+cooldown
+of
+Deathbringer Stance
+is reduced by 2 seconds, modified to 4 if he hits with the
+Sweetspot
+of
+The Darkin Blade
+.
+Hide
+Details
+Video
+Info
+Targeting input
+Passive
+Damage type
+Type
+Sub-type
+Proc damage
+Magic
+Counters
+Spell shield
+Parries
+Not Blocked
+Blocked
+Aatrox
+will assume stance when an enemy champion is in range of
+Infernal Chains
+.
+Pressing
+CTRL + 5
+switches stances controllably.
+If
+Deathbringer Stance
+becomes available during a standard attack's windup, it will not be consumed or trigger the
+bonus
+damage.
+Even if the ability hit is
+spell shielded
+Deathbringer Stance's
+cooldown will still be reduced.
+This ability goes on cooldown on death and refreshes upon respawn.
+The empowered attack will not trigger against
+structures
+and
+wards
+.
+Video
+https://leagueoflegends.fandom.com/wiki/File:Aatrox_IVideo.webm
+Edit
+The Darkin Blade
+The Darkin Blade
+COOLDOWN
+:
+14 / 12 / 10 / 8 / 6
+CAST TIME:
+0.
+6
+RANGE:
+Varied
+Aatrox
+can activate
+The Darkin Blade
+three times before the ability goes on cooldown, with a 1-second
+static cooldown
+between casts. If
+Aatrox
+does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.
+Active:
+Aatrox
+performs a strike with his greatsword for each of the three casts, dealing
+physical damage
+to enemies hit within an area. Enemies hit within a
+Sweetspot
+of the area take
+60%
+bonus
+damage
+and also
+knocked up
+for 0.
+25
+seconds. Each subsequent cast increases
+The Darkin Blade's
+damage by 25%.
+First Cast:
+Aatrox's
+first strike affects a 625 × 180-unit rectangular area in the target direction, with him centered on the back line and the
+Sweetspot
+at the farthest edge.
+First Cast Damage:
+10 / 25 / 40 / 55 / 70
+(+ 60 / 67.
+5
+/ 75 / 82.
+5
+/ 90% AD)
+First Sweetspot Damage:
+16 / 40 / 64 / 88 / 112
+(+ 96 / 108 / 120 / 132 / 144% AD)
+Second Cast:
+Aatrox's
+second strike affects a trapezoidal area in the target direction, with the
+Sweetspot
+at the farthest edge. The hitbox begins 100-units behind
+Aatrox
+and extends 475-units in front of him, measuring between 300 and 500-units wide from behind to in front.
+Second Cast Damage:
+12.
+5
+/ 31.
+25
+/ 50 / 68.
+75
+/ 87.
+5
+(+ 75 / 84.
+375
+/ 93.
+75
+/ 103.
+125
+/ 112.
+5
+% AD)
+Second Sweetspot Damage:
+20 / 50 / 80 / 110 / 140
+(+ 120 / 135 / 150 / 165 / 180% AD)
+Third Cast:
+Aatrox's
+third strike affects a 300-radius circular area centered on a target location that is 200 units in front of him, with a 180-radius
+Sweetspot
+within.
+Third Cast Damage:
+15 / 37.
+5
+/ 60 / 82.
+5
+/ 105
+(+ 90 / 101.
+25
+/ 112.
+5
+/ 123.
+75
+/ 135% AD)
+Third Sweetspot Damage:
+24 / 60 / 96 / 132 / 168
+(+ 144 / 162 / 180 / 198 / 216% AD)
+The Darkin Blade
+deals
+55 / 60 / 65 / 70% (based on level)
+damage against
+minions
+, and the
+knock up
+duration from hitting the
+Sweetspot
+is doubled to 0.
+5
+seconds against
+monsters
+.
+Maximum Non-Minion Damage:
+60 / 150 / 240 / 330 / 420
+(+ 360 / 405 / 450 / 495 / 540% AD)
+Hide
+Details
+Video
+Info
+Targeting input
+Direction
+Damage type
+Type
+Sub-type
+Area damage
+Physical
+Counters
+Spell shield
+Blocked
+The highlighted areas denote the sweetspot - enemies are affected where the two areas overlap (See
+edge range
+and
+center range
+).
+The first and second casts function like any point-blank AOE (i.e. an effect centered on the caster). An enemy is considered to be hit by the ability based on
+edge range
+- i.e. if any part of your
+gameplay radius
+is within the hitbox, you are affected.
+The third cast, as well as the
+Sweetspot
+for the first and second cast, function like
+ground-targeted
+abilities. An enemy is considered to be hit by the ability based on
+center range
+- i.e. an enemy's center has to be within the hitbox to be affected.
+As implied by the previous point, the
+Sweetspot
+for the first and second cast is implemented as separate
+areas of effect
+to the main component of the ability. Enemies must be within both areas to trigger the bonus damage,
+knock up
+and
+Deathbringer Stance's
+cooldown reduction.
+The 'target gets hit' SFX plays whenever an enemy is within the
+Sweetspot
+- meaning it is possible to trigger the sound effect without affecting an enemy.
+Each cast counts as an ability activation for the purposes of on-cast effects such as
+Spellblade
+and triggering
+Force Pulse's
+passive.
+The hitbox and
+Aatrox's
+model are fixed to the initial target direction.
+Aatrox's
+facing-direction, for effects such as
+Petrifying Gaze
+, is the direction he is moving, and not the direction the model is facing.
+All damage modifiers
+stack multiplicatively
+.
+There's a small period of time in which Aatrox can't declare basic attacks after casting
+The Darkin Blade
+.
+(bug)
+This ability will cast from wherever the caster is at the end of the cast time.
+Type
+Cast time
+Attacking
+Disabled
+Abilities
+Umbral Dash
+can be cast. Other abilities are disabled.
+Movement
+Disabled
+Items
+Usable
+Shurelya's Battlesong
+Youmuu's Ghostblade
+Randuin's Omen
+Disabled
+All the other item-actives are disabled
+Interrupted by
+N/A
+Consumables
+Usable
+Spells
+Usable
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Flash
+Disabled
+Teleport
+Recall
+Hexflash
+Interrupted by
+N/A
+Interrupted by
+Death
+Video
+https://leagueoflegends.fandom.com/wiki/File:Aatrox_Q_Video.webm
+Edit
+Infernal Chains
+Infernal Chains
+COOLDOWN:
+20 / 18 / 16 / 14 / 12
+CAST TIME:
+0.
+25
+RANGE:
+825 /
+765
+WIDTH:
+160
+SPEED:
+1800
+Active:
+Aatrox
+sends a chain in the target direction that deals
+magic damage
+to the first enemy hit, doubled against
+minions
+, and
+slowing
+them for 1.
+5
+seconds.
+Magic Damage:
+30 / 40 / 50 / 60 / 70
+(+ 40% AD)
+Minion Damage:
+60 / 80 / 100 / 120 / 140
+(+ 80% AD)
+Slow:
+25 / 27.
+5
+/ 30 / 32.
+5
+/ 35%
+If this hits an enemy
+champion
+or large
+monster
+, a
+tether
+is formed between the target and the ground beneath them for 1.
+5
+seconds, during which they are
+revealed
+.
+If the tether is not broken by the end of its duration, the target is dealt the same
+magic damage
+again and
+pulled
+to the center of the area.
+Total Damage:
+60 / 80 / 100 / 120 / 140
+(+ 80% AD)
+Hide
+Details
+Tips & Tricks
+Video
+Info
+Targeting input
+Direction
+Damage type
+Type
+Sub-type
+Spell damage
+Magic
+Counters
+Spell shield
+Projectile
+See Notes
+Blocked
+The impact area is oriented relative to
+Aatrox's
+position when the projectile hits, not where the projectile originated from.
+The location that the target is dragged to is not at the target's original location, but slightly closer towards
+Aatrox's
+position when the zone expires.
+Spell shield
+will block the chain's application and initial damage but not the aftereffects of one already applied.
+This ability will cast from wherever the caster is at the end of the cast time.
+Tips & Tricks
+To succesfully escape when moving in a straight line away from
+Aatrox
+requires at least
+628 movement speed
+.
+Video
+https://leagueoflegends.fandom.com/wiki/File:Aatrox_W_Video.webm
+Edit
+Umbral Dash
+Umbral Dash
+COOLDOWN:
+9 / 8 / 7 / 6 / 5
+CAST TIME:
+none
+TARGET RANGE:
+75
+/
+300
+/
+500
+SPEED:
+800
+/
+Up to 1340
+Passive:
+Aatrox
+heals
+for a portion of the non-
+persistent
+post-mitigation damage
+he deals against enemy champions, increased during
+World Ender
+.
+Healing:
+18 / 19.
+5
+/ 21 / 22.
+5
+/ 24%
+World Ender
+Increased Healing:
+20 / 24 / 28 / 32 / 36%
+Active:
+Aatrox
+dashes
+in the target direction.
+Umbral Dash
+resets
+Aatrox's
+basic attack timer and can be cast during his other abilities without cancelling them and vice versa.
+Hide
+Details
+Map-Specific Differences
+Video
+Info
+Targeting input
+Location
+Insufficient dash range
+Dash will gain bonus range through terrain.
+Counters
+Grounded
+Knockdown
+Disabled
+Interrupted
+The
+dash
+distance can be extended to up-to 500 units when targeting across terrain. It will only extend for the distance needed to cross the wall.
+This may upscale his dash speed so that the dash takes the same total time as the standard maximum-range dash.
+If
+Umbral Dash
+is cast in the same direction
+Aatrox
+is moving, he will be unable to buffer commands that require him to move.
+(bug)
+Aatrox's
+model darkens for 1.
+5
+seconds upon casting
+Umbral Dash
+, which is a remnant from a buff he received before it got removed.
+Map-Specific Differences
+Arena
+differences
+edit
+Healing changed to 20 / 23 / 26 / 29 / 32%.
+World Ender
+healing changed to 24 / 29 / 34 / 39 / 44%.
+Recharge changed to 9 / 8 / 7 / 6 / 5 seconds.
+Video
+https://leagueoflegends.fandom.com/wiki/File:Aatrox_E_Video.webm
+Edit
+World Ender
+World Ender
+COOLDOWN
+:
+120 / 100 / 80
+CAST TIME:
+0.
+25
+EFFECT RADIUS:
+600
+Active:
+Aatrox
+unleashes his true form for 10 seconds,
+fearing
+nearby enemy
+minions
+and
+monsters
+for 3 seconds, during which they are gradually
+slowed
+by up to 99% over the duration. He also gains
+ghosting
+and
+bonus
+movement speed
+that decays by 10% of the
+current bonus
+every 0.
+25
+seconds, lasting until
+World Ender
+has ended.
+Bonus Movement Speed:
+60 / 80 / 100%
+Whenever
+Aatrox
+scores a champion
+takedown
+, he extends the duration by 5 seconds and becomes unleashed again.
+During
+World Ender
+,
+Aatrox
+gains
+bonus
+attack damage
+and 5% increased
+size
+, and receives increased
+self-healing
+from all sources.
+Bonus Attack Damage:
+20 / 32.
+5
+/ 45% AD
+Increased Healing:
+25 / 35 / 45%
+Link
+▶️
+"Fight! Or be forgotten!"
+Hide
+Details
+Map-Specific Differences
+Video
+Info
+Targeting input
+Auto
+His resource bar indicates the remaining duration of
+World Ender
+.
+World Ender
+persists through
+resurrection
+effects.
+World Ender's
+healing amplification applies to the health gained by resurrecting.
+World Ender
+will cast from wherever
+Aatrox
+is at the end of the cast time.
+Casting
+World Ender
+while it is still active renders
+Aatrox's
+wings invisible and removes the timer on the resource bar.
+(bug)
+This is possible via
+Axiom Arc's
+or
+Practice Tool's
+cooldown reduction or by going on a very long killing spree.
+Map-Specific Differences
+Arena
+differences
+edit
+Increased healing changed to 30 / 45 / 60%.
+Bonus attack damage changed to
+30 / 42.
+5
+/ 55% AD
+.
+Video
+https://leagueoflegends.fandom.com/wiki/File:Aatrox_R_Video.webm
+Champion skins
+[
+]
+This article section only contains champion skins. For all associated collection items, see
+Aatrox (Collection)
+.
+Original
+View in 3D
+880
+12.06.2013
+Once honored defenders of Shurima against the Void, Aatrox and his brethren would eventually become an even greater threat to Runeterra, and were defeated only by cunning mortal sorcery. But after centuries of imprisonment, Aatrox was the first to find freedom once more, corrupting and transforming those foolish enough to try and wield the magical weapon that contained his essence. Now, with stolen flesh, he walks Runeterra in a brutal approximation of his previous form, seeking an apocalyptic and long overdue vengeance.
+Ramon Tikaram
+Victor '3rdColossus' Maury
+Loot eligible
+Justicar
+View in 3D
+975
+12.06.2013
+Chief among the Arclight stand the Justicars, sentinels who serve as living embodiments of justice and order. Aatrox embodies power, for it is his martial prowess that holds the chaos back.
+Ramon Tikaram
+Pan Chengwei
+Justicar
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Mecha
+View in 3D
+1350
+23.07.2014
+Designated ATRX-1, the “Mecha Aatrox” unit was developed in response to 'gliding' kaiju with the capability of limited flight. In addition, ATRX-1 wields a thermal blade that can turn residual light particles into a heated cutting edge.
+Ramon Tikaram
+Pan Chengwei
+Mecha
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Mecha Aatrox Chromas
+Obsidian
+Pearl
+Tanzanite
+Sea Hunter
+View in 3D
+750
+22.07.2015
+Bilgewater is home to many bounty hunters, but those looking to track a target through hundreds of miles of open ocean go to the hulking creature known as Aatrox. Cool, professional, and capable of rapidly regenerating from near-fatal wounds, with Aatrox you'll always know your bounty is in good hands.
+Ramon Tikaram
+Sixmorevodka Studio
+Bilgewater: Burning Tides
+Loot eligible
+Blood Moon
+View in 3D
+1350
+10.01.2019
+Ancient manuscripts tracking the orbit of the Blood Moon describe it not as celestial phenomenon, but as a cosmic womb. As the seasons grow shorter and the cult's activity continues to increase, some worry it will give birth to a new kind of demon—a creature helping to bring about its own dark ascendance.
+Ramon Tikaram
+Alex 'alexplank' Flores
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+Prestige Blood Moon
+View in 3D
+Special
+10.01.2019
+Aatrox has been loosed upon the mortal plane. A creature born in the heart of the Blood Moon, he is the progenitor of all demons, and a malignant darkness that will consume the entire world.
+Ramon Tikaram
+Alex 'alexplank' Flores
+Blood Moon
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Blood Moon
+. Store variants are discounted for multiple purchases.
+Victorious
+View in 3D
+Special
+21.11.2019
+Victorious Aatrox was awarded to players who reached Gold or higher in the 2019 season. With arm and sword sculpted from crystal quartz, he stands as a monument to all who wish to achieve greatness.
+Ramon Tikaram
+Unknown artist
+Victorious
+Loot inelgible
+New SFX/VFX
+New Animations/Recall
+Chromas
+Victorious Aatrox Chromas
+Amber
+Odyssey
+View in 3D
+1350
+15.10.2020
+Aatrox is a violent and notorious crime lord whose name is feared throughout the criminal underworld. He is also disfigured by Ora abuse. Seeking to purge the substance from his body, he abducts Templars to extract it—and kills them when they are unable to do so. He has seized a number of high ranking Templar priests in order to draw out Karma, who he believes will finally heal him.
+Ramon Tikaram
+Zhong Yang, Kudos Productions
+Odyssey
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Odyssey Aatrox Chromas
+Citrine
+Emerald
+Merc
+Rainbow
+Rose Quartz
+Ruby
+Sapphire
+Turquoise
+Prestige Blood Moon (2022)
+View in 3D
+Special
+01.04.2022
+Aatrox has been loosed upon the mortal plane. A creature born in the heart of the Blood Moon, he is the progenitor of all demons, and a malignant darkness that will consume the entire world.
+Ramon Tikaram
+Alex 'alexplank' Flores
+Blood Moon
+Loot inelgible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+Prestige Blood Moon
+. Store variants are discounted for multiple purchases.
+Lunar Eclipse
+View in 3D
+1350
+28.04.2022
+One of the few who took up the mantle of the Eclipse Knights in the days of old, Aatrox hopelessly pined for Kayle's affections… but she could only ever love the blazing sun. When she devoured it, the entity's lunar corona consumed him. He exists now as Kayle's monstrous, once-noble shadow, ever at her side.
+Ramon Tikaram
+Marie Magny, West Studio
+Eclipse
+Loot eligible
+Voice filter
+New SFX/VFX
+New Animations/Recall
+Chromas
+Lunar Eclipse Aatrox Chromas
+Citrine
+Emerald
+Obsidian
+Rainbow
+Rose Quartz
+Ruby
+Tanzanite
+Turquoise
+DRX
+View in 3D
+1350
+01.06.2023
+Honoring Kingen's winning performance as Aatrox during the 2022 World Championship.
+Ramon Tikaram
+Horace 'Hozure' Hsu
+World Champions: 2022
+Loot eligible
+Legacy
+New SFX/VFX
+New Animations/Recall
+Chromas
+DRX Aatrox Chromas
+Elite
+Prestige DRX
+View in 3D
+Special
+01.06.2023
+Aatrox is DRX's #1 fan, and he's got the goods to prove it, turning heads with his blue-and-white nod to the South Korean superstars. DRX and T1 supporters alike line up at Worlds to take photos, but he won't let his newfound fame distract him. He's just there to watch his favorite team take home the Summoner's Cup.
+Ramon Tikaram
+Marie Magny, West Studio
+World Champions: 2022
+Loot eligible
+New SFX/VFX
+New Animations/Recall
+This skin is a variant of
+DRX
+. Store variants are discounted for multiple purchases.
+Patch history
+[
+]
+For the expanded patch notes, see
+here
+.
+V14.4
+Deathbringer Stance
+Cooldown reduced to
+22 − 10 (based on level)
+seconds from
+24 − 12 (based on level)
+.
+Bug Fix:
+Empowered attack no longer reduces the cooldown by 2 seconds.
+Infernal Chains
+Bug Fix:
+Potentially fixed inconsistencies with the tether pulling a target when they leave the area at the last 0.
+25
+seconds of the duration.
+V13.20
+World Ender
+Bug Fix:
+VFX for bonus movement speed no longer disappears prematurely when the buff refreshes upon takedown.
+V13.17
+Deathbringer Stance
+Damage type changed to magic from physical.
+Infernal Chains
+Damage type changed to magic from physical.
+V13.15
+The Darkin Blade
+First cast AD ratio reduced to
+60 / 67.
+5
+/ 75 / 82.
+5
+/ 90% AD
+from
+60 / 70 / 80 / 90 / 100% AD
+.
+Second cast AD ratio reduced to
+75 / 84.
+375
+/ 93.
+75
+/ 103.
+125
+/ 112.
+5
+% AD
+from
+75 / 87.
+5
+/ 100 / 112.
+5
+/ 125% AD
+.
+Third cast AD ratio reduced to
+90 / 101.
+25
+/ 112.
+5
+/ 123.
+75
+/ 135% AD
+from
+90 / 105 / 120 / 135 / 150% AD
+.
+First cast sweetspot AD ratio reduced to
+96 / 108 / 120 / 132 / 144% AD
+from
+96 / 112 / 128 / 144 / 160% AD
+.
+Second cast sweetspot AD ratio reduced to
+120 / 135 / 150 / 165 / 180% AD
+from
+120 / 140 / 160 / 180 / 200% AD
+.
+Third cast sweetspot AD ratio reduced to
+144 / 162 / 180 / 198 / 216% AD
+from
+144 / 168 / 192 / 216 / 240% AD
+.
+Maximum AD ratio reduced to
+360 / 405 / 450 / 495 / 540% AD
+from
+360 / 420 / 480 / 540 / 600% AD
+.
+V13.14
+The Darkin Blade
+First cast base damage reduced to 10 / 25 / 40 / 55 / 70 from 10 / 30 / 50 / 70 / 90.
+Second cast base damage reduced to 12.
+5
+/ 31.
+25
+/ 50 / 68.
+75
+/ 87.
+5
+from 12.
+5
+/ 37.
+5
+/ 62.
+5
+/ 87.
+5
+/ 112.
+5
+.
+Third cast base damage reduced to 15 / 37.
+5
+/ 60 / 82.
+5
+/ 105 from 15 / 45 / 75 / 105 / 135.
+First cast AD ratio increased to
+60 / 70 / 80 / 90 / 100% AD
+from
+60 / 65 / 70 / 75 / 80% AD
+.
+Second cast AD ratio increased to
+75 / 87.
+5
+/ 100 / 112.
+5
+/ 125% AD
+from
+75 / 81.
+25
+/ 87.
+5
+/ 93.
+75
+/ 100% AD
+.
+Third cast AD ratio increased to
+90 / 105 / 120 / 135 / 150% AD
+from
+90 / 97.
+5
+/ 105 / 112.
+5
+/ 120% AD
+.
+First cast sweetspot base damage reduced to 16 / 40 / 64 / 88 / 112 from 16 / 48 / 80 / 112 / 144.
+Second cast sweetspot base damage reduced to 20 / 50 / 80 / 110 / 140 from 20 / 60 / 100 / 140 / 180.
+Third cast sweetspot base damage reduced to 24 / 60 / 96 / 132 / 168 from 24 / 72 / 120 / 168 / 216.
+Maximum base damage reduced to 60 / 150 / 240 / 330 / 420 from 60 / 180 / 300 / 420 / 540.
+First cast sweetspot AD ratio increased to
+96 / 112 / 128 / 144 / 160% AD
+from
+96 / 104 / 112 / 120 / 128% AD
+.
+Second cast sweetspot AD ratio increased to
+120 / 140 / 160 / 180 / 200% AD
+from
+120 / 130 / 140 / 150 / 160% AD
+.
+Third cast sweetspot AD ratio increased to
+144 / 168 / 192 / 216 / 240% AD
+from
+144 / 156 / 168 / 180 / 192% AD
+.
+Maximum AD ratio increased to
+360 / 420 / 480 / 540 / 600% AD
+from
+360 / 390 / 420 / 450 / 480% AD
+.
+Minion damage increased to
+55 / 60 / 65 / 70% (based on level)
+from 55% at all levels.
+V13.11
+General
+Bug Fix:
+Mecha Aatrox
+and
+Lunar Eclipse Aatrox
+no longer return to and freeze into their idle pose when their
+Recall
+animation was paused.
+The Darkin Blade
+Bug Fix:
+VFX of the third cast on some skins no longer render above impassable terrain.
+V13.9
+Deathbringer Stance
+Damage health ratio increased to
+4% − 12% (based on level)
+of target's
+maximum
+health
+from
+4% − 10% (based on level)
+.
+World Ender
+Bonus movement speed increased to 60 / 80 / 100% from 50 / 65 / 80%.
+V13.5
+Infernal Chains
+Slow increased to 25 / 27.
+5
+/ 30 / 32.
+5
+/ 35% from 25% at all ranks.
+Cooldown reduced to 20 / 18 / 16 / 14 / 12 seconds from 20 / 18.
+5
+/ 17 / 15.
+5
+/ 14.
+World Ender
+Bonus attack damage increased to
+20 / 32.
+5
+/ 45% AD
+from
+20 / 30 / 40% AD
+.
+V13.1
+Deathbringer Stance
+Damage health ratio reduced to
+4% − 10% (based on level)
+of the target's
+maximum
+health
+from
+5% − 12% (based on level)
+.
+Umbral Dash
+Healing during
+World Ender
+reduced to 20 / 24 / 28 / 32 / 36% from 25 / 30 / 35 / 40 / 45%.
+World Ender
+Bonus movement speed reduced to 50 / 65 / 80% from 60 / 80 / 100%.
+V12.20
+Deathbringer Stance
+Heal reduced to 80% of post-mitigation damage from 100%.
+V12.14
+Stats
+Health growth increased to 114 from 104.
+Umbral Dash
+Healing reduced to 18 / 19.
+5
+/ 21 / 22.
+5
+/ 24% from 18 / 20 / 22 / 24 / 26%.
+Healing during
+World Ender
+unchanged.
+World Ender
+Healing amplification reduced to 25 / 35 / 45% from 25 / 40 / 55%.
+V12.10
+Stats
+Base health increased to 650 from 580.
+Health growth increased to 104 from 90.
+Armor growth increased to 4.
+45
+from 3.
+25
+.
+Magic resistance growth increased to 2.
+05
+from 1.
+25
+.
+Umbral Dash
+Healing reduced to 18 / 20 / 22 / 24 / 26% from 20 / 22.
+5
+/ 25 / 27.
+5
+/ 30%.
+Healing during
+World Ender
+reduced to 25 / 30 / 35 / 40 / 45% from 26 / 32 / 38 / 44 / 50%.
+World Ender
+Healing amplification reduced to 25 / 40 / 55% from 30 / 45 / 60%.
+V12.7
+General
+Bug Fix:
+Voice lines now properly play when the conditions are met.
+V12.4
+The Darkin Blade
+Sweetspot bonus damage increased to 60% from 50%.
+V11.19
+Infernal Chains
+Cooldown reduced to 20 / 18.
+5
+/ 17 / 15.
+5
+/ 14 seconds from 26 / 23 / 20 / 17 / 14.
+V11.2
+Umbral Dash
+New Effect:
+Healing against champions is now increased to 26 / 32 / 38 / 44 / 50% during
+World Ender
+.
+World Ender
+Healing amplification reduced to 30 / 45 / 60% from 50 / 75 / 100%.
+V11.1
+Stats
+Base magic resistance reduced to 32 from 32.
+1
+.
+V10.20
+World Ender
+Healing amplification increased to 50 / 75 / 100% from 50 / 60 / 70%.
+V10.17
+World Ender
+Bonus attack damage increased to
+20 / 30 / 40% AD
+from
+20 / 25 / 30% AD
+.
+V10.15
+World Ender
+Bug Fix:
+Now properly fears and stops
+Zyra's
+enraged
+Thorn Spitters
+.
+V10.11
+Deathbringer Stance
+Bug Fix:
+Now properly heals when attacking an enemy
+Malphite
+with
+Granite Shield
+.
+Umbral Dash
+Bug Fix:
+Now properly heals when attacking an enemy
+Malphite
+with
+Granite Shield
+.
+V10.9
+General
+Taunt lines have been moved to his joke.
+Three of his old ultimate's revive lines have been repurposed as his taunt.
+World Ender
+Undocumented:
+No longer cancels if
+Aatrox
+would take
+lethal damage
+but is saved because of
+Death's Dance's
+damage storage or the enemy's
+Corrupting Potion's
+reduced damage for AoE damage.
+Undocumented:
+No longer cancels before entering
+resurrection
+.
+V9.19
+The Darkin Blade
+Damage against minions increased to 55% from 40% at all levels.
+V9.18
+Deathbringer Stance
+Healing against minions reduced to 25% from 100%.
+The Darkin Blade
+Damage against minions reduced to 40% at all levels from
+50% − 100% (based on level)
+.
+V9.14
+General
+Undocumented:
+Aatrox's
+walk animation for all his skins now performs correctly.
+Stats
+Health regeneration growth increased to 1 from 0.
+75
+.
+World Ender
+Removed:
+If
+Aatrox
+takes down at least one champion, taking lethal damage during
+World Ender
+no longer
+revives
+him over 3.
+25
+seconds, during which he is
+untargetable
+,
+invulnerable
+,
+slowed
+by 99%, unable to basic attack, cast abilities, or use summoner spells or item actives and heals himself for
+30% of his
+maximum
+health
+. While reviving,
+The Darkin Blade's
+recast timer is locked.
+Healing amplification increased to 50 / 60 / 70% from 40 / 55 / 70%.
+Cooldown reduced to 120 / 100 / 80 seconds from 140 / 120 / 100.
+V9.12
+Deathbringer Stance
+Cooldown changed to
+24 − 12 (based on level)
+seconds from 15 at all levels.
+World Ender
+Bonus healing changed to self-healing only from all incoming healing.
+V9.9
+- May 2nd Hotfix
+Stats
+Base armor increased to 38 from 33.
+Health growth increased to 90 from 80.
+Deathbringer Stance
+Damage increased to
+5% − 12% (based on level)
+of the target's
+maximum
+health
+from
+5% − 10% (based on level)
+.
+The Darkin Blade
+AD ratio increased to
+60 / 65 / 70 / 75 / 80% AD
+from
+55 / 60 / 65 / 70 / 75% AD
+.
+V9.9
+Stats
+Base health regeneration reduced to 3 from 8.
+Deathbringer Stance
+Removed:
+No longer inflicts
+Mutilator
+against enemy champions, reducing healing and shielding by 40% for 3 seconds.
+New Effect:
+Now heals for bonus physical damage dealt.
+Damage reduced to
+5% − 10% (based on level)
+of the target's
+maximum
+health
+from
+8% − 16% (based on level)
+.
+Static cooldown reduced to 15 seconds from 25.
+Removed:
+Cooldown is reduced by 2 seconds when
+Aatrox
+casts an ability or hits a champion with the edge of
+The Darkin Blade
+.
+New Effect:
+Cooldown is reduced by 2 seconds when
+Aatrox
+damages a champion or large monster with a basic attack or an ability or when he hits an enemy champion with the edge of
+The Darkin Blade
+.
+Maximum bonus damage against monsters reduced to 100 from 400.
+Attack frame adjusted to match other basic attacks.
+The Darkin Blade
+New Effect:
+Cooldown now begins after the most recent
+The Darkin Blade
+sequence finishes, rather than on first cast.
+Cooldown reduced to 14 / 12 / 10 / 8 / 6 seconds from 16 / 15 / 14 / 13 / 12.
+Base damage increased to 10 / 30 / 50 / 70 / 90 from 10 / 25 / 40 / 55 / 70.
+Infernal Chains
+Slow strength changed to 25% at all ranks from 15 / 20 / 25 / 30 / 35%.
+Cooldown increased to 26 / 23 / 20 / 17 / 14 seconds from 18 / 17 / 16 / 15 / 14.
+Umbral Dash
+Removed:
+No longer grants
+15 / 25 / 35 / 45 / 55
+bonus
+AD
+for 1.
+5
+seconds.
+New Effect:
+Healing changed to all non-periodic champion damage from physical champion damage.
+World Ender
+New Effect:
+Cooldown now begins on cast, rather than after
+World Ender
+expires.
+Cooldown reduced to 140 / 120 / 100 seconds from 160 / 140 / 120.
+Removed:
+No longer removes buffs during revival.
+New Effects:
+After 0.
+25
+seconds,
+Aatrox
+unleashes his true demonic form for 10 seconds,
+fearing
+nearby enemy minions for 3 seconds, and gaining 60 / 80 / 100%
+bonus
+movement speed, decaying over the duration.
+While transformed
+Aatrox
+gains increased size and
+20 / 25 / 30% AD
+, and receives 40 / 55 / 70% increased healing.
+With each enemy champion takedown,
+World Ender
+is extended by 5 seconds, refreshing its effects, up to the original amount. Additionally if at least one champion has been taken down, if
+Aatrox
+takes lethal damage, he will
+revive
+over 3.
+25
+seconds, during which he is
+untargetable
+,
+invulnerable
+,
+slowed
+by 99%, unable to basic attack, cast abilities, or use summoner spells or item actives and heals for
+30% of his
+maximum
+health
+. While reviving,
+The Darkin Blade's
+recast timer is locked.
+Old Effects:
+After 0.
+5
+seconds,
+Aatrox
+unleashes his true demonic form for 10 seconds,
+fearing
+nearby allied and enemy minions for 3 seconds, and for the first second gaining 120 / 180 / 240
+bonus
+movement speed.
+While transformed
+Aatrox
+gains increased size and
+20 / 25 / 30% AD
+, refreshing the
+bonus
+movement speed when out-of-combat with champions and turrets.
+Aatrox
+generates
+Blood Well
+equal to
+15% − 50% (based on duration)
+of his
+maximum
+health
+over the duration. Taking lethal damage during
+World Ender
+revives
+Aatrox
+over 3.
+25
+seconds, during which he is
+untargetable
+,
+invulnerable
+,
+slowed
+by 25%, unable to basic attack, cast abilities, or use summoner spells or item actives and consumes the
+Blood Well
+to recover the same amount in health. While reviving,
+The Darkin Blade's
+recast timer is locked.
+Trivia
+[
+]
+Aatrox, the Darkin Blade
+Out-of-universe,
+Aatrox
+is a word play on Latin
+atrox
+"fierce, savage, cruel" in turn from
+ater
+"dull black, dark", from root
+PIE
+*h₂eh₁ter-
+"fire";
+[2]
+All of these reference the
+Darkin
+weapon's physical manifestation and demonic nature (punning on
+dark kin
+), various
+historical fire-based weapons
+, the
+scorched earth
+strategy, and his '
+war as an artform
+' philosophy. Latin
+atrox
+gives rise to Anglo-French
+atrocity.
+Aatrox,
+Dr. Mundo
+,
+Mordekaiser
+,
+Vladimir
+, and
+Zac
+are the only champions that use their own
+health
+as a resource for
+abilities
+.
+Enemies hit by
+Massacre
+will leave a blood trail between themselves and Aatrox that he will rapidly absorb (this is a remaining visual effect from PBE testing, where Aatrox would gain attack speed based on how many enemies had been hit by
+Massacre
+, that was recycled in
+V5.6
+).
+Aatrox can still use emotes during
+Blood Well's
+revive.
+Sterak's Gage
+is speculated to have been
+Aatrox's
+missing left arm glove. Its passive was also coincidentally similar to Aatrox's.
+Prior to his rework, on the statement "This champion needs an update", players ranked Aatrox 5th in NA; 4th in BR; 3rd in KR and 14th in CN. He ranked 4th overall.
+[3]
+Aatrox, the Darkin Blade
+Aatrox is the first champion, since
+Lulu's
+patch
+introduced champion specific
+login screens
+, to receive two login screens and themes released for his Classic skin.
+In-game, Aatrox can toggle his banner-style wings and his sword stance [default: Ctrl + 5].
+Aatrox
+is one of 20 champions without a single
+ability power
+ratio on any ability:
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+,
+Yone
+, and
+Zed
+.
+The icon for
+World Ender
+is reused for the
+Teamfight Tactics
+item
+Darkin
+.
+Aatrox's Series 1
+Eternals
+make the following references:
+Chains Yanked
+references the idiom
+yank one's chain
+as well as the pull of
+Infernal Chains
+.
+QQ's
+references the
+QQ emoticon
+as well the multi-cast nature of
+The Darkin Blade
+.
+See also
+[
+]
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+References
+[
+]
+↑
+Aatrox's profile page
+at
+LeagueOfLegends.com
+↑
+DeVaan, M.
+Etymoligical Dictionary of Latin and other Italic languages
+, p. 60
+↑
+Riot Blaustoise Aatrox data tweet

@@ -1,0 +1,1343 @@
+Games **:** Universe
+
+**•** League of Legends
+
+**•** Teamfight Tactics
+
+**•** Legends of Runeterra
+
+**•** Wild Rift
+
+**Image**
+
+**Leona**
+
+**Gameplay**
+
+**•** Cosmetics
+
+**•** Audio
+
+**•** Development
+
+**•** Patch History
+
+**•** History
+
+**•** Trivia
+
+**Base statistics**
+
+**Leona**
+
+**Edit**
+
+Health: 646 + 101
+
+Mana: 302 + 40
+
+Health regen. (per 5s): 8.5 + 0.85
+
+Mana regen. (per 5s): 6 + 0.8
+
+Armor: 47 + 4.8
+
+Attack damage: 60 + 3
+
+Magic resist.: 32 + 2.05
+
+Crit. damage: 175%
+
+Move. speed: 335
+
+Attack range: 125
+
+Attack speed: Base AS 0.625, Attack windup 22.917%
+
+AS ratio: N/A
+
+Bonus AS: +2.9%
+
+Unit radius: Gameplay radius 65, Selection radius 75, Pathing radius 35, Acq. radius 400
+
+**Special statistics**
+
+ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+
+Damage Dealt: -10%, Damage Received: +5%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%
+
+**Abilities**
+
+[ ]
+
+**Edit**
+
+Sunlight
+
+Sunlight (Passive)
+
+Leona's abilities mark enemies hit for 1.5 seconds, refreshing on subsequent hits. Allied champions' damaging attacks and abilities against a marked target will consume the mark to deal 32 − 168 (based on level) bonus magic damage.
+
+**Hide**
+
+Details
+
+Info
+
+Targeting input: Passive
+
+Damage type: Type: Spell damage, Sub-type: Magic
+
+Counters: Spell shield (Blocked)
+
+Sunlight's mark damage is credited to the allied champion and not to Leona. The damage will benefit from allies' magic penetration and will apply any spell effects and spell vamp they have.
+
+**Pending for Test:**
+
+: Omnivamp, Zyra has a hidden passive that grants her 10% increased size for 33 seconds after having Sunlight applied to her.
+
+**Edit**
+
+Shield of Daybreak
+
+Shield of Daybreak (Q)
+
+Cost: 35 / 40 / 45 / 50 / 55 Mana
+
+Cooldown: 5 seconds
+
+Cast time: none
+
+Active: Leona illuminates her shield, empowering her next basic attack within 6 seconds to have a 0.25-second cast time, gain 50 bonus range, deal bonus magic damage, and stun the target for 1 second.
+
+Bonus Magic Damage: 10 / 35 / 60 / 85 / 110 (+ 30% AP)
+
+Shield of Daybreak resets Leona's basic attack timer.
+
+**Hide**
+
+Details
+
+Map-Specific Differences
+
+Info
+
+Targeting input: Auto
+
+Damage type: Type: Spell damage, Sub-type: Magic
+
+Counters: Spell shield (Parries), Missing (Blocked)
+
+The enhanced attack will apply other on-hit effects and can critically strike as normal. Critical strikes do not interact with Shield of Daybreak's bonus damage.
+
+**Pending for Test:**
+
+: Shield of Daybreak's interactions with dodging, blocking, and blinding effects.
+
+Shield of Daybreak's attack does not put Leona's basic attack on cooldown.
+
+(bug)
+
+This effectively performs a second attack reset.
+
+Probably not a bug because her High Noon skin gives the second attack a new distinguishable attack animation, which means that it's designed so.
+
+If the target becomes untargetable, dies, or is too far away during the empowered attack's cast time, it is cancelled but not consumed.
+
+The empowered attack will not trigger against buildings.
+
+**Map-Specific Differences**
+
+Arena differences
+
+edit
+
+Cooldown changed to 6 seconds.
+
+**Edit**
+
+Eclipse
+
+Eclipse (W)
+
+Cost: 60 Mana
+
+Cooldown: 14 / 13.5 / 13 / 12.5 / 12 seconds
+
+Cast time: none
+
+Effect radius: 450
+
+Active: Leona raises her guard for 3 seconds, gaining flat damage reduction of up to 50% of the damage instance and bonus armor and bonus magic resistance. Her shield detonates after the duration, dealing magic damage to nearby enemies. If this hits an enemy, Leona's guard is extended for an additional 3 seconds.
+
+Flat Damage Reduction: 8 / 12 / 16 / 20 / 24
+
+Bonus Armor: 20 / 27.5 / 35 / 42.5 / 50 (+ 20% bonus armor)
+
+Bonus Magic Resistance: 20 / 27.5 / 35 / 42.5 / 50 (+ 20% bonus magic resistance)
+
+Her shield detonates after the duration, dealing magic damage to nearby enemies. If this hits an enemy, Leona's guard is extended for an additional 3 seconds.
+
+Magic Damage: 55 / 90 / 125 / 160 / 195 (+ 40% AP)
+
+**Hide**
+
+Details
+
+Map-Specific Differences
+
+Info
+
+Targeting input: Auto
+
+Damage type: Type: Area damage, Sub-type: Magic
+
+Counters: Spell shield (See Notes)
+
+Neither the cast nor detonation of Eclipse interrupts any of Leona's previous orders or ongoing attack windups. The resistance scaling will factor from all other sources, excluding Eclipse's flat bonus. This will recalculate over the duration. Spell shield will block the damage but Eclipse's extended duration will not be prevented.
+
+**Map-Specific Differences**
+
+Arena differences
+
+edit
+
+Cooldown changed to 14 / 13.5 / 13 / 12.5 / 12 seconds.
+
+**Edit**
+
+Eclipse (W)
+
+Cost: 60 Mana
+
+Cooldown: 14 / 13 / 12.5 / 12 / 11.5 seconds
+
+Cast time: none
+
+Effect radius: 450
+
+Active: Leona raises her guard for 3 seconds, gaining flat damage reduction of up to 50% of the damage instance and bonus armor and bonus magic resistance. Her shield detonates after the duration, dealing magic damage to nearby enemies. If this hits an enemy, Leona's guard is extended for an additional 3 seconds.
+
+Flat Damage Reduction: 8 / 12 / 16 / 20 / 24
+
+Bonus Armor: 20 / 27.5 / 35 / 42.5 / 50 (+ 20% bonus armor)
+
+Bonus Magic Resistance: 20 / 27.5 / 35 / 42.5 / 50 (+ 20% bonus magic resistance)
+
+Her shield detonates after the duration, dealing magic damage to nearby enemies. If this hits an enemy, Leona's guard is extended for an additional 3 seconds.
+
+Magic Damage: 55 / 90 / 125 / 160 / 195 (+ 40% AP)
+
+**Hide**
+
+Details
+
+Map-Specific Differences
+
+Info
+
+Targeting input: Auto
+
+Damage type: Type: Area damage, Sub-type: Magic
+
+Counters: Spell shield (See Notes)
+
+Neither the cast nor detonation of Eclipse interrupts any of Leona's previous orders or ongoing attack windups. The resistance scaling will factor from all other sources, excluding Eclipse's flat bonus. This will recalculate over the duration. Spell shield will block the damage but Eclipse's extended duration will not be prevented.
+
+**Map-Specific Differences**
+
+Arena differences
+
+edited Cooldown changed to 14 / 13 / 12.5 / 12 / 11.5 seconds.
+
+**Edit**
+
+Zenith Blade
+
+Zenith Blade (E)
+
+Cost: 60 Mana
+
+Cooldown: 12 / 10.5 / 10 / 9.5 / 9 seconds
+
+Cast time: 0.25 seconds
+
+Target range: 900
+
+Width: 140
+
+Speed: 2000
+
+Active: Leona projects her sword in the target direction that deals magic damage to enemies hit. If she hits at least one enemy champion, she will dash 225 units behind the last one struck within 3000 range and root them for 0.5 seconds. Leona is unable to move or attack while Zenith Blade is in flight. She can cast any of her abilities during the dash.
+
+Magic Damage: 50 / 90 / 130 / 170 / 210 (+ 40% AP)
+
+**Hide**
+
+Details
+
+Info
+
+Targeting input: Direction
+
+Damage type: Type: Area damage, Sub-type: Magic
+
+Counters: Spell shield (Blocked), Missing (Blocked), Disabled (Blocked), Knockdown (Interrupted), Spell shield (Blocked)
+
+Leona will be ordered to basic attack the target. Spell shield will block Zenith Blade's effects as well as preventing Leona from dashing to the last target hit. This ability will cast from wherever the caster is at the end of the cast time.
+
+**Edit**
+
+Solar Flare
+
+Solar Flare (R)
+
+Cost: 100 Mana
+
+Cooldown: 90 / 75 / 60 seconds
+
+Cast time: 0.25 seconds
+
+Target range: 1200
+
+Effect radius: 325 / 175 / 800
+
+Inner radius: 100
+
+Active: Leona calls down a solar flare that strikes upon the target location after 0.625 seconds, granting sight of the area before impact and for another 3 seconds afterwards. Enemies hit are dealt magic damage. Targets are also slowed by 80% for 1.75 seconds, or stunned for the same duration if they are hit by the epicenter.
+
+Magic Damage: 150 / 225 / 300 (+ 80% AP)
+
+**Hide**
+
+Details
+
+Info
+
+Targeting input: Location
+
+Damage type: Type: Area damage, Sub-type: Magic
+
+Counters: Spell shield (Blocked)
+
+Solar Flare's visual effects are only visible to enemies if they have sight of the area it was cast upon. The cast indicator shows 300 radius for the area of effect and 120 radius for the epicenter, however the actual hitbox radii are larger than those values. The revealed radius is not obstructed by terrain or brush.
+
+Champion skins
+
+[ ]
+
+This article section only contains champion skins. For all associated collection items, see Leona (Collection) .
+
+Original
+
+View in 3D
+
+880
+
+13.07.2011
+
+Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire while her eyes burn with the power of the celestial Aspect within her. Armored in gold and bearing a terrible burden of ancient knowledge, Leona brings enlightenment to some, death to others.
+
+Wendee Lee
+
+Katie 'TeaTime' De Sousa
+
+Loot eligible
+
+Valkyrie
+
+View in 3D
+
+520
+
+13.07.2011
+
+Hail the valkyrie, for she will descend upon the field of battle, and raise our greatest warriors into the halls of Valhalla! Those she doesn't take with her go to the underworld, or sometimes the ocean, though they don't tell you that before the whole 'dying in battle' thing.
+
+Wendee Lee
+
+Unknown artist
+
+Fables
+
+Loot eligible
+
+Defender
+
+View in 3D
+
+750
+
+13.07.2011
+
+Wendee Lee
+
+Unknown artist
+
+Legacy
+
+Loot eligible
+
+Legacy
+
+Iron Solari
+
+View in 3D
+
+975
+
+10.02.2012
+
+She who bears the Iron Solari into battle bears the weight of history—as iron gives way to steel, and steel to eternity.
+
+Wendee Lee
+
+Michael 'IronStylus' Maurino
+
+Legacy
+
+Loot eligible
+
+New SFX/VFX
+
+Pool Party
+
+View in 3D
+
+975
+
+09.09.2013
+
+Leona is a former champion surfer, who enjoys spending her downtime relaxing on the beach with a light romance novel. Or pretty much any romance novel, in fact.
+
+Wendee Lee
+
+Pan Chengwei
+
+Pool Party
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Pool Party Leona Chromas
+
+Azure
+
+Lemon
+
+Pink
+
+PROJECT
+
+View in 3D
+
+1350
+
+07.09.2015
+
+A heavy armor combatant, Leona has seen the truth behind the neon light of PROJECT, and now stands with Ashe and the G/NETIC rebellion. She carries a mounted ion charge shield, capable of blocking and stunning targets with its variable energy yield output.
+
+Wendee Lee
+
+Christian Fell
+
+PROJECT
+
+Loot eligible
+
+Voice filter
+
+Additional/unique quotes
+
+New SFX/VFX
+
+New Animations/Recall
+
+Barbecue
+
+View in 3D
+
+750
+
+07.09.2016
+
+She's the solar pitmaster; the lean, mean, brisket queen. If her flavors don't stun you, that forty pound grill will. Please give a warm welcome to Leona!
+
+Wendee Lee
+
+Jojo So
+
+Culinary Masters
+
+Loot eligible
+
+Solar Eclipse
+
+View in 3D
+
+1820
+
+27.11.2018
+
+Hearken! We beseech thee, O Cruel Sun, and deign to bless with the cleansing flame of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.
+
+Wendee Lee
+
+Esben Lash Rasmussen
+
+Eclipse
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+This skin is a variant of Lunar Eclipse . Store variants are discounted for multiple purchases.
+
+Lunar Eclipse
+
+View in 3D
+
+1820
+
+27.11.2018
+
+Hearken! We beseech thee, O Savage Moon, and deign to bless with the vermillion shadow of thy celestial majesty. May this shield guard against the scourge of dark enchantments, which choke our land. May this blade be the hammer against the servants of witchery and evil. I, Leona, do take this oath forevermore.
+
+Wendee Lee
+
+Esben Lash Rasmussen
+
+Eclipse
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+This skin is a variant of Solar Eclipse . Store variants are discounted for multiple purchases.
+
+Mecha Kingdoms
+
+View in 3D
+
+1350
+
+15.01.2020
+
+Leona grew up as the favored daughter of the Dawnrise Kingdom. When the leviathans appeared on her homeland's shores, she took command of her realm's forces, becoming the matriarch of her people. In return, the grateful scholars of her court gifted her an Avalon, an immense pilotable mech powered by the life essence of the very monsters that threatened her home. Now, she stands fearless, leading vast navies into war.
+
+Wendee Lee
+
+Sean 'Raiko' Tay, West Studio
+
+Mecha Kingdoms
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Mecha Kingdoms Leona Chromas
+
+Obsidian
+
+Peacekeeper
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Tanzanite
+
+Turquoise
+
+Battle Academia
+
+View in 3D
+
+1350
+
+18.03.2021
+
+An oddly cheery member of Labrys Academy's Battle Club, Leona's dark side comes out in combat, when her motherly, protective persona is utterly replaced by bloodlust. The change is so dramatic that even the most violent students tend to stay on her good side, hoping to avoid her wrath.
+
+Wendee Lee
+
+West Studio
+
+Battle Academia
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Battle Academia Leona Chromas
+
+Citrine
+
+Emerald
+
+Obsidian
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Turquoise
+
+DWG
+
+View in 3D
+
+1350
+
+29.04.2021
+
+Honoring BeryL's winning performance as Leona during the 2020 World Championship.
+
+Wendee Lee
+
+Jennifer Wuestling
+
+World Champions: 2020
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+DWG Leona Chromas
+
+Elite
+
+Prestige Battle Academia
+
+View in 3D
+
+Special
+
+18.03.2021
+
+After being selected for the yearly cross-academy tournament, Leona sharpened her combat prowess almost every free moment she had, knowing she had to beat out other top-ranking students from rival schools like Durandal, Babylon, Amrita, and Sharur. Her bloodlust now honed and her shield at the ready, she will pummel anyone who challenges her into a meaty pulp.
+
+Wendee Lee
+
+West Studio
+
+Battle Academia
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+This skin is a variant of Battle Academia . Store variants are discounted for multiple purchases.
+
+Debonair
+
+View in 3D
+
+1350
+
+09.12.2021
+
+An enforcer at the exclusive Solari resort, Leona spends her days brutally ejecting unruly patrons from the premises and her evenings schmoozing up the city's ultra-wealthy. Even the rich and powerful know not to trifle with the Solari's chosen, lest they find themselves soaring out of the penthouse suite and down into the sidewalk.
+
+Wendee Lee
+
+Bo 'chenbowow' Chen
+
+Debonair
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Debonair Leona Chromas
+
+Catseye
+
+Cerulean Club
+
+Emerald
+
+Obsidian
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Tanzanite
+
+Turquoise
+
+High Noon
+
+View in 3D
+
+1820
+
+12.05.2022
+
+The Lady of House Solari lifts her chin against the scorching wind. Ahead lies her family's salvation: the Sulfur Rail, carrying the stolen family fortune, churning across the desert. The only thing that stands in her way is the Mechanical Devil himself. Her sword hums like cicadas in the gloaming. The butterflies gather. Time for the Harbingers to ride.
+
+Wendee Lee
+
+Francis Tneh, West Studio
+
+High Noon
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+High Noon Leona Chromas
+
+Catseye
+
+Nomad
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Tanzanite
+
+Crystalis Motus
+
+View in 3D
+
+Special
+
+14.06.2023
+
+Leona knows what caused the purge: blasphemy. Magic's disappearance was retribution for humanity's arrogance and misuse of it. As a worshipper of the Prismae Crystals, she believes it's her sacred duty to protect them. But she also prays to them in secret, hoping they'll bring back her lost love, Diana, who disappeared after journeying to the north.
+
+Wendee Lee
+
+Francis Tneh, West Studio
+
+Crystalis Motus
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Crystalis Motus Leona Chromas
+
+Reclaimed
+
+Patch history
+
+[ ]
+
+For the expanded patch notes, see here .
+
+V13.24
+
+Eclipse
+
+Base bonus resistances increased 20 / 27.5 / 35 / 42.5 / 50 from 20 / 25 / 30 / 35 / 40.
+
+Solar Flare
+
+Base damage increased to 150 / 225 / 300 from 100 / 175 / 250.
+
+V13.21
+
+Sunlight
+
+Damage now triggers Leona's own damage effects but still grants kill credit to the ally applying it.
+
+V13.18
+
+General
+
+Updated ability icons.
+
+V13.16
+
+General
+
+Bug Fix:
+
+Sword and shield models no longer appear pixelated.
+
+V13.8
+
+Eclipse
+
+Base bonus resistances increased to 20 / 25 / 30 / 35 / 40 from 15 / 20 / 25 / 30 / 35.
+
+Base damage increased to 55 / 90 / 125 / 160 / 195 from 45 / 80 / 115 / 150 / 185.
+
+V12.15
+
+Shield of Daybreak
+
+Mana cost reduced to 35 / 40 / 45 / 50 / 55 from 45 / 50 / 55 / 60 / 65.
+
+Solar Flare
+
+Disable duration increased to 1.75 seconds from 1.5.
+
+V12.12
+
+- June 30th Hotfix
+
+Sunlight
+
+Damage increased to 32 − 168 (based on level) from 25 − 144 (based on level).
+
+V12.10
+
+Stats
+
+Base health increased to 646 from 576.
+
+Health growth increased to 101 from 87.
+
+Armor growth increased to 4.8 from 3.6.
+
+Magic resistance growth increased to 2.05 from 1.75.
+
+V12.7
+
+General
+
+Updated visual effects.
+
+Original Leona
+
+Complete overhaul.
+
+Valkyrie Leona
+
+, Defender Leona
+
+, Iron Solari Leona
+
+Same as new base.
+
+Pool Party Leona
+
+Recolored from base.
+
+PROJECT: Leona
+
+Minimal tweaks.
+
+Barbecue Leona
+
+Same as new base, grills glow during Eclipse.
+
+V11.23
+
+Zenith Blade
+
+Undocumented:
+
+No longer is blocked by spell shield.
+
+Undocumented:
+
+Dash no longer fails to occur if the target becomes untargetable or is not within 3000 units after being struck.
+
+V11.17
+
+Eclipse
+
+Bonus resistances reduced to 15 / 20 / 25 / 30 / 35 from 20 / 25 / 30 / 35 / 40.
+
+V11.11
+
+Eclipse
+
+Base damage reduced to 45 / 80 / 115 / 150 / 185 from 60 / 95 / 130 / 165 / 200.
+
+V11.1
+
+Stats
+
+Base magic resistance reduced to 32 from 32.1.
+
+Base health reduced to 576 from 576.16.
+
+Base attack damage reduced to 60 from 60.1.
+
+V10.14
+
+Sunlight
+
+Bug Fix:
+
+Triggering it with Nunu & Willump's Call of the Freljord no longer causes their passive to be unavailable for the rest of the game.
+
+V10.6
+
+General
+
+Recommended items updated.
+
+V10.3
+
+Eclipse
+
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 110 / 160 / 210 / 260.
+
+Zenith Blade
+
+Base damage reduced to 50 / 90 / 130 / 170 / 210 from 60 / 100 / 140 / 180 / 220.
+
+V9.17
+
+Shield of Daybreak
+
+Cooldown reduced to 5 seconds from 6.
+
+V9.16
+
+General
+
+Adjusted splash artwork for Barbecue Leona.
+
+V9.14
+
+Eclipse
+
+New Effect:
+
+When active, now takes 8 / 12 / 16 / 20 / 24 less damage from all sources of pre-mitigation damage, up to a maximum of 50% reduction.
+
+Bonus armor reduced to 20 / 25 / 30 / 35 / 40 from 25 / 35 / 45 / 55 / 65.
+
+Bonus magic resistance reduced to 20 / 25 / 30 / 35 / 40 from 20 / 30 / 40 / 50 / 60.
+
+Solar Flare
+
+Removed:
+
+No longer empowers Leona's next 3 / 4 / 5 basic attacks to gain 100 bonus range and deal 30 / 40 / 50 (+ 15% AP) bonus magic damage.
+
+V9.7
+
+Zenith Blade
+
+Cooldown reduced to 12 / 10.5 / 10 / 9.5 / 9 seconds from 13 / 12 / 11 / 10.5 / 10.
+
+PROJECT: Leona
+
+Bug Fix:
+
+Buffs aura now properly follows the model during certain animations.
+
+V8.16
+
+Eclipse
+
+Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 14 at all ranks.
+
+V8.15
+
+General
+
+Adjusted splash artwork for Barbecue Leona.
+
+V8.14
+
+PROJECT: Leona
+
+Zenith Blade
+
+Bug Fix:
+
+VFX no longer pass through Yasuo's Wind Wall.
+
+V8.9
+
+Eclipse
+
+Base damage increased to 60 / 100 / 140 / 180 / 220 from 40 / 80 / 120 / 160 / 200.
+
+V8.8
+
+Iron Solari Leona
+
+Solar Flare
+
+Bug Fix:
+
+Decal will no longer be improperly rotated on lower graphics settings.
+
+V8.7
+
+General
+
+Leona defaults to attack damage as her default adaptive stat.
+
+V8.3
+
+Stats
+
+Base health regeneration increased to 8.5 from 8.
+
+V7.24b
+
+Shield of Daybreak
+
+Base damage reduced to 10 / 35 / 60 / 85 / 110 from 30 / 55 / 80 / 105 / 130.
+
+V7.24
+
+Eclipse
+
+Base damage reduced to 40 / 80 / 120 / 160 / 200 from 60 / 100 / 140 / 180 / 220.
+
+V7.22
+
+Stats
+
+Base armor increased to 47 from 27.
+
+V7.17
+
+Sunlight
+
+Mark duration reduced to 1.5 seconds from 3.5.
+
+Base damage increased to 25 − 144 (based on level) from 20 − 105 (based on level).
+
+Shield of Daybreak
+
+Cooldown changed to 6 seconds at all ranks from 9 / 8 / 7 / 6 / 5.
+
+V7.7
+
+General
+
+Bug Fix:
+
+Fixed a bug where her model didn't fade away during her death animation for her base and a few of her skins.
+
+V6.21
+
+General
+
+Bug Fix:
+
+Pool Party Leona now properly faces the camera during her recall animation when she has the Hand of Baron buff.
+
+V6.19
+
+Zenith Blade
+
+Bug Fix:
+
+Fixed a bug preventing Leona from Flashing during Zenith Blade's cast time.
+
+V6.17
+
+Zenith Blade
+
+Bug Fix:
+
+Fixed a bug where it displayed no visuals to enemies if Leona cast it in Fog of War and flashed into vision during the cast time.
+
+V6.16
+
+Sunlight
+
+New Effect:
+
+Base damage text is visible to Leona when triggered by allies.
+
+V6.14
+
+Sunlight
+
+Base damage changed to 20 − 105 (based on level) from 20 − 140 (based on level).
+
+Shield of Daybreak
+
+Base damage reduced to 30 / 55 / 80 / 105 / 130 from 40 / 70 / 100 / 130 / 160.
+
+Cooldown reduced to 9 / 8 / 7 / 6 / 5 seconds from 11 / 10 / 9 / 8 / 7.
+
+Bonus range increased to 50 from 30.
+
+Bug Fix:
+
+Stun lasting longer than intended.
+
+Tooltip updated to display correct stun duration (1.25 seconds instead of the intended 1).
+
+Eclipse
+
+Base damage reduced to 60 / 100 / 140 / 180 / 220 from 60 / 110 / 160 / 210 / 260.
+
+Zenith Blade
+
+Root duration increased to 0.5 seconds from 0.25.
+
+Solar Flare
+
+Base damage reduced to 100 / 175 / 250 from 150 / 250 / 350.
+
+New Effect:
+
+After casting, and for the next 5 seconds, Leona's sword glows with Incandescence, causing her next 3 / 4 / 5 basic attacks to gain 100 bonus range, deal 30 / 40 / 50 (+ 15% AP) on-hit bonus magic damage, and apply Sunlight. Incandescence stacks fall off all at once.
+
+V6.13
+
+Shield of Daybreak
+
+Tooltip updated to display correct stun duration (1.25 seconds instead of the intended 1).
+
+V6.2
+
+Zenith Blade
+
+Bug Fix:
+
+Rooting targets with active spell shields mid-dash.
+
+V5.16
+
+Stats
+
+Armor growth increased to 3.6 from 3.
+
+V5.10
+
+Zenith Blade
+
+Projectile width reduced to 70 from 90.
+
+V4.17
+
+General
+
+Texture update to Classic, Defender, Iron Solari, and Valkyrie.
+
+V4.15
+
+Twisted Treeline
+
+Solar Flare
+
+Cooldown increased to 100 / 90 / 80 seconds from 90 / 75 / 60.
+
+Dominion
+
+Solar Flare
+
+Cooldown increased to 100 / 90 / 80 seconds from 90 / 75 / 60.
+
+V4.5
+
+Stats
+
+Base armor increased to 22 from 18.
+
+Base health regen reduced to 7 from 9.
+
+Eclipse
+
+Bonus resistances reduced to 20 / 30 / 40 / 50 / 60 from 25 / 35 / 45 / 55 / 65.
+
+V3.14
+
+Eclipse
+
+Bonus armor changed to 25 / 35 / 45 / 55 / 65 (+ 20% bonus armor) from 30 / 40 / 50 / 60 / 70.
+
+Bonus magic resistance changed to 25 / 35 / 45 / 55 / 65 (+ 20% bonus magic resistance) from 30 / 40 / 50 / 60 / 70.
+
+V3.13
+
+Solar Flare
+
+Mana cost reduced to 100 at all ranks from 100 / 150 / 200.
+
+V1.0.0.152
+
+Stats
+
+Movement speed increased to 335 from 310.
+
+V1.0.0.150
+
+Shield of Daybreak
+
+Cooldown corrected to match tooltip (11 / 10 / 9 / 8 / 7 seconds).
+
+V1.0.0.139
+
+Stats
+
+Magic resistance per level increased to 1.25 from 1.2.
+
+V1.0.0.138
+
+Sunlight
+
+New particle.
+
+Bug Fix:
+
+Occasionally scoring double kills against Kog'Maw during Icathian Surprise, Karthus during Death Defied, and/or Omen of Death's target.
+
+Zenith Blade
+
+Hitbox increased slightly to match animation.
+
+V1.0.0.130
+
+Dominion
+
+Sunlight
+
+Bug Fix:
+
+Scoring double kills when used with Storm Shield against Karthus during Death Defied and/or Omen of Death's target.
+
+V1.0.0.125
+
+General
+
+Recommended items updated to include Ionian Boots of Lucidity and Trinity Force.
+
+V1.0.0.123
+
+Shield of Daybreak
+
+Cooldown reduced to 11 / 10 / 9 / 8 / 7 seconds from 12 / 11 / 10 / 9 / 8.
+
+Eclipse
+
+Bug Fix:
+
+Breaking enemy spell shields on activation.
+
+Zenith Blade
+
+Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+
+New Effect:
+
+Leona will attempt to attack the target she dashes to.
+
+Particle updated to match area of effect.
+
+Solar Flare
+
+Cooldown reduced to 90 / 75 / 60 seconds from 105 / 90 / 75.
+
+V1.0.0.121
+
+added Sunlight (Innate)
+
+Leona's abilities mark the target with sunlight. Allied champions that damage marked targets deal additional damage and consume the mark.
+
+Shield of Daybreak (Q)
+
+Leona charges her shield with the power of the sun causing her next melee attack within 6 seconds to have a 0.25-second cast time, gain 50 bonus range, deal bonus magic damage, and stun the target for 1 second.
+
+Eclipse (W)
+
+Leona raises her shield granting her additional Armor and Magic Resistance for 3 seconds. When the effect ends she deals area of effect damage and increases the duration of the defensive bonuses by 3 seconds if she damages an enemy.
+
+Zenith Blade (E)
+
+Leona throws a blade of sunlight that deals damage to all enemies in a line. Leona teleports to the last enemy champion hit by this attack.
+
+Solar Flare (Ultimate)
+
+After a brief delay, Leona calls down a beam of solar energy dealing damage and slowing enemies. Enemies in the center of the beam are stunned instead of slowed.
+
+Trivia
+
+[ ]
+
+Leona's dance resembles 'Shield Break' by the Force Shielder from Cabal Online.
+
+Sunlight and Illumination have nearly identical functionality, with the only differences being who (Leona's allies and Lux herself, respectively) and what (any allied damage source and Lux's basic attacks, respectively) triggers them.
+
+Sunlight deals 1 less damage to champions wearing sunglasses (whether by default like Vayne or through a skin like Riot Graves or Surfer Singed).
+
+Leona is the modern feminine derivative of Ancient Greek name Leon Λέων 'lion', from an Afro-Asiatic source [2] (cf. Proto-Semitic *labuʔ ~ *labiʔ).
+
+Her title 'the Radiant Dawn' might be referencing Fire Emblem: Radiant Dawn & Hausos, the PIE Dawn Goddess.
+
+A functional real-life replica of Leona's Zenith Blade was crafted in an episode of YouTube series Man At Arms: Reforged .
+
+This video can be viewed here .
+
+There are also episodes where they crafted: Diana's Crescent Moonblade (functional), Katarina's Daggers (functional), Master Yi's 'Highlander' Ring Sword (functional), Poppy's Hammer of Orlon (functional), Yasuo's 'Last Breath' Sword (functional), and Ziggs' Hexplosive Bomb (prop).
+
+[References]
+
+[ ]
+
+↑ Leona's profile page at LeagueOfLegends.com
+
+↑ http://starling.rinet.ru/cgi-bin/response.cgi?single=1&basename=%2fdata%2fsemham%2fafaset&text_number=2279&root=config
+
+↑ The Semitic Languages . Ed. Weninger. p. 207-8

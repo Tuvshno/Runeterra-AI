@@ -1,0 +1,447 @@
+**Games**
+
+* Universe
+  * League of Legends
+    **•**
+    * Teamfight Tactics
+    * Legends of Runeterra
+    * Wild Rift
+  * Image
+  * Ashe
+
+**Ashe**
+
+* Release date: 2009-02-21
+* Last changed: V14.5
+* Class(es): Marksman, Legacy, Marksman, Support
+* Position(s): Bottom, Support
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Physical
+* Store price: 450 | 260 | Crafting + 270
+
+**Base statistics**
+
+| Statistic      | Value               |
+| --------------- | -------------------- |
+| Health          | 640 + 101            |
+| Mana            | 280 + 35             |
+| Health regen. (per 5s) | 3.5 + 0.55         |
+| Mana regen. (per 5s) | 7 + 0.65            |
+| Armor           | 26 + 4.6             |
+| Attack damage    | 59 + 2.95            |
+| Magic resist.    | 30 + 1.3             |
+| Crit. damage     | 100%                |
+| Move. speed      | 325                  |
+| Attack range     | 600                  |
+| Attack speed     | Base AS: 0.658, AS ratio: N/A, Bonus AS: +3.33% |
+| Missile speed   | 2500                 |
+| Unit radius      | Gameplay radius: 65, Selection radius: 120 |
+
+**Special statistics**
+
+| Statistic           | Value                         |
+| -------------------- | ------------------------------ |
+| ARAM                 | N/D                             |
+| Nexus Blitz         | N/D                             |
+| One For All          | N/D                             |
+| URF                  | N/D                             |
+| Ult Spellbook        | N/D                             |
+| Arena                | Damage Dealt: +0%, Damage Received: +0% |
+| Total Attack Speed   | +2.5%                           |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+| Damage Dealt         | +0%, Damage Received: -5%          |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+| Damage Dealt         | +0%, Damage Received: +0%          |
+
+**Abilities**
+
+* [Frost Shot](#frost-shot)
+* [Ranger's Focus](#rangers-focus)
+* [Volley](#volley)
+* [Hawkshot](#hawkshot)
+* [Enchanted Crystal Arrow](#enchanted-crystal-arrow)
+
+---
+
+**Frost Shot**
+
+* Passive
+* Damage type: Sub-type: Physical
+* Counters: Spell shield, Parries, Blocked: Blocked
+
+**Description**
+
+Ashe's basic attacks and ability hits apply Frost to enemies, slowing them by 20% - 30% (based on level) for 2 seconds. Basic attacks against enemies with Frost are modified to deal 120% (75% + 50%) of critical strike chance damage.
+
+---
+
+**Ranger's Focus**
+
+* Passive: While Ranger's Focus is inactive, Ashe's basic attacks on-attack generate a stack of Focus for 4 seconds, which refreshes on subsequent attacks and stacks up to 4 times. Stacks expire by one every 1 second.
+* Active: For 6 seconds, Ashe gains bonus attack speed and empowers her basic attacks to fire a flurry of five arrows. Bonus attack speed: 25 / 32.5 / 40.5 / 47.5 / 55%, each arrow deals modified physical damage that benefits from Frost Shot and life steal. The flurry resets Ashe's basic attack timer.
+
+---
+
+**Volley**
+
+* Active
+* Damage type: Type: Area damage, Sub-type: Physical
+* Counters: Spell shield, Projectile, Blocked: Blocked, Blocked
+
+**Description**
+
+Ashe shoots a volley of arrows in a cone in the target direction, each dealing physical damage to the first enemy hit and applying Critical Slow to enemy champions hit. Arrows: 7 / 8 / 9 / 10 / 11, Physical Damage: 20 / 35 / 50 / 65 / 80 (+ 100% AD). Enemies can intercept multiple arrows but do not take damage from any beyond the first.
+
+---
+
+**Map-Specific Differences**
+
+* Howling Abyss: Cooldown increased to 18 / 17.5 / 17 seconds.
+* Arena: Base damage changed to 25 / 45 / 65 / 85 / 105, AD ratio changed to 120% AD.
+
+---
+
+**Hawkshot**
+
+* Active
+* Damage type: Type: Damage, Sub-type: N/A
+* Counters: Spell shield, Projectile, Not Blocked
+
+**Description**
+
+Ashe sends a hawk spirit toward the target location, granting sight of the area along its path for 0.5 seconds after every 100 units traveled and at its destination for 5 seconds. Hawkshot periodically stocks a charge, up to a maximum of 2, and the recharge timer starts from 0 when the ability is ranked.
+
+---
+
+**Enchanted Crystal Arrow**
+
+* Active
+* Damage type: Type: Magic, Sub-type: N/A
+* Counters: N/A
+
+**Description**
+
+Ashe fires a massive arrow of ice in the target direction, granting sight of the area it flies through each for 1 second. The arrow shatters upon hitting an enemy champion, dealing magic damage and stunning them for 1 - 3.5 (based on distance traveled) seconds and granting sight of the area around them for 1 second. Magic Damage: 200 / 400 / 600 (+ 120% AP). Enemies surrounding the primary target are dealt 50% damage and afflicted with Frost Shot. Reduced Damage: 100 / 200 / 300 (+ 60% AP).
+
+---
+
+**Champion skins**
+
+* Original
+* Melissa Hutchison (voice)
+* Katie 'TeaTime' De Sousa (voice)
+* Freljord
+* View in 3D
+* Iceborn
+* 260
+* 21.02.2009
+* A legendary wilderness archer and the first and last member of the Woad Tribe many a wayward traveler will ever meet.
+
+* Sherwood Forest
+* Freljord
+* Albion
+* View in 3D
+* 520
+* 20.11.2009
+* Condemned as a rogue and a thief, Ashe is a leader of the free peoples of Albion, protecting the weak and the powerless from oppression in any form.
+
+* Woad
+* Freljord
+* View in 3D
+* 520
+* 18.07.2010
+* A legendary wilderness archer, Ashe is the first and last member of the Woad Tribe many a wayward traveler will ever meet. Nothing is known of her past, save for frozen corpses littering the northern trails.
+
+* Queen
+* Freljord
+* View in 3D
+* 975
+* 21.09.2010
+* A radiant queen once venerated as a figure reborn from legend, Ashe rules her people as the visionary leader of two great Freljordian houses.
+
+* Amethyst
+* Legacy
+* View in 3D
+* 975
+* 15.11.2011
+* Melissa Hutchison (voice)
+* Unknown artist
+* Legacy
+* Loot eligible
+
+* Heartseeker
+* View in 3D
+* 975
+* 14.02.2014
+* Leader of the Heartseekers and self-described queen of hearts, Ashe is a just ruler with no tolerance for agony or grief as the season of romance approaches.
+
+* Marauder
+* View in 3D
+* 750
+* 17.02.2015
+* Magelord culture was, at the height of the empire's power, strictly segregated into brutal warrior-castes, whose rise and fall was dictated by their victories in battle. Little regard is paid to this outdated militarism now—Marauder captains like Ashe maintain power simply by instilling fear, and slaying their rivals.
+
+* PROJECT
+* View in 3D
+* 1820
+* 01.08.2016
+* While on the frontlines of a corporate war, Ashe witnessed the human cost of PROJECT's ambition. Now the leader of the resistance group G/NETIC, Ashe has set her sights on nothing less than the downfall of the most powerful corporations.
+
+* Worlds 2017
+* View in 3D
+* 1350
+* 12.09.2017
+* Celebrating Worlds 2017 in China.
+
+* Cosmic Queen
+* Cosmic
+* View in 3D
+* 1350
+* 21.08.2018
+* A benevolent ruler of the stars, Ashe fires her arrows across the endless darkness of space, creating new constellations wherever they fall. Her court drifts between galaxies, replenishing all the lights that have faded.
+
+* Crystalis Motus
+* View in 3D
+* Special
+* 06.12.2023
+* Ashe's retreat from her northern homeland was not due to any invasion, but the Prismae Crystals. In such a harsh environment, their power was difficult to resist, leading many to lose their minds and bodies to its magic. Forced to find shelter in the south, Ashe now gathers an army to take back her home from the monsters that overrun it.
+
+---
+
+**Patch history**
+
+[1] For the expanded patch notes, see here.
+
+**V14.5**
+
+* Ranger's Focus: Bug Fix: No longer prevents Kraken Slayer from gaining an additional stack on-hit when Guinsoo's Rageblade's Phantom Hit is triggered.
+
+**Worlds 2017 Ashe**
+
+* Skin renamed to Worlds 2017 Ashe from Championship Ashe.
+
+**V13.20**
+
+* Frost Shot: Bonus damage increased to 115%.
+* Volley: Base damage increased to 20 / 35 / 50 / 65 / 80.
+* Enchanted Crystal Arrow: AP ratio increased to 120% AP.
+
+**V13.12**
+
+* Hawkshot: Bug Fix: No longer leaves critical strike VFX on enemies that are revealed.
+
+**V13.6**
+
+* Frost Shot: Bonus damage increased to 110%.
+
+**V13.5**
+
+* Ranger's Focus: Mana cost reduced to 30 from 50, duration increased to 6 seconds from 4.
+* Volley: Base damage reduced to 10 / 25 / 40 / 55 / 70.
+* Enchanted Crystal Arrow: Cooldown increased to 100 / 80 / 60 seconds from 80 / 70 / 60.
+
+**V13.1b**
+
+* Mana growth increased to 35 from 32.
+* Mana regeneration growth increased to 0.65 from 0.4.
+
+**V12.22**
+
+* Stats: Attack damage growth reduced to 2.95 from 2.96.
+* Base mana regeneration increased to 7 from 6.9.
+
+**V12.18**
+
+* Ranger's Focus: Bonus attack speed increased to 25 / 30 / 35 / 40 / 45% from 20 / 25 / 30 / 35 / 40%.
+
+**V12.10**
+
+* Stats: Base health increased to 570 from 566, health growth increased to 87 from 86, armor growth increased to 4.3 from 4.1, and magic resistance growth increased to 1.1 from 1.
+
+**V12.9**
+
+* Volley: Bug Fix: Sound effects no longer stop playing if it is leveled up to rank 2 on-cast.
+
+**March 9th Hotfix**
+
+* Volley: Mana cost changed to 75 / 70 / 65 / 60 / 55 from 70 at all ranks.
+* Enchanted Crystal Arrow: Cooldown reduced to 80 / 70 / 60 seconds from 100 / 80 / 60.
+
+**V12.4**
+
+* Enchanted Crystal Arrow: Missile speed changed to 1500 - 1700 - 1900 - 2100 (based on travel time) from 1600.
+
+**V11.18**
+
+* Volley: Cooldown increased to 18 / 14.5 / 11 / 7.5 / 4 seconds from 14 / 11 / 9 / 7 / 4 seconds.
+
+**V11.7**
+
+* Enchanted Crystal Arrow: Cooldown reduced to 100 / 80 / 60 seconds from 100 / 90 / 80.
+
+**V10.25**
+
+* Ranger's Focus: Bug Fix: Fixed a bug where Runaan's Hurricane's bolts fired by Ranger's Focus are invisible.
+* Hawkshot: Bug Fix: Fixed a bug where Hawkshot's vision trail duration is too long.
+
+**V10.23**
+
+* Frost Shot: New Effect: Basic attacks against enemies affected by Frost Shot no longer deal bonus damage based on her crit chance if she owns Guinsoo's Rageblade or Rageknife.
+
+**V10.22**
+
+* Volley: Number of arrows changed to 7 / 8 / 9 / 10 / 11 from 9 at all ranks.
+
+**V10.18**
+
+* Stats: Base attack damage reduced to 59 from 61.
+* Ranger's Focus: Bug Fix: Fixed a bug that makes Runaan's Hurricane's bolts fired by Ranger's Focus trigger on-hit effects only once.
+* Hawkshot: New Effect: Now pings enemies it spots if your team didn't already have vision of them.
+
+**V8.21**
+
+* Frost Shot: Base slow increased to 15% - 30% (based on level) from 10% - 20% (based on level), critical strike slow changed to double the slow amount instead of triple.
+
+**V8.11**
+
+* Stats: Base health increased to 539 from 538, health growth increased to 85 from 84, base armor reduced to 26 from 27, and base health regeneration reduced to 3.2 from 3.5.
+
+**V8.3**
+
+* Stats: Base health regeneration increased to 3.5 from 3.2.
+
+**V8.2**
+
+* Hawkshot: Bug Fix: No longer procs spell shields when flying through champions out of her self-vision.
+
+**V8.1**
+
+* Sherwood Forest Ashe and Woad Ashe: Ranger's Focus: Bug Fix: Now have appropriately themed bolts when using Runaan's Hurricane.
+
+**V7.23**
+
+* PROJECT: Ashe: Bug Fix: Digital screen VFX no longer disappear when moving the camera away and back during her recall animation.
+* Heartseeker Ashe: Bug Fix: The chair in her recall no longer rotates at the end of the animation.
+
+**V7.22**
+
+* Stats: Base attack damage increased to 61 from 60, base armor increased to 27 from 25.
+
+**V7.14**
+
+* Frost Shot: Bug Fix: Fixed a bug causing the bonus damage to apply to inhibitors.
+
+**V7.9**
+
+* Stats: Magic resistance growth increased to 0.5 from 0.
+
+**V7.5**
+
+* PROJECT: Ashe: Bug Fix: Fixed a bug where the particles for killing enemy units with basic attacks and critical strikes aren't displaying correctly.
+
+**V7.2**
+
+* General: Adjusted splash artwork for Marauder Ashe.
+
+**V6.21**
+
+* Ranger's Focus: Bug Fix: Fixed a bug where rapidly pressing Q the instant Focus reaches four stacks could cause Ranger's Focus's mana cost to apply multiple times.
+
+**V6.20**
+
+* Frost Shot: Base slow changed to 10% - 20% (based on level) from 5% - 25% (based on level), critical strike slow increased to 30% - 60% (based on level) from 10% - 50% (based on level).
+* New Effect: Critical strikes slow now decays to the base slow value over the first half of the slow duration.
+* Ranger's Focus: New Effect: Instead of fully resetting Ashe's basic attack, casting Ranger's Focus reduces her basic attack delay to 40% of the full value (no reduction if the delay is already below 40%).
+* Active's damage per arrow reduced to 21 / 22 / 23 / 24 / 25% AD from 23 / 24 / 25 / 26 / 27% AD.
+* Total damage per flurry reduced to 115 / 120 / 125 / 130 / 135% attack damage from 115 / 120 / 125 / 130 / 135% attack damage.
+
+**V6.18**
+
+* Volley: Cooldown increased to 15 / 12 / 10 / 8 / 4 seconds from 12 / 10 / 8 / 6 / 4 seconds.
+* Enchanted Crystal Arrow: Bug Fix: PROJECT: Ashe's Enchanted Crystal Arrow no longer explodes slightly earlier than Ashe's other skins upon hitting an enemy champion.
+
+**V6.17**
+
+* Ranger's Focus: Duration reduced to 4 seconds from 5 seconds.
+* Enchanted Crystal Arrow: Base damage reduced to 200 / 400 / 600 from 250 / 425 / 600.
+
+**V6.4**
+
+* Ranger's Focus: Flurry duration increased to 5 seconds from 4 seconds.
+* New Effect: Stacks now decay one every 4 seconds instead of all at once.
+
+**V5.24**
+
+* Ranger's Focus: Maximum stacks reduced to 4 from 5.
+
+**V5.23**
+
+* Ranger's Focus: Bug Fix: Critical strikes were only being calculated once per flurry instead of once per arrow.
+* Bug Fix: Runaan's Hurricane was only triggering once per flurry.
+* New Effect - Critical Slow: Ashe now has a 1% chance per 1% of her critical strike chance to double Frost Shot's slow to 10% - 50% (based on level) and trigger On-crit effects. The slow decays to the standard amount over the duration.
+* Volley: Will always trigger the enhanced slow versus champions.
+
+**V5.22**
+
+* Stats: Base attack damage increased to 56.8 from 56.
+* Base mana increased to 280 from 272.
+* Mana growth reduced to 32 from 35.
+* Frost Shot: Slow reduced to 5% - 25% (based on level) from 5% - 35% (based on level).
+* Removed: On-crit effects against Frosted targets.
+* New Effect - Critical Slow: Ashe now has a 1% chance per 1% of her critical strike chance to double Frost Shot's slow to 5% - 35% (based on level) and trigger On-crit effects. The slow decays to the standard amount over the duration.
+* Volley: Base damage reduced to 20 / 35 / 50 / 65 / 80 from 40 / 50 / 60 / 70 / 80, vision radius while traveling reduced to 1000 from 1500, hawks update their vision more frequently as they travel.
+* Volley: Will no longer generate Focus stacks when attacking structures.
+
+**V5.9**
+
+* Gameplay Update: Stats: Basic attack projectile speed increased to 2500 from 2000, attack speed growth reduced to 3.33% from 4%.
+* Frost Shots: Repurposed Ability, New Innate: Ashe's basic attacks and abilities apply Frost to enemies damaged, slowing them by 5% - 35% (based on level) for 2 seconds. Ashe's basic attacks against frosted units always critically strike, dealing 10 + (X * (1 + Y))% AD bonus critical damage, where X is her critical strike chance and Y is her bonus critical strike damage (both in decimal format). Ashe cannot otherwise critically strike.
+
+**V5.12**
+
+* Focus: No longer generates multiple stacks per enemy hit by Volley / Enchanted Crystal Arrow - now only up to one per cast.
+
+**V5.11**
+
+* General: Recommended items updated.
+* Ranger's Focus: The 5-stack flurry attack no longer triggers on attacks against turrets.
+* Volley: Base damage reduced to 20 / 35 / 50 / 65 / 80 from 40 / 50 / 60 / 70 / 80, vision radius while traveling reduced to 1000 from 1500, hawks update their vision more frequently as they travel.
+* Hawkshot: Passive gold generation removed, range increased to Global from 2500 / 3250 / 4000 / 4750 / 5500.
+* Hawkshot: New Effect: Now works with a stock system, able to hold up to two charges, static cooldown implemented at 5 seconds, recharge time increased to 90 / 80 / 70 / 60 / 50 versus the current 60 / 55 / 50 / 45 / 40 cooldown.
+
+**V5.9**
+
+* Enchanted Crystal Arrow: No longer innately slows, but will apply Frost Shots' slow.
+* Slow percentage effectively reduced to 5% - 35% (based on level) (+20% during Ranger's Focus)%, slow duration effectively reduced to 2 from 3 seconds.
+
+---
+
+**Trivia**
+
+[2] Ashe's dance references J'en Ai Marre! by Alizée. A side by side comparison can be seen here.
+
+[3] Ashe shares similarities with Ashelia B'nargin Dalmasca from Final Fantasy XII. Their names are similar and both became queens, use ranged weapons (Ashelia uses hand bombs in Final Fantasy XII: Revenant Wings) and were once hunted down to prevent them from leading their respective peoples.
+
+[4] Ashe is the first (and so far the only) champion to possess two global-ranged abilities: Hawkshot and Enchanted Crystal Arrow.
+
+[5] Ashe was named for Marc 'Tryndamere' Merrill's wife Ashley.
+
+[6] As of December 9, 2017 Ashe has featured on the free champion rotation more than any other champion (76 times).
+
+[7] In Summoner's Rift, Thornmail was once recommended as a situational item for Ashe, this was most likely a reference to the old Basic Tutorial where Ashe is pre-selected as the player's champion and Thornmail is the only purchasable item.
+
+[8] In the now-removed official League of Legends forums, the icon of Focus was used to represent the "New Player Forum" section.
+
+---
+
+**References**
+
+[1] Ashe's profile page at LeagueOfLegends.com
+[2] Frost Shot's damage classification
+[3] The base 10% isn't affected by the crit modifies.
+[4] Ranger's Focus' interaction with Runaan's Hurricane

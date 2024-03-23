@@ -1,0 +1,1041 @@
+Format:
+
+**Games**
+
+* Universe
+  + League of Legends
+    - Champions
+      * Darius
+        **Gameplay**
+        **Collection**
+          * Original
+          * Chromas
+            * Black Iron
+            * Bronze
+            * Copper
+            * Lord
+            * Woad
+            * Dunkmaster
+            * Academy
+            * Dreadnova
+            * God-King
+            * High Noon
+            * Crime City Nightmare
+            * Porcelain
+          * Loot eligible
+        **Skins**
+        **Lore**
+          * Original
+          * Bioforge
+          * Woad King
+          * Dunkmaster
+          * Academy
+          * Dreadnova
+          * God-King
+          * High Noon
+          * High Noon (Pentakill)
+          * High Noon (Skinline)
+          * Crime City Nightmare
+          * Spirit Blossom
+          * Porcelain
+        **Abilities**
+          * Hemorrhage
+          * Decimate
+          * Crippling Strike
+          * Apprehend
+          * Noxian Guillotine
+        **Patch history**
+          * V14.4
+          * V14.2
+          * V13.14
+          * V13.7
+          * V12.22
+          * V12.10
+          * V12.6
+          * V12.3
+          * V11.21
+          * V11.20
+          * V11.18
+          * V11.14
+          * V11.10
+          * V11.8
+          * V11.7
+          * V11.2
+          * V11.1
+          * V10.23
+          * V10.16
+          * V10.6
+          * V10.5
+          * V10.4
+          * V10.2
+          * V9.24
+          * V9.23
+          * V9.16
+          * V9.9
+          * V9.5
+          * V8.19
+          * V8.15
+          * V8.14
+          * V8.8
+          * V8.7
+          * V8.4
+          * V8.3
+          * V8.2
+          * V7.24
+          * V7.22
+          * V7.14
+          * V7.11
+          * V7.7
+          * V7.2
+          * V7.1
+          * V6.23
+          * V6.15
+          * V6.14
+          * V6.11
+          * V6.8
+          * V5.21
+          * V5.20
+          * V5.18
+          * V5.17
+          * V5.16
+          * V5.15
+          * V5.14
+          * V5.7
+          * V5.2
+          * V5.1
+          * V4.5
+          * V4.1
+          * V3.8
+          * V3.03
+          * V1.0.0.152
+          * V1.0.0.142
+          * V1.0.0.140b
+          * V1.0.0.140
+          * V1.0.0.139
+          * V1.0.0.138
+          * V1.0.0.137
+          * V1.0.0.136
+          * V1.0.0.135
+          * V1.0.0.134
+          * V1.0.0.133
+          * V1.0.0.132
+          * V1.0.0.131
+          * V1.0.0.130
+          * V1.0.0.129
+          * V1.0.0.128
+          * V1.0.0.127
+          * V1.0.0.124
+          * V1.0.0.123
+          * V1.0.0.122
+          * V1.0.0.119
+          * V1.0.0.117
+          * V1.0.0.116
+          * V1.0.0.113
+          * V1.0.0.112
+          * V1.0.0.109
+          * V1.0.0.108
+          * V1.0.0.106
+          * V1.0.0.103
+          * V1.0.0.102
+          * V1.0.0.101
+          * V1.0.0.100
+          * V1.0.0.99
+          * V1.0.0.98
+          * V1.0.0.97
+          * V1.0.0.96
+          * V1.0.0.95
+          * V1.0.0.94
+          * V1.0.0.93
+          * V1.0.0.92
+          * V1.0.0.91
+          * V1.0.0.90
+          * V1.0.0.89
+          * V1.0.0.88
+          * V1.0.0.87
+          * V1.0.0.86
+          * V1.0.0.85
+          * V1.0.0.84
+          * V1.0.0.83
+          * V1.0.0.82
+          * V1.0.0.81
+          * V1.0.0.80
+          * V1.0.0.79
+          * V1.0.0.78
+          * V1.0.0.77
+          * V1.0.0.76
+          * V1.0.0.75
+          * V1.0.0.74
+          * V1.0.0.73
+          * V1.0.0.72
+          * V1.0.0.71
+          * V1.0.0.70
+          * V1.0.0.69
+          * V1.0.0.68
+          * V1.0.0.67
+          * V1.0.0.66
+          * V1.0.0.65
+          * V1.0.0.64
+          * V1.0.0.63
+          * V1.0.0.62
+          * V1.0.0.61
+          * V1.0.0.60
+          * V1.0.0.59
+          * V1.0.0.58
+          * V1.0.0.57
+          * V1.0.0.56
+          * V1.0.0.55
+          * V1.0.0.54
+          * V1.0.0.53
+          * V1.0.0.52
+          * V1.0.0.51
+          * V1.0.0.50
+          * V1.0.0.49
+          * V1.0.0.48
+          * V1.0.0.47
+          * V1.0.0.46
+          * V1.0.0.45
+          * V1.0.0.44
+          * V1.0.0.43
+          * V1.0.0.42
+          * V1.0.0.41
+          * V1.0.0.40
+          * V1.0.0.39
+          * V1.0.0.38
+          * V1.0.0.37
+          * V1.0.0.36
+          * V1.0.0.35
+          * V1.0.0.34
+          * V1.0.0.33
+          * V1.0.0.32
+          * V1.0.0.31
+          * V1.0.0.30
+          * V1.0.0.29
+          * V1.0.0.28
+          * V1.0.0.27
+          * V1.0.0.26
+          * V1.0.0.25
+          * V1.0.0.24
+          * V1.0.0.23
+          * V1.0.0.22
+          * V1.0.0.21
+          * V1.0.0.20
+          * V1.0.0.19
+          * V1.0.0.18
+          * V1.0.0.17
+          * V1.0.0.16
+          * V1.0.0.15
+          * V1.0.0.14
+          * V1.0.0.13
+          * V1.0.0.12
+          * V1.0.0.11
+          * V1.0.0.10
+          * V1.0.0.9
+          * V1.0.0.8
+          * V1.0.0.7
+          * V1.0.0.6
+          * V1.0.0.5
+          * V1.0.0.4
+          * V1.0.0.3
+          * V1.0.0.2
+          * V1.0.0.1
+          * V1.0.0.0
+        **Trivia**
+          * Darius is one of 20 champions without a single ability power ratio on any ability.
+          * Darius and Draven are the first related champions to be released back to back.
+          * Darius was the first champion to receive Chroma packs for 2 of his skins, namely Classic and Dunkmaster.
+          * Tahm Kench says Darius' strength is 'waning' and that he could 'help him slow time's regress'.
+          * Darius' Latin transliteration is 'Darius', which is derived from Old Persian 'Dārayauš'.
+          * Darius shares the same PIE root with Darha, the birth name of Karma in her updated lore.
+        **Development**
+          * Hemorrhage used to have a movement speed buff called Aggression during development.
+          * Noxian Tactics (now Hamstring) and Sudden Death were previous names for Noxian Guillotine.
+          * Blood Rage was originally the name for Noxian Might.
+
+**Image**
+
+* Darius
+
+**Text**
+
+**Darius**
+
+* A champion in League of Legends.
+* Release date: 2012-05-23.
+* Last changed: V14.4.
+* Class(es): Juggernaut, Legacy, Fighter, Tank.
+* Position(s): Top.
+* Resource: Mana.
+* Range type: Melee.
+* Adaptive type: Physical.
+* Store price: 450.
+* Ratings:
+  + Damage: 3.
+  + Toughness: 2.
+  + Control: 2.
+  + Mobility: 1.
+  + Utility: 1.
+* Style: Difficulty: TBD.
+* Champion Spotlight: Darius Champion Spotlight.
+
+**Darius**
+
+* is a
+* champion
+* in
+* League of Legends
+* .
+* [1]
+
+**Gameplay**
+
+* Cosmetics.
+* Audio.
+* Development.
+* Patch History.
+* History.
+* Trivia.
+
+**Base statistics**
+
+* Health: 652 (+114).
+* Mana: 263 (+58).
+* Health regeneration (per 5s): 10 (+0.95).
+* Mana regeneration (per 5s): 6.6 (+0.35).
+* Armor: 39 (+5.2).
+* Attack damage: 64 (+5).
+* Magic resist: 32 (+2.05).
+* Crit. damage: 175%
+* Move. speed: 340.
+* Attack range: 175.
+* Attack speed: Base AS 0.625, Attack windup 20% (mod. 0.5), AS ratio N/A, Bonus AS +1% per level.
+* Unit radius: Gameplay radius 80, Selection radius 125, Pathing radius 26, Acq. radius 400.
+
+**Special statistics**
+
+* ARAM: Damage Dealt +5%, Damage Received +0%.
+* Nexus Blitz: Damage Dealt +0%, Damage Received +0%.
+* One For All: Damage Dealt +0%, Damage Received +0%.
+* URF: Damage Dealt -10%, Damage Received +5%.
+* Ult Spellbook: Damage Dealt +0%, Damage Received +0%.
+* Arena: Damage Dealt +5%, Damage Received +5%.
+* Damage Dealt: +5%.
+* Damage Received: +0%.
+
+**Abilities**
+
+* [ ]
+* Edit
+* Hemorrhage
+* Hemorrhage
+* Innate: Darius' damaging basic attacks and abilities apply a stack of Hemorrhage to enemies for 5 seconds, refreshing on subsequent applications and stacking up to 5 times.
+* Hemorrhage: For each stack, the target is dealt 13-30 (based on level) (+30% bonus AD) total physical damage over the duration, 3.25-7.5 (based on level) (+7.5% bonus AD) physical damage every 1.25 seconds over the duration, up to a maximum of 65-150 (based on level) (+150% bonus AD) total physical damage over the duration. 16-25 (based on level) (+37.5% bonus AD) physical damage with each tick. Hemorrhage deals 300% damage against monsters.
+* When Darius kills a champion with Noxian Guillotine, or applies 5 stacks on an enemy champion, he becomes empowered with Noxian Might for 5 seconds.
+* Noxian Might: Darius gains 30-230 (based on level) bonus attack damage and instantly applies 5 Hemorrhage stacks through his usual means.
+* Blocked: Hemorrhage does not apply to structures nor wards. Darius' attacks and abilities have to deal damage to apply Hemorrhage. Hemorrhage cannot be applied to/refreshed against invulnerable targets. Hemorrhage can be applied on-hit, but will specifically not do so if the target is invulnerable. Spell shield prevents Hemorrhage's application from abilities only.
+* Video: [Link].
+* Details: [Link].
+* Video: [Link].
+* Info: Targeting input: Passive, Damage type: Type: Physical, Sub-type: Default damage.
+* Counters: Spell shield, parries.
+* Blocked: If Hemorrhage's total post-mitigation damage is higher than the target's current health, a small area of sight is granted around the target for the duration of Hemorrhage and for another 2 seconds after it ends.
+* Darius' attacks and abilities have to deal damage to apply Hemorrhage.
+* Hemorrhage cannot be applied to/refreshed against invulnerable targets.
+* Hemorrhage can also be applied on-hit, but will specifically not do so if the target is invulnerable.
+* Spell shield prevents Hemorrhage's application from abilities only.
+* Video: [Link].
+* Edit
+* Decimate
+* Decimate
+* Cost: 25/30/35/40/45 mana, Cooldown: 9/8/7/6/5, Cast time: none, Effect radius: 240/460.
+* Active: Darius hefts his axe for 0.75 seconds, and then swings it around himself, dealing physical damage to nearby enemies, reduced to 35% against enemies hit by the inner radius.
+* Physical Damage: 50/80/110/140/170 (+\[100/110/120/130/140%\] AD).
+* Reduced Damage: 17.5/28/38.5/49/59.5 (+\[35/38.5/42/45.5/49%\] AD).
+* Against champions and large monsters hit, Darius heals for 15%-45% (based on number of targets hit by the outer radius) of his missing health. Enemies hit by the inner radius do not refresh the duration of or gain a new stack of Hemorrhage.
+* Darius is unable to declare basic attacks or cast Apprehend or Noxian Guillotine during Decimate.
+* Video: [Link].
+* Details: [Link].
+* Video: [Link].
+* Info: Targeting input: Auto, Damage type: Type: Physical, Sub-type: Area damage.
+* Counters: Spell shield, blocked by stasis or Dash during the delay.
+* After the delay, Decimate is placed on a 1-second cooldown.
+* Video: [Link].
+* Edit
+* Crippling Strike
+* Crippling Strike
+* Cost: 40 mana, Cooldown: 5 seconds at all ranks, Cast time: none, Active: Darius empowers his next basic attack within 4 seconds to have an uncancellable windup, gain 25 bonus range, deal modified physical damage and slow the target by 90% for 1 second.
+* Physical Damage: 140/145/150/155/160% AD.
+* If this attack kills the target, half of Crippling Strike's cooldown is reduced and its mana cost is refunded.
+* Crippling Strike's total damage is affected by critical strike modifiers.
+* Crippling Strike resets Darius's basic attack timer.
+* Video: [Link].
+* Details: [Link].
+* Video: [Link].
+* Info: Targeting input: Auto, Damage type: Type: Physical, Sub-type: Spell damage.
+* Counters: Spell shield, parries.
+* Blocked: Spell shield will not block the damage.
+* The attack's animation can be cancelled by casting Decimate, but the attack will still land.
+* Crippling Strike triggers Manaflow Band, Tear of the Goddess's Mana Charge and spell effects.
+* Despites its name, Crippling Strike no longer cripples anymore.
+* Video: [Link].
+* Edit
+* Apprehend
+* Apprehend
+* Cost: 70/60/50/40/30 mana, Cooldown: 24/21.5/19/16.5/14 seconds, Cast time: 0.25 seconds, Passive: Darius gains armor penetration.
+* Armor Penetration: 20/25/30/35/40%.
+* Active: Darius sweeps his axe in a cone in the target direction, granting sight of the area for 1 second while pulling enemies hit towards him. Upon arrival, they rebound 150 units off of him, remaining airborne and becoming slowed by 40% for 1 second.
+* Darius is unable to move or cast Decimate or Noxian Guillotine for 0.4 seconds after Apprehend's cast time.
+* Video: [Link].
+* Details: [Link].
+* Video: [Link].
+* Info: Targeting input: Direction, Counters: Spell shield, projectile, not blocked.
+* Enemies hit by Apprehend will quickly be dragged to Darius before rebounding over a longer period.
+* The slow duration starts as soon as the target rebounds off of Darius.
+* Pending for test: The rebound location is determined when the target reaches Darius's location.
+* The rebound's forced movement's duration is roughly 0.5 seconds, finishing before the airborne duration ends.
+* Pending for test: There is no stun applied for the same duration of the airborne, meaning brittle cannot extend the disable duration. It will not increase the slow duration in most situations because of the negative tenacity falling off before the slow is applied.
+* After the pull, Darius will attempt to basic attack the closest pulled target, prioritizing enemy champions.
+* The armor penetration stacks multiplicatively with other forms of percentage armor penetration.
+* This ability will cast from wherever the caster is at the end of the cast time.
+* Type: Cast time: Attacking, Disabled: Abilities, Movement, Items, Usable: Shurelya's Battlesong, Youmuu's Ghostblade, Randuin's Omen, Disabled: All other item-actives, Interrupted by: N/A, Consumables: Usable: Barrier, Clarity, Cleanse, Exhaust, Ghost, Heal, Ignite, Smite, Disabled: Flash, Teleport, Recall, Hexflash, Interrupted by: N/A, Interrupted by: Death, unless protected by Resurrection.
+* Video: [Link].
+* Edit
+* Noxian Guillotine
+* Noxian Guillotine
+* Cost: 100/100/0 mana, Cooldown: 120/100/80 seconds, Cast time: 0.3667 seconds, Target range: 475.
+* Active: Darius attempts to execute the target enemy champion, leaping towards them to deal true damage, increased by 0%-100% (based on Hemorrhage stacks), and granting sight of the area around them for 2.5 seconds from the start of the cast time.
+* True Damage: 125/250/375 (+\[75%\] bonus AD).
+* Bonus Damage Per Stack: 25/50/75 (+\[15%\] bonus AD).
+* Maximum True Damage: 250/500/750 (+\[150%\] bonus AD).
+* If the target dies within 0.15 seconds after being hit by Noxian Guillotine, Darius fears nearby minions and monsters for 3 seconds, during which they are gradually slowed by up to 99% over the duration. He can also recast the ability within 20 seconds at no cost, which refreshes on further executions.
+* At rank 3, Noxian Guillotine has no mana cost and recast timer.
+* Darius is unable to cast Decimate or Apprehend for 0.25 seconds after Noxian Guillotine's cast time.
+* Video: [Link].
+* Details: [Link].
+* Info: Targeting input: Unit, Target out-of-range override, Walk in range of the target.
+* Damage type: Type: Minion aggro, Spell damage, True.
+* Counters: Spell shield, grounded, kn
+ockdown, disabled, not interrupted.
+* Noxian Guillotine's cooldown after the recast or recast window is calculated by taking the values at the end, and using this formula: (Noxian Guillotine's Cooldown - time since first cast)×100÷(100+AH).
+* Darius will only leap towards the target if it is at range, or leap backwards if it is very close.
+* This leap can pass very thin terrain and will otherwise not be able to. In any case, Darius will still hit the target.
+* The ability is disabled while grounded or rooted even if Darius is in the range in which he does not leap.
+* Noxian Guillotine will not reset nor trigger Noxian Might if used to kill a clone or a target protected by resurrection.
+* Noxian Guillotine will reset but not trigger Noxian Might if it finishes off a target that is in a zombie state.
+* If the target becomes untargetable, dies, or is too far away or no longer in sight during the cast time, this ability will cancel but does not go on cooldown nor pay its cost (if applicable).
+* Video: [Link].
+
+**Champion skins**
+
+* This article section only contains champion skins. For all associated collection items, see [Darius (Collection)](https://leagueoflegends.fandom.com/wiki/Darius_(Collection)).
+
+**Original**
+
+* View in 3D.
+* 880.
+* 22.05.2012.
+* There is no greater symbol of Noxian might than Darius, the nation’s most feared and battle-hardened leader. Rising from humble origins to become the Hand of Noxus, he cleaves through the empire's enemies—many of them Noxians themselves. Knowing that he never doubts his cause is just, and never hesitates once his axe is raised, those who stand against the commander of the Trifarian Legion can expect no mercy.
+* Chuck Kourouklis.
+* Michal Ivan, Sixmorevodka Studio.
+* Loot eligible.
+
+**Chromas**
+
+* Original Darius Chromas.
+* Black Iron.
+* Bronze.
+* Copper.
+* Lord.
+
+**Rift Quest**
+
+* View in 3D.
+* 975.
+* 22.05.2012.
+* To save his own life after being exposed to a cloud of radioactive space gas, investment banker Donald D. Darius was forced to build a suit containing the strange mixture. But the chemicals from beyond the stars warped his weakened mind, twisting him into the brutal villain known as Bioforge!
+* Chuck Kourouklis.
+* Unknown artist.
+* Rift Quest.
+* Loot eligible.
+
+**Silver Age**
+
+* View in 3D.
+* 975.
+* 13.11.2012.
+* For a Woad tribesman to be named king, they must venture alone into the den of a glacial hydra and return with one of its heads. Darius, it is said, came back with all nine.
+* Chuck Kourouklis.
+* Joshua 'HUGEnFAST' Brian Smith.
+* Woad.
+* Loot eligible.
+
+**New SFX/VFX**
+
+* Woad King.
+* View in 3D.
+* 975.
+* 16.06.2013.
+* For a Woad tribesman to be named king, they must venture alone into the den of a glacial hydra and return with one of its heads. Darius, it is said, came back with all nine.
+* Chuck Kourouklis.
+* Joshua 'HUGEnFAST' Brian Smith.
+* Woad.
+* Loot eligible.
+
+**New Animations/Recall**
+
+* Dunkmaster.
+* View in 3D.
+* 1820.
+* 12.10.2014.
+* Sporting over a hundred different endorsement deals and tens of millions of fans the world over, Darius has transformed himself from a showy basketball prodigy to the world's leading authority on dunking. He has recently perfected the Dunktown Express, where he dunks so hard that all public transit on the planet simultaneously explodes.
+* Chuck Kourouklis.
+* Joshua 'HUGEnFAST' Brian Smith.
+* Dunkmaster.
+* Loot eligible.
+
+**New voiceover**
+
+* New voiceover.
+
+**New SFX/VFX**
+
+* New Animations/Recall.
+
+**New Chromas**
+
+* Dunkmaster Darius Chromas.
+* Amethyst.
+* Aquamarine.
+* Catseye.
+* Citrine.
+* Mythic.
+
+**Academy**
+
+* View in 3D.
+* 750.
+* 26.08.2015.
+* NOTICE FROM THE DEAN: Darius is henceforth suspended from Academy grounds for behavior including (but not limited to) stuffing students into lockers, possession of dangerous weapons on school property, brawling, fighting, scuffling, fisticuffing, and dunking on fellow classmates during gym class.
+* Chuck Kourouklis.
+* Sixmorevodka Studio.
+* Academy.
+* Loot eligible.
+
+**Dreadnova**
+
+* View in 3D.
+* Special.
+* 12.04.2017.
+* Formerly a frontline general in the now-disbanded Confederate Alliance, Darius once scoured the surfaces of entire planets in bitter campaigns against the RSM. Left devoid of purpose at the close of the war, the Dreadnova Corps offered him a chance to lead—and fight—again.
+* Chuck Kourouklis.
+* Jojo So.
+* Dreadnova.
+* Loot eligible.
+
+**God-King**
+
+* View in 3D.
+* 1820.
+* 27.06.2018.
+* God-King Darius is a bringer of true carnage—the descendant of primordial deities long forgotten in the shadow of Demacia. Slaughtering monarchs and gods alike, he seeks to end the false world of unity and peace, ushering in an age of endless war where only the strongest will survive.
+* Chuck Kourouklis.
+* Alex 'alexplank' Flores.
+* Battle of the God-Kings.
+* Loot eligible.
+
+**New voiceover**
+
+* New voiceover.
+
+**New SFX/VFX**
+
+* New Animations/Recall.
+
+**New Chromas**
+
+* God-King Darius Chromas.
+* Catseye.
+* Emerald.
+* Obsidian.
+* Pearl.
+* Ruby.
+* Sapphire.
+* Tanzanite.
+
+**High Noon**
+
+* View in 3D.
+* 1350.
+* 10.10.2019.
+* The once-human Darius was a terrifying manhunter, feared throughout the West for his cunning and brutality. Famously defeated by his brother in a widely publicized duel, his wounded pride eventually twisted into obsession, leading him to strike a deal with the devil Hecarim...
+* Chuck Kourouklis.
+* Ayran Oberto, West Studio.
+* High Noon.
+* Loot eligible.
+
+**New voiceover**
+
+* New voiceover.
+
+**New SFX/VFX**
+
+* New Animations/Recall.
+
+**New Chromas**
+
+* High Noon Darius Chromas.
+* Emerald.
+* Nomad.
+* Obisidian.
+* Rose Quartz.
+* Ruby.
+* Sapphire.
+* Tanzanite.
+
+**Lunar Beast**
+
+* View in 3D.
+* 1350.
+* 04.02.2021.
+* Darius' imposing presence and determination to lead by example cause occasional tension between him and Alistar, the actual leader of the squad. Despite how overbearing he can be, Darius is a strong and steadfast friend to his teammates and a rock for the whole Clan.
+* Chuck Kourouklis.
+* Forrest Imel, West Studio.
+* Lunar Beast.
+* Loot eligible.
+
+**Crime City Nightmare**
+
+* View in 3D.
+* 1350.
+* 06.10.2022.
+* All Darius wanted was to secure a place for himself at the top of the underworld. Becoming Miss Fortune's personal bodyguard was the first step, but the second was embracing the power of the Mysterious Gentleman: welcoming forces from beyond space and time that have molded him into something far more powerful than he could ever have imagined.
+* Chuck Kourouklis.
+* Forrest Imel, West Studio.
+* Crime City Nightmare.
+* Loot eligible.
+
+**Spirit Blossom**
+
+* View in 3D.
+* 1350.
+* 22.02.2024.
+* Darius has watched the modern-day protector of the Tiger Relic from afar, silently judging his descendant. Back when he was protector, the Tiger was a symbol of pride... Now it seems the Zodiac will hand off the duty to anyone with a minor in archeology. Returned to physical form, Darius believes he can show this kid a thing or two.
+* Chuck Kourouklis.
+* Huyy Nguyen, West Studio.
+* Porcelain.
+* Loot eligible.
+
+**Patch history**
+
+[ ]
+For the expanded patch notes, see [here](https://leagueoflegends.fandom.com/wiki/League_of_Legends_patch_history#V14.4).
+
+**V14.4**
+
+* Dunkmaster Darius
+* Bug Fix: First encounter VO is now properly playing as intended for Amumu, Maokai, and Sona.
+* Spirit Blissom Darius
+* Crippling Strike
+* Bug Fix: VFX no longer renders over impassable terrain.
+
+**V14.2**
+
+* Decimate
+* Mana cost reduced to 25/30/35/40/45 from 30/35/40/45/50.
+* Heal increased to 15%-45% (based on enemies hit by the blade) missing health from 13%-39%.
+* Apprehend
+* Armor penetration increased to 20/25/30/35/40% from 15/20/25/30/35%.
+
+**V13.14**
+
+* Dunkmaster Darius
+* Basic attack animation now uses the VFX for this skin rather than the classic one.
+
+**V13.7**
+
+* Crippling Strike
+* Bug Fix: Empowered attack no longer fails if the attack expires during its windup.
+
+**V12.22**
+
+* Stats
+* Mana growth increased to 58.5 from 57.5.
+
+**V12.10**
+
+* Noxian Guillotine
+* Bug Fix: Now properly resets its cooldown if a target died a moment before taking damage.
+
+**V12.1**
+
+* Stats
+* Base health increased to 652 from 582.
+* Health growth increased to 114 from 100.
+* Armor growth increased to 5.2 from 4.
+* Magic resistance growth increased to 2.05 from 1.25.
+* Decimate
+* Heal reduced to 13%-39% (based on enemies hit by the blade) missing health from 15%-45%.
+
+**V12.6**
+
+* Noxian Guillotine
+* Base damage increased to 125/250/375 from 100/200/300.
+
+**V12.3**
+
+* General
+* Base voice lines have been remastered to sound clearer, cleaner, and smoother.
+
+**V11.21**
+
+* Crippling Strike
+* New Effect: Now triggers spell effects when dealing damage.
+
+**V11.20**
+
+* Crippling Strike
+* Cooldown reduced to 5 seconds at all ranks from 7/6.5/6/5.5/5.
+* Mana cost changed to 45 at all ranks from 50/45/40/35/30.
+
+**V11.18**
+
+* Crime City Nightmare Darius
+* Heavier sound effects for Hemorrhage and Noxian Guillotine.
+
+**V11.14**
+
+* Hemorrhage
+* Bonus attack damage increased to 30-230 (based on level) from 20-205 (based on level).
+* Apprehend
+* Cooldown reduced to 24/21.5/19/16.5/14 seconds from 26/24/22/20/18.
+
+**V11.10**
+
+* Apprehend
+* Cooldown increased to 26/24/22/20/18 seconds from 24/21/18/15/12.
+
+**V11.8**
+
+* Hemorrhage
+* Damage against monsters increased to 300% from 175%.
+
+**V11.7**
+
+* Noxian Guillotine
+* Undocumented/Bug Fix: Darius can no longer gain Noxian Might upon killing a unit other than his primary target during the 0.15 second reset window.
+
+**V11.2**
+
+* Hemorrhage
+* Bonus attack damage reduced to 20-205 (based on level) from 30-230 (based on level).
+
+**V11.1**
+
+* Stats
+* Base health reduced to 582 from 582.24.
+* Base magic resistance reduced to 32 from 32.1.
+
+**V10.23**
+
+* Stats
+* Mana growth increased to 37.5 from 37.5.
+
+**V10.16**
+
+* Crippling Strike
+* Bug Fix: Now properly deals damage to a target with spell shield.
+
+**V10.6**
+
+* Crippling Strike
+* AD ratio reduced to 40/45/50/55/60% AD from 50/55/60/65/70% AD.
+* Mana cost increased to 40 from 30.
+
+**V10.5**
+
+* Hemorrhage
+* Damage against monsters increased to 175% from 120%.
+
+**V10.4**
+
+* Hemorrhage
+* New Effect: Now deals 120% damage against monsters.
+* Decimate
+* New Effect: Now also heals off of large monsters hit.
+
+**V10.2**
+
+* Noxian Guillotine
+* Bug Fix: Maximum damage always factors in Noxian Might, not only when the latter is active.
+
+**V9.24**
+
+* Decimate
+* Bug Fix: No longer heals from Decimate when hitting spell-shielded enemies with his axe's handle.
+
+**V9.23**
+
+* Crippling Strike
+* Bug Fix: Attack no longer hits through Teemo's Blinding Dart when it critically strikes.
+
+**V9.16**
+
+* Hemorrhage
+* Bug Fix: No longer incorrectly displays a ranged indicator.
+
+**V9.9**
+
+* Decimate
+* Healing increased to 15% missing health for every enemy champion hit by the Blade, up to 30 from 12% missing health.
+* Blade base damage increased to 50/80/110/140/170 from 40/70/100/130/160.
+
+**V9.5**
+
+* Apprehend
+* Bug Fix: Base skin no longer plays God-King Darius Apprehend quotes.
+
+**V8.19**
+
+* Crippling Strike
+* AD ratio increased to 50/55/60/65/70% AD from 40/45/50/55/60% AD.
+* Apprehend
+* Armor penetration increased to 15/20/25/30/35% from 10/15/20/25/30%.
+
+**V8.15**
+
+* God-King Darius
+* Bug Fix: Several missing VO lines have been restored.
+
+**V8.14**
+
+* God-King Darius
+* Noxian Guillotine
+* Bug Fix: Certain shield particles from items and champion abilities no longer render through terrain during the animation of Noxian Guillotine.
+
+**V8.8**
+
+* General
+* Bug Fix: Texture compression is now more consistent across his chroma pack.
+
+**V8.7**
+
+* Dreadnova Darius
+* Bug Fix: Idle VFX have been restored.
+
+**V8.4**
+
+* Crippling Strike
+* Cooldown reduced to 7/6.5/6/5.5/5 seconds from 9/8/7/6/5.
+* AD ratio increased to 40/45/50/55/60% AD from 40% AD at all ranks.
+* Bug Fix: Fixed a bug where it sometimes failed to damage certain units (e.g Yorick's Dark Procession).
+* Apprehend
+* Armor penetration increased to 10/15/20/25/30% from 5/10/15/20/25%.
+
+**V8.3**
+
+* General
+* New lore.
+
+**V8.2**
+
+* Noxian Guillotine
+* New Effect: Now draws nearby minion aggro when targeting an enemy champion.
+
+**V7.24**
+
+* Hemorrhage
+* Bleed damage increased to 13-30 (based on level) from 10-27 (based on level).
+* Noxian Might bonus AD increased to 30-230 (based on level) from 30-200 (based on level).
+
+**V7.22**
+
+* Stats
+* Base attack damage increased to 64 from 56.
+* Base armor increased to 39 from 30.
+
+**V7.14**
+
+* Apprehend
+* Changed several interactions where it overwrites any spell queuing commands, instead forcing the caster to immediately begin basic-attacking once the ability completed.
+
+**V7.11**
+
+* Decimate
+* When triggering Noxian Might by applying a fifth stack via Decimate, Decimate now properly only applies one stack of Hemorrhage to other units hit.
+
+**V7.7**
+
+* Dunkmaster Darius
+* Bug Fix: Fixed a bug where moving the camera away from him as he was recalling would desync the sound of it.
+
+**V7.2**
+
+* Hemorrhage
+* Bonus attack damage reduced to 30-200 (based on level) from 40-200 (based on level).
+* Decimate
+* Handle hit damage reduced to 35% from 50%.
+* Handle hit damage reduced to 14/24.5/35/45.5/56 (+\[35/38.5/42/45.5/49%\] AD) from 20/35/50/65/80 (+\[70%\] Bonus AD).
+
+**V7.1**
+
+* Apprehend
+* Bug Fix: Fixed a bug where, briefly after hitting a target with Apprehend, Darius automatically tried to attack the target, overriding any commands issued after Apprehend was cast.
+
+**V6.23**
+
+* Crippling Strike
+* Bug Fix: Dunkmaster Darius' Crippling Strike backboard flames are no longer offset from the backboard.
+* Noxian Guillotine
+* Bug Fix: Dunkmaster Darius' Noxian Guillotine no longer makes an orange blob on the ground when cast on a target with five stacks of Hemorrhage.
+
+**V6.15**
+
+* General
+* Bug Fix: Dunkmaster Darius' health bar no longer overlaps with his head.
+
+**V6.14**
+
+* Apprehend
+* Bug Fix: When pulling enemies over walls, no longer chest-bumps them back to the side they were on to begin with.
+* Bug Fix: Fixed a bug where Apprehend was not properly pulling in enemies that were mid-dash during its cast.
+
+**V6.11**
+
+* Apprehend
+* Bug Fix: Fixed a bug where Apprehend was not properly pulling in enemies that were mid-dash during its cast.
+
+**V6.8**
+
+* General
+* New splash artwork for Original Darius.
+
+**V5.21**
+
+* Noxian Guillotine
+* Tooltip updated and corrected.
+
+**V5.20**
+
+* Decimate
+* Blade width reduced to 220 from 270.
+* Apprehend
+* Slow reduced to 40% from 90%.
+
+**V5.18**
+
+* Hemorrhage
+* Fixed a bug where Darius would gain Noxian Might even if the target blocked the 5th stack (Spellshield).
+* Decimate
+* New Effect: Has a 0.75 seconds time delay and displays its effective radius ( including Blade and Handle areas).
+* Darius can move during cast time.
+* Blade damage changed to 40/70/100/130/160 (+\[100/110/120/130/140%\] AD) from 105/157.5/210/262.5/315 (+\[105%\] Bonus AD).
+* New Effect: Darius heals for 15% of his missing health for every enemy champion hit by the Blade, up to 30.
+* Handle damage changed to 20/35/50/65/80 (+\[50/55/60/65/70%\] AD) from 70/105/140/175/210 (+\[70%\] Bonus AD).
+* Removed: Handle applying Hemorrhage.
+* Mana cost reduced to 30 from 40.
+* Crippling Strike
+* AD ratio changed to (+\[40%\] AD) at all ranks from (+\[20/40/60/80/100%\] AD).
+* Slow increased 90% at all ranks from 20/25/30/35/40.
+* Slow duration reduced to 1 second from 2.
+* Cooldown changed to 9/8/7/6/5 seconds from 8 seconds at all ranks.
+* Mana cost reduced to 30 at all ranks from 30/35/40/45/50.
+* Removed: Attack speed reduction.
+* Removed: Cooldown reduction per Hemorrhage stack on target.
+* Apprehend
+* Cast time reduced to 0.25 seconds from 0.32.
+* New Effect: Slows enemies pulled by 90% for 1 second.
+* Bug Fix: Enemies would be pulled in if they escaped the area during cast time.
+* Noxian Guillotine
+* Base damage reduced to 100/200/300 from 160/250/340.
+* New Effect: Upon executing an enemy champion, all nearby non-champions become terrified for 3 seconds.
+* New Effect: Mana cost removed at Rank 3.
+* Removed: Mana refund on cast.
+
+**V5.14**
+
+* Apprehend
+* New Effect: Briefly grants vision over the target area.
+
+**V5.7**
+
+* Noxian Guillotine
+* New Effect: Will refund 25/50/100 mana on-kill.
+* New Effect: At maximum rank, the cooldown is fully reset on kill.
+
+**V4.5**
+
+* Stats
+* Base armor increased to 24 from 20.
+
+**V4.1**
+
+* Noxian Guillotine
+* Recast time increased to 20 seconds from 12.
+
+**V3.8**
+
+* Apprehend
+* Animation is slower and has a wind-up (undocumented).
+* Range reduced to 540 from 550.
+
+**V3.03**
+
+* Noxian Guillotine
+* New Effect: When Noxian Guillotine kills the target, it can be recast within the next 12 seconds.
+* This can occur multiple times in succession.
+* Cooldown changed to 120/100/80 seconds from 100 at all ranks.
+
+**V1.0.0.152**
+
+* Stats
+* Movement speed increased to 340 from 315.
+
+**V1.0.0.142**
+
+* Noxian Guillotine
+* No longer refreshes upon killing champion clones (Hallucinate).
+
+**V1.0.0.140b**
+
+* Hemorrhage
+* : AD ratio reduced to (+\[30%\] Bonus AD) from (+\[40%\] Bonus AD).
+* Fixed a bug where it was applying Rylai's Crystal Scepter's Icy and Spell Vamp effects.
+* Apprehend
+* Pre-pull animation modified to be more readable for enemy champions.
+* Noxian Guillotine
+* Cooldown now only refreshes when it deals the killing blow.
+
+**V1.0.0.140**
+
+* Added Hemorrhage
+* - AD I
+* Darius aims his attacks strategically, causing his target to bleed. This effect stacks up to 5 times.
+* Decimate
+* - Q
+* Darius swings his axe in a wide circle. Enemies struck by the blade take more damage than those struck by the shaft.
+* Crippling Strike
+* - W
+* Darius' next attack severs a crucial artery. As the target bleeds out, their movement and attack speeds are slowed. Crippling Strike's cooldown is lower the more bloodied the target.
+* Apprehend
+* - E
+* Darius hones his axe, granting him passive armor penetration. When activated, Darius sweeps up his enemies with his axe's hook and pulls them to him.
+* Noxian Guillotine
+* - R
+* Darius leaps to an enemy champion and strikes a lethal blow, dealing true damage. This damage increases for each stack of Hemorrhage on the target. If Noxian Guillotine's is a killing blow, its cooldown is refreshed.
+
+**Trivia**
+
+[ ]
+
+* Darius is one of 20 champions without a single ability power ratio on any ability.
+* Darius-Draven is one of seven pairs of sibling champions.
+* Darius was the first champion to have an autonomous Recall/Teleport animation.
+* He and his brother Draven are the first related champions to be released back to back.
+* Darius was the first champion to receive Chroma packs for 2 of his skins, namely Classic and Dunkmaster.
+* Tahm Kench says Darius' strength is 'waning' and that he could 'help him slow time's regress'.
+* This and the strands of gray hair on his head suggest Darius either is of advanced age or ages prematurely after years of exertion & combat stress.
+* Darius' Latin transliteration is 'Darius', which is derived from Old Persian 'Dārayauš'.
+* Darius shares the same PIE root with Darha, the birth name of Karma in her updated lore.
+* Hemorrhage used to have a movement speed buff called Aggression during development.
+* It read: 'The carnage of war enlivens Darius, increasing his movement speed.'
+* Noxian Tactics (now Hamstring) and Sudden Death were previous names for Noxian Guillotine.
+* Blood Rage was originally the name for Noxian Might.

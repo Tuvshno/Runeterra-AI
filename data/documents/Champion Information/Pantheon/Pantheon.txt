@@ -1,0 +1,298 @@
+**Games**
+
+**Universe**
+
+-
+
+**League of Legends**
+
+*
+
+**•**
+
+**Teamfight Tactics**
+
+*
+
+**•**
+
+**Legends of Runeterra**
+
+*
+
+**•**
+
+**Wild Rift**
+
+**Image**
+
+**Pantheon**
+
+**Gameplay**
+
+*
+
+**•**
+
+**Cosmetics**
+
+*
+
+**•**
+
+**Audio**
+
+*
+
+**•**
+
+**Development**
+
+*
+
+**•**
+
+**Patch History**
+
+*
+
+**•**
+
+**History**
+
+*
+
+**•**
+
+**Trivia**
+
+**Pantheon**
+
+**the Unbreakable Spear**
+
+**Release date**
+
+2010-02-02
+
+**Last changed**
+
+V13.5
+
+**Class(es)**
+
+Diver, Legacy, Fighter, Assassin
+
+**Position(s)**
+
+Top, Support, Jungle, Middle
+
+**Resource**
+
+Mana
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Physical
+
+**Store price**
+
+1350
+
+|
+
+585
+
+**Crafting**
+
++
+
+810
+
+**Ratings**
+
+|
+
+**Damage**
+
+3
+
+**Toughness**
+
+2
+
+**Control**
+
+2
+
+**Mobility**
+
+2
+
+**Utility**
+
+1
+
+**Style**
+
+**Difficulty**
+
+**Champion Spotlight**
+
+**Pantheon Champion Spotlight**
+
+**Pantheon**
+
+is a champion in League of Legends.
+[1]
+
+**Gameplay**
+
+*
+
+**•**
+
+**Mortal Will**
+
+**(Innate)**
+
+Innate: Pantheon gains a stack when he lands a basic attack or casts an ability, up to a maximum of 5. At 5 stacks, Pantheon's next basic ability consumes the stacks to gain additional effects. Pantheon gains full stacks upon starting the game and upon respawning.
+
+**Comet Spear (Q)**
+
+First Cast: Pantheon charges for up to 4 seconds, increasing Comet Spear's range while being slowed by 10%.
+
+Second Cast: Pantheon hurls his spear, dealing physical damage to all enemies hit, increased to 155 / 240 / 325 / 410 / 495 (+ 200% bonus AD) against enemies below 25% of their maximum health, and with the total damage reduced to 50% against enemies beyond the first. Releasing the ability within 0.35 seconds causes Pantheon to instead thrust his spear, dealing physical damage to all enemies hit and refunding 50% of Comet Spear's cooldown. If Pantheon is interrupted during the charge or the charge completes without reactivation, Comet Spear is cancelled and the ability is put on full cooldown but refunds half the mana cost. Comet Spear's total damage is reduced by 10% against minions and by 15% against monsters.
+
+Mortal Will: Deals an additional 20 − 240 (based on level) (+ 100% bonus AD) bonus physical damage, affected by the previous damage reductions, to all enemies hit and slows them by 20 / 25 / 30 / 35 / 40% for 2.5 seconds.
+
+Mana Cost: 40.
+
+Cooldown: 10 / 9.5 / 9 / 8.5 / 8 seconds.
+
+Target Range: 575 / 1200 (based on channel time).
+
+Width: 120.
+
+Speed: 1500.
+
+**Shield Vault (W)**
+
+Active: Pantheon dashes to the target enemy unit, dealing them physical damage and stunning them for 1 second.
+
+Mortal Will: Pantheon's next basic attack within 4 seconds strikes his target 3 times, dealing 50% AD physical damage per hit, up to 150% AD. Each hit applies on-hit effects. The ability can be dodged if the target moves 800 units away.
+
+Mana Cost: 55.
+
+Cooldown: 13 / 12 / 11 / 10 / 9 seconds.
+
+Target Range: 600.
+
+**Aegis Assault (E)**
+
+Active: Pantheon braces his shield for 1.5 seconds in the target direction while striking in a cone, during which he is slowed for between 0% − 50% based on his movement direction relative to the shield's facing direction.
+
+Aegis Assault cannot be interrupted by crowd control.
+
+For the duration, Pantheon is invulnerable against damage dealt by enemies in the target direction, and deals up to 100% AD physical damage over the duration, 8.3% AD physical damage every 0.125 seconds, reduced by 50% against minions, and by 33.3% against non-epic monsters.
+
+At the end of the duration or upon reactivation after 0.3 seconds, Pantheon slams with his shield after a 0.25-second delay, dealing 55 / 105 / 155 / 205 / 255 (+ 150% bonus AD) physical damage.
+
+Mortal Will: Aegis Assault's duration is increased to 2.5 seconds, dealing up to 166.6% AD physical damage over the duration, 13.8% AD physical damage every 0.125 seconds.
+
+Mana Cost: 80.
+
+Cooldown: 22 / 20.5 / 19 / 17.5 / 16 seconds.
+
+Target Range: 400.
+
+**Grand Starfall (R)**
+
+Active: Pantheon channels for 2 seconds to leap high into the air, then marks and reveals his destination before crashing down along the target area 2.4 seconds later. He remains vanished until the landing is complete.
+
+The landing deals 300 / 500 / 700 (+ 100% AP) magic damage, decreased by up to 50% at the edges of the area.
+
+Grand Starfall instantly readies Mortal Will.
+
+Grand Starfall's cooldown is reduced to 30 seconds if the channel is interrupted or canceled.
+
+Mana Cost: 100.
+
+Cooldown: 180 / 165 / 150 seconds.
+
+Target Range: 5500 / 2000.
+
+Effect Radius: 450.
+
+Inner Radius: 125.
+
+**Trivia**
+[
+]
+
+Pantheon was named after Πάνθεον (a noun originally referring to all deities from Ancient Greek religion, later Twelve Olympians). His human name comes from pre-Greek Ἀτρεύς, analyzed by folk-etymology as "untrembling"; based on the name of an Achaean warlord known to the Hittites as Attarsiya. Atreus' friend's name Πύλας (Pylas) also derives from the pre-Greek architectural term πῠ́λη (pylē) "gate", from which we have "pylon".
+
+[2]
+
+See also
+[
+]
+
+League of Legends Wiki
+
+|
+
+Champions
+
+Cancelled Champions
+
+Ao Shin
+
+Avasha
+
+Averdrian
+
+CeeCee
+
+Cyborg Cowboy
+
+Eagle Rider
+
+Gavid
+
+Husk
+
+Iron Engineer
+
+Ivan
+
+Omen
+
+Priscilla
+
+Rob Blackblade
+
+Seth
+
+Tabu
+
+Tiki
+
+Urf
+
+Well
+
+References
+[
+]
+
+↑
+
+Pantheon's profile page at LeagueOfLegends.com
+
+↑
+
+Beekes, R.S.P. "Etymological Dictionary of Greek", p. 1257

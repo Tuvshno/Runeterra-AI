@@ -1,0 +1,151 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - **Champions**
+      * Nunu & Willump
+        **** Release date: 2009-02-21
+        **** Last changed: V13.19
+        **** Class(es): Vanguard, Legacy, Tank, Fighter
+        **** Position(s): Jungle
+        **** Resource: Mana
+        **** Range type: Melee
+        **** Adaptive type: Magic
+        **** Store price: 450
+        **** Crafting: +270
+        **** Ratings
+          * Damage: 1
+          * Toughness: 3
+          * Control: 2
+          * Mobility: 1
+          * Utility: 2
+        **** Style: Difficulty: Nunu
+           **** is a champion in League of Legends.
+        **** Abilities
+          * Call of the Freljord
+          * Consume
+          * Biggest Snowball Ever!
+          * Snowball Barrage
+          * Absolute Zero
+        **** Patch history
+        **** Past versions
+* Image
+  + Nunu & Willump
+
+**Nunu & Willump**
+
+* Gameplay
+  + Cosmetics
+  + Audio
+  + Development
+  + Patch History
+  + History
+  + Trivia
+* Base statistics
+  + Health: 610 (+90)
+  + Mana: 280 (+42)
+  + Health regen. (per 5s): 5
+  + Mana regen. (per 5s): 7.4
+  + Armor: 29 (+4.2)
+  + Attack damage: 61 (+3)
+  + Magic resist.: 32 (+2.05)
+  + Crit. damage: 175%
+  + Move. speed: 345
+  + Attack range: 125
+  + Attack speed: 0.625
+  + Base AS: 0.625
+  + Attack windup: 19.359%
+  + AS ratio: N/A
+  + Bonus AS%: +2.25%
+* Special statistics
+  + ARAM
+  + Nexus Blitz
+  + One For All
+  + URF
+  + Ult Spellbook
+  + Arena
+* Damage Dealt: +10%
+* Damage Received: -10%
+* Healing: +10%
+* Shielding: +20%
+* Tenacity & Slow Resist: +20%
+* Damage Dealt: +10%
+* Damage Received: -10%
+* Ability Haste: +20
+* Damage Dealt: +5%
+* Damage Received: -8%
+* Healing: +5%
+* Shielding: +20%
+* Damage Dealt: +8%
+* Damage Received: -5%
+* Healing: +20%
+* Damage Dealt: +0%
+* Damage Received: +0%
+* The champion Nunu consists of two beings:
+  * The yeti Willump
+  * The human Nunu
+* Abilities
+  + [Call of the Freljord]
+    - TARGET IMMUNITY: 10
+    - TARGET RANGE: 1000 / 700
+    - Innate: When Nunu and Willump deal damage against an enemy champion, large monster, or structure, they and a nearby allied champion gain Call of the Freljord for 4 seconds, prioritizing the ally with the highest attack speed.
+    - Call of the Freljord: Grants 20% bonus attack speed and 10% bonus movement speed to the caster and nearby allied champion. Willump's basic attacks deal 30% AD physical damage to secondary targets in a cone in front of him. Nunu and Willump cannot trigger Call of the Freljord from the same enemy again for a time. Successive triggers of Call of the Freljord while it is active extend the duration by 4 seconds.
+  + [Consume]
+    - COST: 60 Mana
+    - COOLDOWN: 12 / 11 / 10 / 9 / 8 seconds
+    - CAST TIME: 0.3 seconds
+    - TARGET RANGE: 125
+    - Active: Willump takes a bite out of the target enemy, dealing damage and healing himself. The heal is increased by 50% while he is below 50% maximum health. Against minions and monsters, he deals true damage. Consume's heal is reduced to 60% against champions.
+  + [Biggest Snowball Ever!]
+    - COST: 50 / 55 / 60 / 65 / 70 Mana
+    - COOLDOWN: 14 seconds
+    - CAST TIME: 0.5 seconds
+    - TARGET RANGE: 750 - 1750 (based on charge time)
+    - SPEED: 350
+    - Size Radius: 75 - 200 (based on charge time)
+    - Active: Willump cleanses himself from all slows and channels for up to 10 seconds, becoming ghosted and slow-immune and creating a rolling snowball. Willump automatically navigates his movement in the direction of the cursor and can steer the snowball with a slow turn rate that increases over time, resetting upon changing direction. The duo has their movement speed reduced by 50% for the first second, but after a delay, they start gaining 14 movement speed every 0.25 seconds, up to a cap. The snowball increases in size and power over 5 seconds. Biggest Snowball Ever! can be recast after 0.5 seconds during the channel, and does so automatically after the channel or if interrupted. The snowball explodes upon hitting an enemy champion, large pet, medium/large monster, or terrain, dealing magic damage to nearby enemies, increased by 0% - 400% (based on charge time), knocking them up for 0.5 - 0.75 seconds (based on charge time), and subsequently stunning them for 0 - 0.5 seconds (based on charge time). Minimum magic damage: 36 / 45 / 54 / 63 / 72 (+ 30% AP). Maximum magic damage: 180 / 225 / 270 / 315 / 360 (+ 150% AP).
+  + [Snowball Barrage]
+    - COST: 50 / 55 / 60 / 65 / 70 Mana
+    - COOLDOWN: 14 / 13 / 12 / 11 / 10 seconds
+    - CAST TIME: None
+    - TARGET RANGE: 690
+    - Barrage Cooldown: 1 second (affected by cooldown reduction)
+    - Active: Nunu swiftly throws a volley of 3 snowballs in the target direction over 0.4 seconds that each shatter upon hitting an enemy, dealing magic damage to enemies in a cone. Magic damage per hit: 16 / 24 / 32 / 40 / 48 (+ 15% AP). Total magic damage: 48 / 72 / 96 / 120 / 144 (+ 45% AP). Enemies hit 3 times are slowed for 1 second. Champions and large monsters hit once are marked Snowbound for 4 seconds, refreshing on each hit. Snowball Barrage can be recast twice within 3 seconds at no additional cost and with a cooldown in between casts. Slow: 30 / 35 / 40 / 45 / 50%. Recast: Nunu hurls another volley of snowballs, mimicking the first cast's effects. An enemy may only be slowed once for being hit by snowballs. Maximum total magic damage: 144 / 216 / 288 / 360 / 432 (+ 135% AP). After 3 seconds from the first cast, Snowbound enemies near Willump take magic damage and are rooted for 0.5 - 1.5 seconds (based on level). Magic damage: 20 / 30 / 40 / 50 / 60 (+ 80% AP).
+  + [Absolute Zero]
+    - COST: 100 Mana
+    - COOLDOWN: 110 / 100 / 90 seconds
+    - CAST TIME: None
+    - EFFECT RADIUS: 650
+    - Active: Nunu and Willump channel a blizzard for up to 3 seconds, granting themselves a shield and slowing nearby enemies by 0% - 95% (based on channel time). Shield strength: 65 / 75 / 85 (+ 150% AP) (+ 30 / 40 / 50% bonus health). Absolute Zero can be recast after 0.5 seconds during the channel, and does so automatically when the channel ends by any means. Recast: Nunu and Willump explode, dealing magic damage to nearby enemies, modified to 0% - 100% (based on channel time), and slowing them for 0 - 3 seconds (based on channel time). Affected enemies will remain slowed for 0 - 3 seconds (based on channel time), and any of the duo's remaining shield will decay over 3 seconds. Magic damage: 625 / 950 / 1275 (+ 300% AP).
+
+**Patch history**
+[Expanded patch notes can be found here.](https://leagueoflegends.fandom.com/wiki/Nunu/Patch_History)
+
+* V13.19: Snowball Barrage: AP ratio per snowball increased to 15% AP from 10% AP.
+* V13.16: Biggest Snowball Ever!: Bug fix: Upon recast, the snowball no longer incorrectly checks for collision at a stored location from a previous cast if the previous cast's channel was cancelled by either being rooted or rolling the snowball into terrain with an enemy target nearby, leading to the effect disappearing in the caster's field of view and affecting targets in a completely different location.
+* V13.5: Biggest Snowball Ever!: Bug fix: Snowball no longer gets stuck in place if it was released at exactly the same time the caster left the Fog of War.
+* V12.22: Consume: Base damage increased to 400 / 600 / 800 / 1000 / 1200 from 340 / 500 / 660 / 820 / 980.
+* V12.19: Absolute Zero: Maximum AP ratio increased to 300% AP from 250% AP.
+* V12.11: Consume: Heal AP ratio increased to 90% AP from 70% AP. Heal health ratio increased to 10% from 6% bonus health. Snowball Barrage: Cooldown reduced to 14 / 13 / 12 / 11 / 10 seconds from 14 at all ranks.
+* V12.10: Stats: Base health increased to 610 from 540. Health growth increased to 90 from 76. Armor growth increased to 4.2 from 3. Base mana reduced to 280 from 283.56. Base mana regeneration reduced to 7 from 7.44. Snowball Barrage: Slow strength reduced to 30 / 35 / 40 / 45 / 50% from 50% at all ranks.
+* V12.4: Stats: Health growth reduced to 82 from 90. Consume: Healing against champions reduced to 60% from 80%. Base heal against champions reduced to 45 / 66 / 87 / 108 / 129 from 60 / 88 / 116 / 144 / 172. Heal AP ratio against champions reduced to 54% AP from 72% AP. Heal health ratio against champions reduced to 6% from 8% bonus health. Biggest Snowball Ever!: Bug fix: Fixed a bug where he would be knocked up to a very high height when hit by Rek'Sai's Unburrow while channeling. Snowball Barrage: Bug fix: Fixed a bug where it was missing its tooltip when hovering during mid-cast. Bug fix: Fixed a bug where the tooltip was incorrectly displaying damage as "total damage" when it is actually "per snowball".
+* V11.17: Biggest Snowball Ever!: Bug fix: Fixed a bug where he would be knocked up to a very high height when hit by Rek'Sai's Unburrow while channeling. Snowball Barrage: Bug fix: Fixed a bug where it was missing its tooltip when hovering during mid-cast. Bug fix: Fixed a bug where the tooltip was incorrectly displaying damage as "total damage" when it is actually "per snowball".
+* V11.16: Stats: Base movement speed increased 345 from 340. Snowball Barrage: AP ratio per snowball increased to 10% AP from 6% AP. Maximum snowball AP ratio increased to 90% AP from 54% AP.
+* V11.12: General: Adjusted splash artwork for TPA Nunu.
+* V11.8: Biggest Snowball Ever!: Undocumented/New Effect: Now causes the player's HUD to become transparent during the channel.
+* V11.2: Stats: Movement speed reduced to 340 from 345. Base health reduced to 540 from 570. Base magic resistance reduced to 32 from 32.1.
+* V10.20: Stats: Base armor reduced to 29 from 32.
+* V10.15: Biggest Snowball Ever!: Bug fix: No longer gets more movement speed than intended by eating a Honeyfruit right before casting it.
+* V10.13: Consume: Champion damage AP ratio increased to 65% AP from 50% AP. Minion and monster heal AP ratio increased to 90% AP from 70% AP. Absolute Zero: New Effect: Shield now also scales with 150% AP.
+* V10.3: Biggest Snowball Ever!: Bug fix: Fixed a bug causing the damage and slow to sometimes be slightly off at full channel.
+* V8.22: Stats: Base attack damage increased to 61 from 57. Consume: Healing from champions increased to 80% from 50%.
+* V8.21: Call of the Freljord: Bug fix: Basic attack no longer cancels if Call of the Freljord expires during the attack's wind-up. Consume: Bug fix: No longer heals if Consume is blocked by a spell shield. Bug fix: If a small unit would die to Consume, it will now deal Consume's damage, rather than the target's current health. Biggest Snowball Ever!: Snowball hitbox and steering controls updated to make using W smoother and fix various bugs around the snowball colliding (or not) with stuff. No longer deals full rollover damage if the snowball is created over small units. Rolling into small pets (ex. Shaco's boxes, Yorick's Mistwalkers) no longer causes the snowball to explode. Cast range changed to infinite from 7500.
+* Undocumented: Minimum rollover damage changed to 11.988 / 14.985 / 17.982 / 20.979 / 23.976 (based on level) from 12 / 15 / 18 / 21 / 24 (+60% AP).
+* Undocumented: Maximum rollover damage changed to 59.44 / 74.425 / 89.41 / 104.395 / 119.38 (based on level) from 60 / 75 / 90 / 105 / 120 (+100% AP).
+* Absolute Zero: Bug fix: Fixed a bug causing the damage and slow to sometimes be slightly off at full channel.
+* V8.20: General: Adjusted splash artwork for TPA Nunu.
+* Consume: Minions and monsters heal AP ratio increased to 70% AP from 50% AP. Champion heal AP ratio reduced to 35% AP from 50% AP. Biggest Snowball Ever!: Snowball AP ratio increased to 6% AP from 5% AP. Willump's Turn AP ratio increased to 80% AP from 50% AP.
+* Biggest Snowball Ever!: Bug fix: Fixed a bug where he was sometimes invisible to enemies while rolling his Biggest Snowball Ever! out of fog of war.
+* V8.19: Consume: Minions and monsters heal AP ratio increased to 70% AP from 50% AP. Champion heal AP ratio reduced to 35% AP from 50% AP. Biggest Snowball Ever!: Willump's transition to walking after he finishes rolling his Biggest Snowball Ever! will now feel smoother. Snowball Barrage: Snowball AP ratio increased to 6% AP from 5% AP. Willump's Turn AP ratio increased to 80% AP from 50% AP.
+* Biggest Snowball Ever!: Bug fix: Fixed a bug where he was sometimes invisible to enemies while rolling his Biggest Snowball Ever! out of fog of war.
+* V8.17: Full Relaunch: General: Name changed to Nunu & Willump from Nunu. Title changed to the Boy and his Yeti from the Yeti Rider. Complete visual upgrade across all skins. New splash artwork for Original Nunu, Sasquatch Nunu, Workshop Nunu, Grungy Nunu, Nunu Bot, and Demolisher Nunu. Adjusted splash artwork for TPA Nunu and Zombie Nunu. New voice over. New lore. Stats: Base attack damage reduced to 57 from 67. Base armor increased to 32 from 28. Attack damage growth reduced to 3 from 4. Call of the Freljord (Innate): Innate: Nunu's and Willump's next instance of damage dealt to an enemy champion, large monster, or structure grants both Willump and the nearest allied champion Call of the Freljord for 4 seconds, prioritizing the ally with the highest attack speed. Call of the Freljord: Targets gain 20% bonus attack speed and 10% bonus movement speed. Willump's basic attacks additionally deal 30% AD bonus physical damage against the main target and to enemies around himself. Nunu and Willump cannot trigger Call of the Freljord from the same enemy again for a time. Successive triggers of Call of the Freljord will stack with duration, up to 40 seconds, after which the duration will be refreshed. On-Target Cooldown: 10 seconds (not affected by cooldown reduction). Consume (Q): Active: Willump takes a bite out of a target enemy, dealing damage and healing himself, increased by 50% when below 50% of maximum health. Against champions, heals for 37.5 / 60 / 82.5 / 105 / 127.5 (+50% AP) (+5% bonus health) health and deals 60 / 100 / 140 / 180 / 220 (+50% AP) (+5% bonus health) magic damage. Against minions and monsters, heals for 75 / 120 / 165 / 210 / 255 (+50% AP) (+10% bonus health) health and deals 340 / 500 / 660 / 820 / 980 true damage. Target range: 125. Mana Cost: 60. Cooldown: 12 / 11 / 10 / 9 / 8 seconds. Biggest Snowball Ever! (W): Active: Nunu conjures a snowball that Willump begins rolling with increasing movement speed in the target direction for up to 10 seconds, increasing its size over 5 seconds. The duo is immune to slows during the charge. The trajectory can be adjusted over the duration at a highly reduced capacity that increases while turning in the same direction, resetting when changing direction. The snowball will hit enemies it passes through, and explodes upon colliding with an enemy champion, large monster, or terrain, hitting enemies within range of the explosion. Enemies hit take magic damage, up to a maximum of 180 / 225 / 270 / 315 / 360 (+150% AP), increased by 0% - X% (based on charge time), and are knocked up for X - X (based on charge time) seconds. After 10 seconds, upon re-activation or if the duo are interrupted, they will let loose the snowball, sending it rolling forward for an additional 1 - 3 (based on charge time) seconds during which it will not grow any larger. Mana Cost: 50 / 55 / 60 / 65 / 70. Cooldown: 14 seconds. Snowball Barrage (E): Active: Nunu throws a volley of 3 snowballs in the target direction over 0.4 seconds, each snowball shattering upon hitting an enemy, each snowball dealing magic damage 16 / 24 / 32 / 40 / 48 (+5% AP) to enemies in a cone. Enemies hit 3 times are slowed by 50% for 1 second. Champions and large monsters hit once are also Snowbound for 4 seconds, resetting on each hit. Snowball Barrage can be re-activated up to 2 times at no cost for 3 seconds. An enemy cannot be slowed more than once. After 3 seconds, it is Willump's Turn. Willump's Turn: Willump roots Snowbound enemies around him for 0.5 - 1.5 (based on level) seconds, dealing them 20 / 30 / 40 / 50 / 60 (+50% AP) magic damage. Target range: 690. Barrage Cooldown: 1 second (affected by cooldown reduction). Mana Cost: 50 / 55 / 60 / 65 / 70. Cooldown: 14 seconds. Absolute Zero (R): Active: Nunu and Willump sap heat from the area around them for up to 3 seconds. Moving ends Absolute Zero's effects immediately, and the area is invisible if the duo is not revealed. The duo gains a 65 / 75 / 85 (+30 / 40 / 50% bonus health) shield while channeling that refreshes each second, and enemies within the frosted area are slowed by 50% - 95% (based on channel time). Enemies caught in the frozen area when the channel ends or is interrupted take magic damage, up to a maximum of 625 / 950 / 1275 (+250% AP), increased by 0% - X% (based on channel time). Mana Cost: 100. Cooldown: 110 / 100 / 90 seconds.

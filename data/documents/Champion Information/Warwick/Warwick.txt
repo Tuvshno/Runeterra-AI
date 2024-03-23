@@ -1,0 +1,113 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - Champion: Warwick
+      * Release date: 2009-02-21
+      * Last changed: V13.9
+      * Class(es): Diver, Legacy, Fighter, Tank
+      * Position(s): Jungle, Top
+      * Resource: Mana
+      * Range type: Melee
+      * Adaptive type: Physical
+      * Crafting: +270
+      * Store price: 450
+      * Base statistics:
+        **Health**: 620 (+99)
+        **Mana**: 280 (+35)
+        **Health regen. (per 5s)**: 4
+        **Mana regen. (per 5s)**: 0.6
+        **Attack damage**: 65 (+3)
+        **Armor**: 33 (+4.4)
+        **Magic resist.**: 32 (+2.05)
+        **Crit. damage**: 175%
+        **Move. speed**: 335
+        **Attack range**: 125
+        **Attack speed**: Base AS 0.638, Bonus AS +2.3%
+        **Unit radius**: Gameplay radius 55, Selection radius 111, Pathing radius 35, Acq. radius 400
+      * Special statistics: ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+      * Damage Dealt: +5%, Damage Received: -5%
+      * Healing: +5%, Damage Dealt: +0%, Damage Received: +0%
+      * Damage Dealt: -5%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%
+      * Damage Dealt: 0%, Damage Received: 0%
+      * Abilities:
+        + [**Eternal Hunger**]
+          * Innate: Deals bonus damage and heals based on post-mitigation damage dealt.
+        + [**Jaws of the Beast**]
+          * Active: Lunges at target and deals magic damage, heals self, and applies on-hit effects.
+          * Cooldown: 6 seconds
+          * Range: Global
+          * Map-Specific Differences: Knockdown, Disruption, Interrupted, Not Interrupted
+
+**Image**
+
+![Warwick](https://pbs.twimg.com/media/D3bqkJ2UwAUB8Tp?format=png&name=large)
+
+**Warwick**
+
+* Gameplay
+  + Cosmetics
+  + Audio
+  + Development
+  + Patch History
+  + History
+  + Trivia
+* Base statistics (see above)
+* Map-Specific Differences (see above)
+* Abilities (see above)
+* Ratings (Damage: 2, Toughness: 2, Control: 2, Mobility: 1, Utility: 1)
+* Style: Difficulty: N/A
+* Champion Spotlight: [Warwick Champion Spotlight](https://www.youtube.com/watch?v=2xqJzv_cUxg)
+
+**Text**
+
+Warwick is a champion in League of Legends.
+[1]
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+* Health: 620 (+99)
+* Mana: 280 (+35)
+* Health regen. (per 5s): 4
+* Mana regen. (per 5s): 0.6
+* Attack damage: 65 (+3)
+* Armor: 33 (+4.4)
+* Magic resist.: 32 (+2.05)
+* Crit. damage: 175%
+* Move. speed: 335
+* Attack range: 125
+* Attack speed: Base AS 0.638, Bonus AS +2.3%
+* Unit radius: Gameplay radius 55, Selection radius 111, Pathing radius 35, Acq. radius 400
+
+**Map-Specific Differences**
+
+* Knockdown
+* Disruption
+* Interrupted
+* Not Interrupted
+
+**Abilities**
+
+[
+]
+
+* **Eternal Hunger**
+  + Innate: Deals bonus damage and heals based on post-mitigation damage dealt.
+* **Jaws of the Beast**
+  + Active: Lunges at target and deals magic damage, heals self, and applies on-hit effects.
+  + Cooldown: 6 seconds
+  + Range: Global
+  + Map-Specific Differences: Knockdown, Disruption, Interrupted, Not Interrupted
+
+**Patch history**
+
+(See above)

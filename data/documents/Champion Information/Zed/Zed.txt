@@ -1,0 +1,2479 @@
+**Games**
+
+**Universe**
+
+-
+
+**League of Legends**
+
+•
+
+- **Teamfight Tactics**
+- **Legends of Runeterra**
+- **Wild Rift**
+
+**Image**
+
+Zed
+
+**Gameplay**
+
+-
+
+- **Cosmetics**
+- **Audio**
+- **Development**
+- **Patch History**
+- **History**
+- **Trivia**
+
+**Zed**
+
+**Gameplay**
+
+|
+
+**Collection**
+
+|
+
+**Audio**
+
+**Patch history**
+
+|
+
+**Past versions**
+
+**Zed**
+
+the Master of Shadows
+
+**Release date**
+
+2012-11-13
+
+**Last changed**
+
+V13.20
+
+**Class(es)**
+
+Assassin
+
+Legacy
+
+Assassin
+
+**Position(s)**
+
+Middle
+
+Jungle
+
+**Resource**
+
+Energy
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Physical
+
+**Store price**
+
+1350
+
+|
+
+585
+
+Crafting
+
++
+
+810
+
+**Ratings**
+
+| **Damage** | 3 |
+| **Toughness** | 1 |
+| **Control** | 1 |
+| **Mobility** | 3 |
+| **Utility** | 1 |
+
+**Style**
+
+Difficulty
+
+**Champion Spotlight**
+
+[Zed Champion Spotlight](javascript:void(0);)
+
+**Zed**
+
+is a
+
+champion
+
+in
+
+League of Legends
+
+.
+[1]
+
+**Gameplay**
+
+•
+
+**Cosmetics**
+
+•
+
+**Audio**
+
+•
+
+**Development**
+
+•
+
+**Patch History**
+
+•
+
+**History**
+
+•
+
+**Trivia**
+
+**Base statistics**
+
+Zed
+
+**Edit**
+
+| **Health** | 654 |
+| +99 |
+| **Energy** | 200 |
+| +0 |
+| **Health regen.** (per 5s) | 7 |
+| +0.65 |
+| **Energy regen.** (per 5s) | 50 |
+| **Armor** | 32 |
+| +4.7 |
+| **Attack damage** | 63 |
+| +3.4 |
+| **Magic resist.** | 29 |
+| +2.05 |
+| **Crit. damage** | 175% |
+| **Move. speed** | 345 |
+| **Attack range** | 125 |
+| **Attack speed** | Base AS: 0.651 |
+| **Attack windup** | 19.759% |
+| **AS ratio** | N/A |
+| **Bonus AS** | +3.3% |
+| **Unit radius** | Gameplay radius: 65 |
+| **Selection radius** | 100 |
+| **Pathing radius** | 35 |
+| **Acq. radius** | 400 |
+
+**Special statistics**
+
+ARAM
+
+Nexus Blitz
+
+One For All
+
+URF
+
+Ult Spellbook
+
+Arena
+
+Damage Dealt
+
++5%
+
+Damage Received
+
+-5%
+
+Energy Regen
+
++20%
+
+Tenacity & Slow Resist
+
++20%
+
+**Damage Dealt**
+
++0%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
+-15%
+
+Damage Received
+
++10%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+**Abilities**
+
+**[ ]**
+
+**Edit**
+
+**Contempt for the Weak**
+
+Contempt for the Weak
+
+TARGET IMMUNITY:
+
+10
+
+Innate:
+
+Zed's
+
+basic attacks
+against targets
+below 50%
+maximum
+health
+are empowered to deal
+6 / 8 / 10% (based on level)
+of the target's
+maximum
+health
+as
+bonus
+magic damage
+.
+
+Against
+monsters
+,
+Contempt for the Weak
+deals 200% damage, capped at 300.
+
+Contempt for the Weak
+
+cannot occur on the same
+champion
+more than once every few seconds.
+
+Hide
+
+Details
+
+Info
+
+Targeting input
+
+Passive
+
+Damage type
+
+Type
+
+Sub-type
+
+Proc damage
+
+Magic
+
+Counters
+
+Spell shield
+
+Parries
+
+Not Blocked
+
+See Notes
+
+The enhanced attack applies other
+on-hit effects
+and can
+critically strike
+as normal (the bonus damage cannot).
+
+Contempt for the Weak
+
+is not consumed when
+dodged
+or
+missed
+, but it is consumed when
+blocked
+.
+
+Contempt for the Weak
+
+considers the target's health upon landing the attack, not when it's declared.
+
+If the target falls below the threshold while
+Zed
+is winding up the attack,
+Contempt for the Weak
+applies, and vice versa.
+
+The empowered attack will not trigger against
+structures
+.
+
+Edit
+
+**Razor Shuriken**
+
+Razor Shuriken
+
+COST:
+
+75 / 70 / 65 / 60 / 55 energy
+
+COOLDOWN:
+
+6
+
+CAST TIME:
+
+0.
+25
+
+TARGET RANGE:
+
+925
+
+WIDTH:
+
+100
+
+SPEED:
+
+1700
+
+Active:
+
+Zed
+
+throws a shuriken in the target direction that deals
+physical damage
+to enemies hit, reduced to 60% against targets beyond the first.
+
+Physical Damage:
+
+70 / 105 / 140 / 175 / 210
+
+(+ 110%
+bonus
+AD)
+
+Reduced Damage:
+
+42 / 63 / 84 / 105 / 126
+
+(+ 66%
+bonus
+AD)
+
+Hide
+
+Details
+
+Map-Specific Differences
+
+Info
+
+Targeting input
+
+Direction
+
+Damage type
+
+Type
+
+Sub-type
+
+Area damage
+
+Physical
+
+Counters
+
+Spell shield
+
+Projectile
+
+Blocked
+
+Blocked
+
+Shurikens
+
+blocked by
+spell shield
+still count as being hit for the reduced pass-through damage.
+
+If
+Zed
+buffers an attack command during
+Razor Shuriken's
+cast time the attack will perform slower than if
+Zed
+had attacked after the cast time.
+
+The same does not happen if
+Zed
+recasts
+Living Shadow
+during
+Razor Shuriken's
+cast time.
+
+This ability will cast from wherever the caster is at the end of the cast time.
+
+Map-Specific Differences
+
+Arena
+
+differences
+
+edit
+
+Base damage changed to 80 / 130 / 180 / 230 / 280.
+
+Bonus AD ratio changed to
+130%
+bonus
+AD
+.
+
+Edit
+
+**Living Shadow**
+
+Living Shadow
+
+COST:
+
+40 / 35 / 30 / 25 / 20 energy
+
+COOLDOWN
+:
+
+20 / 19 / 18 / 17 / 16
+
+CAST TIME:
+
+none
+
+TARGET RANGE:
+
+650
+
+EFFECT RADIUS:
+
+2000
+
+/
+
+Global
+
+SPEED:
+
+2500
+
+Passive:
+
+Zed
+
+restores
+energy
+whenever he and his
+Shadows
+or multiple
+Shadows
+hit an ability on the same target. This may only occur once per cast ability.
+
+Energy Restored:
+
+30 / 35 / 40 / 45 / 50
+
+Active:
+
+Zed
+
+creates a
+Shadow
+that dashes to the target location and remains there for 5.
+25
+seconds, being able to mimic
+Razor Shuriken
+and
+Shadow Slash
+regardless of range.
+
+Living Shadow
+
+can be recast while within range of the
+Shadow
+.
+
+Recast:
+
+Zed
+
+and the
+Shadow
+blink
+to swap places.
+
+If an ability is cast while the Shadow is dashing, it will cast that ability once it has been placed. See
+Pets
+for more details about Shadows. Living Shadow will cast at max range if cast beyond that.
+
+Link
+▶️
+"The shadows have enlightened me."
+
+Hide
+
+Details
+
+Map-Specific Differences
+
+Info
+
+Targeting input
+
+Location
+
+/
+
+Auto
+
+Counters
+
+Grounded
+
+See Notes
+
+Zed
+
+gains a buff for 5.
+25
+seconds that indicates and determines the duration in which he may recast
+Living Shadow
+.
+
+The buff is granted briefly after
+Living Shadow
+is cast.
+
+If cast at minimum distance, the buff and the
+Shadow's
+individual durations will effectively start at the same time.
+
+If cast at greater than the minimum distance, then the buff's duration will start before the
+Shadow's
+duration.
+
+The passive will grant its energy refund at rank 1 even if
+Living Shadow
+hasn't been learned yet.
+
+The
+energy
+refund is not granted if the mimicked ability is blocked by a
+spell shield
+.
+
+Living Shadow
+cannot be recast while
+grounded
+or
+rooted
+.
+
+If
+Living Shadow
+is recast during
+Razor Shuriken
+,
+Zed
+will instantly release the shuriken from his original position while still remaining in cast time, and the
+Shadow
+will release the shuriken based on
+Zed's
+remaining cast time.
+
+(bug)
+
+The
+Shadow
+will cast
+Shadow Slash
+independently of being in
+Razor Shuriken's
+cast time or not.
+
+(bug)
+
+Zed
+will swap places with the
+Shadow
+by all means if he buffers
+Living Shadow's
+recast during its dash.
+
+(bug)
+
+Living Shadow
+cannot be recast while
+Zed
+is marking his target with
+Death Mark
+, but may still be recast if it was buffered.
+
+(bug)
+
+If
+Zed
+casts
+Living Shadow
+while a non-
+Death Mark
+Shadow
+is already present, the previous
+Shadow
+will instantly disappear.
+
+Shadows
+will not disappear when
+Zed
+dies.
+
+(bug)
+
+Map-Specific Differences
+
+Arena
+
+differences
+
+edit
+
+Cooldown changed to 16 / 15.
+
+25
+/ 14.
+5
+/ 13.
+75
+/ 13 seconds.
+
+Edit
+
+**Shadow Slash**
+
+Shadow Slash
+
+COST:
+
+40 energy
+
+COOLDOWN:
+
+5 / 4.
+5
+/ 4 / 3.
+5
+/ 3
+
+CAST TIME:
+
+none
+
+EFFECT RADIUS:
+
+315
+
+/
+
+290
+
+Active:
+
+Zed
+
+slashes to deal
+physical damage
+to nearby enemies.
+
+Physical Damage:
+
+65 / 90 / 115 / 140 / 165
+
+(+ 65%
+bonus
+AD)
+
+Enemies hit by a
+Shadow's
+slash are
+slowed
+for 1.
+5
+seconds, with multiple slashes dealing no additional damage but the slow's effectiveness being increased by 50%.
+
+Slow:
+
+20 / 25 / 30 / 35 / 40%
+
+Enhanced Slow:
+
+30 / 37.
+5
+/ 45 / 52.
+5
+/ 60%
+
+Living Shadow's
+current
+cooldown
+is reduced by 2 seconds for each enemy
+champion
+hit by
+Zed's
+slash.
+
+Hide
+
+Details
+
+Info
+
+Targeting input
+
+Auto
+
+Damage type
+
+Type
+
+Sub-type
+
+Area damage
+
+Physical
+
+Counters
+
+Spell shield
+
+See Notes
+
+Spell shield
+
+will only block one
+Shadow Slash
+even if two hit at the same time, the
+slow
+will not apply regardless.
+
+Shadow Slash
+
+does not interrupt attack, movement, or cast commands.
+
+Edit
+
+**Death Mark**
+
+Death Mark
+
+COOLDOWN
+:
+
+120 / 100 / 80
+
+CAST TIME:
+
+none
+
+TARGET RANGE:
+
+625
+
+EFFECT RADIUS:
+
+Global
+
+Active:
+
+Zed
+
+becomes
+untargetable
+and, after 0.
+6
+seconds, he
+dashes
+125 units through the target enemy champion over 0.
+35
+seconds. Afterwards, he becomes targetable again, renders them
+Marked for Death
+for 3 seconds, and gains
+ghosting
+for the same duration.
+
+Zed
+
+also spawns a
+Shadow
+at his casting position for 9 seconds which is able to mimic
+Razor Shuriken
+and
+Shadow Slash
+regardless of range.
+
+Death Mark
+
+can be recast after 0.
+5
+seconds of his reappearance while the
+Shadow
+is active, though not in the last 1.
+25
+seconds of its duration.
+
+Marked for Death:
+
+Zed
+
+stores a portion of all
+pre-mitigation
+physical damage
+and
+magic damage
+he and his
+Shadows
+deal to the target, detonating at the end of the duration to deal
+physical damage
+.
+
+Physical Damage:
+
+100% AD
+
+(+ 25 / 40 / 55% of damage dealt)
+
+Recast:
+
+Zed
+
+and the
+Shadow
+blink
+to swap places.
+
+If the target dies or is 1950 or more units away before the dash begins, Death Mark is cancelled, goes on a
+0.
+5
+-second
+cooldown, and
+Zed
+reappears at the cast location. The
+Shadow spawned also disappears.
+
+Link
+▶️
+Zed chuckles.
+
+Hide
+
+Details
+
+Map-Specific Differences
+
+Info
+
+Targeting input
+
+Unit
+
+/
+
+Auto
+
+Damage type
+
+Type
+
+Sub-type
+
+Spell damage
+
+Physical
+
+Counters
+
+Spell shield
+
+Grounded
+
+Knockdown
+
+See Notes
+
+Disabled
+
+See Notes
+
+Zed
+
+gains a buff for 7.
+5
+seconds that indicates and determines the duration in which he may recast
+Death Mark
+.
+
+The buff is granted on-cast and lingers for 0.
+25
+seconds after it expires.
+
+The
+Shadow
+is spawned the moment
+Death Mark
+is cast.
+
+Zed
+
+will track the target if they change locations.
+
+He will dash through the target's previous location while still applying the
+mark
+if they are 2200 or more units away.
+
+Zed
+
+will be ordered to basic attack his target after reappearing.
+
+Death Mark's
+stored damage derives from all
+basic attacks
+,
+abilities
+,
+items
+,
+runes
+and
+buffs
+.
+
+Death Mark's
+Shadow
+is functionally the same as a regular one, but it lasts longer and can be swapped to regardless of range.
+
+The range at which it mimics
+Zed's
+abilities does not change.
+
+The
+mark
+can be prevented by becoming
+untargetable
+before it is applied (untargetability after application will not prevent the mark's detonation).
+
+Spell shields
+
+will only block the
+mark's
+application. They will not prevent
+Zed
+from initiating the cast nor block the detonation from a
+mark
+that is already applied.
+
+If
+Zed
+dies during
+Death Mark
+, the ability will cancel instantly and he will reappear at his current location. The cooldown is not compensated.
+
+If he enters
+resurrection
+before the dash,
+Death Mark
+does not cancel. If he enters it while dashing, the dash is interrupted.
+
+If the
+dash
+is interrupted,
+Zed
+stops, places himself to the ground (ends all displacements affecting him, but does not remove
+airborne
+effects), and reappears prematurely at his current location. The
+mark
+will still be applied regardless.
+
+Zed
+
+will remove
+airborne
+effects from himself immediately upon starting the dash.
+
+Once
+Zed
+begins the
+dash
+, two
+Shadows
+will also appear to be dashing through his target, each one spawning a certain distance behind the target (from the right and left). These
+shadows
+do
+not
+mimic abilities and disappear immediately after they stop dashing but they grant
+sight
+of their surroundings.
+
+These
+shadows
+have a tracking distance of 2200 and a dash speed of 1750.
+
+Death Mark
+does not cancel if the target enters a
+zombie state
+before the dash begins.
+
+If the
+mark's
+post-mitigation damage
+is higher than the target's
+current
+health, a
+spinning shuriken
+will appear above the victim. This does not necessarily mean the target will die, as it does not consider
+shields
+or forms of
+damage modifiers
+that are not respected by this predictive calculation.
+
+The indicator shown in-game
+(base skin)
+.
+
+This following table refers for interactions while
+Zed
+is in
+Death Mark
+:
+
+Attacking
+Disabled
+
+Abilities
+Disabled
+
+Movement
+Disabled
+
+Items
+Usable
+
+N/A
+
+Disabled
+
+All items are disabled
+
+Interrupted by
+N/A
+
+Consumables
+Disabled
+
+Spells
+Usable
+
+Barrier
+Clarity
+Cleanse
+Exhaust
+Ghost
+Heal
+Ignite
+Smite
+Disabled
+
+Flash
+Teleport
+Recall
+Hexflash
+Mark
+Dash
+
+Interrupted by
+N/A
+
+Interrupted by
+Death, unless protected by
+Resurrection
+
+One for All differences
+
+edit
+
+Enemies can only have a single
+Death Mark
+on them at a time. Subsequent
+Death Marks
+will delete any previous marks, removing all accumulated damage and preventing the detonation.
+
+Individual
+Death Marks
+will track the damage dealt by any
+Zed
+.
+
+Arena differences
+
+edit
+
+Damage stored changed to 30 / 45 / 60%.
+
+Pets
+
+[
+]
+
+Shadow
+
+Statistics
+
+Sight radius
+
+700
+
+Control type
+
+Mimics
+
+Razor Shuriken
+
+and
+
+Shadow Slash
+
+whenever
+Zed
+casts them, regardless of the range between each other.
+
+Target type
+
+Minion
+
+(
+untargetable
+)
+
+Abilities
+
+Mimic
+
+The
+Shadow
+casts
+Razor Shuriken
+and
+Shadow Slash
+whenever
+Zed
+does.
+
+It fires
+Razor Shuriken
+towards the same targeted location.
+
+If it hits a mimicked ability on the same target as
+Zed
+or another
+Shadow
+does, a portion of
+Zed's
+energy
+is restored.
+
+Mimicked
+Shadow Slashes
+slow
+enemies hit briefly. Multiple
+slashes
+do not deal additional damage, but the slow's strength is increased.
+
+Mimicked abilities:
+
+Store damage dealt on
+Death Mark
+.
+
+Do not count as ability activations for the purposes of on-cast effects such as
+Force Pulse's
+passive.
+
+Are considered separate casts when they hit the same target (e.g. for the purposes of
+Electrocute
+,
+Phase Rush
+,
+Eclipse
+, etc).
+
+Shadow Swap
+
+The
+Shadow
+can swap its position with
+Zed
+whenever he recasts either
+Living Shadow
+or
+Death Mark
+, depending on which ability it was summoned from.
+
+Zed
+
+may only swap places with a
+Shadow
+once.
+
+Shadow Limitation
+
+The
+Shadow
+disappears as soon as another
+Shadow
+is summoned by the same ability it spawned from.
+
+Only 1
+Shadow
+each from
+Living Shadow
+and
+Death Mark
+may be active at a time.
+
+General
+
+Zed
+
+always has an arrow next to him pointing in the direction of his
+Shadows
+. It has three different colors, each one symbolizes important information about the specific
+Shadow
+. They are only visible to
+Zed
+.
+
+Two arrows point toward the corresponding
+Shadows
+.
+
+A green arrow (blue in colorblind mode) indicates the
+Shadow
+can be swapped places with.
+
+A yellow arrow indicates the
+Shadow
+is about to disappear.
+
+A red arrow (orange in colorblind mode) indicates the
+Shadow
+cannot be swapped places with.
+
+Champion skins
+
+[
+]
+
+This article section only contains champion skins. For all associated collection items, see
+Zed (Collection)
+.
+
+Original
+
+View in 3D
+
+880
+
+13.11.2012
+
+Utterly ruthless and without mercy, Zed is the leader of the Order of Shadow, an organization he created with the intent of militarizing Ionia’s magical and martial traditions to drive out Noxian invaders. During the war, desperation led him to unlock the secret shadow form—a malevolent spirit magic as dangerous and corrupting as it is powerful. Zed has mastered all of these forbidden techniques to destroy anything he sees as a threat to his nation, or his new order.
+
+Donny Lucas
+
+Pan Chengwei
+
+Loot eligible
+
+Shockblade
+
+View in 3D
+
+975
+
+13.11.2012
+
+An elite operative of the Shockblade order, Zed dives into battle with lightning-fast lethality. Though his former partner Shen hasn't forgiven himself for nearly getting Zed killed, Zed still urges him to return to the front lines; and yet the Storm rages on, whether or not the duo are reunited. Zed will bring its fury to bear alone if he must.
+
+Donny Lucas
+
+Michal Ivan, Puppetworks	Animation	Studio
+
+Shockblade
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Shockblade Zed Chromas
+
+Amethyst
+
+Aquamarine
+
+Catseye
+
+Emerald
+
+Rose Quartz
+
+Ruby
+
+SKT T1
+
+View in 3D
+
+750
+
+04.05.2014
+
+Honoring Faker's winning performance as Zed during the 2013 World Championship.
+
+Donny Lucas
+
+Bo Lu
+
+World Champions: 2013
+
+Loot eligible
+
+Legacy
+
+PROJECT
+
+View in 3D
+
+1350
+
+07.09.2015
+
+Rising from the Command Line, Zed is a leader within PROJECT's counter-espionage units. He seeks out the G/NETIC rebels with split high frequency blades and molecular “solid smoke” projectors, favoring close-proximity and multiple angle target laceration.
+
+Donny Lucas
+
+Jason Chan
+
+PROJECT
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+PROJECT: Zed Chromas
+
+Reckoning
+
+Worlds 2016
+
+View in 3D
+
+975
+
+25.09.2016
+
+Celebrating Worlds 2016 in North America.
+
+Donny Lucas
+
+Alex 'alexplank' Flores
+
+World Championship
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Worlds 2016 Zed Chromas
+
+Golden
+
+Death Sworn
+
+View in 3D
+
+1350
+
+25.10.2017
+
+Having lived his life in the shadows, Zed's eventual return from the dead should have come as no surprise to anyone. A master of unliving darkness, he is only too happy to spend all eternity spilling mortal blood, as one of the Death Sworn.
+
+Donny Lucas
+
+Kelly Aleshire
+
+Death Sworn
+
+Loot eligible
+
+Legacy
+
+New SFX/VFX
+
+New Animations/Recall
+
+Galaxy Slayer
+
+View in 3D
+
+1820
+
+18.04.2019
+
+Zed was a promising Templar before he became host to the hivemind of ora and imbued with its alien essence. Able to morph his body into living weapons, he now sees himself as the perfect life form, deserving of all ora and destined to cleanse the galaxy of the weak.
+
+Donny Lucas
+
+Esben Lash Rasmussen
+
+Odyssey
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+Transforming
+
+Chromas
+
+Galaxy Slayer Zed Chromas
+
+Emerald
+
+Merc
+
+Mythic
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+PsyOps
+
+View in 3D
+
+1350
+
+17.09.2020
+
+Known as the ‘Gas Can Man’ in paramilitary circles, Zed is an infamous mercenary picked up by the Black Rose Group during one of their covert actions. His psionic powers are tied to a mysterious oil-like substance he ingests through his mask, allowing him to duplicate himself for assassinations and open combat.
+
+Donny Lucas
+
+David Villegas, West	Studio
+
+Black Rose Group
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+PsyOps Zed Chromas
+
+Emerald
+
+Hunter
+
+Obsidian
+
+Ruby
+
+Sandstone
+
+Sapphire
+
+Tanzanite
+
+Turquoise
+
+Prestige PROJECT
+
+View in 3D
+
+Special
+
+24.06.2021
+
+Faced with imminent defeat at the hands of Mordekaiser and the numberless hordes of infected machines, Zed seeks out a dilapidated research facility in the heart of the wasteland, searching for illegal and potentially dangerous upgrades. His return may mark a tipping point in the battle for the City… though he has transformed into something beyond both human and machine.
+
+Donny Lucas
+
+Unknown artist
+
+PROJECT
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+This skin is a variant of
+PROJECT
+. Store variants are discounted for multiple purchases.
+
+Debonair
+
+View in 3D
+
+1820
+
+09.12.2021
+
+The most powerful (and powerfully dressed) man in Nox Vegas, Zed has been dabbling in more than fancy parties and cutthroat dealmaking. A new crowd from Crime City has entered his inner circle, granting this debonair gentleman an unbreakable stranglehold over the strip… and a dreadful new change in both mind and body.
+
+Donny Lucas
+
+Edward Chee, West	Studio
+
+Debonair
+
+Loot eligible
+
+New voiceover
+
+New SFX/VFX
+
+New Animations/Recall
+
+Transforming
+
+Chromas
+
+Debonair Zed Chromas
+
+Catseye
+
+Cerulean Club
+
+Emerald
+
+Obsidian
+
+Ruby
+
+Tanzanite
+
+Empyrean
+
+View in 3D
+
+1350
+
+03.11.2022
+
+The Foreglow is a power many desire, but Zed resents how it exposes him. His is a strength born from darkness, away from prying eyes. Perhaps in the fallen Husk realm left in Pyke's wake can he build a new domain of shadows, one that no Empyrean can topple.
+
+Donny Lucas
+
+Jiunn Kuo, West	Studio
+
+Empyrean
+
+Loot eligible
+
+Voice filter
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Empyrean Zed Chromas
+
+Amethyst
+
+Catseye
+
+Emerald
+
+Neon Flare
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Turquoise
+
+Immortal Journey
+
+View in 3D
+
+1350
+
+16.08.2023
+
+When Zed became immortal and began studying the other realms, a new desire took hold: knowledge was everywhere, so he needed to BE everywhere. Upon discovering his explorations, the Grounded Foresight School banished him. Zed doesn't care, though, for he's found a new demonic power, allowing him to be everywhere and all-knowing.
+
+Donny Lucas
+
+Pandart Studio
+
+Immortal Journey
+
+Loot eligible
+
+New SFX/VFX
+
+New Animations/Recall
+
+Chromas
+
+Immortal Journey Zed Chromas
+
+Amethyst
+
+Catseye
+
+Emerald
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Turquoise
+
+Patch history
+
+[
+]
+
+For the expanded patch notes, see
+[here](javascript:void(0);)
+.
+
+V14.1
+
+- January 12th Hotfix
+
+Living Shadow
+
+Cooldown reduced to 20 / 19.
+25
+/ 18.
+5
+/ 17.
+75
+/ 17.
+5
+/ 14.
+seconds from 20 / 18.
+5
+/ 17
+/ 15.
+/ 14.
+seconds.
+
+Living Shadow
+
+Cooldown reduced to 20 / 18.
+5
+/ 17
+/ 15.
+/ 14
+seconds.
+
+Death Mark
+
+AD ratio increased to
+100% AD
+from
+65% AD
+.
+
+V13.20
+
+Living Shadow
+
+Cooldown increased to 20 / 19.
+25
+/ 18.
+5
+/ 17.
+75
+/ 17
+seconds from 20 / 18
+/ 16.
+/ 15.
+/ 14.
+seconds.
+
+Worlds 2016 Zed
+
+Skin renamed to
+Worlds 2016 Zed
+from
+Championship Zed
+.
+
+V13.18
+
+General
+
+Updated ability icons.
+
+V13.17
+
+PROJECT: Zed
+
+Contempt for the Weak
+
+Bug Fix:
+
+Model's lower body no longer becomes frozen in motion when performing the empowered attack.
+
+V13.5
+
+Stats
+
+Base magic resistance reduced to 29 from 32.
+
+Shadow Slash
+
+Cooldown reduced to 5 / 4.
+5
+/ 4 / 3.
+5
+/ 3
+seconds from 5 / 4.
+75
+/ 4.
+5
+/ 4.
+25
+/ 4.
+seconds.
+
+V12.23
+
+- December 14th Hotfix
+
+Razor Shuriken
+
+Base damage reduced to 70 / 105 / 140 / 175 / 210 from 80 / 115 / 150 / 185 / 220.
+
+Shadow Slash
+
+Base damage reduced to 65 / 90 / 115 / 140 / 165 from 70 / 95 / 130 / 165 / 200.
+
+Cooldown increased to 5 / 4.
+75
+/ 4.
+5
+/ 4.
+25
+/ 4
+seconds from 5 / 4.
+5.
+5
+/ 4.
+separately.
+
+V12.15
+
+Living Shadow
+
+Ability mimick range increased to 25000 units from 2000.
+
+Shadow Slash
+
+Energy cost reduced to 40 from 50.
+
+Death Mark
+
+Ability mimick range increased to 25000 units from 2000.
+
+V12.10
+
+Stats
+
+Base health increased to 654 from 584.
+
+Health growth increased to 99 from 85.
+
+Armor growth increased to 4.
+7 from 3.
+5
+.
+
+Magic resistance growth increased to 2.
+05 from 1.
+25
+.
+
+V12.4
+
+Living Shadow
+
+Bug Fix:
+
+If the ability is recast at a certain timing while a mimicked
+Razor Shuriken
+is in flight, no longer sometimes causes two shurikens to fire from the caster's new position as opposed to one being fired from the caster and the other from the
+Shadow
+.
+
+V12.2
+
+Death Mark
+
+AD ratio reduced to
+65% AD
+from
+100% AD
+.
+
+Undocumented:
+
+Cooldown upon being cancelled reduced to 0.
+5
+seconds from 5.
+
+V11.23
+
+Razor Shuriken
+
+Bug Fix:
+
+Hit SFX now properly plays for all shurikens hit, even if they hit the same target.
+
+V11.22
+
+Death Mark
+
+Undocumented:
+
+Shadow duration increased to 9 seconds from 7.
+5
+.
+Recast duration unchanged (7.
+5
+seconds).
+
+V11.18
+
+Contempt for the Weak
+
+Damage against monsters increased to 200% from 100%.
+
+V11.17
+
+Razor Shuriken
+
+Bonus AD ratio increased to
+110%
+bonus
+AD
+from
+100%
+.
+
+Secondary target bonus AD ratio increased to
+66%
+bonus
+AD
+from
+60%
+.
+
+Death Mark
+
+Cooldown increased to 120 / 90 / 60 seconds from 120 / 100 / 80.
+
+V11.14
+
+Prestige PROJECT: Zed
+
+Suit colors changed to be more grey than brown.
+
+Blade colors changed to be more gold.
+
+Shadow Slash
+
+visual effects now have grind particles.
+
+V11.8
+
+Contempt for the Weak
+
+Removed:
+
+No longer has a cooldown against minions and monsters.
+
+Removed:
+
+No longer deals 200% damage against monsters.
+
+New Effect:
+
+Damage cap now only affects epic monsters rather than all jungle monsters.
+
+Damage cap against epic monsters changed to 300 at all levels from
+200 / 350 / 500 (based on level)
+.
+
+V11.1
+
+Stats
+
+Base magic resistance reduced to 32 from 32.
+
+V10.25
+
+General
+
+Bug Fix:
+
+White tiles no longer appear at his feet while recalling or during his death animation.
+
+V10.22
+
+Shadow Slash
+
+Base damage reduced to 70 / 90 / 110 / 130 / 150 from 70 / 95 / 120 / 145 / 170.
+
+V10.21
+
+Contempt for the Weak
+
+Added a yellow ring under targets affected by the passive to match similar passive indicators on
+Jarvan IV
+,
+Ekko
+, and
+Shaco
+.
+
+V10.18
+
+General
+
+Bug Fix:
+
+If he dies during his dance animation, his clone will no longer stay on the map and grant vision until he respawns.
+
+V10.14
+
+Living Shadow
+
+Missile speed increased to 2500 from 1750.
+
+Cooldown reduced to 20 / 18.
+5
+/ 17.
+5
+/ 14.
+seconds from 22 / 20 / 18 / 16 / 14.
+
+V10.10
+
+- May 14th Hotfix
+
+Reverted
+
+V10.10
+
+changes.
+
+V10.10
+
+Living Shadow
+
+Bug Fix:
+
+Living Shadow
+can no longer be buffered to be recast during
+Death Mark
+.
+
+Undocumented:
+
+Buffering an attack command after recasting
+Living Shadow
+during
+Razor Shuriken's
+cast time will now have the attack be delayed the same way it is when casting a normal
+Razor Shuriken
+.
+
+Undocumented:
+
+Zed
+will no longer instantly launch
+Razor Shuriken
+, regardless of its current cast time, after recasting
+Living Shadow
+during its cast time.
+
+Undocumented:
+
+The
+Shadow
+now plays an instance of
+Shadow Slash
+VFX at
+Zed's
+cast position if
+Zed
+buffered both it and the recast of
+Living Shadow
+during the
+Shadow's
+dash.
+
+V10.4
+
+Contempt for the Weak
+
+New Effect:
+
+Now deals 200% damage against monsters.
+
+Damage cap against monsters increased to 300 at all levels from
+200 / 350 / 500 (based on level)
+.
+
+V9.8
+
+Razor Shuriken
+
+Base damage reduced to 80 / 115 / 150 / 185 / 220 from 90 / 125 / 160 / 195 / 230.
+
+Living Shadow
+
+Cooldown increased to 22 / 20 / 18 / 16 / 14 seconds from 18 / 17 / 16 / 15 / 14.
+
+Extra bonus AD reduced to
+4 / 8 / 12 / 16 / 20%
+bonus
+AD
+from
+5 / 10 / 15 / 20 / 25%
+bonus
+AD
+.
+
+V9.1
+
+Living Shadow
+
+New Effect:
+
+Tooltip displays extra
+bonus
+AD gained at rank 0.
+
+V9.1
+
+Death Mark
+
+Landing point changed to behind the target from in front of.
+
+New Effect:
+
+Zed becomes ghosted while the mark is active.
+
+V9.10
+
+Death Mark
+
+Bug Fix:
+
+Zed teleporting to a random location when targeting an enemy who is mid-dash.
+
+V9.4
+
+Stats
+
+Base armor increased to 21 from 17.
+
+V3.13
+
+Living Shadow
+
+Projectile speed reduced to 1500 from 2500.
+
+Death Mark
+
+Tooltip updated.
+
+Cast time increased to 0.
+75
+seconds from 0.
+35
+.
+
+Living Shadow
+
+spawn point changed to cast location from behind the target.
+
+Living Shadow
+
+swap range increased to global from 1100.
+
+V3.7
+
+Razor Shuriken
+
+Secondary reduced damage reduced to 45 / 69 / 93 / 117 / 141
+(+ 60%
+bonus
+AD)
+from 60 / 92 / 124 / 156 / 188
+(+ 80%
+bonus
+AD)
+.
+
+Living Shadow
+
+Shadow sight radius reduced to 700 from 1300.
+
+Shadow Slash
+
+Cooldown increased to 4 seconds from 3.
+
+V3.6
+
+Living Shadow
+
+Cooldown reduced to 18 / 17 / 16 / 15 / 14 seconds from 22 / 20.
+
+Extra bonus AD reduced to
+4 / 8 / 12 / 16 / 20%
+bonus
+AD
+from
+5 / 10 / 15 / 20 / 25%
+bonus
+AD
+.
+
+V3.03
+
+Razor Shuriken
+
+Base damage increased to 75 / 115 / 155 / 195 / 235 from 75 / 110 / 145 / 180 / 215.
+
+Living Shadow
+
+Bug Fix:
+
+Zed sometimes casting in a random direction.
+
+Shadow Slash
+
+Base damage reduced to 60 / 90 / 120 / 150 / 180 from 60 / 95 / 130 / 165 / 200.
+
+V1.0.0.152
+
+Stats
+
+Movement speed increased to 345 from 320.
+
+V1.0.0.151
+
+Added
+Trivia
+[
+]
+
+Zed
+
+is one of 20 champions without a single
+ability power
+ratio on any ability:
+Aatrox
+,
+Camille
+,
+Darius
+,
+Dr. Mundo
+,
+Draven
+,
+Garen
+,
+Kayn
+,
+Kled
+,
+Naafiri
+,
+Nilah
+,
+Olaf
+,
+Pyke
+,
+Riven
+,
+Samira
+,
+Sett
+,
+Talon
+,
+Urgot
+,
+Xayah
+, and
+Yone
+.
+
+Zed's dance was inspired
+[2]
+by various martial arts (the animator is a
+black belt
+).
+
+Zed is the first champion to not actually 'die', instead he drops into a
+shadow portal
+(Shockblade Zed disappears after struck by a
+lightning bolt)
+. The second is
+Ekko
+, who rewinds time.
+Willump
+does die, but
+Nunu
+does not.
+Zed,
+Sona
+,
+Garen
+and
+Vi
+were targeted by
+Jhin
+in his teaser.
+After Zed was
+shot
+, his champion icon on his
+League of Legends
+page
+and the
+champion list
+was updated to a
+gif
+with petals blowing past him.
+Zed is the fifth champion to use energy as a resource for abilities (the others being
+Akali
+,
+Kennen
+and
+Shen
+).
+Before the release of
+Galaxy Slayer Zed
+and
+Pulsefire Shen
+, neither him nor
+Shen
+reveal their faces in any of their skins, unlike
+Akali
+(
+All-star
+,
+Nurse
+,
+Blood Moon
+) and
+Kennen
+(
+Karate
+,
+M.D.
+).
+Zed and
+Lucian
+perform the
+'airplane arms'
+run when having very high movement speed.
+Razor Shuriken
+,
+Living Shadow
+, and
+Shadow Slash
+respectively mirroring
+Thundering Shuriken
+,
+Shadow Dash
+, and
+Crescent Slash
+, as well as
+Death Mark
+,
+Assassin's Mark
+, and
+Mark of the Storm
+marking their targets reference Zed having been a Kinkou Order member.
+Death Mark
+was
+conceived
+with spawning two
+Living Shadows
+and was animated accordingly on release.
+Clicking one of the
+Living Shadows
+during
+Death Marks
+animation used to display
+Akali's
+portrait. This could only be done while spectating in slow motion as his shadows in an actual game were just simply too fast to be clicked on. It was removed after the new HUD came in 2015 and replaced the old one.
+Zed and his enemy counterpart could theoretically increase their AD infinitely with
+Reaper of Shadows
+by alternating killing each other, before it was removed from the game in
+V9.4
+.
+Zed used to gain the
+'Law of Inverse Ninja Strength'
+cosmetic
+Easter egg
+debuff (
+"This unit is a flippin' ninja!"
+-
+"Ninjas are more effective when they work alone. For every Ninja on your team beyond yourself, you lose 1 health."
+) when he,
+Akali
+,
+Kennen
+and/or
+Shen
+found themselves on the same team. It was removed in
+V3.14
+for unknown reasons.
+At 23 August 2018 players who selected "Assassin" as their favorite class rated Zed 27% higher than the other assassins as "One of my favorite champions". This difference is the largest for a champion by class.
+[3]
+
+See also
+[
+]
+
+League of Legends Wiki
+|
+Champions
+Cancelled Champions
+Ao Shin
+Avasha
+Averdrian
+CeeCee
+Cyborg Cowboy
+Eagle Rider
+Gavid
+Husk
+Iron Engineer
+Ivan
+Omen
+Priscilla
+Rob Blackblade
+Seth
+Tabu
+Tiki
+Urf
+Well
+References
+[
+]
+↑
+Zed's profile page
+at
+LeagueOfLegends.com
+↑
+Zed's dance is officially my favorite... here's why
+↑
+Riot Blaustoise Assassin data tweet

@@ -1,0 +1,121 @@
+Games
+
+---------------------
+
+**Universe**
+
+•
+
+---------------------
+
+**League of Legends**
+
+• League of Legends
+• Teamfight Tactics
+• Legends of Runeterra
+
+---------------------
+
+**Image**
+
+Maokai
+
+---------------------
+
+**Gameplay**
+
+• Cosmetics
+• Audio
+• Development
+• Patch History
+• History
+• Trivia
+
+---------------------
+
+**Base statistics**
+
+Maokai
+
+**Edit**
+
+- Health: 635 + 109
+- Mana: 375 + 43
+- Health regen. (per 5s): 5 + 0.75
+- Armor: 35 + 5.2
+- Attack damage: 64 + 3.3
+- Magic resist.: 32 + 2.05
+- Crit. damage: 175%
+- Move. speed: 330
+- Attack range: 125
+- Attack speed: Base AS 0.8, Attack windup 30%
+- AS ratio: 0.695
+- Bonus AS: +2.125%
+- Unit radius: Gameplay radius 80, Selection radius 125, Pathing radius 50, Acq. radius 600
+
+---------------------
+
+**Special statistics**
+
+- ARAM: Damage Dealt -20%, Damage Received +10%, Healing -20%
+- Nexus Blitz: None
+- One For All: None
+- URF: Damage Dealt +0%, Damage Received +5%, Healing -5%, Shielding -5%
+- Ultra Rapid Fire: Damage Dealt +0%, Damage Received +0%, Healing -30%
+
+---------------------
+
+**Abilities**
+
+[ ]
+
+**Edit**
+
+- **Sap Magic**
+  - Static cooldown: 30 / 25 / 20 (based on level)
+  - Periodically, Maokai empowers his next basic attack to have an uncancellable windup and heals him for 4% - 12.8% (based on level) maximum health after a 0.25-second delay. Each time Maokai casts an ability, hits at least one enemy champion or epic monster with Sapling Toss, or is struck by an enemy's ability, Sap Magic's cooldown is reduced by 4 seconds, modified to 1.5 if he is hit by a large monster's basic attack or ability. Sap Magic resets Maokai's basic attack timer and will not trigger if he is above 95% maximum health.
+
+---------------------
+
+- **Bramble Smash**
+  - Cost: 40 Mana
+  - Cooldown: 7 / 6.5 / 6 / 5.5 / 5 seconds
+  - Cast time: 0.3889 seconds
+  - Target range: 600
+  - Effect radius: 300
+  - Active: Maokai sends a shockwave in the target direction that deals magic damage to enemies hit and slows them by 99% for 0.25 seconds. Bramble Smash deals bonus magic damage to monsters.
+    - Magic Damage: 65 / 115 / 165 / 215 / 265 (+ 2 / 2.5 / 3 / 3.5 / 4% of the target's maximum health) (+ 40% AP)
+    - Bonus monster damage: 120 / 130 / 140 / 150 / 160
+    - Total monster damage: 185 / 245 / 305 / 365 / 425 (+ 2 / 2.5 / 3 / 3.5 / 4% of the target's maximum health) (+ 40% AP)
+  - Enemies near Maokai are also stunned for 0.5 seconds and knocked back up to 300 units based on their proximity to him.
+
+---------------------
+
+**Map-Specific Differences**
+
+- Ultra Rapid Fire differences: Heal changed to 4% - 19.2% (based on level) maximum health.
+- Arena differences: Cooldown refund changed to 3 seconds.
+
+---------------------
+
+**Maokai**
+
+Maokai is a champion in League of Legends.
+[1]
+
+---------------------
+
+**Champion Spotlight**
+
+Maokai Champion Spotlight
+
+---------------------
+
+**Notes**
+
+- Sap Magic does not occur if the attack is dodged and/or missed if Maokai is blinded. It will occur if it is blocked.
+- The striking ability has to trigger spell effects such as spell damage or area damage for the cooldown to be reduced.
+- If Maokai possesses a spell shield and it consumes an enemy ability, he will still receive the cooldown reduction.
+- The empowered attack will not trigger against structures nor wards.
+- Map-Specific Differences: Ultra Rapid Fire differences: Limited to 5 Saplings active.
+- Nature's Grasp: Nature's Grasp does not exist in the provided text.

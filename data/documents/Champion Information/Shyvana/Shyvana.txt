@@ -1,0 +1,203 @@
+Games
+
+---
+
+**Universe**
+
+* League of Legends
+* Teamfight Tactics
+* Legends of Runeterra
+* Wild Rift
+
+---
+
+**Image**
+
+* Shyvana
+
+---
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+---
+
+**Base statistics**
+
+Shyvana
+----------------
+
+- **Class(es)**: Juggernaut, Legacy, Fighter, Tank
+- **Position(s)**: Jungle
+- **Resource**: Fury
+- **Range type**: Melee
+- **Adaptive type**: Physical
+- **Store price**: 3150
+
+|
+
+- 790 (Crafting cost)
+
+---
+
+**Abilities**
+
+[**Fury of the Dragonborn**]
+-------------------------------
+
+**Innate:** Shyvana gains 5 bonus armor and 5 bonus magic resistance, which are each increased by 5 for every elemental drake and Elder Dragon her team slays. Additionally, Shyvana deals 20% increased damage to Dragons.
+
+---
+
+**[Twin Bite]**
+-----------------
+
+**Active:** Shyvana empowers her next basic attack within 6 seconds to gain 25 bonus range, deal 100% AD (+ 50% AP) physical damage, and cause her to strike again after 0.25 seconds to deal bonus physical damage. Both attacks apply on-hit and on-attack effects at 100% effectiveness and are affected by critical strike modifiers.
+
+**Bonus Physical Damage:** 20 / 40 / 60 / 80 / 100% AD (+ 25% AP)
+
+**Bonus Attack Speed:** 50 / 55 / 60 / 65 / 70%
+
+---
+
+**[Burnout]**
+-------------
+
+**Active:** Shyvana surrounds herself in flames for 3 seconds, gaining decaying bonus movement speed and dealing magic damage every 0.5 seconds to nearby enemies.
+
+**Bonus Movement Speed:** 30 / 35 / 40 / 45 / 50% (+ 12% per 100 AP)
+
+**Bonus Movement Speed Decay:** 4.5 / 5.25 / 6 / 6.75 / 7.5%
+
+**Magic Damage Per Tick:** 10 / 15 / 20 / 25 / 30 (+ 10% bonus AD)
+
+---
+
+**Map-Specific Differences**
+-----------------------------
+
+- Howling Abyss
+- Nexus Blitz
+- Arena
+
+---
+
+**Collection**
+-------------
+
+[Shyvana (Collection)]
+
+---
+
+**Audio**
+--------
+
+- Voice lines
+- Sound effects
+
+---
+
+**Patch history**
+----------------
+
+- V14.3
+- V13.20
+- V13.16
+- V13.15
+- V13.14
+- V13.13
+- V12.23
+- V12.19
+- V12.10
+- V12.9
+- V12.8
+- V11.21
+- V11.15
+- V11.6
+- V11.5
+- V11.3
+- V11.1
+- V10.25
+- V10.18
+- V10.16
+- V10.14
+- V10.3
+- V10.1
+- V9.23
+- V9.22
+- V9.19
+- V9.6
+- V9.2
+- V9.1
+- V8.9
+- V8.5
+- V8.4
+- V8.3
+- V7.23
+- V7.22
+- V7.15
+- V7.1
+- V6.24
+- V6.23
+- V6.20
+- V6.16
+- V6.15
+- V6.10
+- V6.8
+- V6.6
+- V5.23
+- V5.13
+- V5.11
+- V5.5
+- V4.21
+- V4.15
+- V4.13
+- V4.11
+- V4.5
+- V3.15
+- V3.9
+- V1.0.0.152
+- V1.0.0.145
+- V1.0.0.136
+
+---
+
+**Past versions**
+---------------
+
+- Original
+- Ironscale
+- Boneclaw
+- Many hunters
+- Darkflame
+- Ice Drake
+- Worlds 2014
+- Championship
+- Super Galaxy
+- Ruined
+- Immortal Journey
+
+---
+
+**Trivia**
+--------
+
+- Shyvana is one of 15 champions that have an ability that infinitely stacks an effect: Aurelion Sol, Bard, Bel'Veth, Cho'Gath, Draven, Kindred, Nasus, Senna, Sion, Smolder, Swain, Sylas, Thresh, and Veigar.
+- Shyvana is voiced by Karen Strassman.
+- Cassiopeia, Fiora, and Zyra are also voiced by the same voice actress.
+- Shyvana's dance references RIVER by AKB48.
+- Dragon's Descent is the only non-toggle ability in-game without a cooldown.
+- Shyvana's resource was misnamed 'Dragon's Blood' in her champion preview.
+- Shyvana's dragon form resembles a wyvern.
+- Shyvana, Elise, Gnar, Nidalee, and Swain are the only champions with a transformation ability.
+- Shyvana was the first champion since Kog'Maw to not feature a League Judgement after they were discontinued (except Varus).
+
+---
+
+Please note that the text provided has not been edited for grammar, spelling, or content. It was only formatted to make it easier to read.

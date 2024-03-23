@@ -1,0 +1,113 @@
+**Games**
+
+* Universe
+  * League of Legends
+    - • League of Legends
+    - • Teamfight Tactics
+    - • Legends of Runeterra
+    - • Wild Rift
+  * Image
+  * Seraphine
+
+**Seraphine**
+
+* Release date: 2020-10-29
+* Last changed: V14.5
+* Class(es): Burst, Enchanter, Legacy, Mage, Support
+* Position(s): Bottom, Support
+* Resource: Mana
+* Range type: Ranged
+* Adaptive type: Magic
+* Store price: 3150 (790 for first champion shard, 2350 for second champion shard)
+* Crafting cost: +1890
+
+**Base statistics**
+
+| Statistic            | Value                   |
+| ---------------------| -----------------------|
+| Health                | 570 + 90               |
+| Mana                  | 360 + 25               |
+| Health regeneration   | 6.5 + 0.6              |
+| Mana regeneration     | 11.5 + 0.95            |
+| Armor                 | 26 + 4.2               |
+| Attack damage         | 50 + 3                 |
+| Magic resistance      | 30 + 1.3               |
+| Critical damage       | 175%                   |
+| Movement speed        | 330                    |
+| Attack range          | 525                    |
+| Attack speed          | 0.669                  |
+| Attack windup         | 18.7%                  |
+| AS ratio              | 0.625                  |
+| Bonus AS              | +2%                     |
+| Missile speed         | 1800                   |
+| Unit radius           | 65                     |
+| Selection radius      | 120                    |
+| Pathing radius        | 35                     |
+| Acquisition radius    | 525                    |
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ult Spellbook, Arena
+* Damage Dealt: -15%
+* Damage Received: +20%
+* Healing: -20%
+* Shielding: -20%
+* Ability Haste: -20
+
+**Abilities**
+
+[Stage Presence]
+
+* Effect radius: 800
+* Speed: 3000
+* Innate - Echo:
+  * Seraphine's basic abilities generate a stack of Echo, stacking up to 2 times.
+  * At 2 stacks, Seraphine's next basic ability casts an additional time for 1 mana after a 0.033 seconds delay, consuming all Echo stacks after the cast time of the second cast completes.
+  * Seraphine gains full stacks of Echo when the game starts and upon respawning.
+* Innate - Harmony:
+  * Seraphine's abilities grant a Note to herself and all nearby allied champions for 6 seconds, up to 4 Notes at a time per unit.
+  * Seraphine's next basic attack gains 25 bonus attack range per active Note and fires all of them at the target, dealing 5 - 20 (based on level) (+ 4% AP) magic damage for each Note discharged.
+  * Subsequent Notes deal 95% of the previous Note's damage to non-minions.
+  * Notes deal 200% bonus damage to minions.
+
+[High Note (Q)]
+
+* Target range: 900
+* Effect radius: 350
+* Effect speed: 1200
+* Cast time: 0.25 seconds
+* Active: Seraphine hurls a soundwave to the target location that quickly expands in a radius upon impact, dealing 55 / 65 / 75 / 85 / 95 (+ 55% AP) magic damage to enemies in the area, increased by 0% - 50% (based on target's missing health).
+* Mana cost: 65 / 70 / 75 / 80 / 85
+* Cooldown: 10 / 8.75 / 7.5 / 6.5 / 5.5 seconds
+
+[Surround Sound (W)]
+
+* Effect radius: 800
+* Cast time: 0.25 seconds
+* Active: Seraphine inspires nearby ally champions with her music, granting herself 20% (+ 4% per 100 AP) decaying bonus movement speed and her allies 8% (+ 1.6% per 100 AP) bonus movement speed. She and her allies are also shielded for 60 - 120 (based on level) (+ 30% AP) for 2.5 seconds.
+* Surround Sound will heal Seraphine and all nearby allied champions for 5% (+ 1.125% per 100 AP) of missing health per ally after a 2.5-second delay if Seraphine already had a shield at the time of cast.
+* Surround Sound's effects can stack up to 2 times.
+* Mana cost: 50 / 70 / 90 / 110 / 130
+* Cooldown: 26 / 25 / 24 / 23 / 22 seconds
+
+[Beat Drop (E)]
+
+* Target range: 1300
+* Width: 140
+* Speed: 1200
+* Cast time: 0.25 seconds
+* Active: Seraphine fires a heavy soundwave in a line in the target direction, dealing 60 / 85 / 110 / 135 / 160 (+ 35% AP) magic damage to enemies struck, reduced to 60 / 70 / 80 / 90 / 100% against minions, and slowing them by 99% for 1 second.
+* Enemies that are already slowed are also rooted for the same duration. Enemies that are immobilized or grounded are also stunned for the same duration.
+* Mana cost: 60 / 70 / 80 / 90 / 100
+* Cooldown: 13 / 12 / 11 / 10 / 9 seconds
+
+[Encore (R)]
+
+* Target range: 1200
+* Width: 320
+* Speed: 1600
+* Cast time: 0.5 seconds
+* Active: Seraphine projects a captivating force in the target direction that deals 150 / 200 / 250 (+ 60% AP) magic damage to all enemies struck and charms, slows, and reveals them for 1.25 / 1.5 / 1.75 seconds.
+* Encore's projectile resets its remaining travel distance whenever it strikes an allied or enemy champion, excluding Seraphine. Additionally, all struck allied champions gain 4 Notes.
+* Mana cost: 100
+* Cooldown: 160 / 140 / 120 seconds

@@ -1,0 +1,280 @@
+**Games**
+
+* Universe
+  + League of Legends
+    - •
+    - League of Legends: Taliyah
+      * Release date: 2016-05-18
+      * Last changed: V14.3
+      * Class(es): Battlemage, Legacy, Mage, Support
+      * Position(s): Jungle, Middle
+      * Resource: Mana
+      * Range type: Ranged
+      * Adaptive type: Magic
+      * Store price: 4800 (4880)
+      * Ratings: Damage: 3, Toughness: 1, Control: 2, Mobility: 1, Utility: 3
+
+    - •
+    - Teamfight Tactics: Taliyah
+
+    - •
+    - Legends of Runeterra: Taliyah
+
+* Image
+  + Taliyah
+
+**Taliyah**
+
+* Base statistics
+  + Health: 550 (+104)
+  + Mana: 470 (+30)
+  + Health regen. (per 5s): 6.5 (+0.65)
+  + Mana regen. (per 5s): 8 (+0.8)
+  + Armor: 18 (+4.7)
+  + Attack damage: 58 (+3.3)
+  + Magic resist.: 30 (+1.3)
+  + Crit. damage: 175%
+  + Move. speed: 330
+  + Attack range: 525
+  + Attack speed: Base AS: 0.658, Attack windup: 16.146%
+  + Attack speed ratio: 0.625
+  + Bonus AS: +1.36%
+  + Unit radius: Gameplay radius: 65, Selection radius: 120, Pathing radius: 35, Acq. radius: 550
+
+* Special statistics
+  + ARAM: Damage Dealt: +0%, Damage Received: +0%
+  + Nexus Blitz: Damage Dealt: -5%, Damage Received: +0%
+  + One For All: Damage Dealt: +5%, Damage Received: -10%
+  + URF: Damage Dealt: +0%, Damage Received: +0%
+  + Ult Spellbook: Damage Dealt: -5%, Damage Received: +5%
+  + Arena: Damage Dealt: +0%, Damage Received: +0%
+
+* Abilities
+  + Rock Surfing: Innate: While near terrain, Taliyah gains 10 / 15 / 25 / 40% (based on level) bonus movement speed, which builds up over 1 second while in range for at least 0.4 seconds and decays at the same rate once out of range for at least 3 seconds.
+  + Threaded Volley: Cost: 55 / 60 / 65 / 70 / 75 Mana, Cooldown: 7 / 6 / 5 / 4 / 3, Cast Time: 0.25 seconds, Range: 1000
+    * Effect: Taliyah barrages 5 Stone Shards in the target direction over 1.5 seconds that each shatter upon the first enemy hit, dealing magic damage to nearby enemies and revealing them for 0.5 seconds. Subsequent hits deal 40% damage.
+    * Magic Damage: 60 / 78 / 96 / 114 / 132 (+ 50% AP)
+    * Reduced Damage: 24 / 31.2 / 38.4 / 45.6 / 52.8 (+ 20% AP)
+    * Total Magic Damage: 156 / 202.8 / 249.6 / 296.4 / 343.2 (+ 130% AP)
+    * Taliyah can move and cast other abilities while launching Stone Shards and is unable to basic attack until she launches the third Stone Shard.
+    * Casting Threaded Volley creates a 400-unit area of Worked Ground at Taliyah's cast location that lasts 30 seconds. While on Worked Ground, Threaded Volley's cast consumes the area to become empowered with a new effect, costing 20 mana and having 50% reduced cooldown, though not below 0.75 seconds.
+    * Empowered Active: Taliyah hurls a Boulder that explodes upon the first enemy hit, dealing 190% damage to them and normal damage to nearby enemies, slowing all targets hit for 1.5 seconds, and revealing them for 0.5 seconds. Monsters hit are also stunned for 3 seconds.
+    * Empowered Damage: 114 / 148.2 / 182.4 / 216.6 / 250.8 (+ 95% AP)
+    * Slow: 20 / 25 / 30 / 35 / 40%
+
+  + Seismic Shove: Cost: 40 / 30 / 20 / 10 / 0 Mana, Cooldown: 14 / 12.5 / 11 / 9.5 / 8 seconds, Cast Time: 0.25 seconds, Target Range: 900, Effect Radius: 225
+    * Active: Taliyah marks the target location and selects a direction. After 0.792 seconds, a ledge erupts from the area that knocks enemies hit 400 units in the target direction over 1 second.
+
+  + Unraveled Earth: Cost: 90 / 95 / 100 / 105 / 110 Mana, Cooldown: 14 seconds, Cast Time: 0.25 seconds, Effect Radius: 800, Angle: 80°
+    * Active: Taliyah scatters a field of 22 stones across the ground in the target direction that deals magic damage to enemies hit while they erupt. The stones then remain for 4 seconds and slow enemies within the area by 20%.
+    * Magic Damage: 60 / 105 / 150 / 195 / 240 (+ 60% AP)
+    * Enemies that dash or are knocked over a stone will detonate it, taking magic damage and becoming stunned for 0.75 seconds, increased to 2 seconds if they're a monster.
+    * Detonation Magic Damage: 25 / 45 / 65 / 85 / 105 (+ 30% AP)
+    * An enemy can detonate up to 4 stones, but the damage is reduced by 0% - 75% (based on stones detonated).
+    * Unraveled Earth deals 175% damage against monsters.
+
+  + Weaver's Wall: Cost: 100 Mana, Cooldown: 180 / 150 / 120 seconds, Cast Time: none, Target Range: 2500 / 4500 / 6500, Range: 700, Speed: 1500 / 1200
+    * Active: Taliyah summons a torrent of spiraling rocks that cascades in the target direction, knocking aside champions hit and erecting a wall of terrain in its wake. The wall lasts for 4 seconds after completion, then slowly disintegrates from its starting point.
+    * Recast: Upon completing the channel, Taliyah surfs on the wall as it emerges, revealing herself in the process. After 0.75 seconds, she may input a movement command to jump off the wall to the target location, and automatically does so upon being immobilized or polymorphed or reaching maximum range. Once the wall has fully formed, Taliyah can recast to destroy the wall instantly.
+    * Weaver's Wall is placed on a 3-second static cooldown upon taking champion or turret damage.
+
+* Champion Spotlight
+  + [Taliyah Champion Spotlight](https://www.youtube.com/watch?v=bftCqXxKR90)
+
+* Collection
+  + [Taliyah (Collection)](https://leagueoflegends.fandom.com/wiki/Taliyah_(Collection))
+
+* Chromas
+  + Pool Party Taliyah Chromas: Amethyst, Aquamarine, Catseye, Peridot, Ruby, Turquoise
+  + Star Guardian Taliyah Chromas: Amethyst, Brilliant, Catseye, Emerald, Obsidian, Pearl, Ruby, Sapphire, Tanzanite
+  + Crystalis Motus Taliyah Chromas: Reclaimed
+
+* Voice filter
+* SFX/VFX
+* New Animations/Recall
+* SSG
+* Loot eligible
+
+* Additional/unique quotes
+* New SFX/VFX
+* New Animations/Recall
+* Skins
+  + Original
+  + Freljord
+  + Honoring Crown's winning performance as Taliyah during the 2017 World Championship
+  + Pool Party
+  + Star Guardian Season 4
+  + Crystalis Motus
+
+* Patch history
+  + [V14.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V14.3)
+  + [V13.22](https://leagueoflegends.fandom.com/wiki/Taliyah#V13.22)
+  + [V13.17](https://leagueoflegends.fandom.com/wiki/Taliyah#V13.17)
+  + [V13.16](https://leagueoflegends.fandom.com/wiki/Taliyah#V13.16)
+  + [V13.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V13.15)
+  + [V13.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V13.9)
+  + [V12.18](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.18)
+  + [V12.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.15)
+  + [V12.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.13)
+  + [V12.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.11)
+  + [V12.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.10)
+  + [V12.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.9)
+  + [V12.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V12.8)
+  + [V11.24](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.24)
+  + [V11.20](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.20)
+  + [V11.19](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.19)
+  + [V11.18](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.18)
+  + [V11.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.11)
+  + [V11.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.3)
+  + [V11.1](https://leagueoflegends.fandom.com/wiki/Taliyah#V11.1)
+  + [V10.25](https://leagueoflegends.fandom.com/wiki/Taliyah#V10.25)
+  + [V9.18](https://leagueoflegends.fandom.com/wiki/Taliyah#V9.18)
+  + [V9.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V9.15)
+  + [V9.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V9.13)
+  + [V9.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V9.9)
+  + [V9.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V9.7)
+  + [V8.23](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.23)
+  + [V8.20](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.20)
+  + [V8.16](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.16)
+  + [V8.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.15)
+  + [V8.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.13)
+  + [V8.12](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.12)
+  + [V8.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.11)
+  + [V8.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.11)
+  + [V8.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.9)
+  + [V8.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V8.8)
+  + [V7.23](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.23)
+  + [V7.22](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.22)
+  + [V7.20](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.20)
+  + [V7.16](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.16)
+  + [V7.14](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.14)
+  + [V7.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.13)
+  + [V7.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.9)
+  + [V7.5 Hotfix](https://leagueoflegends.fandom.com/wiki/Taliyah#V7.5_Hotfix)
+  + [V6.24](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.24)
+  + [V6.20](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.20)
+  + [V6.18](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.18)
+  + [V6.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.15)
+  + [V6.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.13)
+  + [V6.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.11)
+  + [V6.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.10)
+  + [V6.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.10)
+  + [V6.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.9)
+  + [V6.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.8)
+  + [V6.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.7)
+  + [V6.6](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.6)
+  + [V6.5](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.5)
+  + [V6.4](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.4)
+  + [V6.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.3)
+  + [V6.2](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.2)
+  + [V6.1](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.1)
+  + [V6.0](https://leagueoflegends.fandom.com/wiki/Taliyah#V6.0)
+  + [V5.22](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.22)
+  + [V5.21](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.21)
+  + [V5.20](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.20)
+  + [V5.18](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.18)
+  + [V5.17](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.17)
+  + [V5.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.15)
+  + [V5.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.13)
+  + [V5.12](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.12)
+  + [V5.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.11)
+  + [V5.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.10)
+  + [V5.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.8)
+  + [V5.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.7)
+  + [V5.6](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.6)
+  + [V5.5](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.5)
+  + [V5.4](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.4)
+  + [V5.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.3)
+  + [V5.2](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.2)
+  + [V5.0](https://leagueoflegends.fandom.com/wiki/Taliyah#V5.0)
+  + [V4.21](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.21)
+  + [V4.19](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.19)
+  + [V4.18](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.18)
+  + [V4.16](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.16)
+  + [V4.14](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.14)
+  + [V4.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.13)
+  + [V4.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.11)
+  + [V4.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.10)
+  + [V4.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.9)
+  + [V4.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.8)
+  + [V4.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.7)
+  + [V4.6](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.6)
+  + [V4.5](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.5)
+  + [V4.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.3)
+  + [V4.2](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.2)
+  + [V4.1](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.1)
+  + [V4.0](https://leagueoflegends.fandom.com/wiki/Taliyah#V4.0)
+  + [V3.19](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.19)
+  + [V3.17](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.17)
+  + [V3.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.15)
+  + [V3.14](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.14)
+  + [V3.12](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.12)
+  + [V3.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.11)
+  + [V3.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.10)
+  + [V3.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.9)
+  + [V3.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.8)
+  + [V3.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.7)
+  + [V3.6](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.6)
+  + [V3.5](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.5)
+  + [V3.4](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.4)
+  + [V3.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.3)
+  + [V3.2](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.2)
+  + [V3.1](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.1)
+  + [V3.0](https://leagueoflegends.fandom.com/wiki/Taliyah#V3.0)
+  + [V2.19](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.19)
+  + [V2.17](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.17)
+  + [V2.15](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.15)
+  + [V2.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.13)
+  + [V2.12](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.12)
+  + [V2.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.11)
+  + [V2.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.10)
+  + [V2.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.9)
+  + [V2.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.8)
+  + [V2.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.7)
+  + [V2.6](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.6)
+  + [V2.5](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.5)
+  + [V2.4](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.4)
+  + [V2.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.3)
+  + [V2.2](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.2)
+  + [V2.1](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.1)
+  + [V2.0](https://leagueoflegends.fandom.com/wiki/Taliyah#V2.0)
+  + [V1.19](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.19)
+  + [V1.17](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.17)
+  + [V1.16](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.16)
+  + [V1.14](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.14)
+  + [V1.13](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.13)
+  + [V1.12](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.12)
+  + [V1.11](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.11)
+  + [V1.10](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.10)
+  + [V1.9](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.9)
+  + [V1.8](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.8)
+  + [V1.7](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.7)
+  + [V1.6](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.6)
+  + [V1.5](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.5)
+  + [V1.4](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.4)
+  + [V1.3](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.3)
+  + [V1.2](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.2)
+  + [V1.1](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.1)
+  + [V1.0](https://leagueoflegends.fandom.com/wiki/Taliyah#V1.0)
+
+* Cancelled Champions
+  + Ao Shin
+  + Avasha
+  + Averdrian
+  + CeeCee
+  + Cyborg Cowboy
+  + Eagle Rider
+  + Gavid
+  + Husk
+  + Ivan
+  + Omen
+  + Priscilla
+  + Rob Blackblade
+  + Seth
+  + Tabu
+  + Tiki
+  + Urf
+  + Well
+
+* References
+  + [Taliyah's profile page](https://www.leagueoflegends.com/en-us/champions/taliyah/)

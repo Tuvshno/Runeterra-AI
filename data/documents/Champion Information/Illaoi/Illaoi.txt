@@ -1,0 +1,173 @@
+**Games**
+
+* Universe
+  * League of Legends
+    - **Champions**
+      * Illaoi
+        **Gameplay**
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        **Base statistics**
+          * Health: 656 + 115
+          * Mana: 350 + 60
+          * Health regeneration (per 5s): 9.5 + 0.8
+          * Mana regeneration (per 5s): 7.5 + 0.75
+          * Armor: 35 + 5
+          * Attack damage: 68 + 5
+          * Magic resist.: 32 + 2.05
+          * Crit. damage: 175%
+          * Move. speed: 350
+          * Attack range: 125
+          * Attack speed: Base AS: 0.625, Attack windup: 21.429%
+          * % Bonus AS: +2.5%
+          * Unit radius: Gameplay radius: 65, Selection radius: 100, Pathing radius: 35, Acq. radius: 600
+          * **Special statistics**
+            * ARAM: Damage Dealt: -5%, Damage Received: +10%, Healing: -20%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: -8%, Damage Received: +5%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +0%, Damage Received: +0%
+            * Nexus Blitz: Damage Dealt: -8%, Damage Received: +5%
+            * One For All: Damage Dealt: -5%, Damage Received: +10%
+            * URF: Damage Dealt: -5%, Damage Received: +10%
+            * Ult Spellbook: Damage Dealt: -5%, Damage Received: +10%
+            * Arena: Healing: -20%
+          * **Abilities**
+            * Prophet of an Elder God
+            * Test of Spirit
+
+**Illaoi**
+
+* **Release date**: 2015-11-24
+* **Last changed**: V14.4
+* **Classes**: Juggernaut, Legacy, Fighter, Tank
+* **Position(s)**: Top
+* **Resource**: Mana
+* **Range type**: Melee
+* **Adaptive type**: Physical
+* **Store price**: 3150 (790 for champion shard)
+
+---
+
+**Prophet of an Elder God**
+
+* **Innate**
+* **Periodically**, Illaoi spawns a Tentacle on the nearest terrain perpendicular to her location, if no other Tentacles are already nearby it. Tentacles fully spawn after a 2 second delay and are untargetable in the meantime.
+* **Tentacles are commanded to attack by Illaoi's abilities**, dealing 9 − 162 (based on level) (+ 100% AD) (+ 40% AP) physical damage to all enemies struck, increased by 0% − 30% (based on Tentacle Smash's rank).
+* **Enemies struck by multiple slams within 0.5 seconds of another take 50% damage for the second and 25% damage for all other additional slams.**
+* **Each Tentacle also heals Illaoi for 5% of her missing health if it hits at least one enemy champion.**
+* **See Pets for more details about Tentacles.**
+
+---
+
+**Map-Specific Differences**
+
+* Arena differences: heal health ratio changed to 3.5% missing health.
+
+---
+
+**Tips & Tricks**
+
+* Spirits are classified as clones: Spirits can only be fully targeted by Illaoi's team and neutral monsters. The Spirit's allies cannot manually select it as a valid target for spells and abilities, but they can still do so with automatically targetted effects.
+* Spirits take 50% damage from turrets.
+* Spirits cannot be healed or shielded (Summon Aery excluded).
+* The Spirit's destination is decided based on Illaoi's position and facing direction when the target is hit.
+* The Spirit is untargetable while it is being pulled, and spawns with the tethered champion's default model and size.
+* The Spirit's lifetime is sometimes 0.25 seconds longer, while its untargetability is sometimes shorter, causing Tentacles to hit an inconsistent amount of times.
+* Redirected damage is calculated by taking the pre-mitigation damage against the Spirit, applying Test of Spirit's damage modifier, and then capping it to the Spirit's current health.
+* Illaoi needs 937.5/875/812.5/750/687.5 total AD to reach 100% redirected damage. However, the damage is still dependent on the Spirit's and Vessel's damage modifiers and may not always be able to deal 100% of the target's current health as total redirected damage.
+* Spell shields may only prevent the initial spirit grab and the slow upon becoming a Vessel, but they will not prevent becoming a Vessel or Tentacles from attacking.
+* The tendril can be blocked by abilities such as Yasuo's Wind Wall, but the returning tether slow cannot, even if it can otherwise be destroyed.
+* The tether slow will not be fired if the target is already untargetable when the Spirit dies.
+* The spirit pull is not considered a crowd control effect and will not be blocked by crowd control immunity, except for Morgana's Black Shield.
+* The projectile tentacle model is linked to Illaoi's model animation and size. However, gameplay wise it is not, thus the actual hitbox being different than the position, width and length of the visible model.
+* The model will stop mid-air or vanish if Illaoi goes into stasis, sleep, or airborne, but the actual hitbox will continue its trajectory unseen.
+* The projectile is visible to enemies if Illaoi is not visible.
+* Illaoi spawns the Tentacle 700 range away from her, unless there's a natural wall blocking the way making the Tentacle spawn on it, with an angle relative to the direction she's facing.
+* 1+ champions: one Tentacle at 0 degrees (towards Illaoi's facing direction), 2+ champions: one Tentacle at 60 degrees, 3+ champions: one Tentacle at 300 degrees, 4+ champions: one Tentacle at 120 degrees, 5+ champions: one Tentacle at 240 degrees, 6+ champions: one Tentacle at 180 degrees.
+* Tentacles may spawn on base barriers. If Illaoi is in the center of a base barrier, all Tentacles will spawn in the same position and stack over each other, making it appear as if there was only one Tentacle.
+* Illaoi's facing direction is decided by the position of the cursor on cast, but can also be changed mid-cast through other effects, such as Flash.
+* If there are no walls nearby, spawning the last Tentacle will form a perfect hexagon.
+* Spell shields will block the ability's damage but will not prevent Tentacles from spawning.
+* If Illaoi dies within 0.25 seconds of dropping down, she will spawn buffed Tentacles, but she won't manage in time to buff the already spawned ones.
+* If Illaoi is near a Tentacle that is about to spawn, it will spawn buffed by Leap of Faith even if Illaoi is no longer nearby.
+* Using Harsh Lesson after Illaoi drops down will command Tentacles to instantly attack, regardless if they were already attacking. Their old attack will keep on going and will hit while the second attack is on its animation attack.
+* This makes it possible for the same tentacle to reduce its own damage by having the second attack hit too fast, which is not otherwise possible.
+* Using Harsh Lesson an instant before Leap of Faith's buff finishes will delay the Tentacle's attack.
+* Pets [Tentacle] have a base attack speed of 1.00, but they will always have 1 attack speed when queuing up attacks, even if affected by Leap of Faith's buff.
+* If a Tentacle is killed while attacking, the Tentacle will first finish its attack and then die, without being able to queue up other commands.
+* Tentacles will only start attacks based on targets' center, but they will also hit targets whose edge is inside the area.
+* Target type: Ward (can be teleported to).
+* On-hit effects: Not mitigated by block or dodge.
+* Spell effects: Applies spell effects as area damage.
+* Protection: A single spell shield can block all tentacle attacks that hit at the same time.
+* Abilities: Slam, Awakening, Enrage, Vision.
+* Slam: The Tentacle damages all non-structure enemies it hits along its length and heals Illaoi if it hits at least one enemy champion.
+* Awakening: The Tentacle awakens and remains active while Illaoi or a Vessel are within 2000 range and not dead. If none is nearby, the Tentacle finishes any of its ongoing attacks before becoming dormant.
+* The Tentacle is lenient towards becoming dormant when Illaoi dies while the Tentacle is spawning or while she's pulling the Spirit.
+* Enrage: The Tentacle is buffed by Leap of Faith.
+* Vision: All Tentacles around 1000 range of an enemy champion are revealed through the fog of war.
+* When about to slam it, reveals the targeted spot to allies.
+* The Tentacle grants sight of nearby Control Wards.
+* If Illaoi is in a different dimension than her Tentacles (i.e. Realm of Death), her Tentacles will continue to target units in their dimension only, but the area of damage will instead be dealt in Illaoi's dimension.
+* Champion skins: Original, Void Bringer, Rolonda Watts, Evan 'Somnicidal' Monteiro, Chief enforcer of the human-led resistance, Battlecast, Resistance Illaoi Chromas (Aquamarine, Catseye, Obsidian, Pearl, Rose Quartz, Ruby, Tanzanite), Cosmic Invoker, Cosmic Invoker Illaoi Chromas (Amethyst, Citrine, Emerald, Obsidian, Rose Quartz, Ruby, Turquoise, Snow Moon), Snow Moon.
+* Voice filter: New SFX/VFX, New Animations/Recall, Resistance.
+* Original: Illaoi’s powerful physique is dwarfed only by her indomitable faith. As the prophet of the Great Kraken, she uses a huge, golden idol to rip her foes’ spirits from their bodies and shatter their perception of reality. All who challenge the 'Truth Bearer of Nagakabouros' soon discover Illaoi never battles alone—the god of the Serpent Isles fights by her side.
+* Rolonda Watts: Evan 'Somnicidal' Monteiro.
+* Loot eligible.
+* Void Bringer: View in 3D, 880, 24.11.2015.
+* Rolonda Watts, Alvin Lee.
+* Curse of the Void, Loot eligible, Voice filter.
+* New SFX/VFX, New Animations/Recall.
+* Resistance: View in 3D, 1350, 15.03.2018.
+* Chief enforcer of the human-led resistance, Illaoi was once the subject of a failed Battlecast conversion that left her with control over nearby machines. Seizing her newfound power, she has single handedly decimated Viktor's forces in countless battles, becoming a beacon of hope for rebels across the world.
+* Rolonda Watts, Bo 'chenbowow' Chen.
+* Battlecast, Loot eligible, Voice filter.
+* New SFX/VFX, New Animations/Recall.
+* Cosmic Invoker: View in 3D, 1350, 24.11.2020.
+* Rolonda Watts, West Studio.
+* Cosmic, Loot eligible, Voice filter.
+* New SFX/VFX, New Animations/Recall.
+* Cosmic Invoker Illaoi Chromas: Amethyst, Citrine, Emerald, Obsidian, Rose Quartz, Ruby, Turquoise, Snow Moon.
+* Amethyst, Catseye, Emerald, Obsidian, Rose Quartz, Ruby, Tanzanite.
+* Snow Moon: View in 3D, 1350, 23.06.2022.
+* Rolonda Watts, David Villegas, West Studio.
+* Snow Moon, Loot eligible, New SFX/VFX, New Animations/Recall.
+* Snow Moon Illaoi Chromas: Amethyst, Catseye, Emerald, Obsidian, Rose Quartz, Ruby, Sapphire, Turquoise.
+
+---
+
+**Patch history**
+
+* V14.4: Prophet of an Elder God: Tentacle AD ratio reduced to 100% AD from 115% AD. Test of Spirit: Tentacle call range increased to match Harsh Lesson, Tentacle attack call range has been increased to match Harsh Lesson.
+* V14.3: Prophet of an Elder God: Tentacle range increased to 925 from 800, base damage reduced to 9 − 162 (based on level) from 10 − 180 (based on level), AD ratio reduced to 115% AD from 120% AD.
+* V14.2: Stats: Health growth increased to 115 from 109, base mana increased to 350 from 300, mana growth increased to 60 from 50. Prophet of an Elder God: Heal per tentacle hit increased to 5% missing health from 4.5%, Tentacle smash damage buffed.
+* V13.20: October 11th Hotfix: Test of Spirit: Bug Fix: Spirits of champions without a resource now have the proper duration. Test of Spirit: Bug Fix: The spirit out of an enemy Briar no longer instantly reaches the end of its life duration if the clone was created while she was not under the effect of her Blood Frenzy. Now bugged in this same way with resourceless champions such as Riven and Garen instead.
+* V13.20: Undocumented: Grabbing the spirit of champions with special resource bars (i.e Flow, Ferocity) no longer makes the spirit not show its lifetime.
+* V12.15: Test of Spirit: Undocumented: Spirits now properly cause turrets to Warm Up their attacks.
+* V12.10: Stats: Base health increased to 656 from 586, health growth increased to 109 from 95, armor growth increased to 5 from 3.8, magic resistance growth increased to 2.05 from 1.25. Prophet of an Elder God: Heal per tentacle hit reduced to 4.5% missing health from 5%, Harsh Lesson: Undocumented: Tentacle call range increased to 950 from 800, The dash version of the ability now properly causes Tentacles to attack if the caster had an active spell shield.
+* V12.6: Harsh Lesson: Undocumented: The dash version of the ability now correctly causes Tentacles to attack if the caster had an active spell shield. Test of Spirit: Undocumented: Spirits that expire are no longer automatically killed by being dealt 100% of their health by the last assisting ally, granting them creep score.
+* V12.6: Harsh Lesson: Bug Fix: Fixed a bug where the dashed version of the ability would not deal bonus damage based on the target's maximum health.
+* V12.6: General: Undocumented: All abilities now buffer within 0.5 seconds of being cast while on cooldown or sealed.
+* V12.4: Test of Spirit: New Effect: Tentacles are now more lenient towards becoming dormant if the caster dies while pulling the Spirit, giving them slightly more time to attack their targets.
+* V11.22: Test of Spirit: Bug Fix: Death's Dance no longer considers the Spirit as a champion for the takedown effect.
+* V11.15: Tentacle Smash: Bug Fix: Illaoi's model animation no longer fizzles if she inputs another command right after casting the ability.
+* V11.14: Stats: Base movement speed increased to 350 from 340.
+* V11.12: Stats: Mana growth increased to 50 from 40.
+* V11.4: Test of Spirit: Undocumented: Duskblade of Draktharr no longer considers the Spirit as a champion for the takedown effect.
+* V11.1: Stats: Base magic resistance reduced to 32 from 32.1, Base health increased to 586 from 585.6, V10.23: Test of Spirit: Undocumented: The lifetime of a Rumble Spirit is no longer shorter than normal. Undocumented: The Spirit of an Ekko no longer triggers Parallel Convergence.
+* V10.20: Prophet of an Elder God: Cooldown reduced to 20 − 7.25 (based on level) seconds from 20 − 12 (based on level). Harsh Lesson: Bug Fix: Spellshields no longer block and pop from the bonus damage of the close range part of the ability (dash range continues to pop spellshields and deal full damage). Test of Spirit: Bug Fix: Lulu's team can no longer get permanent vision of an area if she is cloned by Test of Spirit and dies while Help, Pix! is activated on Lulu.
+* V10.9: Test of Spirit: Undocumented: Perfect Timing no longer considers the Spirit as a champion for the takedown effect.
+* V10.8: Harsh Lesson: Indicator added to show recast ability timer.
+* V10.6: Test of Spirit: Undocumented: Swain's Ravenous Flock, Katarina's Voracity, Master Yi's Highlander, and Kha'Zix's Evolved Wings takedown effects now trigger on the Spirit. Undocumented: Blade of the Ruined King no longer has its damage capped against the Spirit as if it was considered a minion. Undocumented: Perfect Timing now considers the Spirit as a champion for the takedown effect.
+* V10.3: Test of Spirit: Bug Fix: If Sett has no points in Haymaker, Test of Spirit will now properly extrude his vessel. Bug Fix: Can no longer pull spirits of targets protected by Morgana's Black Shield.
+* V10.1: Harsh Lesson: Bug Fix: Can no longer cast while grounded or rooted. If casted before, only the close version may be used, while negating the attack commands while being in dash version.
+* V9.19: Harsh Lesson: Undocumented: Hitting the Spirit no longer spawns two tentacles.
+* V9.18: Prophet of an Elder God: Undocumented: Spell shields now block tentacle slams. A single spell shield can block multiple slams. Harsh Lesson: Undocumented: Can no longer issue an attack command after casting the ability to dash while rooted. Can still dash if the attack command is issued before casting the ability. Test of Spirit: Undocumented: Can now grab a spirit through Morgana's Black Shield. Undocumented: Draven's League of Draven no longer triggers when killing the Spirit. Undocumented: Katarina's Voracity, Master Yi's Highlander, and Kha'Zix's Evolved Wings takedown effects now trigger on the Spirit. Undocumented: No longer blocks Kayle from using her Celestial Blessing while the Spirit is nearby. Leap of Faith: Undocumented: Spawns tentacles by hitting decoys other than the Spirit. Undocumented: Hitting the Spirit now spawns two tentacles instead of one.
+* V9.13: Prophet of an Elder God: Removed: Tentacles killed increasing the minion killed stat. Undocumented: Illaoi can no longer spawn Tentacles on ally invulnerable structures (the Vessel still can). New Effect: Tentacles can no longer be stopped from attacking. If they're killed or they have to vanish during the slam, they will instead die after finishing the slam. Undocumented: Tentacles can now be commanded to attack 0.25 seconds after their death. New Effect: Tentacle damage now also scales with 40% AP. New Effect: Cooldown is now pingable. Tentacle lifetime while dormant reduced to 30 seconds from 60. Range of enemies to gain vision of tentacles reduced to 1000 units from 1400. Bug Fix: Enemy champions no longer globally gain vision of tentacles that are slamming. Undocumented: Commanded Tentacles now attack in the order they were commanded to. For example, doing an E-W will first do the E attack and then the W attack rather than two W attacks. This fixes some stacking mechanisms like Conqueror's.
+* V9.11: Leap of Faith: Undocumented: Hitting the Spirit no longer spawns two tentacles.
+* V9.9: Prophet of an Elder God: Undocumented: Spell shields now block tentacle slams. A single spell shield can block multiple slams. Harsh Lesson: Undocumented: Can no longer spam Harsh Lesson to ignore the cast time of Test of Spirit. Undocumented: Now correctly deals damage after Blade of the Ruined King's one.
+* V6.22: General: Bug Fix: Illaoi's tentacles now normally swing at champions under the effects of Taric's Cosmic Radiance or Kindred's Lamb's Respite.
+* V6.15: Prophet of an Elder God: New Effect: Tentacles are now visible in brush to enemy champions within their normal vision range.
+* V6.14: General: Tentacle indicator are now more accurate when displaying the area they're going to Slam.
+* V6.11: General: Clarity: All tooltips updated. Tentacle Smash: Passive changed to 10 / 15 / 20 / 25 / 30% increased damage from increasing the AD ratio by 0 / 10 / 20 / 30 / 40% AD, Harsh Lesson: Damage changed to 3 / 3.5 / 4 / 4.5 / 5% (+ 2% per 100 AD) of target's maximum health, The new damage is capped at 300 against non-champions. Test of Spirit: Cooldown reduced to 16 / 15 / 14 / 13 / 12 seconds from 20 / 18 / 16 / 14 / 12, Leap of Faith: Cooldown reduced to 120 / 95 / 70 seconds from 120 / 105 / 90, Tentacle Smash: Slow duration reduced to 1.5 seconds from 2, Removed: 0.25 seconds root after missing, New Effect: Illaoi can instantly move after casting, New Effect: Tentacles killed by allies within 5 seconds of being hit by a Vessel count towards the debuff's removal, Bug Fix: Fiora could Riposte the application of the Vessel debuff as it flew towards her, V5.23: Added Trivia [ ] Illaoi has the 2nd highest level 18 base attack damage (153), behind Mega Gnar. She is the only champion who can summon an enemy unit (Vessel). See also [ ] League of Legends Wiki | Champions Cancelled Champions Ao Shin Avasha Averdrian CeeCee Cyborg Cowboy Eagle Rider Gavid Husk Ivan Omen Priscilla Rob Blackblade Seth Tabu Tiki Urf Well References [ ] ↑ Illaoi's profile page at LeagueOfLegends.com

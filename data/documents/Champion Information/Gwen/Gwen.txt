@@ -1,0 +1,489 @@
+**Games**
+
+* Universe
+* 
+
+**•**
+
+* League of Legends
+* 
+    * **•**
+    * League of Legends: Teamfight Tactics
+    * Legends of Runeterra
+    * Wild Rift
+
+**Image**
+
+* Gwen
+
+**Gameplay**
+
+**•** Collection
+
+**•** Audio
+
+**•** Patch history
+
+**•** Past versions
+
+**Gwen**
+
+* Release date: 2021-04-15
+* Last changed: V14.2
+* Class(es): Skirmisher, Legacy, Fighter, Assassin
+* Position(s): Top
+* Resource: Mana
+* Range type: Melee
+* Adaptive type: Magic
+* Store price: 4800
+* **|** 880
+* Crafting: +2880
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 2
+* Control: 1
+* Mobility: 3
+* Utility: 1
+
+**Style:** Difficulty:
+
+**Gwen** is a champion in League of Legends.
+[1]
+
+**Gameplay**
+
+* **Cosmetics**
+* **•** Audio
+* **•** Development
+* **•** Patch History
+* **•** History
+* **•** Trivia
+
+**Base statistics**
+
+| **Base statistics** | **Values** |
+| --- | --- |
+| Health | 620 + 115 |
+| Mana | 330 + 40 |
+| Health regeneration (per 5s) | 9 + 0.9 |
+| Mana regeneration (per 5s) | 7.5 + 0.7 |
+| Armor | 39 + 5.2 |
+| Attack damage | 63 + 3 |
+| Magic resist. | 32 + 2.05 |
+| Crit. damage | 175% |
+| Move. speed | 340 |
+| Attack range | 150 |
+| Attack speed | Base AS: 0.69 |
+| Attack windup | 19.672% |
+| AS ratio | N/A |
+| Bonus AS% | +2.25% |
+| Unit radius | Gameplay radius: 65 |
+| Selection radius | 100 |
+| Pathing radius | 35 |
+| Acq. radius | 600 |
+
+**Special statistics**
+
+| **Special statistics** | **Values** |
+| --- | --- |
+| ARAM | N/A |
+| Nexus Blitz | N/A |
+| One For All | N/A |
+| URF | N/A |
+| Ult Spellbook | N/A |
+| Arena | N/A |
+| Damage Dealt | +0% |
+| Damage Received | +0% |
+| Damage Dealt | +0% |
+| Damage Received | +0% |
+| Damage Dealt | +0% |
+| Damage Received | +0% |
+| Damage Dealt | -5% |
+| Damage Received | +5% |
+| Damage Dealt | +0% |
+| Damage Received | +0% |
+
+**Abilities**
+
+**[**
+**]**
+
+* **Thousand Cuts**
+    * Innate: Gwen's basic attacks, the center of Snip Snip!, and Needlework deal bonus magic damage equal to 1% (+ 0.72% per 100 AP) of the target's maximum health.
+    * Heals Gwen for 50% of post-mitigation damage dealt against champions, capped at 10 − 25 (based on level) (+ 6.5 % AP) per instance.
+    * Deals an additional 8 − 30 (based on level) bonus magic damage against minions that are below 40% health.
+    * Deals a maximum of 10 (+ 15% AP) magic damage against monsters.
+    * The attacks do not deal the bonus damage against structures.
+
+**Passive**
+
+* Damage type: Type: Magic
+* Sub-type: Proc damage
+
+**Counters:**
+
+* Parries
+* Blocked
+
+**The attacks do not deal the bonus damage against structures.**
+
+* **Snip Snip!**
+    * Cost: 40 mana
+    * Cool-down: 6.5/5.75/5/4.25/3.5 seconds
+    * Cast time: 0.5 seconds
+    * Passive: Gwen's basic attacks generate a stack of Snippy on-hit for 6 seconds, stacking up to 4 times and refreshing on subsequent attacks.
+    * Active: Gwen snips at least twice with her scissors in a cone in the target direction over the cast time, dealing magic damage per snip to all enemies within the area. The final snip deals increased damage.
+    * If she has any Snippy stacks, she consumes each one to snip an additional time.
+    * The center of each snip converts 50% of the damage to true damage, then applies Thousand Cuts.
+    * Snip Snip! deals 75% damage against minions, and executes them on the first damage instance if they are below 20% health.
+    * Damage per Snip: 10 / 15 / 20 / 25 / 30 (+ 5% AP)
+    * Center Damage per Snip: 10 / 15 / 20 / 25 / 30 (+ 5% AP)
+    * (+ 1% (+ 0.72% per 100 AP) of the target's maximum health)
+    * Final Snip Damage: 60 / 85 / 110 / 135 / 160 (+ 35% AP)
+    * Final Snip Center Damage: 60 / 85 / 110 / 135 / 160 (+ 35% AP)
+    * (+ 1% (+ 0.72% per 100 AP) of the target's maximum health)
+
+**Targeting input:** Direction
+
+**Damage type:** Type: Magic
+
+**Sub-type:** Area damage
+
+**Counters:**
+
+* Spell shield
+* See Notes
+
+**Subsequent basic attacks on-hit also refresh the duration of Snippy stacks. The amount of Snippy stacks Gwen has is indicated below her health bar.**
+
+**Spell shield blocks only one snip.**
+
+**This ability will cast from wherever the caster is at the end of the cast time. The first snip happens at 0.13 seconds, the last one at the end of the cast time. Bonus snips from Snippy stacks each happen at 0.45, 0.4, 0.35, and 0.23 seconds into the cast time.**
+
+* **Hallowed Mist**
+    * Cost: 60 mana
+    * Cool-down: 22/20/18/16/14 seconds
+    * Cast time: None
+    * Effect radius: 480
+    * Speed: 2000
+    * Active: Gwen summons the Hallowed Mist upon her current location, lasting for 4 seconds or until she leaves the area. Hallowed Mist can be recast once after 0.5 seconds for the duration, and does so automatically if Gwen attempts to leave the area.
+    * While inside the mist, Gwen gains bonus armor and bonus magic resistance and is untargetable to all enemies (except turrets) outside of the mist.
+    * Recast: Gwen commands the mist to move to her current location.
+    * Gwen negates all attacks by monsters outside of the mist.
+
+**Targeting input:** Auto
+
+**Hallowed Mist's untargetability does not apply to monsters nor turrets, meaning they are allowed to gain aggro against Gwen and attack her regardless of being in the mist or not. However, Gwen will not take damage from monsters that hit her and are outside of the mist.**
+
+**Hallowed Mist does not grant untargetability against enemy pets inside the zone even if their source is not. All projectiles targeted at Gwen by enemy champions outside the mist are destroyed upon attempting to pass through the mist or being inside the mist. Targeted projectiles sourced by minions or monsters will not be destroyed and can still hit Gwen even if they are outside of the zone.**
+
+* **Skip 'n Slash**
+    * Cost: 35 Mana
+    * Cool-down: 13/12.5/12/11.5/11 seconds
+    * Cast time: None
+    * Target range: 350/450
+    * Active: Gwen dashes to the target location, then empowers her basic attacks within the next 4 seconds to deal bonus magic damage on-hit and gain bonus attack speed and bonus attack range.
+    * Bonus attack speed: 20%/35%/50%/65%/80%
+    * Gwen's first basic attack within the duration refunds a portion of Skip 'n Slash's cooldown.
+    * Skip 'n Slash resets Gwen's basic attack timer.
+    * Skip 'n Slash can be cast during any of Gwen's abilities, and vice versa. Skip 'n Slash will cast at max range if cast beyond that.
+
+**Targeting input:** Location
+
+**Damage type:** Type: Magic
+
+**Sub-type:** Proc damage
+
+**Counters:**
+
+* Grounded
+* Knockdown
+* Disabled
+* Interrupted
+
+**Skip 'n Slash has no minimum dash range.**
+
+**The basic attack reset is not considered one for Hail of Blades.**
+
+* **Needlework**
+    * Cost: 100 Mana
+    * Cool-down: 120/100/80 seconds
+    * Cast time: 0.25/0.5 seconds
+    * Range: -100 + 1350
+    * Width: 240 to 0
+    * Speed: 1800
+    * Active: Gwen launches a needle in the target direction that deals magic damage to enemies hit and slows them for 1.5 seconds.
+    * Magic Damage per Needle: 35/65/95 (+ 10% AP)
+    * Damage with Thousand Cuts: 35/65/95 (+ 10% AP)
+    * (+ 1% (+ 0.72% per 100 AP) of the target's maximum health)
+    * Slow: 40/50/60%
+
+**Targeting input:** Direction
+
+**Damage type:** Type: Magic
+
+**Sub-type:** Area damage
+
+**Counters:**
+
+* Spell shield
+* Projectile
+* See Notes
+
+**Blocked:** Spell shield blocks only one needle.
+
+* Needlework is placed on a 0.1-second cooldown when the cast time completes and when Gwen gains a recast (before gaining a recast via the attack, the recast remains sealed even while not on cooldown).
+* This ability will cast from wherever the caster is at the end of the cast time.
+
+**Champion skins**
+
+**[**
+**]**
+
+* Original
+* View in 3D
+* 975
+* 15.04.2021
+* A former doll transformed and brought to life by magic, Gwen wields the very tools that once created her. She carries the weight of her maker's love with every step, taking nothing for granted. At her command is the Hallowed Mist, an ancient and protective magic that has blessed Gwen's scissors, needles, and sewing thread. So much is new to her, but Gwen remains joyfully determined to fight for the good that survives in a broken world.
+* Abby Trott
+* Jeremy 'Jermu' Anninos
+* Loot eligible
+* Space Groove
+* View in 3D
+* 1350
+* 15.04.2021
+* It was pretty far out when Gwen applied to be Lux and Samira's quartermaster—after all, no one else did. Cheerfully sewing good vibes into great clothes, she amplifies disco energy through her nifty threads. Though she's new to this whole galactic hero gig, one thing's for sure: no way Gwen lets her friends liberate the galaxy in less-than-stellar outfits.
+* Abby Trott
+* Bo 'chenbowow' Chen
+* Space Groove
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Space Groove Gwen Chromas
+* Catseye
+* Citrine
+* Disco
+* Emerald
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Cafe Cuties
+* View in 3D
+* 1350
+* 02.12.2021
+* Gwen is the friendly face of customer service for the cafe, always there to welcome patrons with a smile and an immaculately-plated pastry. Don't be fooled, though—she isn't afraid to use her candy-cutting shears for other things when rogue customers threaten her friends.
+* Abby Trott
+* David Villegas, West Studio
+* Cafe Cuties
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Cafe Cuties Gwen Chromas
+* Amethyst
+* Catseye
+* Emerald
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Turquoise
+* Soul Fighter
+* View in 3D
+* 1350
+* 03.08.2023
+* She went to the ends of the world... and beyond... to save her friend! And according to the bracket that I'm looking at with my very eyes, she's going to have to fight him to win this tournament! OOF! I swear, this isn't scripted folks. It's LIVE TV! A girl with friendship in her heart and magical scissors that raise the dead in her hands: Gwen!
+* Abby Trott
+* Fortune 'Fortuneee' K
+* Soul Fighter
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas
+* Soul Fighter Gwen Chromas
+* Amethyst
+* Citrine
+* Emerald
+* Limitless
+* Rose Quartz
+* Ruby
+* Sandstone
+* Sapphire
+* Turquoise
+
+**Patch history**
+[**]**
+
+For the expanded patch notes, see here.
+
+V14.2
+
+* Thousand Cuts: AP ratio increased to 0.72% per 100 AP from 0.65%
+
+V14.1
+
+* January 12th Hotfix: Thousand Cuts: AP ratio reduced to 0.65% per 100 AP from 0.8%
+
+V13.18
+
+* Stats: Health growth increased to 115 from 106.
+* Thousand Cuts: Maximum monster base damage increased to 10 from 6.
+* Maximum monster AP ratio increased to 15% AP from 10% AP.
+
+V13.15
+
+* Stats: Base health regeneration increased to 9 from 8.5.
+* Hallowed Mist: Base bonus resistances increased to 17/19/21/23/25 from 12/14/16/18/20.
+
+V12.20
+
+* Snip Snip!: Base damage per snip increased to 10/15/20/25/30 from 10/14/18/22/26.
+* Final snip base damage increased to 60/85/110/135/160 from 60/80/100/120/140.
+* Final snip AP ratio increased to 35% AP from 25% AP.
+* True damage conversion reduced to 50% from 75%.
+* Damage against minions reduced to 75% from 100%.
+* New Effect: Now executes minions below 20% health.
+* Hallowed Mist: Duration reduced to 4 seconds from 5.
+* Base bonus resistances increased to 20 at all ranks from 17/19/21/23/25.
+* Skip 'n Slash: Cooldown refund changed to 50% from 60%.
+* Cooldown increased to 13/12.5/12/11.5/11 seconds from 13/12/11/10/9.
+* Bonus attack range increased to 75 from 50.
+* Base damage increased to 15 from 10.
+* AP ratio increased to 20% AP from 15% AP.
+
+V12.15
+
+* Snip Snip!: True damage conversion reduced to 75% from 100%.
+
+V12.13
+
+* July 13th Hotfix: Stats: Base health reduced to 620 from 660.
+* Thousand Cuts: Healing reduced to 50% from 60%.
+* Needlework: Cooldown increased to 120/100/80 seconds from 100/90/80.
+* Stats: Health regeneration growth increased to 0.9 from 0.55.
+* Thousand Cuts: Maximum base damage against monsters reduced to 6 from 10.
+* Maximum AP ratio against monsters reduced to 10% AP from 15% AP.
+* Snip Snip!: Base damage per snip increased to 10/14/18/22/26 from 9/12/15/18/21.
+* Final snip base damage increased to 45/60/75/90/105 from 40/53.75/67.5/81.25/95.
+* Final snip AP ratio increased to 35% AP from 25% AP.
+* True damage conversion reduced to 75% from 100%.
+* Damage against minions reduced to 75% from 100%.
+* New Effect: Now executes minions below 20% health.
+* Hallowed Mist: Duration reduced to 4 seconds from 5.
+* Base bonus resistances increased to 17/19/21/23/25 from 12/14/16/18/20.
+* AP ratio increased to 7% AP from 5% AP.
+* Skip 'n Slash: Cooldown refund reduced to 50% from 60%.
+
+V12.11
+
+* Hallowed Mist: Base bonus resistances reduced to 12/14/16/18/20 from 20 at all ranks.
+* Cooldown increased to 22/20/18/16/14 seconds from 22/20/18/16/14.
+
+V12.10
+
+* Stats: Base health increased to 660 from 590.
+* Health growth increased to 109 from 95.
+* Armor growth increased to 5.2 from 4.
+* Magic resistance growth increased to 2.05 from 1.25.
+* Thousand Cuts: Healing reduced to 60% from 70%.
+* Maximum base heal reduced to 10−25 (based on level) from 12−30 (based on level).
+* Maximum heal AP ratio reduced to 6.5% AP from 7% AP.
+* Skip 'n Slash: Cooldown refund increased to 60% from 50%.
+* Needlework: Cooldown reduced to 120/100/80 seconds from 120/100/80.
+
+V12.7
+
+* Skip 'n Slash: Cooldown refund increased to 60% from 50%.
+* Needlework: Cooldown reduced to 120/100/80 seconds from 120/100/80.
+
+V12.5
+
+* Thousand Cuts: Maximum AP ratio against monsters reduced to 15% AP from 25% AP.
+* Skip 'n Slash: Bonus attack range reduced to 50 from 100.
+
+V11.24
+
+* December 15th Hotfix: Stats: Base health increased to 590 from 550.
+* Health growth increased to 95 from 90.
+
+V11.19
+
+* Stats: Base health regeneration increased to 8.5 from 7.
+
+V11.15
+
+* Skip 'n Slash: Bonus attack speed reduced to 40%/50%/60%/70%/80% from 40%/50%/60%/70%/80%.
+
+V11.11
+
+* Undocumented/Bug Fix: Enemy champions who had Gwen as their target for attacks before starting a channel will no longer interrupt their channel to attempt to attack Gwen when she enters her Hallowed Mist.
+
+V11.8
+
+* April 16th Hotfix: Stats: Base armor increased to 39 from 37.
+* Snip Snip!: Base damage per snip increased to 9/12/15/18/21 from 8/10.75/13.5/16.5/19.5.
+* Final snip base damage increased to 45/60/75/90/105 from 40/53.75/67.5/81.25/95.
+
+V11.8
+
+* Added: Thousand Cuts (Innate)
+* Innate: Gwen's basic attacks, the center of Snip Snip!, and Needlework deal bonus magic damage equal to 1% (+ 0.8% per 100 AP) of the target's maximum health.
+* Thousand Cuts is modified based on the target:
+    * Heals Gwen for 70% of post-mitigation damage dealt against champions.
+    * Deals an additional 8−30 (based on level) bonus magic damage against minions that are below 40% of their maximum health.
+    * Deals a maximum of 10 (+ 25% AP) magic damage against monsters.
+* Snip Snip! (Q)
+    * Passive: Gwen's basic attacks on-hit grant a stack of Snippy for 6 seconds, stacking up to 4 times. Subsequent attacks refresh the duration on-hit.
+    * Active: Gwen snips at least twice with her scissors in a cone in the target direction over the cast time, dealing 8/10.75/13.5/16.5/19.5 magic damage per snip to all enemies within the area. The final snip deals 40/53.75/67.5/81.25/95 magic damage.
+    * If she has any Snippy stacks, she consumes each one to snip an additional time.
+    * The center of each snip deals true damage instead and applies Thousand Cuts.
+* Mana Cost: 40
+* Cooldown: 6.5/5.75/5/4.25/3.5 seconds
+* Cast Time: 0.5 seconds
+* Hallowed Mist (W)
+    * Active: Gwen summons the Hallowed Mist around her, lasting for 5 seconds or until she leaves the area.
+    * Hallowed Mist can be recast once after 0.5 seconds for the duration, and does so automatically if Gwen attempts to leave the area.
+    * While inside the mist, Gwen gains 20 (+ 5% AP) bonus armor and bonus magic resistance and is untargetable to all enemies (except turrets) outside of the mist.
+    * Recast: Gwen commands the mist to move to her current location.
+* Mana Cost: 60
+* Cooldown: 22/20/18/16/14 seconds
+* Effect Radius: 480
+* Speed: 2000
+* Skip 'n Slash (E)
+    * Active: Gwen dashes to the target location, and afterwards she gains 10/15/20/25/30 (+ 8% AP) bonus magic damage on-hit on her basic attacks, 40/50/60/70/80% bonus attack speed, and 100 bonus attack range for 4 seconds.
+* Gwen's first basic attack within the duration refunds 50% of Skip 'n Slash's cooldown.
+* Skip 'n Slash resets Gwen's basic attack timer.
+* Skip 'n Slash can be cast during any of Gwen's abilities, and vice versa. Skip 'n Slash will cast at max range if cast beyond that.
+* Mana Cost: 35
+* Cooldown: 13/12/11/10/9 seconds
+* Target Range: 350/450
+* Cast Time: None
+* Needlework (R)
+    * Active: Gwen can activate Needlework up to 3 times, launching needles in the target direction with each cast. Each needle deals 30/55/80 (+ 8% AP) magic damage and applies Thousand Cuts to enemies it passes through, in addition to slowing them by 40/50/60% for 1.5 seconds. For each individual target, needle hits beyond the first slow by 15/20/25%.
+    * Within 6 seconds after the first cast, Gwen needs to hit a basic attack or Snip Snip! to unlock the second cast. After using the second cast, the duration is refreshed and she may repeat the aforementioned actions to unlock the third cast. Both the second and third casts are only available for the remaining duration. Each subsequent cast increases the amount of needles launched by 2.
+* Mana Cost: 100
+* Cooldown: 120/100/80 seconds
+* Cast Time: 0.25/0.5/0.5 seconds
+* Trivia
+[**]**
+
+* Gwen is the first of three champions released in 2021 tied to Viego's return and a continuation of the Ruined King's story.
+* She's the second heterochromic champion (first being Original Zoe) with her right eye being teal, and the other being violet.
+* Gwen will walk in her doll form for a short time if you let her transform during her joke animation.
+* There is a Gwen easter egg within Ruined King: A League of Legends Story.
+* Her dance is based on the PONPONPON music video.
+* A side-by-side comparison can be seen here.
+* Thousand Cuts references the eponymous torture and execution method.
+* Gwen's champion theme has elements of Viego's mixed in.
+
+**References**
+[**]**
+
+* Gwen's profile page at LeagueOfLegends.com
+* Champions in Season 2021
+* Kole Hicks on Gwen and Viego Themes

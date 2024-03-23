@@ -1,0 +1,76 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Rakan
+        **Gameplay**
+          * Class(es): Catcher, Legacy, Support
+          * Position(s): Support
+          * Resource: Mana
+          * Range type: Melee
+          * Adaptive type: Magic
+          * Store price: 4800 (or 880 RP)
+          * Crafting cost: +2880 RP
+          * Ratings: Damage: 1, Toughness: 2, Control: 3, Mobility: 3, Utility: 3
+          * Difficulty: [Medium to High]
+          
+        **Abilities**
+          * Fey Feathers (Passive): Rakan gains a shield when not in combat and reduces Fey Feathers' cooldown with each enemy champion hit.
+          * Lover's Leap (Passive): Rakan and Xayah can Recall together, with both champions reaching base at the same time.
+          
+          * Fey Feathers (Q): Rakan gains a shield based on level and AP. Damaging an enemy champion reduces Fey Feathers' cooldown.
+          * Gleaming Quill (Q): Rakan throws an enchanted feather dealing magic damage to the first enemy hit. If the target is a champion or epic monster, Rakan and nearby allies are healed when an allied champion enters the marked area.
+          * Cooldown: 11 / 10 / 9 / 8 / 7 seconds
+          * Mana cost: 45
+          
+          * Grand Entrance (W): Rakan dashes to a location, dealing magic damage and knocking up enemies in a radius. Rakan is knocked down during Grand Entrance.
+          * Cooldown: 16 / 14.5 / 13 / 11.5 / 10 seconds
+          * Mana cost: 50 / 60 / 70 / 80 / 90
+          
+          * Battle Dance (E): Rakan leaps to an ally champion, shielding them and granting him bonus movement speed. Battle Dance can be recast for free within 5 seconds.
+          * Cooldown: 20 / 18 / 16 / 14 / 12 seconds
+          * Mana cost: 60 / 70 / 80 / 90 / 100
+          
+          * The Quickness (R): Rakan gains a buff, increasing his movement speed and dealing magic damage to enemies he collides with, charming them for a duration.
+          * Cooldown: 130 / 110 / 90 seconds
+          * Mana cost: 100
+
+        **Champion Spotlight**
+        * [Rakan Champion Spotlight](https://www.youtube.com/watch?v=UhGj_CJr1JY)
+
+        **Audio**
+        * [Rakan Voice Over](https://www.youtube.com/watch?v=tJUZGK46eUw)
+        * [Rakan SFX](https://www.youtube.com/watch?v=D8H7B0Oy4Nk)
+
+        **Patch history**
+        * [Patch history for Rakan](https://leagueoflegends.fandom.com/wiki/Rakan/Patch_history)
+
+        **Past versions**
+          * [Original](https://universe.leagueoflegends.com/en_US/champions/rakan/)
+          * [Cosmic Dawn](https://universe.leagueoflegends.com/en_US/champions/rakan-cosmic-dawn/)
+          * [Sweetheart](https://universe.leagueoflegends.com/en_US/champions/rakan-sweetheart/)
+          * [SSG](https://universe.leagueoflegends.com/en_US/champions/rakan-ssg/)
+          * [World Champions: 2017](https://universe.leagueoflegends.com/en_US/champions/rakan-world-champions-2017/)
+          * [World Champions: 2018](https://universe.leagueoflegends.com/en_US/champions/rakan-world-champions-2018/)
+          * [Star Guardian](https://universe.leagueoflegends.com/en_US/champions/rakan-star-guardian/)
+          * [Elderwood](https://universe.leagueoflegends.com/en_US/champions/rakan-elderwood/)
+          * [Arcana](https://universe.leagueoflegends.com/en_US/champions/rakan-arcana/)
+          * [Broken Covenant](https://universe.leagueoflegends.com/en_US/champions/rakan-broken-covenant/)
+          * [Redeemed Star Guardian](https://universe.leagueoflegends.com/en_US/champions/rakan-redeemed-star-guardian/)
+
+        **Trivia**
+          * Rakan was the first dual release alongside Xayah in 2017.
+          * Rakan's cloak is actually his wings disguised by Vastayan magic.
+          * Rakan and Xayah are sometimes depicted together with combined wings.
+          * Rakan has the second highest basic attack range amongst melee champions (300 units).
+          * Rakan's favorite human food is chocolate.
+          * Rakan's dance references Jailhouse Rock by Elvis Presley.
+          * Rakan deals 1 less damage with Melee Attack.
+          * Rakan's name resembles the Malay noun 'rakan', which means 'friend, relative'.
+          * Rakan is the only champion with 3 points at 3 skills by the client classification.
+
+        **References**
+          * [Rakan's profile page](https://leagueoflegends.com/en-us/champions/rakan/)
+          * [Cancelled Champions](https://leagueoflegends.fandom.com/wiki/Category:Cancelled_Champions)
+          * [League of Legends Wiki](https://leagueoflegends.fandom.com/wiki/Rakan)

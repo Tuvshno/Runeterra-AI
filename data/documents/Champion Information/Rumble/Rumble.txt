@@ -1,0 +1,626 @@
+**Games**
+
+* Universe
+  - League of Legends
+    **•**
+    - League of Legends: Champion Info
+      * Rumble
+        **•**
+        - Image
+          * Rumble
+        - Gameplay
+          * Cosmetics
+          * Audio
+          * Development
+          * Patch History
+          * History
+          * Trivia
+        - Base Statistics
+        - Abilities
+          * Junkyard Titan
+          * Flamespitter
+          * Scrap Shield
+          * Electro Harpoon
+          * The Equalizer
+          - Map-Specific Differences
+          - Ultra Rapid Fire Differences
+          - Chromas
+        - Champion Spotlight: Rumble
+        - Champion Skins
+          * Original
+          * Rumble in the Jungle
+          * Bilgerat
+          * Legacy: Super Galaxy
+          * Badlands Baron
+          * Road Warrior
+          * Cafe Cuties
+          - Patch History
+            * V14.2
+            * V13.23
+            * V13.22
+            * V13.12
+            * V13.21
+            * V13.5
+            * V12.10
+            * V12.5
+            * V12.4
+            * V11.18
+            * V11.15
+            * V11.14
+            * V11.13
+            * V11.11
+            * V11.9
+            * V11.8
+            * V11.7
+            * V11.1
+            * V10.18
+            * V10.6
+            * V10.3
+            * V9.15
+            * V9.7
+            * V9.6
+            * V8.12
+            * V8.7
+            * V8.3
+            * V7.22 November 9th Hotfix
+            * V7.22
+            * V7.19
+            * V7.18
+            * V7.12
+            * V7.11
+            * V7.7
+            * V6.11
+            * V6.8
+            * V6.5
+            * V6.4
+            * V6.1
+            * V5.16
+            * V5.14
+            * V5.1
+            * V4.19
+            * V4.15
+            * V4.9
+            * V4.6
+            * V4.5
+            * V4.2
+            * V3.7
+            * V3.5
+            * V3.6
+            * V3.5
+            * V3.4
+            * V3.3
+            * V3.2
+            * V3.1
+            * V3.0
+            * V2.6
+            * V2.4
+            * V2.3
+            * V2.1
+            * V1.0.0.152
+            * V1.0.0.144
+            * V1.0.0.141
+            * V1.0.0.136
+            * V1.0.0.129
+            * V1.0.0.123
+            * V1.0.0.121
+            * V1.0.0.120
+            * V1.0.0.118b
+            * V1.0.0.118
+            * V1.0.0.116
+            * V1.0.0.114
+            * V1.0.0.112
+            * V1.0.0.111
+            * V1.0.0.109
+            * V1.0.0.108
+            * V1.0.0.107
+            * V1.0.0.106
+            * V1.0.0.105
+            * V1.0.0.104
+            * V1.0.0.103
+            * V1.0.0.102
+            * V1.0.0.101
+            * V1.0.0.099
+            * V1.0.0.098
+            * V1.0.0.097
+            * V1.0.0.096
+            * V1.0.0.095
+            * V1.0.0.094
+            * V1.0.0.093
+            * V1.0.0.092
+            * V1.0.0.091
+            * V1.0.0.090
+            * V1.0.0.089
+            * V1.0.0.088
+            * V1.0.0.087
+            * V1.0.0.086
+            * V1.0.0.085
+            * V1.0.0.084
+            * V1.0.0.083
+            * V1.0.0.082
+            * V1.0.0.081
+            * V1.0.0.080
+            * V1.0.0.079
+            * V1.0.0.078
+            * V1.0.0.077
+            * V1.0.0.076
+            * V1.0.0.075
+            * V1.0.0.074
+            * V1.0.0.073
+            * V1.0.0.072
+            * V1.0.0.071
+            * V1.0.0.070
+            * V1.0.0.069
+            * V1.0.0.068
+            * V1.0.0.067
+            * V1.0.0.066
+            * V1.0.0.065
+            * V1.0.0.064
+            * V1.0.0.063
+            * V1.0.0.062
+            * V1.0.0.061
+            * V1.0.0.060
+            * V1.0.0.059
+            * V1.0.0.058
+            * V1.0.0.057
+            * V1.0.0.056
+            * V1.0.0.055
+            * V1.0.0.054
+            * V1.0.0.053
+            * V1.0.0.052
+            * V1.0.0.051
+            * V1.0.0.050
+            * V1.0.0.049
+            * V1.0.0.048
+            * V1.0.0.047
+            * V1.0.0.046
+            * V1.0.0.045
+            * V1.0.0.044
+            * V1.0.0.043
+            * V1.0.0.042
+            * V1.0.0.041
+            * V1.0.0.040
+            * V1.0.0.039
+            * V1.0.0.038
+            * V1.0.0.037
+            * V1.0.0.036
+            * V1.0.0.035
+            * V1.0.0.034
+            * V1.0.0.033
+            * V1.0.0.032
+            * V1.0.0.031
+            * V1.0.0.030
+            * V1.0.0.029
+            * V1.0.0.028
+            * V1.0.0.027
+            * V1.0.0.026
+            * V1.0.0.025
+            * V1.0.0.024
+            * V1.0.0.023
+            * V1.0.0.022
+            * V1.0.0.021
+            * V1.0.0.020
+            * V1.0.0.019
+            * V1.0.0.018
+            * V1.0.0.017
+            * V1.0.0.016
+            * V1.0.0.015
+            * V1.0.0.014
+            * V1.0.0.013
+            * V1.0.0.012
+            * V1.0.0.011
+            * V1.0.0.010
+            * V1.0.0.009
+            * V1.0.0.008
+            * V1.0.0.007
+            * V1.0.0.006
+            * V1.0.0.005
+            * V1.0.0.004
+            * V1.0.0.003
+            * V1.0.0.002
+            * V1.0.0.001
+      * Rumble (Collection)
+  * Cancelled Champions
+    **•**
+    - Ao Shin
+    - Avasha
+    - Averdrian
+    - CeeCee
+    - Cyborg Cowboy
+    - Eagle Rider
+    - Gavid
+    - Husk
+    - Iron Engineer
+    - Ivan
+    - Omen
+    - Priscilla
+    - Rob Blackblade
+    - Seth
+    - Tabu
+    - Tiki
+    - Urf
+    - Well
+  * References
+    **•**
+    - League of Legends Wiki
+    
+**[1]**
+
+* Rumble Champion Spotlight
+
+**Rumble**
+is a
+champion
+in
+League of Legends
+.
+
+[Rumble Image]
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+---
+
+### Base Statistics
+
+**Rumble**
+
+* Health: 625 (+105)
+* Health regeneration (per 5s): 7 (+0.6)
+* Resource: N/A
+* Armor: 36 (+4.7)
+* Attack damage: 64 (+3.2)
+* Magic resist: 28 (+1.55)
+* Crit. damage: 175%
+* Move. speed: 345
+* Attack range: 125
+* Attack speed: Base AS: 0.644
+
+---
+
+### Abilities
+
+**Junkyard Titan**
+
+* Innate: Rumble's basic ability casts generate Heat, which refreshes on subsequent casts and decays by 10 Heat per second after not using any basic ability within 4 seconds or The Equalizer within 2 seconds.
+* Rumble's mech enters the Danger Zone when at or above 50 Heat, and becomes Overheated while at 150 Heat.
+
+**Danger Zone:**
+
+* Rumble's mech enters the Danger Zone, empowering his basic abilities.
+
+**Overheated:**
+
+* Rumble's mech becomes Overheated, disabling his abilities as his Heat decays back down to 0 over 4 seconds. During this time, he gains 50% − 130% (based on level) bonus attack speed and empowers his basic attacks to deal 5 − 40 (based on level) (± 25% AP) (± 6% of the target's maximum health) bonus magic damage on-hit. The damage based on the target's health ratio is capped at 65 − 300 (based on level) against monsters.
+
+---
+
+#### Junkyard Titan - Ability Details
+
+* **Heat Generation:** Rumble gains 20 Heat when using a basic ability or when The Equalizer is activated. He can store up to 2 charges of The Equalizer.
+
+* **Danger Zone:** Rumble's mech enters the Danger Zone when his Heat is at or above 50. While in the Danger Zone, Rumble's abilities are empowered.
+
+* **Overheated:** Rumble's mech becomes Overheated when his Heat is at or above 150. While Overheated, Rumble cannot use his abilities, but he gains bonus attack speed and his basic attacks deal bonus magic damage on-hit.
+
+---
+
+#### Junkyard Titan - Ability Order
+
+1. Basic Attack
+2. The Equalizer
+3. Flamespitter
+4. Scrap Shield
+5. Electro Harpoon
+
+---
+
+### Flamespitter
+
+* Cooldown: 10 / 9 / 8 / 7 / 6 seconds
+* Cast Time: None / 0.5833 seconds
+* Range: 600 - 50 units (front cone)
+* Angle: 64°
+* Active: Rumble generates 20 Heat to activate his flamethrower for 3 seconds, dealing magic damage every 0.25 seconds to enemies hit in a frontal cone, reduced against minions.
+* Total Magic Damage: 125 / 140 / 155 / 170 / 185 (± 110% AP) (± 6 / 7 / 8 / 9 / 10% of target's maximum health)
+* Magic Damage per Tick: 10.417 / 11.667 / 12.917 / 14.167 / 15.417 (± 9.17% AP) (± 0.5 / 0.583 / 0.667 / 0.75 / 0.833% of target's maximum health)
+* Modified Minion Damage: 55 / 60 / 65 / 70 / 75%
+
+---
+
+### Scrap Shield
+
+* Cooldown: 6 seconds at all ranks
+* Cast Time: None
+* Active: Rumble generates 20 Heat to grant himself a shield for 1.5 seconds.
+* Shield Strength: 25 / 55 / 85 / 115 / 145 (± 25% AP) (± 4% of maximum health)
+* Rumble also gains bonus movement speed for 1 to 1.32 seconds.
+* Enhanced Shield Strength: 37.5 / 82.5 / 127.5 / 172.5 / 217.5 (± 37.5% AP) (± 6% of maximum health)
+* Enhanced Bonus Movement Speed: 15 / 22.5 / 30 / 37.5 / 45%
+
+---
+
+### Electro Harpoon
+
+* Cooldown: 0.5 seconds
+* Cast Time: 0.25 seconds
+* Recharge: 6 seconds
+* Range: 950 / 890 units
+* Width: 120 units
+* Speed: 2000
+* Active: Rumble generates 20 Heat to shoot a harpoon in the target direction that deals magic damage to the first enemy hit and inflicts them with magic resistance reduction for 4 seconds and slows them for 2 seconds. These effects stack additively with multiple harpoons, refreshing their duration and stacking up to 2 times.
+* Magic Damage: 60 / 85 / 110 / 135 / 160 (± 50% AP)
+* Total Magic Damage: 120 / 170 / 220 / 270 / 320 (± 100% AP)
+* Magic Resistance Reduction: 10 / 12 / 14 / 16 / 18%
+* Total Magic Resistance Reduction: 20 / 24 / 28 / 32 / 36%
+* Slow: 15 / 20 / 25 / 30 / 35%
+* Total Slow: 30 / 40 / 50 / 60 / 70%
+
+---
+
+#### Electro Harpoon - Cooldown Reduction
+
+Rumble's cooldown reduction does not apply to Electro Harpoon.
+
+---
+
+### The Equalizer
+
+* Cooldown: 130 / 105 / 80 seconds
+* Cast Time: None / 0.5833 seconds
+* Target Range: 1700 units
+* Range: -175 / 1135 units (behind target)
+* Width: 410 - 368.4 units
+* Speed: 1600
+* Active: Rumble deploys a barrage of rockets along the target path that land in a line over 0.75 seconds, creating a field of fire for 4.5 seconds after the last rocket lands.
+* Enemies struck by the impact or within the field are marked as Burning for 1 second, which deals magic damage every 0.5 seconds, slows by 35%, and refreshes continuously while in the area.
+* Magic Damage per Tick: 70 / 105 / 140 (± 17.5% AP)
+* Minimum Magic Damage: 140 / 210 / 280 (± 35% AP)
+* Maximum Magic Damage: 700 / 1050 / 1400 (± 175% AP)
+
+---
+
+#### The Equalizer - Map-Specific Differences
+
+* The Equalizer deals full damage to structures.
+* The Equalizer's rockets no longer stack slow.
+* The Equalizer's slow duration is reduced to 1.5 seconds.
+* The Equalizer's area of effect no longer extends to champions outside of its intended range.
+
+---
+
+#### The Equalizer - Ultra Rapid Fire Differences
+
+* The Equalizer no longer disables Rumble's abilities.
+* The Equalizer no longer grants bonus damage or magic resistance reduction while in the Danger Zone.
+
+---
+
+### Chromas
+
+Rumble has 13 chromas available for purchase.
+
+---
+
+#### Rumble Chromas
+
+* Original
+* Rumble in the Jungle
+* Bilgerat
+* Legacy: Super Galaxy
+* Badlands Baron
+* Road Warrior
+* Cafe Cuties
+* Amethyst
+* Aquamarine
+* Catseye
+* Disco
+* Emerald
+* Obsidian
+* Pearl
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+
+---
+
+#### Rumble Chroma Prices
+
+* 880 for the first chroma
+* 26.04.2011 for the Original chroma
+* 975 for the Rumble in the Jungle chroma
+* 520 for the Bilgerat chroma
+* 02.04.2014 for the Super Galaxy chroma
+* 1350 for the Badlands Baron chroma
+* 11.04.2018 for the Road Warrior chroma
+* 1350 for the Cafe Cuties chroma
+* 25.10.2023 for the Space Groove chroma
+* 25.10.2023 for the Cafe Cuties chroma
+
+---
+
+### Patch History
+
+For the expanded patch notes, see [here](https://leagueoflegends.fandom.com/wiki/Rumble).
+
+---
+
+#### V14.2
+
+* January 24th Hotfix
+  * Base attack damage increased to 64 from 61.
+  * Electro Harpoon AP ratio increased to 50% AP from 40% AP.
+* Flamespitter
+  * Base damage per tick reduced to 10.417 / 11.667 / 12.917 / 14.167 / 15.417 from 11.25 / 13.25 / 15.25 / 17.25 / 19.25.
+  * Total base damage reduced to 125 / 140 / 155 / 170 / 185 from 135 / 150 / 165 / 180 / 195.
+  * Electro Harpoon magic resistance reduction reduced to 10 / 12 / 14 / 16 / 18% from 12 / 14 / 16 / 18 / 20%.
+  * Maximum magic resistance reduction reduced to 20 / 24 / 28 / 32 / 36% from 24 / 28 / 32 / 36 / 40%.
+  * Danger Zone magic resistance reduction reduced to 15 / 18 / 21 / 24 / 27% from 18 / 21 / 24 / 27 / 30%.
+  * Danger Zone maximum magic resistance reduction reduced to 30 / 36 / 42 / 48 / 54% from 36 / 42 / 48 / 54 / 60%.
+* The Equalizer
+  * Bug Fix: Targeting no longer behaves improperly when Clamp Cast Targeting is enabled.
+* V13.23
+  * Attack windup increased to 29% from 20%.
+* V13.22
+  * Attack windup reduced to 20% from 22.91667%.
+  * Crit windup time unchanged.
+* V13.21
+  * Bilgerat Rumble The Equalizer
+    * Bug Fix: No longer is missing some VFX.
+  * Super Galaxy Rumble Junkyard Titan
+    * Bug Fix: Red overlay VFX during an overheat has been restored.
+  * Flamespitter
+    * Bug Fix: VFX is no longer cut off by the ground.
+* V13.12
+  * Base health reduced to 625 from 659.
+  * Health growth increased to 105 from 99.
+  * Base health regeneration reduced to 7 from 8.
+  * Junkyard Titan
+    * Maximum heat increased to 150 from 100.
+    * Overheat threshold increased to 150 heat from 100.
+    * Danger Zone threshold unchanged at 50 heat.
+    * Overheat duration reduced to 4 seconds from 5.
+    * Bonus attack speed increased to 50% − 130% (based on level) from 20% − 80% (based on level).
+    * Damage cap against monsters changed to 65 − 150 (based on level) from 80 at all levels.
+  * Flamespitter
+    * Base damage reduced to 135 / 180 / 225 / 270 / 315 from 180 / 220 / 260 / 300 / 340.
+    * New Effect: Now deals up to 6 / 7 / 8 / 9 / 10% of the target's maximum health, capped at 65 − 300 (based on level) against monsters.
+    * Minion damage reduced to 55 / 60 / 65 / 70 / 75% from 60 / 65 / 70 / 75 / 80%.
+  * Scrap Shield
+    * Base shield reduced to 25 / 55 / 85 / 115 / 145 from 60 / 90 / 120 / 150 / 180.
+    * AP ratio reduced to 25% AP from 45% AP.
+    * New Effect: Shield now scales with 4% of his maximum health.
+  * Electro Harpoon
+    * Heat generation increased to 20 from 10.
+    * The Equalizer
+      * Cooldown increased to 130 / 105 / 80 seconds from 100 / 85 / 70.
+* V13.5
+  * Electro Harpoon
+    * Magic resistance reduction increased to 12 / 14 / 16 / 18 / 20% from 10% at all ranks.
+    * Maximum magic resistance reduction increased to 24 / 28 / 32 / 36 / 40% from 20% at all ranks.
+    * Danger Zone magic resistance reduction increased to 18 / 21 / 24 / 27 / 30% from 15% at all ranks.
+    * Danger Zone maximum magic resistance reduction increased to 36 / 42 / 48 / 54 / 60% from 30% at all ranks.
+* V12.10
+  * Base health increased to 659 from 589.
+  * Health growth increased to 99 from 85.
+  * Armor growth increased to 4.7 from 3.5.
+  * Magic resistance growth increased to 1.55 from 0.75.
+  * Scrap Shield
+    * Base shield strength reduced to 60 / 95 / 130 / 165 / 200 from 80 / 110 / 140 / 170 / 200.
+    * AP ratio reduced to 45% AP from 50% AP.
+  * The Equalizer
+    * Cooldown reduced to 100 / 85 / 70 seconds from 110 / 100 / 90.
+* V12.5
+  * Electro Harpoon
+    * Bug Fix: Overheated state no longer visually disappears father than it should be if it was triggered by Electro Harpoon.
+* V12.4
+  * Base armor increased to 36 from 31.
+* V11.18
+  * Junkyard Titan
+    * Bonus attack speed changed to 20% − 80% (based on level) from 50% at all levels.
+  * Scrap Shield
+    * Cooldown reduced to 6 seconds at all ranks from 7 / 6.75 / 6.5 / 6.25 / 6 seconds.
+    * Bonus movement speed reduced to 10 / 15 / 20 / 25 / 30% from 15 / 20 / 25 / 30 / 35%.
+    * Danger Zone bonus movement speed reduced to 15 / 22.5 / 30 / 37.5 / 45% from 22.5 / 30 / 37.5 / 45 / 52.5%.
+* V11.15
+  * Junkyard Titan
+    * Bug Fix: Heat is now checked more consistently: Delay until Heat decays is now much more consistent. Overheat duration is now consistently 5.25 seconds from only averaging this value. Heat no longer gets returned to a previous value when using the Undo function in the shop, which allowed generating high values of heat at the start of the game easily. Electro Harpoon
+    * Bug Fix: When targeting very far away, no longer tries to walk "in range", overriding Rumble's orders.
+* V11.14
+  * Electro Harpoon
+    * Undocumented/Bug Fix: Will now cast immediately no matter how far away the cursor is, instead of causing Rumble to walk closer to his cursor if cast further than 10000 units away.
+* V11.13
+  * Scrap Shield
+    * Cooldown increased to 7 / 6.75 / 6.5 / 6.25 / 6 seconds from 6 at all ranks.
+    * Bonus movement speed reduced to 10 / 15 / 20 / 25 / 30% from 15 / 20 / 25 / 30 / 35%.
+    * Danger Zone bonus movement speed reduced to 15 / 22.5 / 30 / 37.5 / 45% from 22.5 / 30 / 37.5 / 45 / 52.5%.
+* V11.11
+  * Junkyard Titan
+    * Damage cap against monsters reduced to 80 from 120.
+* V11.9
+  * Junkyard Titan
+    * Overheat on-hit base damage reduced to 5 − 40 (based on level) from 10 − 50 (based on level).
+    * Overheat on-hit AP ratio reduced to 25% AP from 30% AP.
+  * New Effect: Now deals 6% of target's maximum health magic damage on-hit when overheated, capped at 120 against monsters.
+  * New Effect: Now gains 50% bonus attack speed while overheated.
+  * Electro Harpoon
+    * New Effect: Now reduces target's magic resistance by 10% for 4 seconds, increased to 15% while in Danger Zone.
+* V11.7
+  * Super Galaxy Rumble
+    * Bug Fix: The Equalizer crater visual effects no longer appear all in one spot.
+* V11.1
+  * Super Galaxy Rumble
+    * Model collision radius reduced to 35 from 50.
+    * Flamespitter
+      * Range increased to 600 from 550.
+      * Tick rate increased to every 0.25 seconds from every 0.5 seconds (maximum damage unchanged).
+    * Electro Harpoon
+      * Bug Fix: Particle lasting longer than intended.
+      * Bug Fix: Particle traveling further than projectile.
+* April 29th Hotfix
+  * The Equalizer
+    * Bug Fix: Fog of war display errors.
+    * Bug Fix: Team color display errors.
+* V1.0.0.152
+  * Movement speed increased to 345 from 320.
+* V1.0.0.144
+  * Junkyard Titan
+    * Overheated basic attack bonus damage AP ratio reduced to 25% AP from 30% AP.
+* Flamespitter
+  * Base damage reduced to 90 / 160 / 230 / 300 / 370 from 90 / 180 / 270 / 360 / 450.
+  * Bug Fix: Lasting slightly longer than intended.
+* V1.0.0.141
+  * Junkyard Titan
+    * New Effect: Rumble's resource bar turns yellow when he is in the Danger Zone.
+  * Flamespitter
+    * New Effect: Updated to be more responsive (especially while moving and while turning).
+  * Electro Harpoon
+    * New Effect: HUD icon visuals for second charge.
+* V1.0.0.136
+  * General
+    * Recommended items updated.
+* V1.0.0.129
+  * The Equalizer
+    * New Effect: Can be quick cast by holding down the smart cast hotkey to mark the damage area's start point, pressing R, and then releasing the hotkey.
+* V1.0.0.123
+  * The Equalizer
+    * Bug Fix: Sometimes ending early if Rumble dies while active.
+* V1.0.0.121
+  * Flamespitter
+    * Base damage changed to 30 / 60 / 90 / 120 / 150 from 40 / 65 / 90 / 115 / 140.
+    * AP ratio reduced to 45% AP from 50% AP.
+* V1.0.0.120
+  * The Equalizer
+    * Base damage per second reduced to 100 / 140 / 180 from 120 / 160 / 200.
+    * AP ratio per second reduced to 20% AP from 25% AP.
+    * Cooldown increased to 105 / 90 / 75 seconds from 90 / 75 / 60.
+* V1.0.0.118b
+  * Junkyard Titan
+    * Removed: Overheated basic attack bonus damage applying spell effects and Spell Vamp.
+* Flamespitter
+  * Cooldown increased to 6 seconds from 5.
+* The Equalizer
+    * Bug Fix: Sometimes displaying incorrect team indicator when at 'low' visual settings.
+* V1.0.0.118
+  * General
+    * Pathing size reduced.
+* Flamespitter
+  * Bug Fix: Particle lasting longer than intended.
+  * Bug Fix: Particle traveling further than projectile.
+* April 29th Hotfix
+  * The Equalizer
+    * Bug Fix: Fog of war display errors.
+    * Bug Fix: Team color display errors.
+* V1.0.0.116
+  * Added Trivia
+* Rumble, Corki, and Kled are the only yordles with a mount (Tristy, ROFL Copter, and Skaarl, respectively).
+* Rumble, Bard, Caitlyn, Lissandra, Pyke, Sion, Varus, Vi, Viego, Xerath, and Ziggs are the only champions who can apply crowd control on themselves.
+* Until the release of Cafe Cuties Rumble, both Rumble and all of his skins have been released on April.
+* See also League of Legends Wiki | Champions | Cancelled Champions | Ao Shin | Avasha | Averdrian | CeeCee | Cyborg Cowboy | Eagle Rider | Gavid | Husk | Iron Engineer | Ivan | Omen | Priscilla | Rob Blackblade | Seth | Tabu | Tiki | Urf | Well | References [LeagueOfLegends.com](https://LeagueOfLegends.com)

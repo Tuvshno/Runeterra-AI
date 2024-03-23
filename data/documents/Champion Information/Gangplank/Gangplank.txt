@@ -1,0 +1,149 @@
+**Games**
+
+* Universe
+* * *
+
+**League of Legends**
+
+* •
+* League of Legends
+* •
+* Teamfight Tactics
+* •
+* Legends of Runeterra
+
+**Image**
+
+* Gangplank
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+---
+
+**Gangplank**
+
+**INFO**
+
+* Release date: 2009-08-19
+* Last changed: V14.5
+
+**Class(es)**
+
+* Specialist
+* Legacy
+* Fighter
+
+**Position(s)**
+
+* Top
+
+**Resource**
+
+* Mana
+
+**Range type**
+
+* Melee
+
+**Adaptive type**
+
+* Physical
+
+**Store price**
+
+* 3150
+* 790 (Crafting)
+
+---
+
+**Base statistics**
+
+| Statistic | Value |
+| --- | --- |
+| Health | 600 (+114) |
+| Mana | 280 (+60) |
+| Health regen. (per 5s) | 6 |
+| Mana regen. (per 5s) | 7.5 |
+| Armor | 31 (+4.2) |
+| Attack damage | 64 (+3.7) |
+| Magic resist. | 32 (+2.05) |
+| Crit. damage | 175% |
+| Move. speed | 345 |
+| Attack range | 125 |
+| Attack speed | Base AS: 0.658, AS ratio: 0.69, %: +3.2 |
+| Unit radius | Gameplay radius: 65, Selection radius: 85, Pathing radius: 35, Acq. radius: 400 |
+
+---
+
+**Special statistics**
+
+* ARAM: No changes
+* Nexus Blitz: No changes
+* One For All: No changes
+* URF: No changes
+* Ult Spellbook: No changes
+* Arena: Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +5%, Damage Received: -10% (against champions)
+
+---
+
+**Abilities**
+
+* [Trial by Fire](#trial-by-fire)
+* [Parrrley](#parrrley)
+
+---
+
+**Trial by Fire**
+
+* **STATIC**
+* **COOLDOWN:** 15 seconds
+* **Passive:** Periodically, Gangplank empowers his next basic attack to set the target on fire, dealing them true damage over 2.5 seconds. Turrets take 50% damage. If Gangplank successfully hits a target with Trial by Fire, he gains movement speed for 2 seconds, and the cooldown is reset. Trial by Fire cannot be applied with Parrrley or Powder Keg.
+
+**Details**
+
+* Hitting a target with Parrrley applies Trial by Fire, and every enemy killed by the Powder Keg explosion that was originally set off by Parrrley also counts as a kill.
+* If multiple instances of Trial by Fire are applied to a single target, the damage is stacked, rather than refreshing the duration.
+* The bonus true damage scaling based on critical strike chance is capped at 100% of the stat.
+* If the attack is dodged or if Gangplank is blinded, the effect is not applied, nor does Trial by Fire go on cooldown. If the attack is blocked, the effect is not applied, but Trial by Fire still goes on cooldown.
+* The empowered attack will not trigger against non-turret structures or wards.
+
+---
+
+**Parrrley**
+
+* **COST:** 55 / 50 / 45 / 40 / 35 Mana
+* **COOLDOWN:** 4.5 seconds
+* **CAST TIME:** 0.25 seconds
+* **TARGET RANGE:** 625
+* **SPEED:** 2600
+* **Active:** Gangplank fires a shot at the target enemy, dealing physical damage and applying on-hit and on-attack effects at 100% effectiveness as a ranged attack. Parrrley can critically strike for (175% + 50%) total damage. Physical Damage: 10 / 40 / 70 / 100 / 130 (+100% AD), Gold Plunder: 3 / 4 / 5 / 6 / 7, Silver Serpent Plunder: 4 / 5 / 6 / 7 / 8. Silver Serpents can be spent in the shop to upgrade Cannon Barrage.
+
+**Map-Specific Differences**
+
+* Howling Abyss: Passively gains 1 Silver Serpent per second.
+* Ultra Rapid Fire: Silver Serpent generation multiplied by 3.
+* Arena: Grants gold and Silver Serpents equal to 7% of damage dealt to champions. Grants 187.5 Silver Serpents per round.
+
+---
+
+**Cannon Barrage**
+
+* **COST:** 100 Mana
+* **COOLDOWN:** 170 / 150 / 130 seconds
+* **CAST TIME:** 0.25 seconds
+* **TARGET RANGE:** Global
+* **EFFECT RADIUS:** 580
+* **INNER RADIUS:** 170
+* **Active:** Gangplank shoots a flare into the air, signaling his ship off-shore to fire upon the target location for 8 seconds, calling down 12 waves of cannonballs in clusters of 3 every 2 seconds and granting sight of the area for the duration. Each wave deals magic damage to all enemies within the area and slows them by 30% for 0.5 seconds. Magic Damage Per Wave: 40 / 70 / 100 (+10% AP), Magic Damage Per Cluster: 120 / 210 / 300 (+30% AP), Total Magic Damage: 480 / 840 / 1200 (+120% AP).
+
+**Upgrades**
+
+* Death's Daughter: A large cannonball lands in the center of the barrage after the first cluster of waves occur, dealing a cluster's worth of true damage to enemies within the impact and slowing them by 75% for 1 second. True Damage with Death's Daughter: 120 / 210 / 300 (+30% AP), Total Mixed Damage with Death's Daughter: 600 / 1050 / 1500 (+150% AP).
+* Fire at Will: Cannon Barrage fires 6 additional waves. Total Magic Damage with Fire at Will: 720 / 1260 / 1800 (+180% AP), Maximum Mixed Total Damage with Fire at Will and Death's Daughter: 840 / 1470 / 2100 (+210% AP).
+* Raise Morale: Grants Gangplank and all allies within the area 40% bonus movement speed, lingering for 2 seconds.

@@ -1,0 +1,752 @@
+**Games**
+
+* Universe
+* *-*
+* League of Legends
+* *-*
+	+ League of Legends Champion: Rammus
+* *-*
+	+ **Image**
+	+ Rammus
+* *-*
+* Teamfight Tactics
+* *-*
+* Wild Rift
+
+**Rammus**
+
+* **Release date:** 2009-07-10
+* **Last changed:** V14.2
+* **Class(es):** Vanguard, Legacy, Tank, Fighter
+* **Position(s):** Jungle
+* **Resource:** Mana
+* **Range type:** Melee
+* **Adaptive type:** Physical
+* **Store price:** 1350
+* **|** 585
+* **Crafting:** + 810
+
+**Ratings**
+
+* **Difficulty:** Champion Spotlight
+* **Damage:** 2
+* **Toughness:** 3
+* **Control:** 3
+* **Mobility:** 2
+* **Utility:** 1
+
+**Style**
+
+* **Champion Spotlight:** Rammus Champion Spotlight
+
+**Base statistics**
+
+* Health: 675 (+94)
+* Mana: 310 (+33)
+* Health regeneration (per 5s): 8
+* Mana regeneration (per 5s): 7.85
+* Armor: 40 (+5.5)
+* Attack damage: 55 (+2.75)
+* Magic resist.: 32 (+2.05)
+* Crit. damage: 175%
+* Move. speed: 335
+* Attack range: 125
+* Attack speed: Base AS 0.656, Attack windup 22.917%
+* AS ratio: 0.625
+* Bonus AS: +2.215%
+* Unit radius: Gameplay radius 65, Selection radius 120, Pathing radius 35, Acq. radius 600
+
+**Special statistics**
+
+* ARAM: N/A, Nexus Blitz: N/A, One For All: N/A, URF: N/A, Ult Spellbook: N/A, Arena: N/A
+* Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: +5%, Damage Received: +0%
+* Damage Dealt: +10%, Damage Received: -15%
+* Damage Dealt: +5%, Damage Received: -5%
+
+**Abilities**
+
+* **[ ]**
+* **Spiked Shell**
+	+ Innate: Rammus' basic attacks deal 10 (+10% armor) bonus magic damage on-hit, increased to 15 (+15% armor) during Defensive Ball Curl.
+	+ Hide: Details, Info
+	+ Targeting input: Passive
+	+ Damage type: Type: Magic, Sub-type: Proc damage
+	+ Counters: Parries, Blocked
+	+ Spiked Shell applies to structures.
+
+* **Powerball**
+	+ COST: 60 Mana
+	+ COOLDOWN: 16 / 13.5 / 11 / 8.5 / 6 seconds
+	+ CAST TIME: none
+	+ COLLISION RADIUS: 75
+	+ EFFECT RADIUS: 250
+	+ Active: Rammus channels for up to 6 seconds to roll into a ball, gaining 25% - 39.17% (based on level) bonus total movement speed per second over the duration, up to a maximum of 150% - 235% (based on level). Powerball can be recast after 1 second within the duration, and does so automatically afterwards or when interrupted. Rammus stops rolling upon colliding with an enemy, dealing magic damage to all nearby enemies and knocking them back 125 units, though not through terrain. Enemies hit are then stunned and revealed for 0.4 seconds, as well as slowed for 1 second.
+	+ Magic Damage: 80 / 110 / 140 / 170 / 200 (+100% AP)
+	+ Slow: 40 / 50 / 60 / 70 / 80%
+	+ Recast: Rammus ends Powerball.
+	+ Hide: Details, Map-Specific Differences, Info
+	+ Targeting input: Auto
+	+ Damage type: Type: Magic, Sub-type: Area damage
+	+ Counters: Spell shield, Grounded, Disruption, Not Disabled, Interrupted
+	+ The initial cast and the manual recast count as ability activations for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive.
+	+ The bonus movement speed stacks multiplicatively with other sources of movement speed boosts.
+	+ Powerball will still collide with enemies if Rammus is ghosted.
+	+ For the purpose of moving closer to an enemy when right clicking them, Powerball also reduces Rammus' attack range to 0 for the duration.
+	+ Rammus will ignore unit collision for the purpose of pathfinding during Powerball.
+	+ Rammus acts as if he were ghosted for the duration of Powerball.
+	+ Powerball is not a movement channel, and so will not be interrupted by root and ground.
+	+ Displacement immunity will also resist the application of the stun.
+	+ The following table refers for interactions while Rammus is channeling: Type, Channel, Attacking, Disabled, Abilities, Defensive Ball Curl interrupts. Frenzying Taunt is disabled. Soaring Slam modifies this ability. This ability recasts to end channel.
+
+* **Defensive Ball Curl**
+	+ COST: 40 Mana
+	+ COOLDOWN: 7 seconds
+	+ CAST TIME: none
+	+ Active: Rammus enters a defensive stance for 6 seconds, gaining bonus armor and bonus magic resistance. While active, enemies that use a basic attack on-hit against Rammus are dealt magic damage equal to Spiked Shell's bonus damage. Bonus Armor: 40 (+35 / 45 / 55 / 65 / 75% total armor), Bonus Magic Resistance: 10 (+30 / 35 / 40 / 45 / 50% total magic resistance). Rammus' basic attacks extend the remaining duration of Defensive Ball Curl by 0.4 seconds, up to a maximum of 4 additional seconds. Defensive Ball Curl can be recast after 1 second within the duration, and does so automatically upon casting Powerball. Recast: Rammus ends Defensive Ball Curl.
+	+ Hide: Details, Map-Specific Differences, Info
+	+ Targeting input: Auto
+	+ Damage type: Type: Magic, Sub-type: Non-damaging
+	+ Counters: Spell shield, Not Blocked
+	+ The initial cast counts as an ability activation for the purposes of on-cast effects such as Spellblade and triggering Force Pulse's passive. Deactivating the ability manually does not. Defensive Ball Curl ends immediately if Powerball is cast. Defensive Ball Curl will return damage from attacks and/or abilities that apply on-hit effects (Mystic Shot) as well as from Runaan's Hurricane's Wind's Fury (will not return damage from turrets, H-28G Evolution Turret, or Jack in the Box). The resistance scaling will factor from all sources, including Defensive Ball Curl's flat bonus. This will recalculate over the duration.
+	+ Map-Specific Differences: Arena differences
+		- Bonus movement speed changed to 50% - 75% (based on level)
+		- AP ratio changed to 150% AP
+		- Cooldown changed to 11 / 9.5 / 8 / 6.5 / 5 seconds
+		- Edit: Defensive Ball Curl
+		- Bonus armor changed to 40 (+35 / 45 / 55 / 65 / 75% total armor)
+		- Bonus magic resistance changed to 10 (+30 / 35 / 40 / 45 / 50% total magic resistance)
+		- Edit: Frenzying Taunt
+		- Taunt and bonus attack speed duration changed to 1.6 / 1.8 / 2 / 2.2 / 2.4 seconds
+		- Edit: Soaring Slam
+		- Cooldown changed to 90 seconds at all ranks
+		- Cast range changed to 800
+		- Dash range growth changed to 150%
+		- Minimum dash speed changed to 900
+		- Maximum dash speed changed to 2000
+		- Edit: Astronaut
+		- AP ratio changed to 100% AP
+		- Cooldown changed to 40 seconds
+		- Champion skins: [ ]
+		- Duncan Watt
+			* Original
+			* View in 3D
+			* 585
+			* 09.07.2009
+			* Idolized by many, dismissed by some, mystifying to all, the curious being Rammus is an enigma. Protected by a spiked shell, he inspires increasingly disparate theories on his origin wherever he goes—from demigod, to sacred oracle, to a mere beast transformed by magic. Whatever the truth may be, Rammus keeps his own counsel and stops for no one as he roams the Shuriman desert.
+		- Durian Defender
+			* View in 3D
+			* 1350
+			* Rammus roams the land in a pungent peel, and though he may look adorable, he gives new meaning to the phrase “silent but deadly.” Some say the effluvial enigma's armor reeks of sewage and sweaty socks, but strong-willed warriors know how sweet he can really be—if you can get past the smell.
+		- Food Fight
+			* View in 3D
+			* 1350
+			* ...
+	+ Patch history: [ ]
+		- V14.2: Defensive Ball Curl
+			* Bug Fix: No longer interrupts attack windups when the effect ends.
+		- V13.22: Defensive Ball Curl
+			* Base bonus armor increased to 40 from 30.
+		- V13.21: Powerball
+			* Base damage reduced to 100 / 125 / 150 / 175 / 200 from 100 / 130 / 160 / 190 / 220.
+			* Defensive Ball Curl
+			* Base bonus armor reduced to 30 from 35.
+			* Armor ratio reduced to 35 / 45 / 55 / 65 / 75% total armor from 40 / 50 / 60 / 70 / 80%.
+		- V13.7: Defensive Ball Curl
+			* Increased armor reduced to 40 / 55 / 70 / 85 / 100% from 60 / 70 / 80 / 90 / 100%.
+		- V13.5: Stats
+			* Attack damage growth increased to 2.75 from 3.5.
+		- V13.1:
+			* January 12th Hotfix: Stats
+				+ Base health increased to 675 from 614.
+				+ Base attack damage increased to 55 from 53.
+				+ Base armor increased to 40 from 36.
+				+ Defensive Ball Curl
+					- Base bonus armor increased to 35 from 25.
+			- Stats
+				+ Base attack damage reduced to 53 from 56.
+				+ Base health reduced to 614 from 634.
+				+ Defensive Ball Curl
+					- Base bonus armor reduced to 25 from 40.
+					- Increased armor reduced to 40 / 55 / 70 / 85 / 100% from 60 / 70 / 80 / 90 / 100%.
+					- New Effect: Resistance ratios now factor in flat bonus.
+					- Defensive Ball Curl
+						* New Effect: Resistance ratios now factor in flat bonus.
+						* Arena differences
+							+ Armor ratio changed to 60 / 70 / 80 / 90 / 100% total armor.
+							+ Magic resistance ratio changed to 40 / 45 / 50 / 55 / 60% total magic resistance.
+							+ Edit: Defensive Ball Curl
+								- Bonus armor changed to 40 (+35 / 45 / 55 / 65 / 75% armor).
+								- Bonus magic resistance changed to 10 (+30 / 35 / 40 / 45 / 50% total magic resistance).
+								- New Effect: Resistance ratios now factor in flat bonus.
+								- Bonus armor ratio changed to 60 / 70 / 80 / 90 / 100% armor.
+								- Bonus magic resistance ratio changed to 40 / 45 / 50 / 55 / 60% magic resistance.
+		- V12.23: Defensive Ball Curl
+			* Base bonus armor reduced to 40 from 50.
+			* Base bonus magic resistance reduced to 10 from 15.
+			* Cooldown increased to 7 seconds from 6.
+		- V12.22:
+			* November 17th Hotfix: Defensive Ball Curl
+				+ Base bonus armor increased to 50 from 40.
+				+ Base bonus magic resistance increased to 15 from 10.
+			- Stats
+				+ Base mana regeneration increased to 7.85 from 7.8.
+		- V12.20:
+			* April 15th Hotfix: Powerball
+				+ Bug Fix: Rammus Bot no longer becomes dormant while in Powerball.
+				+ Defensive Ball Curl
+					- Base damage return reduced to 15 / 25 / 35 / 45 / 55 from 20 / 30 / 40 / 50 / 60.
+					- Bonus armor changed to 20 (+50 / 55 / 60 / 65 / 70% armor) from 40 / 60 / 80 / 100 / 120.
+					- Bonus magic resistance changed to 20 (+50 / 55 / 60 / 65 / 70% magic resistance) from 40 / 60 / 80 / 100 / 120.
+					- New Effect: Now slows Rammus by 60% during the effect.
+					- New Effect: Can be toggled off early.
+					- Damage when attacked changed to Spiked Shell's damage from 25 / 35 / 45 / 55 / 65 (+10% armor).
+					- Frenzying Taunt
+						* Renamed Frenzying Taunt from Puncturing Taunt.
+						* Removed: Reduces the target's armor by 5 / 10 / 15 / 20 / 25.
+						* New Effect: Grants 20 / 25 / 30 / 35 / 40% bonus attack speed for the duration of the taunt.
+						* New Effect: Attack speed bonus constantly refreshes while any of Rammus' other spells are active.
+					- Tremors
+						* Base damage reduced to 40 / 80 / 120 from 65 / 130 / 195.
+						* AP ratio reduced to 20% AP from 30% AP.
+						* New Effect: Slows enemies it damage by 8 / 10 / 12% for 1.5 seconds, stacking up to 8 times, up to a maximum of 64 / 80 / 96%.
+						* New Effect: Deals double damage to structures.
+						* Damage against structure per second increased to 80 / 160 / 240 (+40% AP) from 65 / 130 / 195 (+30% AP).
+			- V12.19:
+				+ Defensive Ball Curl
+					- Undocumented: Increased resistances no longer apply to the flat bonus.
+			- V12.15: Soaring Slam
+				+ Cooldown changed to 90 seconds at all ranks from 110 / 95 / 80.
+				+ Cast range increased to 800 from 600.
+				+ Dash range growth increased to 150% from 130%.
+				+ Minimum dash speed increased to 900 from 700.
+				+ Maximum dash speed increased to 2000 from 1800.
+			- V12.10:
+				+ Stats
+					- Base health increased to 634 from 564.
+					- Health growth increased to 94 from 80.
+					- Armor growth increased to 5.5 from 4.3.
+					- Magic resistance growth increased to 2.05 from 1.5.
+					- Attack damage growth increased to 2.75 from 2.5.
+					- Magic resistance per level increased to 1.5 from 1.
+			- V11.13: Powerball
+				+ Bug Fix: Can no longer be interrupted by CC effects while under the effects of Edge of Night, Banshee's Veil, or Morgana's Black Shield.
+			- V11.12: Defensive Ball Curl
+				+ Base bonus armor increased to 40 from 30.
+				+ Base bonus magic resistance increased to 10 from 0.
+				+ Soaring Slam
+					- Cooldown reduced to 110 / 95 / 80 seconds from 130 / 110 / 90.
+					- Bug Fix: No longer deals its damage instantly when cast at point zero.
+			- V11.8: Powerball
+				+ Bug Fix: Rammus' movement speed no longer increases much more quickly than intended when using Powerball right after casting Predator.
+			- General: Updated visual effects.
+		- V11.5: Stats
+			* Health growth reduced to 80 from 95.
+		- V11.3: Frenzying Taunt
+			* Cooldown increased to 12 seconds at all ranks from 12 / 11.5 / 11 / 10.5 / 10 seconds.
+		- V11.1: Stats
+			* Base magic resistance reduced to 32 from 32.1.
+			* Base health reduced to 564 from 564.48.
+			* Base attack damage increased to 56 from 55.9.
+			* Base armor reduced to 36 from 36.01.
+		- V10.5: Stats
+			* Attack speed ratio reduced 0.656 from 0.667.
+		- V10.4: Stats
+			* Base attack speed increased to 0.656 from 0.648.
+			* Attack speed ratio increased to 0.656 from 0.648.
+		- V9.24: Stats
+			* Health growth increased to 95 from 86.
+			* Frenzying Taunt
+				+ Cooldown reduced to 12 / 11.5 / 11 / 10.5 / 10 seconds from 12 at all ranks.
+		- V9.14:
+			* June 27th Hotfix: Defensive Ball Curl
+				+ Bug Fix: Empowered damage now properly triggers Hunter's Talisman.
+				+ Spiked Shell
+					- Bug Fix: Empowered damage now properly triggers Hunter's Talisman.
+		- V9.11: Spiked Shell
+			* Bonus magic damage changed to 10 at all levels from 8 - 20 (based on level).
+			* Tremors
+				+ Base damage per second reduced to 40 / 80 / 120 from 65 / 130 / 195.
+				+ AP ratio reduced to 20% AP from 30% AP.
+		- V9.7: Guardian of the Sands Rammus
+			* Bug Fix: Buffs aura now properly follows the model during certain animations.
+		- V9.6: Tremors
+			* New Effect: Triggers effects that are triggered by DoT AoE abilities.
+		- V9.1: Powerball
+			* New Effect: Ability icon HUD now shows the remaining duration of the ability.
+			* Defensive Ball Curl
+				+ New Effect: Ability icon HUD now shows the remaining duration of the ability.
+				+ New Effect: Ability icon HUD now shows the remaining duration of the ability when reactivated.
+			* Tremors
+				+ New Effect: Ability icon HUD now shows the remaining duration of the ability.
+		- V8.24: Guardian of the Sands Rammus
+			* Bug Fix: Recall SFX are no longer heard globally if he is in vision.
+		- V8.16: Defensive Ball Curl
+			* Armor ratio increased to 60 / 70 / 80 / 90 / 100% armor from 50 / 60 / 70 / 80 / 90%.
+			* Magic resistance ratio increased to 40 / 45 / 50 / 55 / 60% magic resistance from 30 / 35 / 40 / 45 / 50%.
+		- V8.9: Powerball
+			* Bug Fix: Rammus Bot no longer becomes dormant while in Powerball.
+		- Defensive Ball Curl
+			* Base armor increased to 30 from 20.
+		- V8.3: Stats
+			* Base health regeneration increased to 8 from 7.85.
+		- V7.24b: Stats
+			* Removed: +15% bonus attack speed at level 1.
+		- V7.24: Powerball
+			* Bug Fix: No longer loses the additional base armor he received in V7.22 when using Powerball or Defensive Ball Curl.
+		- V7.23: Stats
+			* Base armor reduced to 36 from 38.
+			* Base attack damage reduced to 55 from 56.
+		- V7.22:
+			* Base armor increased to 40 from 31.
+			* New: Now has +15% bonus attack speed at level 1.
+			* Defensive Ball Curl
+				+ Bonus armor ratio increased to 50 / 60 / 70 / 80 / 90% from 50 / 55 / 60 / 65 / 70%.
+				+ Bonus magic resistance reduced to 10 from 20.
+				+ Bonus magic resistance ratio reduced to 25 / 30 / 35 / 40 / 45% from 50 / 55 / 60 / 65 / 70%.
+		- V7.14: Defensive Ball Curl
+			* Self-slow reduced to 30% from 60%.
+			* Bug Fix: Now properly increases the size of Iceborn Gauntlet's slow zone.
+		- V7.13: General
+			* New Effect: Dance animation speed now increases with movement speed.
+		- V7.10: Spiked Shell
+			* Removed: Grants 25% of his armor as bonus attack damage.
+			* New Effect: Basic attacks deal 8 - 20 (based on level) (+10% armor) bonus magic damage amplified by 50% to 12 - 30 (based on level) (+15% armor) bonus magic damage while Defensive Ball Curl is active.
+			* Powerball
+				+ Cooldown reduced to 16 / 13.5 / 11 / 8.5 / 6 seconds from 16 / 14.5 / 12.5 / 10.5 / 8.5 seconds.
+				+ Duration reduced to 6 seconds from 7 seconds.
+				+ New Effect: Is now a channeled spell, and thus is stopped by spells that interrupt channels.
+				+ Maximum movement speed changed to 150% - 235% (based on level)% from 155%.
+				+ Base damage reduced to 100 / 135 / 170 / 205 / 240 from 100 / 150 / 200 / 250 / 300.
+				+ Slow increased to 40 / 50 / 60 / 70 / 80% from 20 / 25 / 30 / 35 / 40%.
+				+ Slow duration reduced to 1 second from 2 seconds.
+				+ Undocumented: Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+				+ Radius slightly reduced, allowing Rammus to better navigate through enemies. Collision check rate increased, making collision more consistent.
+				+ Bug Fix: Rammus can now interact with Plants during Powerball.
+		- Defensive Ball Curl
+			* Cooldown reduced to 6 seconds from 14 seconds.
+			* Bonus resistances reduced to 40 / 60 / 80 / 100 / 120 from 50 / 80 / 120 / 160 / 200.
+			* New Effect: Now grants bonus resistances equal to the bonus armor amount while active.
+			* Damage return increased to 20 / 30 / 40 / 50 / 60 from 16 / 20 / 24 / 28 / 32.
+			* New Effect: Can be reactivated to end the effects early.
+			* Damage when attacked changed to Spiked Shell's damage from 25 / 35 / 45 / 55 / 65 (+10% armor).
+		- Puncturing Taunt
+			* Duration changed to 1.25 / 1.5 / 1.75 / 2 / 2.25 seconds from 1 / 1.5 / 2 / 2.5 / 3 seconds.
+			* Mana cost reduced to 50 / 65 / 80 / 95 / 110 from 50 / 70 / 90 / 110 / 130.
+		- Tremors
+			* Mana cost changed to 120 at all ranks from 100 / 150 / 200.
+		- V6.15: Powerball
+			* Bug Fix: Displacement stun lasting longer than intended.
+		- V6.8: General
+			* New splash artwork for Original Rammus.
+		- V6.7: General
+			* Splash artwork for Molten Rammus and Freljord Rammus updated to the Chinese art.
+		- Tremors
+			* Cooldown increased to 100 / 80 / 60 seconds from 60 at all ranks.
+		- V5.24: Powerball
+			* Collision radius reduced to 225 from 325.
+			* Slow duration reduced to 2 seconds from 3 seconds.
+			* Pathfinding updated to have Rammus go through units (rather than around them) while active.
+		- V5.16: Stats
+			* Armor growth increased to 4.3 from 3.5.
+			* Defensive Ball Curl
+				+ Base return damage increased to 25 / 35 / 45 / 55 / 65 from 15 / 25 / 35 / 45 / 55.
+		- V5.6: General
+			* New ability icons.
+			* Powerball
+				+ Mana cost reduced to 80 / 90 / 100 / 110 / 120 from 90 / 100 / 110 / 120 / 130.
+				+ Cast time reduced.
+				+ Movement delay after collision reduced.
+				+ Defensive Ball Curl
+					- Mana cost changed to 50 at all ranks from 40 / 50 / 60 / 70 / 80.
+		- V4.20: Powerball
+			* Cooldown increased to 16 / 14.5 / 12.5 / 10.5 / 8.5 seconds from 10 at all ranks.
+			* Puncturing Taunt
+				+ Armor reduction reduced to 5 / 10 / 15 / 20 / 25 from 10 / 15 / 20 / 25 / 30.
+		- V4.17: Powerball
+			* Effects changed to persist for 1 second after switching to Defensive Ball Curl from ending instantly.
+			* Defensive Ball Curl
+				+ Effects changed to persist for 1 second after switching to Powerball from ending instantly.
+		- V4.16: General
+			* New lore.
+		- V4.13:
+			* Splash artwork for Chrome Rammus updated to the Chinese art.
+		- V4.5: Stats
+			* Base armor increased to 25 from 21.
+		- V3.15: Defensive Ball Curl
+			* Removed: Being able to reactivate to end the effects early (cooldown begins on-cast)
+			* Can still be done by using Powerball.
+			* Puncturing Taunt
+				+ Duration changed to 1 / 1.5 / 2 / 2.5 / 3 seconds from 1 / 1.25 / 1.5 / 1.75 / 2 seconds.
+				+ Mana cost reduced to 50 / 65 / 80 / 95 / 110 from 50 / 70 / 90 / 110 / 130.
+				+ Tremors
+					- Mana cost changed to 120 at all ranks from 100 / 150 / 200.
+		- V3.13: Texture Update
+		- V3.7: Puncturing Taunt
+			* Removed: Being able to target minions.
+		- V1.0.0.152: Stats
+			* Base health regeneration increased to 8 from 6.
+			* Base armor increased to 25 from 21.
+			* Move
+				+ Movement speed increased to 335 from 310.
+		- V1.0.0.144: Stats
+			* Magic resistance per level increased to 1.25 from 1.
+		- Powerball
+			* Mana cost reduced to 70 / 80 / 90 / 100 / 110 from 80 / 95 / 110 / 125 / 140.
+			* Cast time reduced.
+			* Movement delay after collision reduced.
+			* Defensive Ball Curl
+				+ Mana cost changed to 40 from 50.
+		- V1.0.0.136: Stats
+			* Base armor reduced to 20.8 from 24.8.
+			* Base attack damage reduced to 53.2 from 58.3.
+			* Powerball
+				+ New Effect: Right-clicking while active moves Rammus close enough to hit his target.
+				+ Bonus resistances reduced to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+				+ Defensive Ball Curl
+					- Bonus resistances changed to 50 / 80 / 120 / 160 / 200 from 40 / 80 / 120 / 160 / 200.
+					- Base damage return changed to 16 / 20 / 24 / 28 / 32 from 20 / 30 / 40 / 50 / 60.
+					- New Effect: Resistance ratios now factor in flat bonus.
+					- Defensive Ball Curl
+						* New Effect: Resistance ratios now factor in flat bonus.
+						* Bonus armor ratio changed to 50 / 60 / 70 / 80 / 90% armor.
+						* Bonus magic resistance ratio changed to 50 / 60 / 70 / 80 / 90% magic resistance.
+		- V1.0.0.132: Powerball
+			* Duration reduced to 7 seconds from 8 seconds.
+			* Initial bonus movement speed increased to 30% from 25%.
+			* Defensive Ball Curl
+				+ Base damage return reduced to 15 / 25 / 35 / 45 / 55 from 20 / 30 / 40 / 50 / 60.
+				+ New Effect: Damage return has a (+ 10% armor) ratio.
+				+ New Effect: Rammus can immediately switch to Powerball while active.
+				+ New Effect: Rammus can immediately switch to Defensive Ball Curl while active.
+				* Bug Fix: Tooltip incorrectly displaying bonus armor values.
+		- V1.0.0.126: Defensive Ball Curl
+			* Bug Fix: Having an AP ratio.
+		- V1.0.0.111: Updated tooltips.
+		* Powerball
+			+ Speed reduced by about 15%.
+			+ Slow reduced to 20 / 25 / 30 / 35 / 40% from 28 / 36 / 44 / 52 / 60%.
+			+ Slow duration reduced to 3 seconds from 4 seconds.
+		- Puncturing Taunt
+			+ Cooldown increased to 12 seconds from 9 seconds.
+		- V1.0.0.105: Puncturing Taunt
+			* Bug Fix: Enemies who blocked the taunt displaying the particle over their heads.
+		- Defensive Ball Curl
+			* Base damage return reduced to 22 / 28 / 34 / 40 / 46 from 26 / 32 / 38 / 44 / 50.
+			* Bug Fix: Tooltip not displaying correct bonus damage return value.
+		- V1.0.0.103: General
+			* Movement speed increased to 310 from 305.
+			* Base mana regeneration increased to 3.75 from 3.
+			* Powerball
+				+ Cooldown reduced to 10 seconds from 11 seconds.
+				+ Defensive Ball Curl
+					- Cooldown reduced to 14 seconds from 15 seconds.
+					- New Effect: Damage return has a (+ 10% armor) ratio.
+					- Bug Fix: Tooltip incorrectly displaying bonus armor values.
+					* New Effect: Can be toggled off.
+					* New Effect: Bonus resistances are now applied immediately upon activation.
+					* Bug Fix: Can no longer be cast while silenced.
+					* Bug Fix: Can no longer be cast while rooted.
+					* Bug Fix: Can no longer be cast while stunned.
+					* Bug Fix: Can no longer be cast while snared.
+		- V1.0.0.101: Defensive Ball Curl
+			* New Effect: Can be reactivated to end the effects early.
+		- V1.0.0.100: General
+			* Bug Fix: Basic attack timer errors.
+			* Powerball
+				+ Bug Fix: Sound continuing to play after Rammus hits his target.
+				+ Bug Fix: Occasionally dealing double damage.
+		- V1.0.0.87: Powerball
+			* Bug Fix: Occasionally not colliding with enemies during the dash.
+		- V1.0.0.86: Powerball
+			* Bug Fix: Enemy champions becoming invulnerable during the dash.
+		- V1.0.0.83: Powerball
+			* Bug Fix: Rammus not taking damage during the dash if he collides with an enemy champion.
+		- V1.0.0.81: Powerball
+			* Bug Fix: Powerball not colliding with terrain while active.
+		- V1.0.0.80: Powerball
+			* Bug Fix: Rammus taking damage while rolling during Powerball.
+		- V1.0.0.79: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.78: Powerball
+			* Bug Fix: Rammus not stun
+			+ Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.77: Powerball
+			* Bug Fix: Rammus not being able to move during Powerball.
+		- V1.0.0.76: Powerball
+			* Bug Fix: Rammus not dealt damage during Powerball.
+		- V1.0.0.75: Powerball
+			* Bug Fix: Rammus not gaining bonus movement speed during Powerball.
+		- V1.0.0.74: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.73: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.72: Powerball
+			* Bug Fix: Rammus not stuns enemies during Powerball.
+		- V1.0.0.71: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.70: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.69: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.68: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.67: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.66: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.65: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.64: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.63: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.62: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.61: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.60: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.59: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.58: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.57: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.56: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.55: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.54: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.53: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.52: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.51: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.50: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.49: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.48: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.47: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.46: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.45: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.44: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.43: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.42: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.41: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.40: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.39: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.38: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.37: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.36: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.35: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.34: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.33: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.32: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.31: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.30: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.29: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.28: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.27: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.26: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.25: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.24: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.23: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.22: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.21: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.20: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.19: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.18: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.17: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.16: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.15: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.14: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.13: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.12: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.11: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.10: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.9: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.8: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.7: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.6: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V1.0.0.5: Powerball
+			* Bug Fix: Rammus not slowing enemies during Powerball.
+		- V1.0.0.4: Powerball
+			* Bug Fix: Rammus not stun enemies during Powerball.
+		- V1.0.0.3: Powerball
+			* Bug Fix: Rammus not revealing enemies during Powerball.
+		- V1.0.0.2: Powerball
+			* Bug Fix: Rammus not dealing damage during Powerball.
+		- V1.0.0.1: Powerball
+			* Bug Fix: Rammus not dealing damage to structures during Powerball.
+		- V0.9.25.24: Powerball
+			* Updated to hit immobile targets more easily.
+		- V0.9.22.16: Powerball
+			* New Effect: Has a 1 second cooldown upon casting.
+			* Slow changed to 28 / 36 / 44 / 52 / 60% from 40 / 45 / 50 / 55 / 60%.
+			* Mana cost changed to 90 / 100 / 110 / 120 / 130 from 80 / 95 / 110 / 125 / 140.
+			* Tooltip updated.
+		- V0.9.22.15: Stats
+			* Base health reduced to 400 from 430.
+			* Movement speed increased to 305 from 300.
+			* Defensive Ball Curl
+				+ Bonus resistances changed to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+				+ Damage return increased to 26 / 32 / 38 / 44 / 50 from 20 / 30 / 40 / 50 / 60.
+				+ Puncturing Taunt
+					- Armor reduction changed to 6 / 12 / 18 / 24 / 30 from 10 / 15 / 20 / 25 / 30.
+					- Cooldown changed to 9 / 8.5 / 8 / 7.5 / 7 seconds from 9 at all ranks.
+					- Mana cost reduced to 50 / 70 / 90 / 110 / 130 from 50 / 70 / 90 / 110 / 130.
+					- Bug Fix: Enemies who blocked the taunt displaying the particle over their heads.
+				+ Tremors
+					- Base damage per second reduced to 65 / 130 / 195 from 55 / 110 / 165.
+					- AP ratio reduced to 30% AP from 40% AP.
+					- New Effect: Slows enemies it damage by 8 / 10 / 12% for 1.5 seconds, stacking up to 8 times, up to a maximum of 64 / 80 / 96%.
+					- New Effect: Deals double damage to structures.
+					- Damage against structure per second increased to 80 / 160 / 240 (+40% AP) from 65 / 130 / 195 (+30% AP).
+		- V0.8.22.115: Defensive Ball Curl
+			* Bonus resistances reduced to 40 / 80 / 120 / 160 / 200 from 50 / 100 / 150 / 200 / 250.
+		- V0.8.21.110: General
+			* Recommended items updated.
+		- V0.8.16: Powerball
+			* New Effect: Ramping up in pitch to match Rammus' increased movement speed.
+			* Bug Fix: Rammus' movement speed being slightly too low while active.
+			* Defensive Ball Curl
+				+ Bug Fix: Rammus' movement speed being slightly too low while active.
+		- V0.8.15: Puncturing Taunt
+			* New Effect: Affected enemies display 'Taunted!' over their heads.
+		- V0.8.1: Tremors
+			* Bug Fix: Damage being negated by Black Shield and/or Cleanse.
+		- V0.8.0:
+			* Base health increased to 430 from 394.
+			* Health per level increased to 76 from 70.
+			* Spiked Shell
+				+ Bug Fix: Bonus AD being removed after Rammus is revived by Guardian Angel.
+				+ New Effect: Basic attacks deal 8 - 20 (based on level) (+10% armor) bonus magic damage amplified by 50% to 12 - 30 (based on level) (+15% armor) bonus magic damage while Defensive Ball Curl is active.
+			* Defensive Ball Curl
+				+ New Effect: Rammus gains bonus magic resistance equal to the bonus armor amount while active.
+				+ Damage return increased to 24 / 30 / 36 / 42 / 48 from 16 / 20 / 24 / 28 / 32.
+				+ New Effect: Can be toggled off early.
+				+ New Effect: Bonus resistances are now applied immediately upon activation.
+				+ Bug Fix: Can no longer be cast while silenced.
+				+ Bug Fix: Can no longer be cast while rooted.
+				+ Bug Fix: Can no longer be cast while stunned.
+				+ Bug Fix: Can no longer be cast while snared.
+			* Powerball
+				+ Cooldown reduced to 10 seconds from 11 seconds.
+				+ Duration reduced to 7 seconds from 8 seconds.
+				+ New Effect: Is now a channeled spell, and thus is stopped by spells that interrupt channels.
+				+ Maximum movement speed changed to 150% - 235% based on level% from 155%.
+				+ Base damage reduced to 100 / 135 / 170 / 205 / 240 from 100 / 150 / 200 / 250 / 300.
+				+ Slow increased to 40 / 50 / 60 / 70 / 80% from 20 / 25 / 30 / 35 / 40%.
+				+ Slow duration reduced to 1 second from 2 seconds.
+				+ Undocumented: Mana cost reduced to 60 at all ranks from 60 / 65 / 70 / 75 / 80.
+				+ Radius slightly reduced, allowing Rammus to better navigate through enemies. Collision check rate increased, making collision more consistent.
+				+ Bug Fix: Rammus can now interact with Plants during Powerball.
+				+ Defensive Ball Curl
+					- Cooldown reduced to 6 seconds from 14 seconds.
+					- Bonus resistances reduced to 40 / 80 / 120 / 160 / 200 from 50 / 80 / 120 / 160 / 200.
+					- New Effect: Grants bonus resistances equal to the bonus armor amount while active.
+					- Damage return increased to 20 / 30 / 40 / 50 / 60 from 16 / 20 / 24 / 28 / 32.
+					- New Effect: Can be reactivated to end the effects early.
+					- New Effect: Bonus resistances are now applied immediately upon activation.
+					- Bug Fix: Can no longer be cast while silenced.
+					- Bug Fix: Can no longer be cast while rooted.
+					- Bug Fix: Can no longer be cast while stunned.
+					- Bug Fix: Can no longer be cast while snared.
+			* Frenzying Taunt
+				+ Duration changed to 1.25 / 1.5 / 1.75 / 2 / 2.25 seconds from 1 / 1.25 / 1.5 / 1.75 / 2 / 2.5 seconds.
+				+ Mana cost reduced to 50 / 65 / 80 / 95 / 110 from 50 / 70 / 90 / 110 / 130.
+			* Soaring Slam
+				+ Cooldown changed to 90 seconds at all ranks from 110 / 95 / 80.
+				+ Cast range changed to 800 from 600.
+				+ Dash range growth changed to 150% from 130%.
+				+ Minimum dash speed changed to 900 from 700.
+				+ Maximum dash speed changed to 2000 from 1800.
+			* Astronaut
+				+ AP ratio changed to 100% AP from 150% AP.
+				+ Cooldown changed to 40 seconds from 100 / 90 / 80 / 70 / 60.
+				+ Champion skins: [ ]
+					* Duncan Watt
+						+ Original
+							- Added
+						+ Durian Defender
+							- View in 3D
+							- 1350
+							- Added
+						+ Food Fight
+							- View in 3D
+							- Added
+							- ...
+					* [ ]
+						+ Rammus Wiki
+						|
+						+ Champions
+						+ Cancelled Champions
+							- Ao Shin
+							- Avasha
+							- Averdrian
+							- CeeCee
+							- Cyborg Cowboy
+							- Eagle Rider
+							- Gavid
+							- Husk
+							- Iron Engineer
+							- Ivan
+							- Omen
+							- Priscilla
+							- Rob Blackblade
+							- Seth
+							- Tabu
+							- Tiki
+							- Urf
+							- Well
+						+ References
+							- [ ]
+								+ Rammus's profile page
+								at LeagueOfLegends.com

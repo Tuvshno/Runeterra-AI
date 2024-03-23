@@ -1,0 +1,1100 @@
+**Games**
+
+**Universe**
+
+-
+
+**League of Legends**
+
+**•**
+
+**•**
+
+**Image**
+
+**Rell**
+
+**Gameplay**
+
+-
+
+**Collection**
+
+-
+
+**Audio**
+
+-
+
+**Patch history**
+
+-
+
+**Past versions**
+
+**Rell**
+
+**the Iron Maiden**
+
+**Release date**
+
+2020-12-10
+
+**Last changed**
+
+V14.4
+
+**Class(es)**
+
+Vanguard
+
+Legacy
+
+Tank
+
+Support
+
+**Position(s)**
+
+Support
+
+Jungle
+
+**Resource**
+
+Mana
+
+**Range type**
+
+Melee
+
+**Adaptive type**
+
+Magic
+
+**Store price**
+
+4800
+
+|
+
+880
+
+**Crafting**
+
++
+
+2880
+
+---
+
+**Ratings**
+
+|
+
+**Damage**
+
+1
+
+**Toughness**
+
+3
+
+**Control**
+
+3
+
+**Mobility**
+
+2
+
+**Utility**
+
+2
+
+**Style**
+
+---
+
+**Difficulty**
+
+**Champion Spotlight**
+
+[Rell Champion Spotlight](Link)
+
+**Rell**
+
+is a champion in League of Legends.
+
+[1]
+
+**Gameplay**
+
+•
+
+**Cosmetics**
+
+•
+
+**Audio**
+
+•
+
+**Development**
+
+•
+
+**Patch History**
+
+•
+
+**History**
+
+•
+
+**Trivia**
+
+**Base statistics**
+
+**Rell**
+
+**Edit**
+
+|
+
+**Health**
+
+610
+
++104
+
+**Mana**
+
+350
+
++45
+
+**Health regen. (per 5s)**
+
+7.5
+
++0.85
+
+**Mana regen. (per 5s)**
+
+6
+
++0.35
+
+**Armor**
+
+36
+
++4.2
+
+**Attack damage**
+
+55
+
++3
+
+**Magic resist.**
+
+30
+
++1.85
+
+**Crit. damage**
+
+175%
+
+**Move. speed**
+
+330
+
+**Attack range**
+
+175
+
+**Attack speed**
+
+Base AS
+
+0.625
+
+**Attack windup**
+
+21% (mod. 0.4)
+
+**AS ratio**
+
+N/A
+
+**Bonus AS**
+
++1.5
+
+**%**
+
+**Unit radius**
+
+Gameplay radius
+
+65
+
+**Selection radius**
+
+120
+
+**Pathing radius**
+
+35
+
+**Acq. radius**
+
+400
+
+**Special statistics**
+
+ARAM
+
+Nexus Blitz
+
+One For All
+
+URF
+
+Ult Spellbook
+
+Arena
+
+Damage Dealt
+
+-5%
+
+Damage Received
+
++5%
+
+Healing
+
+-10%
+
+Shielding
+
+-10%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
++5%
+
+Damage Received
+
++0%
+
+Damage Dealt
+
++0%
+
+Damage Received
+
++0%
+
+**Abilities**
+
+[ ]
+
+**Edit**
+
+**Break the Mold**
+
+**Break the Mold**
+
+**Innate:**
+
+Rell's basic attacks and abilities against non-minions reduce the target's armor and magic resistance by 2% for 5 seconds, refreshing on subsequent hits and stacking up to 5 times for a maximum of 10% reduction. Rell gains bonus armor and bonus magic resistance equal to the sum resistances reduced from all afflicted enemies.
+
+**Break the Mold**
+
+will reduce the target's armor and magic resistance by a minimum of 0.8−2 (based on level). Rell's attack windup is reduced by 0%−7.14% (based on level).
+
+**Targeting input**
+
+Passive
+
+**Damage type**
+
+Type
+
+**Sub-type**
+
+Proc damage
+
+Magic
+
+**Counters**
+
+Spell shield
+
+Parries
+
+**Not Blocked**
+
+Blocked
+
+The attacks do not affect structures.
+
+**Edit**
+
+**Shattering Strike**
+
+**Shattering Strike**
+
+**COST:**
+
+50 mana
+
+**COOLDOWN:**
+
+11 / 10.5 / 10 / 9.5 / 9
+
+**CAST TIME:**
+
+0.4
+
+**RANGE:**
+
+520 / -220
+
+**WIDTH:**
+
+150
+
+**Active:**
+
+Rell thrusts her lance in the target direction, lunging forward 100 units and destroying the damage-mitigating shields of all enemies hit (excluding the shields of monsters) before dealing them magic damage and stunning them for 0.75 seconds.
+
+**Magic Damage:**
+
+60 / 100 / 140 / 180 / 220 (+60% AP)
+
+**Shattering Strike**
+
+deals bonus damage against monsters.
+
+**Bonus Monster Damage:**
+
+170 / 245 / 320 / 395 / 470
+
+**Total Monster Damage:**
+
+230 / 345 / 460 / 575 / 690 (+60% AP)
+
+**Hide**
+
+**Details**
+
+**Info**
+
+**Targeting input**
+
+Direction
+
+**Damage type**
+
+Type
+
+**Sub-type**
+
+Area damage
+
+Magic
+
+**Counters**
+
+Spell shield
+
+Projectile
+
+**Blocked**
+
+Not Blocked
+
+This ability will cast from wherever the caster is at the end of the cast time. Rell is locked out of moving, attacking, and casting any other ability for 0.35 seconds after Shattering Strike is cast.
+
+**Edit**
+
+**Ferromancy: Crash Down**
+
+**Ferromancy: Crash Down**
+
+**COST:**
+
+40 Mana
+
+**COOLDOWN:**
+
+11
+
+**CAST TIME:**
+
+0.625
+
+**TARGET RANGE:**
+
+400 / 100
+
+**COLLISION RADIUS:**
+
+200
+
+**EFFECT RADIUS:**
+
+180
+
+**Active:**
+
+Rell becomes Dismounted and leaps to the target location over the cast time, granting herself a shield that lasts until destroyed or casting Ferromancy: Mount Up. Upon arrival, she deals magic damage to nearby enemies and knocks them up for 1 second. She will continue sliding forward another 320 units over 0.5 seconds, though not through terrain, affecting further enemies along her path.
+
+**Shield Strength:**
+
+15 / 40 / 65 / 90 / 110 (+12% of maximum health)
+
+**Magic Damage:**
+
+60 / 90 / 120 / 150 / 180 (+60% AP)
+
+**Ferromancy: Crash Down**
+
+deals bonus damage against monsters.
+
+**Bonus Monster Damage:**
+
+125 / 150 / 175 / 200 / 225
+
+**Total Monster Damage:**
+
+185 / 240 / 295 / 350 / 405 (+60% AP)
+
+While Rell is Dismounted, she can cast Ferromancy: Mount Up. Upon completing a Recall channel or respawning, Rell will automatically revert to Mounted form without casting the ability and reset Ferromancy: Mount Up's cooldown.
+
+This ability can be cast only while Rell is Mounted. Rell can cast Magnet Storm during the dash, and is not considered to be dismounted until after the leap ends. Ferromancy: Crash Down will cast at max range if cast beyond that.
+
+**Link**
+[▶️]
+
+"Armoring up!"
+
+**Edit**
+
+**Ferromancy: Mount Up**
+
+**Ferromancy: Mount Up**
+
+**COOLDOWN:**
+
+11
+
+**CAST TIME:**
+
+0.25
+
+**Passive:**
+
+While Rell is Dismounted, she gains 12% bonus armor, 12% bonus magic resistance, 30% bonus attack speed, and 75 bonus attack range, but her movement speed is reduced by 10%.
+
+**Active:**
+
+Rell becomes Mounted, gaining 30% bonus movement speed decaying over 2 seconds and empowering her next basic attack within 3.5 seconds to have a 0.2-second cast time, gain 100 bonus attack range and cause her to charge at the target's location, during which she also gains 40% bonus attack speed. Upon arrival or collision, she deals bonus magic damage, stuns the target for 1 second, and flings them 150 units over herself, though not through terrain.
+
+**Bonus Magic Damage:**
+
+10 / 25 / 40 / 55 / 70 (+40% AP)
+
+**Ferromancy: Mount Up**
+
+deals bonus damage against monsters.
+
+**Bonus Monster Damage:**
+
+55 / 110 / 165 / 220 / 275
+
+**Total Monster Damage:**
+
+65 / 135 / 205 / 275 / 345 (+40% AP)
+
+While Rell is Mounted, she can cast Ferromancy: Crash Down.
+
+Ferromancy: Mount Up resets Rell's basic attack timer. This ability can be cast only while Rell is Dismounted.
+
+**Link**
+[▶️]
+
+"Mount up!"
+
+**Hide**
+**Ferromancy: Crash Down Details**
+
+**Ferromancy: Mount Up Details**
+
+**Targeting input**
+
+Location
+
+**Damage type**
+
+Type
+
+**Sub-type**
+
+Area damage
+
+Magic
+
+**Counters**
+
+Spell shield
+
+Grounded
+
+Knockdown
+
+Blocked
+
+Disabled
+
+Interrupted
+
+**Notes**
+Rell slides between 250 and 350 units in testing, depending on how far the spell was targeted. It is not known where this is intended.
+
+If Rell dashes before a wall on the map, the slide will cover a shorter distance to the terrain over the same time, moving slower.
+
+PENDING FOR TEST: Interaction with player-made walls.
+
+The following table refers for interactions while Rell is dashing/in cast time:
+
+| Attacking | Disabled |
+| --- | --- |
+| Attacking is disabled. | Full Tilt and Magnet Storm are usable. |
+
+| Movement | Disabled |
+| --- | --- |
+| Movement is disabled. | All the other item-actives are usable. |
+
+| Items | Usable |
+| --- | --- |
+| Usable. |  |
+
+| Spells | Usable |
+| --- | --- |
+| Usable. |  |
+
+| Barrier | Clarity |
+| --- | --- |
+| Usable. | Usable. |
+
+| Cleanse | Exhaust |
+| --- | --- |
+| Usable. | Usable. |
+
+| Ghost | Heal |
+| --- | --- |
+| Usable. | Usable. |
+
+| Ignite | Smite |
+| --- | --- |
+| Usable. | Disabled. |
+
+| Flash | Teleport |
+| --- | --- |
+| Usable. | Interrupted by |
+
+| Recall | Hexflash |
+| --- | Interrupted by |
+
+| Death |  |
+| --- | --- |
+|  |  |
+
+| Targeting input | Auto |
+| --- | --- |
+| Auto targeting input. |  |
+
+| Damage type | Type |
+| --- | --- |
+| Magic damage. |  |
+
+| Counters |  |
+| --- | --- |
+| Spell shield |  |
+
+| See Notes |  |
+| --- | --- |
+| Rell will always respawn and start the game as mounted. |  |
+
+The basic attack reset is not considered one for Hail of Blades.
+
+Rell can use the empowered attack even while grounded or rooted.
+
+The dash can be knocked down but the attack's effects will still be applied.
+
+The movement speed reduction is a negative bonus, not a slow, and is thus not reduced by slow resist.
+
+Displacement immunity will not resist the application of the stun.
+
+If the target becomes untargetable, dies, or is too far away or no longer in sight during the empowered attack's cast time, it is cancelled but not consumed.
+
+**Edit**
+
+**Full Tilt**
+
+**Full Tilt**
+
+**COST:**
+
+40 Mana
+
+**COOLDOWN:**
+
+15
+
+**CAST TIME:**
+
+none
+
+**RANGE:**
+
+1200
+
+**EFFECT RADIUS:**
+
+300
+
+**Passive - Mounted Alacrity:**
+
+Rell gains 5−50 (based on level) bonus movement speed, reduced to 50% effectiveness while in combat.
+
+**Active:**
+
+Rell powers up herself and the target allied champion for 3 seconds, both gaining bonus movement speed that ramps up from 50% of its initial value over the first 2 seconds. The movement speed is increased while moving within 1200 units of the empowered ally or an enemy.
+
+**Initial Bonus Movement Speed:**
+
+6 / 7.5 / 9 / 10.5 / 12%
+
+**Initial Increased Bonus Movement Speed:**
+
+12 / 15 / 18 / 21 / 24%
+
+**Bonus Movement Speed:**
+
+12 / 15 / 18 / 21 / 24%
+
+**Increased Bonus Movement Speed:**
+
+24 / 30 / 36 / 42 / 48%
+
+Additionally, Rell's next basic attack or Shattering Strike within 5 seconds creates an explosion that deals bonus magic damage. The damage based on the target's health ratio is capped at 150 against monsters.
+
+**Bonus Magic Damage:**
+
+25 / 35 / 45 / 55 / 65 (+50% AP) (+3% of target's maximum health)
+
+**Full Tilt**
+
+deals bonus damage against monsters.
+
+**Bonus Monster Damage:**
+
+120 / 165 / 210 / 255 / 300 (+50% AP) (+3% of target's maximum health)
+
+If cast without a valid target, or self-cast, Full Tilt will automatically target the closest allied champion in range.
+
+**Hide**
+**Details**
+
+**Info**
+
+**Targeting input**
+
+Unit / Auto
+
+**Damage type**
+
+Type
+
+**Sub-type**
+
+AOE DOT damage
+
+Magic
+
+**Counters**
+
+Spell shield
+
+**See Notes**
+This ability will cast from wherever the caster is at the end of the cast time.
+
+Magnet Storm will not drag units that are: Dashing, Being displaced (e.g. by airborne effects), Attached, Displacement immune, Immuneto crowd control, or Spell shield will block the initial pull but not the dragging effect.
+
+**Champion skins**
+
+[ ]
+
+This article section only contains champion skins. For all associated collection items, see [Rell (Collection)](Link).
+
+**Original**
+
+View in 3D
+
+975
+
+10.12.2020
+
+The product of brutal experimentation at the hands of the Black Rose, Rell is a defiant, living weapon determined to topple Noxus. Her childhood was one of misery and horror, enduring unspeakable procedures to perfect and weaponize her magical control over metal... until she staged a violent escape, killing many of her captors in the process. Now branded as a criminal, Rell attacks Noxian soldiers on sight as she searches for survivors of her old 'academy,' defending the meek while delivering violent death to her former overseers.
+
+**Laya DeLeon Hayes**
+
+**Jeremy 'Jermu' Anninos**
+
+**Loot eligible**
+
+**Battle Queen**
+
+View in 3D
+
+1350
+
+10.12.2020
+
+A young woman from the magic-starved Queendom of Calamity, volunteered for the coronation by a shadowy cabal of aristocrats after a series of magical experiments. Having now won the crown and the power of her crest, Rell has discovered her powers were stolen from the people of her country, and she has vowed revenge on her puppeteers.
+
+**Laya DeLeon Hayes**
+
+**Bo 'chenbowow' Chen**
+
+**Battle Queens**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Chromas**
+
+Battle Queen Rell Chromas
+
+Aquamarine
+
+Catseye
+
+Coronation
+
+Obsidian
+
+Ruby
+
+Sapphire
+
+Tanzanite
+
+Turquoise
+
+**Star Guardian**
+
+View in 3D
+
+1350
+
+28.07.2022
+
+Rell ran as her home rotted away at the Fifth Harbinger's hands, but the young Powder Witch ain't running now. She squares her shoulders and swings into the saddle of a horse made of magic, steam, and fire. From its back, she looks down at the haunted gunslinger. “Come on, old man. We got a second chance, I ain't gonna waste it.”
+
+**Laya DeLeon Hayes**
+
+**Huyy Nguyen, West Studio**
+
+**High Noon**
+
+**Loot eligible**
+
+**New SFX/VFX**
+
+**New Animations/Recall**
+
+**Chromas**
+
+High Noon Rell Chromas
+
+Citrine
+
+Emerald
+
+Noonday
+
+Pearl
+
+Rose Quartz
+
+Ruby
+
+Sapphire
+
+Tanzanite
+
+Turquoise
+
+**Patch history**
+[ ]
+
+For the expanded patch notes, see [here](Link).
+
+V14.4
+
+Shattering Strike
+
+Removed:
+
+No longer destroys shields against monsters.
+
+V13.23
+
+Magnet Storm
+
+Bug Fix:
+
+Casting the ability in combination with Ferromancy: Crash Down no longer sometimes causes the kinematics drag effect of Magnet Storm to interrupt enemy channeled abilities.
+
+V13.18
+
+Full Tilt
+
+Bonus movement speed reduced to 12 / 14 / 16 / 18 / 20% from 15 / 17.5 / 20 / 22.5 / 25%.
+
+Increased bonus movement speed reduced to 24 / 30 / 36 / 42 / 48% from 30 / 35 / 40 / 45 / 50%.
+
+Break the Mold
+
+Bug Fix:
+
+Shattering Strike, Ferromancy: Crash Down, Ferromancy: Mount Up, and Magnet Storm no longer apply the resistances reduction before their damage.
+
+Shattering Strike
+
+Bug Fix:
+
+Targeting direction now remains absolute during the cast.
+
+Ferromancy: Mount Up
+
+Empowered attack dash speed has been increased.
+
+Bug Fix:
+
+Now properly applies the bonus damage to epic monsters at all times.
+
+Bug Fix:
+
+Empowered attack no longer sometimes fails to trigger against the Rift Scuttler.
+
+Bug Fix:
+
+Empowered attack now properly deals its damage to monsters.
+
+Full Tilt
+
+Bug Fix:
+
+Now properly calculates Break the Mold's resistances reduction for all stacks rather than excluding one of them.
+
+V13.14
+
+- June 2nd Hotfix
+
+Stats
+
+Base health regeneration increased to 8.5 from 8.
+
+Base health regeneration growth increased to 0.85 from 0.55.
+
+Base armor increased to 39 from 32.
+
+Armor growth increased to 4.2 from 3.
+
+Magic resistance growth increased to 1.85 from 2.
+
+Break the Mold
+
+Resistance steal per stack increased to 3% from 2.5%.
+
+Shattering Strike
+
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 95 / 130 / 165 / 200.
+
+AP ratio increased to 60% AP from 50% AP.
+
+Damage against monsters increased to 300% from 250%.
+
+Ferromancy: Crash Down
+
+Base shield increased to 35 / 60 / 85 / 110 / 135 from 30 / 55 / 80 / 105 / 130.
+
+Shield health ratio increased to 12% from 10%.
+
+Knock up duration increased to 1 second from 0.75.
+
+Damage against monsters increased to 300% from 250%.
+
+Ferromancy: Mount Up
+
+Self-slow reduced to 10% from 15%.
+
+Damage against monsters increased to 300% from 250%.
+
+Full Tilt
+
+Base damage increased to 35 / 50 / 65 / 80 / 95 from 25 / 35 / 45 / 55 / 65.
+
+AP ratio increased to 50% AP from 30% AP.
+
+Health ratio increased to 4% of target's maximum health at all ranks from 2% / 2.5% / 3% / 3.5% / 4%.
+
+V13.11
+
+- June 2nd Hotfix
+
+Stats
+
+Base health regeneration increased to 8.5 from 8.
+
+Health regeneration growth increased to 0.85 from 0.55.
+
+Base armor increased to 39 from 32.
+
+Armor growth increased to 4.2 from 3.
+
+Magic resistance growth increased to 1.85 from 2.
+
+Break the Mold
+
+Resistance steal per stack increased to 3% from 2.5%.
+
+Shattering Strike
+
+Base damage increased to 70 / 110 / 150 / 190 / 230 from 60 / 95 / 130 / 165 / 200.
+
+AP ratio increased to 60% AP from 50% AP.
+
+Damage against monsters increased to 300% from 250%.
+
+Ferromancy: Crash Down
+
+Base shield increased to 35 / 60 / 85 / 110 / 135 from 30 / 55 / 80 / 105 / 130.
+
+Shield health ratio increased to 12% from 10%.
+
+Knock up duration increased to 1 second from 0.75.
+
+Damage against monsters increased to 300% from 250%.
+
+Ferromancy: Mount Up
+
+Self-slow reduced to 10% from 15%.
+
+Damage against monsters increased to 300% from 250%.
+
+Full Tilt
+
+- New Effect
+
+Cost:
+
+40 mana.
+
+Cooldown:
+
+15 seconds.
+
+Range:
+
+1200 units.
+
+Passive - Mounted Alacrity:
+
+Rell gains 5−50 (based on level) bonus movement speed, reduced to 50% effectiveness while in combat.
+
+Active:
+
+Rell powers up herself and the target allied champion for 3 seconds, both gaining bonus movement speed that ramps up to 15 / 17.5 / 20 / 22.5 / 25% over the first 2 seconds. The movement speed is increased while moving within 1200 units of the empowered ally or an enemy.
+
+Additionally, Rell's next basic attack or Shattering Strike within 5 seconds creates an explosion that deals bonus magic damage. The damage based on the target's health ratio is capped at 150 against monsters.
+
+**Trivia**
+[ ]
+
+Rell's lance is featured in the promotional art for Preseason 2021 Mythic Forge as a reveal teaser.
+
+See also
+[ ]
+
+League of Legends Wiki
+
+|
+
+Champions
+
+Cancelled Champions
+
+Ao Shin
+
+Avasha
+
+Averdrian
+
+CeeCee
+
+Cyborg Cowboy
+
+Eagle Rider
+
+Gavid
+
+Husk
+
+Iron Engineer
+
+Ivan
+
+Omen
+
+Priscilla
+
+Rob Blackblade
+
+Seth
+
+Tabu
+
+Tiki
+
+Urf
+
+Well
+
+References
+[ ]
+
+↑
+
+Rell's profile page at LeagueOfLegends.com

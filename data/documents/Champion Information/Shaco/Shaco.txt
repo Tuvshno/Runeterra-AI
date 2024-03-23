@@ -1,0 +1,357 @@
+**Games**
+
+* Universe
+* * *
+
+**League of Legends**
+
+* * *
+
+**•**
+
+**•**
+
+**[Image: Shaco]**
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Shaco**
+
+**•**
+
+**Release date: 2009-10-10**
+
+**Last changed: V14.3**
+
+**Class(es): Assassin, Legacy Assassin**
+
+**Position(s): Jungle, Support**
+
+**Resource: Mana**
+
+**Range type: Melee**
+
+**Adaptive type: Physical**
+
+**Store price: 3150 (790 for champion shards)**
+
+**|**
+
+**790 (375 for champion shards)**
+
+**Crafting**
+
+* + **1890 (5670 for champion shards)**
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 1
+* Control: 2
+* Mobility: 2
+* Utility: 2
+
+**Style:** Difficulty: Champion Spotlight - [Shaco Champion Spotlight](https://www.youtube.com/watch?v=2w6IHs9dJks)
+
+**Base statistics:**
+
+| **Attribute** | **Value** |
+| --- | --- |
+| Health | 630 (+99) |
+| Mana | 297 (+40) |
+| Health regen. (per 5s) | 8.5 (+0.55) |
+| Mana regen. (per 5s) | 6 (+0.35) |
+| Armor | 30 (+4) |
+| Attack damage | 63 (+3) |
+| Magic resist. | 32 (+2.05) |
+| Crit. damage | 175% |
+| Move. speed | 345 |
+| Attack range | 125 |
+| Attack speed (Base AS) | 0.694 |
+| Attack windup | 22.15% |
+| AS ratio | N/A |
+| Bonus AS | +3% |
+| Unit radius | Gameplay radius: 65 |
+| Selection radius | 135 |
+| Pathing radius | 35 |
+| Acq. radius | 400 |
+
+**Special statistics:**
+
+* ARAM: +5% Damage Dealt
+* Nexus Blitz: N/A
+* One For All: N/A
+* URF: N/A
+* Ult Spellbook: N/A
+* Arena: Damage Dealt: +0%, Damage Received: +0%
+* Damage Dealt: -10%, Damage Received: +10%
+
+**Abilities:**
+
+[*Backstab*]
+
+* Innate: Shaco's basic attacks are empowered to deal 20 − 35 (based on level) (+ 25% bonus AD) bonus physical damage when hitting an enemy from behind. Backstab is affected by critical strike modifiers. Deceive and Two-Shiv Poison have additional effects when they hit an enemy from behind.
+* Backstab's bonus damage adds directly to the damage instance of the basic attack.
+* Map-Specific Differences: Arena differences: Bonus AD ratio changed to 35% bonus AD.
+
+[*Deceive*]
+
+* Cost: 40 Mana
+* Cooldown: 12 / 11.5 / 11 / 10.5 / 10 seconds
+* Cast time: none
+* Target range: 400
+* Active: Shaco becomes invisible for a duration, and after a 0.125-second delay, he blinks to the target location. Invisibility Duration: 2.5 / 2.75 / 3 / 3.25 / 3.5 seconds. Deceive's invisibility breaks when Shaco uses a basic attack or casts Jack in the Box or Hallucinate. After breaking the invisibility, Shaco empowers his next basic attack within 0.25 seconds to deal bonus physical damage, which is affected by critical strike modifiers. Bonus Physical Damage: 25 / 35 / 45 / 55 / 65 (+ 60% bonus AD).
+* Map-Specific Differences: Info: Targeting input; Location: Damage type: Magic; Counters: Parries; Not Blocked: Blocked: Deceive's bonus damage adds directly to the damage instance of the basic attack. Map-Specific Differences: Arena differences: Bonus AD ratio changed to 35% bonus AD; Base damage changed to 45 / 65 / 85 / 105 / 125; Cooldown changed to 14 / 13.5 / 13 / 12.5 / 12 seconds; Bonus damage: 45 / 75 / 105 / 135 / 165 (+ 18% AP).
+
+[*Jack in the Box*]
+
+* Cost: 70 / 65 / 60 / 55 / 50 Mana
+* Cooldown: 15 seconds
+* Cast time: 0.25 seconds
+* Target range: 425
+* Detection radius: 300
+* Active: Shaco summons a box at the target location that becomes invisible and invulnerable to enemies while stealthed for up to 40 (+10% AP) seconds. The box is invulnerable and untargetable so long as it is in stealth. The box will spring out upon enemy contact, fearing nearby enemies and reducing their movement speed for 2 seconds, modified against champions, who are also rooted for 0.5 seconds. Enemy champions have their movement speed set to a static 100, reduced to a static 60 for non-champions. Champion Disable Duration: 0.5 / 0.75 / 1 / 1.25 / 1.5 seconds. Once sprung, the box will remain for 5 seconds, during which it will automatically fire at nearby visible enemies every 0.5 seconds, dealing magic damage with each attack. If the box attacks only one target, it deals increased damage. Magic Damage: 10 / 15 / 20 / 25 / 30 (+12% AP); Increased Damage: 25 / 40 / 55 / 70 / 85 (+18% AP); Bonus Monster Damage: 20 / 35 / 50 / 65 / 80; Total Monster Damage: 30 / 50 / 70 / 90 / 110 (+12% AP); Increased Monster Damage: 45 / 75 / 105 / 135 / 165 (+18% AP). See Pets for more details about boxes.
+* Map-Specific Differences: Info: Targeting input; Location: Damage type: Magic; Counters: Spell shield, parries; Blocked: Not disabled; Deceive's bonus damage adds directly to the damage instance of the basic attack. Map-Specific Differences: Howling Abyss differences: Limited to 6 Boxes active; Ultra Rapid Fire differences: Limited to 6 Boxes active; Arena differences: Fear duration changed to 0.5 / 0.625 / 0.75 / 0.875 / 1 second; Cooldown changed to 17 seconds.
+
+[*Two-Shiv Poison*]
+
+* Cost: 75 Mana
+* Cooldown: 8 seconds
+* Cast time: 0.25 seconds
+* Target range: 625
+* Passive: Shaco's basic attacks slow enemies for 2 seconds while Two-Shiv Poison is not on cooldown.
+* Active: Shaco throws a dagger at the target enemy that deals magic damage, increased by 50% if they are below 30% of their maximum health, and slows them for 3 seconds. Magic Damage: 70 / 95 / 120 / 145 / 170 (+80% bonus AD) (+60% AP); Increased Damage: 105 / 142.5 / 180 / 217.5 / 255 (+120% bonus AD) (+90% AP); Slow: 20 / 22.5 / 25 / 27.5 / 30%. Backstab Bonus: The dagger deals an additional 15 − 50 (based on level) (+10% AP) bonus magic damage, increased to 22.5 − 75 (based on level) (+15% AP) if the target is below 30% of their maximum health.
+* Map-Specific Differences: Info: Targeting input; Location: Damage type: Magic; Counters: Spell shield; Blocked: Blocked; Shaco replicates the last attack animation he performed for Two-Shiv Poison's animation. If the target becomes untargetable, dies, or is too far away or no longer in sight during the cast time, this ability will cancel but does not go on cooldown nor pay its cost (if applicable).
+
+[*Hallucinate*]
+
+* Cost: 100 Mana
+* Cooldown: 100 / 90 / 80 seconds
+* Cast time: 0.25 seconds
+* Effect radius: 250
+* Active: Shaco vanishes for 0.5 seconds and blinks in the target direction while creating a clone of himself that is summoned in the opposite direction, remaining within control range of him as a controllable clone for up to 18 seconds. Hallucinate can be recast at any time while the clone is alive, and can be used while affected by cast-inhibiting crowd control. Recast: Shaco commands the clone to move to the target location. The clone will explode upon dying or expiring to deal magic damage to nearby enemies and deploy three mini-boxes that activate instantly, fearing nearby enemies for 1 second. Magic Damage: 150 / 225 / 300 (+70% AP); The boxes possess Jack in the Box's effects, except they have a doubled, but shared health, and deal modified magic damage with each attack, increased when attacking a single unit. Modified Magic Damage: 10 / 20 / 30 (+10% AP); Increased Modified Damage: 25 / 50 / 75 (+15% AP). See Pets for more details about Shaco's clone.
+* Map-Specific Differences: Info: Targeting input; Direction: Damage type: Magic; Counters: Spell shield, grounded; Not disabled: Not disabled; Shaco and the Hallucination face each other the moment of their appearance. The explosion and the boxes apply area damage, while the clone deals pet damage. Hallucinate will cast from wherever Shaco is at the end of the cast time. When Shaco dies, the clone will automatically target the closet visible enemy champion within 1500 units. The clone will always spawn in the opposite direction of the cursor. If Deceive and Hallucinate are used in quick succession, the clone will spawn in the direction of the cursor instead. Pets: [Jack in the Box / Mini-Box](https://leagueoflegends.fandom.com/wiki/Jack_in_the_Box), [Hallucination](https://leagueoflegends.fandom.com/wiki/Hallucination)
+
+**Pets:**
+
+* [Jack in the Box / Mini-Box](https://leagueoflegends.fandom.com/wiki/Jack_in_the_Box)
+* [Hallucination](https://leagueoflegends.fandom.com/wiki/Hallucination)
+
+**Bounty:** Gold, Exp, CS: 10
+
+**Champion Skins:**
+
+* Original
+* Mad Hatter
+* Royal
+* Nutcracko
+* Asylum
+* Workshop
+* Highstakes
+* Snowdown Showdown
+* Legacy
+* New SFX/VFX
+* Wonders of the World
+* New Animations/Recall
+* Winterblessed
+* Soul Fighter
+* Crime City Nightmare
+* Arcanists
+
+**Voice filter:** New SFX/VFX
+
+**Chromas:**
+
+* Dark Star Shaco Chromas
+* Catseye
+* Emerald
+* Obsidian
+* Pearl
+* Ruby
+* Arcanist Shaco Chromas
+* Aquamarine
+* Emerald
+* Rainbow
+* Ruby
+* Sapphire
+* Tanzanite
+* Turquoise
+
+**Story:**
+
+[Shaco's story](https://universe.leagueoflegends.com/en_US/champion/shaco/)
+
+[1]
+
+**Gameplay:**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics:**
+
+| **Attribute** | **Value** |
+| --- | --- |
+| Health | 630 (+99) |
+| Mana | 297 (+40) |
+| Health regen. (per 5s) | 8.5 (+0.55) |
+| Mana regen. (per 5s) | 6 (+0.35) |
+| Armor | 30 (+4) |
+| Attack damage | 63 (+3) |
+| Magic resist. | 32 (+2.05) |
+| Crit. damage | 175% |
+| Move. speed | 345 |
+| Attack range | 125 |
+| Attack speed (Base AS) | 0.694 |
+| Attack windup | 22.15% |
+| AS ratio | N/A |
+| Bonus AS | +3% |
+| Unit radius | Gameplay radius: 65 |
+| Selection radius | 135 |
+| Pathing radius | 35 |
+| Acq. radius | 400 |
+
+**Special statistics:**
+
+* ARAM: +5% Damage Dealt
+* Nexus Blitz: N/A
+* One For All: N/A
+* URF: N/A
+* Ult Spellbook: N/A
+* Arena: Damage Dealt: +0%, Damage Received: +0%; Damage Dealt: -10%, Damage Received: +10%
+
+**Abilities:**
+
+[*Backstab*]
+
+* Innate: Shaco's basic attacks are empowered to deal 20 − 35 (based on level) (+ 25% bonus AD) bonus physical damage when hitting an enemy from behind. Backstab is affected by critical strike modifiers. Deceive and Two-Shiv Poison have additional effects when they hit an enemy from behind.
+* Backstab's bonus damage adds directly to the damage instance of the basic attack.
+* Map-Specific Differences: Arena differences: Bonus AD ratio changed to 35% bonus AD.
+
+[*Deceive*]
+
+* Cost: 40 Mana
+* Cooldown: 12 / 11.5 / 11 / 10.5 / 10 seconds
+* Cast time: none
+* Target range: 400
+* Active: Shaco becomes invisible for a duration, and after a 0.125-second delay, he blinks to the target location. Invisibility Duration: 2.5 / 2.75 / 3 / 3.25 / 3.5 seconds. Deceive's invisibility breaks when Shaco uses a basic attack or casts Jack in the Box or Hallucinate. After breaking the invisibility, Shaco empowers his next basic attack within 0.25 seconds to deal bonus physical damage, which is affected by critical strike modifiers. Bonus Physical Damage: 25 / 35 / 45 / 55 / 65 (+ 60% bonus AD).
+* Map-Specific Differences: Info: Targeting input; Location: Damage type: Magic; Counters: Parries; Not Blocked: Blocked: Deceive's bonus damage adds directly to the damage instance of the basic attack. Map-Specific Differences: Arena differences: Bonus AD ratio changed to 35% bonus AD; Base damage changed to 45 / 65 / 85 / 105 / 125; Cooldown changed to 14 / 13.5 / 13 / 12.5 / 12 seconds; Bonus damage: 45 / 75 / 105 / 135 / 165 (+ 18% AP).
+
+[*Jack in the Box*]
+
+* Cost: 70 / 65 / 60 / 55 / 50 Mana
+* Cooldown: 15 seconds
+* Cast time: 0.25 seconds
+* Target range: 425
+* Detection radius: 300
+* Active: Shaco summons a box at the target location that becomes invisible and invulnerable to enemies while stealthed for up to 40 (+10% AP) seconds. The box is invulnerable and untargetable so long as it is in stealth. The box will spring out upon enemy contact, fearing nearby enemies and reducing their movement speed for 2 seconds, modified against champions, who are also rooted for 0.5 seconds. Enemy champions have their movement speed set to a static 100, reduced to a static 60 for non-champions. Champion Disable Duration: 0.5 / 0.75 / 1 / 1.25 / 1.5 seconds. Once sprung, the box will remain for 5 seconds, during which it will automatically fire at nearby visible enemies every 0.5 seconds, dealing magic damage with each attack. If the box attacks only one target, it deals increased damage. Magic Damage: 10 / 15 / 20 / 25 / 30 (+12% AP); Increased Damage: 25 / 40 / 55 / 70 / 85 (+18% AP); Bonus Monster Damage: 20 / 35 / 50 / 65 / 80; Total Monster Damage: 30 / 50 / 70 / 90 / 110 (+12% AP); Increased Monster Damage: 45 / 75 / 105 / 135 / 165 (+18% AP). See Pets for more details about boxes.
+* Map-Specific Differences: Info: Targeting input; Location: Damage type: Magic; Counters: Spell shield, parries; Blocked: Not disabled; Deceive's bonus damage adds directly to the damage instance of the basic attack. Map-Specific Differences: Howling Abyss differences: Limited to 6 Boxes active; Ultra Rapid Fire differences: Limited to 6 Boxes active; Arena differences: Fear duration changed to 0.5 / 0.625 / 0.75 / 0.875 / 1 second; Cooldown changed to 17 seconds.
+
+[*Two-Shiv Poison*]
+
+* Cost: 75 Mana
+* Cooldown: 8 seconds
+* Cast time: 0.25 seconds
+* Target range: 625
+* Passive: Shaco's basic attacks slow enemies for 2 seconds while Two-Shiv Poison is not on cooldown.
+* Active: Shaco throws a dagger at the target enemy that deals magic damage, increased by 50% if they are below 30% of their maximum health, and slows them for 3 seconds. Magic Damage: 70 / 95 / 120 / 145 / 170 (+80% bonus AD) (+60% AP); Increased Damage: 105 / 142.5 / 180 / 217.5 / 255 (+120% bonus AD) (+90% AP); Slow: 20 / 22.5 / 25 / 27.5 / 30%. Backstab Bonus: The dagger deals an additional 15 − 50 (based on level) (+10% AP) bonus magic damage, increased to 22.5 − 75 (based on level) (+15% AP) if the target is below 30% of their maximum health.
+* Map-Specific Differences: Info: Targeting input; Location: Damage type: Magic; Counters: Spell shield; Blocked: Blocked; Shaco replicates the last attack animation he performed for Two-Shiv Poison's animation. If the target becomes untargetable, dies, or is too far away or no longer in sight during the cast time, this ability will cancel but does not go on cooldown nor pay its cost (if applicable).
+
+[*Hallucinate*]
+
+* Cost: 100 Mana
+* Cooldown: 100 / 90 / 80 seconds
+* Cast time: 0.25 seconds
+* Effect radius: 250
+* Active: Shaco vanishes for 0.5 seconds and blinks in the target direction while creating a clone of himself that is summoned in the opposite direction, remaining within control range of him as a controllable clone for up to 18 seconds. Hallucinate can be recast at any time while the clone is alive, and can be used while affected by cast-inhibiting crowd control. Recast: Shaco commands the clone to move to the target location. The clone will explode upon dying or expiring to deal magic damage to nearby enemies and deploy three mini-boxes that activate instantly, fearing nearby enemies for 1 second. Magic Damage: 150 / 225 / 300 (+70% AP); The boxes possess Jack in the Box's effects, except they have a doubled, but shared health, and deal modified magic damage with each attack, increased when attacking a single unit. Modified Magic Damage: 10 / 20 / 30 (+10% AP); Increased Modified Damage: 25 / 50 / 75 (+15% AP). See Pets for more details about Shaco's clone.
+* Map-Specific Differences: Info: Targeting input; Direction: Damage type: Magic; Counters: Spell shield, grounded; Not disabled: Not disabled; Shaco and the Hallucination face each other the moment of their appearance. The explosion and the boxes apply area damage, while the clone deals pet damage. Hallucinate will cast from wherever Shaco is at the end of the cast time. When Shaco dies, the clone will automatically target the closet visible enemy champion within 1500 units. The clone will always spawn in the opposite direction of the cursor. If Deceive and Hallucinate are used in quick succession, the clone will spawn in the direction of the cursor instead. Pets: [Jack in the Box / Mini-Box](https://leagueoflegends.fandom.com/wiki/Jack_in_the_Box), [Hallucination](https://leagueoflegends.fandom.com/wiki/Hallucination)
+
+**Pets:**
+
+* [Jack in the Box / Mini-Box](https://leagueoflegends.fandom.com/wiki/Jack_in_the_Box)
+* [Hallucination](https://leagueoflegends.fandom.com/wiki/Hallucination)
+
+**Bounty:** Gold, Exp, CS: 10
+
+**Champion Skins:**
+
+* Original
+* Mad Hatter
+* Royal
+* Nutcracko
+* Asylum
+* Workshop
+* Highstakes
+* Snowdown Showdown
+* Legacy
+* New SFX/VFX
+* Wonders of the World
+* New Animations/Recall
+* Winterblessed
+* Soul Fighter
+* Crime City Nightmare
+* Arcanists
+
+**Voice filter:** New SFX/VFX
+
+**Chromas:**
+
+* Dark Star Shaco Chromas
+* Catseye
+* Emerald
+* Obsidian
+* Pearl
+* Ruby
+* Arcanist Shaco Chromas
+* Aquamarine
+* Emerald
+* Rainbow
+* Ruby
+* Sapphire
+* Tanzanite
+* Turquoise
+
+**Story:**
+
+[Shaco's story](https://universe.leagueoflegends.com/en_US/champion/shaco/)
+
+[2]
+
+**See also:**
+
+* [League of Legends Wiki](https://leagueoflegends.wikia.com/wiki/Shaco)
+* [Cancelled Champions](https://leagueoflegends.wikia.com/wiki/Cancelled_Champions)
+* [Ao Shin](https://leagueoflegends.wikia.com/wiki/Ao_Shin)
+* [Avasha](https://leagueoflegends.wikia.com/wiki/Avasha)
+* [Averdrian](https://leagueoflegends.wikia.com/wiki/Averdrian)
+* [CeeCee](https://leagueoflegends.wikia.com/wiki/CeeCee)
+* [Cyborg Cowboy](https://leagueoflegends.wikia.com/wiki/Cyborg_Cowboy)
+* [Eagle Rider](https://leagueoflegends.wikia.com/wiki/Eagle_Rider)
+* [Gavid](https://leagueoflegends.wikia.com/wiki/Gavid)
+* [Husk](https://leagueoflegends.wikia.com/wiki/Husk)
+* [Iron Engineer](https://leagueoflegends.wikia.com/wiki/Iron_Engineer)
+* [Ivan](https://leagueoflegends.wikia.com/wiki/Ivan)
+* [Omen](https://leagueoflegends.wikia.com/wiki/Omen)
+* [Priscilla](https://leagueoflegends.wikia.com/wiki/Priscilla)
+* [Rob Blackblade](https://leagueoflegends.wikia.com/wiki/Rob_Blackblade)
+* [Seth](https://leagueoflegends.wikia.com/wiki/Seth)
+* [Tabu](https://leagueoflegends.wikia.com/wiki/Tabu)
+* [Tiki](https://leagueoflegends.wikia.com/wiki/Tiki)
+* [Urf](https://leagueoflegends.wikia.com/wiki/Urf)
+* [Well](https://leagueoflegends.wikia.com/wiki/Well)
+* [References](https://leagueoflegends.wikia.com/wiki/Shaco#References)
+
+**References:**
+
+* [Shaco's profile page](https://www.leagueoflegends.com/en-us/champions/shaco/)
+* [August's Reddit post](https://www.reddit.com/r/leagueoflegends/comments/8gei13/shaco_gameplay_update_changelog/)
+* [Trivia](https://leagueoflegends.fandom.com/wiki/Shaco#Trivia)

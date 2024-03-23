@@ -1,0 +1,247 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * Champions
+      * Amumu
+        **Format:**
+        ```vbnet
+        •
+        League of Legends
+        •
+        •
+        Amumu
+        
+        **Gameplay**
+        •
+        Cosmetics
+        •
+        Audio
+        •
+        Development
+        •
+        Patch History
+        •
+        History
+        •
+        Trivia
+        
+        **Base statistics**
+        Health: 685 + 94
+        Mana: 285 + 40
+        Health regen. (per 5s): 9 + 0.85
+        Mana regen. (per 5s): 7.4 + 0.55
+        Armor: 30 + 4
+        Attack damage: 53 + 3.8
+        Magic resist.: 32 + 2.05
+        Crit. damage: 175%
+        Move. speed: 335
+        Attack range: 125
+        Attack speed: Base AS: 0.736, Attack windup: 23.384%
+        AS ratio: 0.638, Bonus AS: +2.18%
+        Unit radius: Gameplay radius: 55, Selection radius: 100, Pathing radius: 30, Acq. radius: 600
+        
+        **Special statistics**
+        ARAM: Nexus Blitz: One For All: URF: Ult Spellbook: Arena: Damage Dealt: +0%, Damage Received: +0%
+        
+        **Abilities**
+        [
+          "**Cursed Touch**",
+          "**Bandage Toss**",
+          "**Despair**",
+          "**Tantrum**",
+          "**Curse of the Sad Mummy**"
+        ]
+        
+        **Champion skins**
+        [
+          "Original",
+          "Pharaoh",
+          "Vancouver",
+          "Winter Sports",
+          "Legacy",
+          "Emumu",
+          "Snowdown Showdown",
+          "Almost-Prom King",
+          "Day Job",
+          "Little Knight",
+          "Cristina Milizia",
+          "Unknown artist",
+          "Loot eligible",
+          "Pharaoh",
+          "Legacy",
+          "Vancouver",
+          "Winter Sports",
+          "Legacy",
+          "Emumu",
+          "Snowdown Showdown",
+          "Almost-Prom King",
+          "Day Job",
+          "Little Knight"
+        ]
+
+        **Champion lore**
+        League of Legends
+        •
+        Amumu
+        Release date: 2009-06-26
+        Last changed: V13.11
+        Class(es): Vanguard, Legacy, Tank, Mage
+        Position(s): Jungle, Support
+        Resource: Mana
+        Range type: Melee
+        Adaptive type: Magic
+        Store price: 450 | 260 (crafting)
+        
+        **Cursed Touch**
+        Passive: Amumu's basic attacks and Curse of the Sad Mummy are empowered to mark enemies with Curse for 3 seconds, refreshing on subsequent applications and Despair's per-tick damage.
+        Cursed targets receive 10% bonus true damage from all incoming pre-mitigation magic damage.
+        
+        **Bandage Toss**
+        COST: 45 / 50 / 55 / 60 / 65 mana
+        CAST TIME: 0.25s
+        STATIC COOLDOWN: 3s
+        RECHARGE: 16 / 15.5 / 15 / 14.5 / 14s
+        RANGE: 1100
+        WIDTH: 160
+        SPEED: 2000 / 1800
+        Active: Amumu throws a bandage in the target direction that deals magic damage to the first enemy hit, stunning them for 1 second and pulling him to them, during which they are revealed.
+        Magic Damage: 70 / 95 / 120 / 145 / 170 (+ 85% AP)
+        
+        **Despair**
+        Toggle: Amumu cries a continuous pool of tears, dealing magic damage every 0.5 seconds to nearby enemies.
+        Magic Damage Per Tick: 7 (+ 0.575 / 0.625 / 0.75 / 0.875 / 1% (+ 0.25% per 100 AP)) of target's maximum health
+        
+        **Tantrum**
+        COST: 35 mana
+        COOLDOWN: 9 / 8 / 7 / 6 / 5s
+        CAST TIME: 0.25s
+        PASSIVE: Amumu reduces every instance of pre-mitigation physical damage taken, capped at 50% of the damage instance.
+        Physical Damage Reduction: 5 / 7 / 9 / 11 / 13 (+ 3% bonus armor, + 3% bonus magic resistance)
+        ACTIVE: Amumu releases his anger, dealing magic damage to nearby enemies.
+        Magic Damage: 65 / 100 / 135 / 170 / 205 (+ 50% AP)
+        Tantrum's current cooldown is reduced by 0.75s whenever Amumu is hit by a basic attack.
+        
+        **Curse of the Sad Mummy**
+        COST: 100 / 150 / 200 mana
+        COOLDOWN: 150 / 125 / 100s
+        CAST TIME: 0.25s
+        EFFECT RADIUS: 550
+        Active: Amumu entangles nearby enemies in bandages, dealing magic damage as well as knocking down and stunning them for 1.5 seconds.
+        Magic Damage: 200 / 300 / 400 (+ 80% AP)
+        
+        **Champion skins**
+        [
+          "Original",
+          "Pharaoh",
+          "Vancouver",
+          "Winter Sports",
+          "Legacy",
+          "Emumu",
+          "Sad Robot",
+          "Re-Gifted",
+          "Surprise Party",
+          "Infernal",
+          "Hextech",
+          "Porcelain",
+          "Heartthrobs and Heartaches"
+        ]
+
+        **Champion lore**
+        Amumu is a champion in League of Legends.
+        
+        **Lore**
+        Legend claims that Amumu is a lonely and melancholy soul from ancient Shurima, roaming the world in search of a friend. Doomed by an ancient curse to remain alone forever, his touch is death, his affection ruin. Those who claim to have seen him describe a living cadaver, small in stature and wrapped in creeping bandages. Amumu has inspired myths, songs, and folklore told and retold for generations—such that it is impossible to separate truth from fiction.
+        ```
+
+        *Cristina Milizia*
+        *Unknown artist*
+        *Loot eligible*
+        *Pharaoh*
+        *View in 3D: 260 (25.06.2009)*
+        *Boy-king of the southern wastes, Amumu's mummified body still haunts the halls of his ancient tomb. His mournful sobbing can be heard over the brutal desert winds, luring in unwitting adventurers.*
+        *Cristina Milizia*
+        *Unknown artist*
+        *Loot eligible*
+        *Winter Sports*
+        *View in 3D: 520 (01.08.2010)*
+        *When your friends let you down, the best thing to do is start a rock band driven by hard emotions.*
+        *Cristina Milizia*
+        *Unknown artist*
+        *Loot eligible*
+        *Goth*
+        *View in 3D: 520 (14.12.2010)*
+        *Like decorative soaps or a fifth pair of socks, Amumu has been passed back and forth between disgruntled family members for generations. For some reason nobody seems to want the sobbing, accursed mummy boy.*
+        *Cristina Milizia*
+        *Unknown artist*
+        *Loot eligible*
+        *Snowdown Showdown*
+        *View in 3D: 520 (07.02.2011)*
+        *Cristina Milizia*
+        *Unknown artist*
+        *Loot eligible*
+        *Day Job*
+        *View in 3D: 750 (18.07.2011)*
+        *A diminutive knight whose heart is brave and true, Sir Amumu of Shurima wants only to see peace reign the land in his lifetime.*
+        *Cristina Milizia*
+        *Katie 'TeaTime' De Sousa*
+        *Medieval*
+        *Loot eligible*
+        *Sad Robot*
+        *View in 3D: 1350 (28.05.2012)*
+        *What's worse than a robot without a heart? A child without a friend.*
+        *Cristina Milizia*
+        *Concept Art House*
+        *Mad Scientists*
+        *Loot eligible*
+        *Voice filter*
+        *New SFX/VFX*
+        *New Animations/Recall*
+        *Surprise Party*
+        *View in 3D: 1350 (31.03.2015)*
+        *When ancient pyromancers unleashed the malevolent Infernals upon the world, they also unintentionally summoned younger, lonelier creatures. A mere spark compared to the fiery monsters now ravaging the land, Amumu seeks only friendship… unwittingly incinerating all those he touches.*
+        *Cristina Milizia*
+        *Rudy Siswanto*
+        *Infernal*
+        *Loot eligible*
+        *New SFX/VFX*
+        *New Animations/Recall*
+        *Chromas*
+        *Amethyst, Aquamarine, Catseye, Citrine, Pearl, Rainbow, Ruby, Sapphire, Infernal*
+        *View in 3D: 1350 (16.10.2018)*
+        *A mechanical boy intended as a playmate for wealthy children, Amumu has been long forgotten in the advent of newer and more advanced Hextech innovations. But a child has feelings, and within his artificial mind something has begun to awaken that will change the history of Hextech forever.*
+        *Cristina Milizia*
+        *Augusto Quirino, West Studio*
+        *Hextech*
+        *Loot eligible*
+        *New SFX/VFX*
+        *New Animations/Recall*
+        *Pumpkin Prince*
+        *View in 3D: 1350 (22.10.2020)*
+        *A lonely lad and prince of the patch, Amumu watches year after year as his people are decimated by possums and rowdy teenagers.*
+        *Cristina Milizia*
+        *David Villegas, West Studio*
+        *Trick-or-Treat*
+        *Loot eligible*
+        *Legacy*
+        *New SFX/VFX*
+        *New Animations/Recall*
+        *Chromas*
+        *Aquamarine, Catseye, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Sandstone, Turquoise, Porcelain*
+        *View in 3D: 1350 (26.01.2022)*
+        *Eternally young due to his bond with the Rat Relic, Amumu's innocence belies centuries of existence. He's been lonely in ages past, but no more: Lux is like his big sister, and Kindred is his… Kindred? Companionship hasn't stopped his occasional tantrums, of course, but at least now there's someone to shine his porcelain eyes after a nice cathartic cry.*
+        *Cristina Milizia*
+        *Ina Wong, West Studio*
+        *Heartthrobs and Heartaches*
+        *Loot eligible*
+        *New SFX/VFX*
+        *New Animations/Recall*
+        *Chromas*
+        *Amethyst, Catseye, Emerald, Obsidian, Pearl, Rose Quartz, Ruby, Turquoise*
+        
+        **Patch history**
+        V13.11: Despair: Base damage per tick reduced to 7 from 10.
+        V13.9: Despair: Base damage per tick changed to 10 at all ranks from 6 / 8 / 10 / 12 / 14. Health ratio per tick increased to 0.5 / 0.625 / 0.75 / 0.875 / 1% of target's maximum health from 0.5 / 0.575 / 0.65 / 0.725 / 0.8%...
+        
+        ... (continued in the expanded patch notes)
+        ```

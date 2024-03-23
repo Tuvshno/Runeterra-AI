@@ -1,0 +1,292 @@
+**Games**
+
+* Universe
+  * **•**
+  * League of Legends
+    * **•**
+    * Teamfight Tactics
+    * **•**
+    * Legends of Runeterra
+
+**Image**
+
+* Bard
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Bard**
+
+**Release date:** 2015-03-12
+**Last changed:** V14.4
+
+**Classes(es):** Catcher
+*Legacy*
+Support
+Mage
+
+**Position(s):** Support
+
+**Resource:** Mana
+
+**Range type:** Ranged
+
+**Adaptive type:** Magical
+
+**Store price:** 4800
+| 880
+**Crafting:** + 2880
+
+**Ratings**
+
+* Damage: 1
+* Toughness: 1
+* Control: 3
+* Mobility: 2
+* Utility: 3
+
+**Style:** Difficulty: Champion Spotlight
+
+* **Bard Champion Spotlight**
+* Bard is a champion in League of Legends.
+[1]
+
+**Base statistics**
+
+* Health: 630 + 103
+* Mana: 350 + 50
+* Health regeneration (per 5s): 5.5 + 0.55
+* Mana regeneration (per 5s): 6 + 0.45
+* Armor: 34 + 5
+* Attack damage: 52 + 3
+* Magic resistance: 30 + 1.3
+* Crit. damage: 175%
+* Move. speed: 330
+* Attack range: 500
+* Attack speed: Base AS: 0.658
+* Attack windup: 18.75%
+* AS ratio: N/A
+* Bonus AS: +2 %
+* Missile speed: 2000
+* Unit radius: N/A
+* Gameplay radius: 80
+* Selection radius: 89
+* Pathing radius: 35
+* Acq. radius: 600
+
+**Special statistics**
+
+* ARAM, Nexus Blitz, One For All, URF, Ultra Rapid Fire, Ult Spellbook, Arena
+* Damage Dealt: +15%
+* Damage Received: -15%
+* Healing: +20%
+* Damage Dealt: +0%
+* Damage Received: -10%
+* Ability Haste: +20
+
+**Abilities**
+
+* **[ ]**
+* Traveler's Call
+* **[ ]**
+* Cosmic Binding
+* **[ ]**
+* Caretaker's Shrine
+* **[ ]**
+* Magical Journey
+* **[ ]**
+* Tempered Fate
+
+**Caretaker's Shrine**
+
+* **Cost:** 70 Mana
+* **Cast time:** 0.25s
+* **Recharge:** 18s
+* **Target range:** 800
+* Active: Bard conjures a shrine at the target location that gathers power over 5 seconds and grants sight of its surroundings for 1.8s. If the champion was an ally or Bard himself, they are healed for an amount based on the shrine's power and gain bonus movement speed that decays over 1.5s.
+* Minimum Heal: 25 / 50 / 75 / 100 / 125 (+ 30% AP)
+* Maximum Heal: 50 / 87.5 / 125 / 162.5 / 200 (+ 60% AP)
+* Bonus Movement Speed: 20 / 22.5 / 25 / 27.5 / 30% (+ 5% per 100 AP)
+* Bard periodically stocks a Caretaker's Shrine charge, up to a maximum of 2.
+
+**Map-Specific Differences**
+
+* Howling Abyss, Nexus Blitz, Arena
+
+**Video**
+
+* Bard IVideo.ogv
+* Cosmic Binding Video.ogv
+* Caretaker's Shrine Video.ogv
+* Magical Journey Video.ogv
+* Tempered Fate Video.ogv
+
+**Champion skins**
+
+* Original
+* Utora, Sebastien 'Chemicalseb' Najand
+* Evan 'Somnicidal' Monteiro
+* Loot eligible
+* Chromas: Original Bard Chromas
+* Ivy
+* Marigold
+* Sage
+* Elderwood
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Snow Day
+* View in 3D
+* 880
+* 12.03.2015
+* A traveler from beyond the stars, Bard is an agent of serendipity who fights to maintain a balance where life can endure the indifference of chaos. Many Runeterrans sing songs that ponder his extraordinary nature, yet they all agree that the cosmic vagabond is drawn to artifacts of great magical power. Surrounded by a jubilant choir of helpful spirit meeps, it is impossible to mistake his actions as malevolent, as Bard always serves the greater good… in his own odd way.
+* N/A; Utora, Sebastien 'Chemicalseb' Najand
+* Evan 'Somnicidal' Monteiro
+* Loot eligible
+
+* Elderwood
+* View in 3D
+* 975
+* 12.03.2015
+* Bard is a creature of the old world, they say, older than the great forest, and older even than the seeds it sprouted from. Few records remain of the age before the gods, but it is likely Bard predates them—a truly primordial being, tending the land since time's first dawn.
+* N/A; Utora, Sebastien 'Chemicalseb' Najand
+* Unknown artist
+* Elderwood
+* Loot eligible
+
+* Snow Day
+* View in 3D
+* 1350
+* 10.12.2015
+* Bard's vast cosmic powers and inscrutable nature are great assets in a snowball fight. Summoning an array of enchanted Winterland penguins, self-warming cups of cocoa, and portals to nowhere give this Wandering Caretaker an unbeatable edge.
+* N/A; Utora, Sebastien 'Chemicalseb' Najand
+* Kelly Aleshire
+* Snow Day
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas: Snow Day Bard Chromas
+* Golden
+* Bard Bard
+* View in 3D
+* 750
+* 17.11.2016
+* Though playing a famously unpopular Riftquest character class, Bard Bard has turned the ancient art of song into a reality-altering weapon of death. Unfortunately his turns take forever, since he has no concept of linear time and speaks in those weird “bwong” sounds.
+* N/A; Utora, Sebastien 'Chemicalseb' Najand
+* Christian Fell
+* Rift Quest
+* Loot eligible
+* New SFX/VFX
+* Astronaut
+* View in 3D
+* 1350
+* 28.05.2020
+* In space, no one can hear you chime.
+* N/A; Utora, Sebastien 'Chemicalseb' Najand
+* Lucas Parolin, West Studio
+* Astronauts
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas: Astronaut Bard Chromas
+* Amethyst
+* Aquamarine
+* Catseye
+* Chrono
+* Citrine
+* Emerald
+* Rose Quartz
+* Ruby
+* Cafe Cuties
+* View in 3D
+* 1350
+* 02.12.2021
+* Bard is a wandering wordless connoisseur of the finest cafes. If he leaves behind a blessing in the form of a teacup? A hundred years of sweet success. No one knows where the Teapot Troubadour came from, or if he has a purpose beyond delighting in patisserie, but a visit from Bard instantly puts any cafe on the map!
+* N/A; Utora, Sebastien 'Chemicalseb' Najand
+* Augusto Quirino, West Studio
+* Cafe Cuties
+* Loot eligible
+* New SFX/VFX
+* New Animations/Recall
+* Chromas: Cafe Cuties Bard Chromas
+* Catseye
+* Emerald
+* Obsidian
+* Rose Quartz
+* Ruby
+* Sapphire
+* Tanzanite
+* Turquoise
+
+**Patch history**
+
+* V14.4
+* Stats: Armor growth reduced to 5 from 5.2.
+* Base attack speed increased to 0.658 from 0.625.
+* Attack speed ratio increased to 0.658 from 0.625.
+* Traveler's Call: Damage per 5 chimes reduced to 10 from 14. AP ratio increased to 40% AP from 30% AP.
+* Cosmic Binding: Base damage reduced to 80 / 120 / 160 / 200 / 240 from 80 / 125 / 170 / 215 / 260. AP ratio increased to 80% AP from 65% AP.
+
+* V14.2
+* Caretaker's Shrine: Bug Fix: Preparation time of the shrine is now properly synced with the VFX of the ability.
+* Bug Fix: Can no longer be cast without going on cooldown.
+* Tempered Fate: Bug Fix: Stasis effect now properly disables Dragons' ability to move.
+* September 14th Hotfix: Caretaker's Shrine: Bug Fix: No longer loses a charge if he casts it outside of range and cancels the ability.
+* Traveler's Call: Movement speed duration increased to 20 seconds from 7. Maximum number of stacks increased to 10 from 5.
+* Caretaker's Shrine: New Effect: Now stores 2 charges of the ability with an 18 second recharge timer. Bonus movement speed reduced to 20 / 22.5 / 25 / 27.5 / 30% from 30% at all ranks. New Effect: Bonus movement speed now scales with 5% per 100 AP. Shrine charge timer reduced to 5 seconds from 10. Cooldown reduced to 0 seconds from 14.
+* V13.15
+* Caretaker's Shrine: Bug Fix: Fixed a bug causing it to heal either the maximum or minimum amount.
+* Bug Fix: Now properly heals allies.
+* Traveler's Call: Bug Fix: Enemies now properly can see chimes through the fog of war.
+* V13.3: Traveler's Call: Bug Fix: Location of chimes on the mini-map are not visible to all other players once more.
+* V13.1: Caretaker's Shrine: Bug Fix: Can no longer cast the spell twice in a row when targeting an ally and a location each in quick succession.
+* V12.14: General: Bug Fix: Knocked up/stunned animation is now correctly played.
+* V12.10: Stats: Base health increased to 560 from 535. Base health regeneration reduced to 5.5 from 7.5. Armor growth increased to 5.2 from 4.8. Magic resistance growth increased to 1.3 from 0.5.
+* Caretaker's Shrine: Minimum base heal reduced to 25 / 50 / 75 / 100 / 125 from 30 / 60 / 90 / 120 / 150. Maximum base heal reduced to 50 / 87.5 / 125 / 162.5 / 200 from 60 / 105 / 150 / 190 / 230.
+* V12.8: Traveler's Call: Base damage increased to 35 from 30. Damage per 5 chimes increased to 14 from 12. Caretaker's Shrine: Maximum base heal increased to 60 / 110 / 150 / 190 / 230 from 70 / 110 / 150 / 190 / 230.
+* V12.1: Traveler's Call: Bug Fix: Fixed a bug where the Meeps would become targetable after he traveled through Hexgates. Tempered Fate: Bug Fix: Fixed a bug where it did not interact with Glacial Augment correctly. Enemies put into stasis are now simultaneously stunned for the same duration. This stun is affected by Tenacity, including negative Tenacity.
+* V11.21: Traveler's Call: Undocumented/Bug Fix: Secondary targets hit by Meeps now trigger Ravenous Hydra and Muramana effects.
+* V11.10: Traveler's Call: Base damage reduced to 30 from 40.
+* V10.25: Traveler's Call: Bug Fix: Attacking a target multiple times with Meeps now properly reapplies Imperial Mandate.
+* V10.16: Stats: Base health reduced to 535 from 575. Caretaker's Shrine: Bonus movement speed reduced to 50% from 100%. Cooldown increased to 14 seconds from 12. Magical Journey: Cooldown increased to 22 / 20.5 / 19 / 18 / 17 seconds from 18 / 17 / 16 / 15 / 14.
+* V10.5: Traveler's Call: Damage per 5 chimes reduced to 12 from 15.
+* V9.18: Traveler's Call: Bug Fix: Meep cone attacks now properly break spell shields.
+* V9.14: Stats: Base health increased to 575 from 535. Base health regeneration reduced to 5.5 from 7.5.
+* Magical Journey: Travel speed increased to 900 from 800. Ally bonus speed changed to 33% at all ranks from 10 / 20 / 30 / 40 / 50%.
+* V8.17: Tempered Fate: Cooldown reduced to 110 / 95 / 80 seconds from 130 / 115 / 90.
+* V8.10: Cosmic Binding: Bug Fix: Can no longer stun units against Gangplank's Powder Keg with his Cosmic Binding.
+* Caretaker's Shrine: Mana cost reduced to 90 at all ranks from 100 / 105 / 110 / 115 / 120.
+* V8.7: General: Bug Fix: No longer T-poses when laughing. Magical Journey: Bug Fix: Is no longer missing approach lines when clicking on Magical Journey to enter the portal.
+* Snow Day Bard and Elderwood Bard: Bug Fix: No longer use base VFX when placing Caretaker's Shrine.
+* Bard Bard: Bug Fix: Is no longer missing approach lines when clicking on Magical Journey to enter the portal.
+* V7.24: Stats: Base health regeneration increased to 7.5 from 5.
+* Traveler's Call: Meep base damage increased to 40 from 30.
+* V7.22: Stats: Base armor increased to 25 from 21.
+* Snow Day Bard: General: Bug Fix: Reattached a penguin's leg in recall and joke.
+* Caretaker's Shrine: Bug Fix: No longer has a higher volume level compared to his classic skin.
+* V7.9: Stats: Magic resistance growth increased to 0.5 from 0.
+* V7.7: Traveler's Call: Meep base damage is now 30 (+15 every 5 Chimes) from 30 − 460 (based on Chimes) (+20 every 5 thereafter). Meep slow changed to 25 – 75 (based on Chimes)% from 25 – 80 (based on Chimes)%. Meep AoE unlock requirement reduced to 15 Chimes from 25 Chimes. Meep AoE increased radius requirement reduced to 35 Chimes from 65 Chimes. Meep recharge time reduced to 8 / 7 / 6 / 5 / 4 (based on Chimes) from 8 / 7 / 6 / 5 / 4 (based on Chimes). Meep stock limit increased to 1 − 9 (based on Chimes) from 1 / 2 / 3 / 4 (based on Chimes).
+* Traveler's Call: Base movement speed bonus when picking up chimes increased to 24% from 18%. Movement speed bonus per stack when picking up chimes increased to 14% from 12%. Maximum bonus movement speed at 5 chimes increased to 80% from 66%.
+* V7.4: Traveler's Call: Base movement speed bonus when picking up chimes increased to 18% from 15%. Movement speed bonus per stack when picking up chimes increased to 12% from 10%. Maximum bonus movement speed at 5 chimes increased to 66% from 60%.
+* V7.1: Cosmic Binding: Bug Fix: Fixed a bug causing stun to last slightly longer than intended. Bug Fix: Fixed a few cases where the snowflake ground decoration on Snow Day Bard's Cosmic Binding stun appeared in weird places on certain champions.
+* V6.24: Snow Day Bard: Singing VO during his dance animation is no longer delayed.
+* V6.14: Magical Journey: Restored the pathing indicator line that appears between clicking on Snow Day Bard's Magical Journey and entering it to become a penguin.
+* V6.12: Howling Abyss: Traveler's Call: Chime spawn rate changed to every 40 seconds instead of 50 seconds (initial spawn unchanged).
+* V6.7: Magical Journey: Bug Fix: Traveling through the portal no longer rarely takes you in the wrong direction.
+* V6.1: Traveler's Call: New Effect: The “25 Chimes milestone” “area of effect damage improvement” now also makes the Meeps strike in a 150-unit-radius area around the target in addition to the cone behind them.
+* V5.24: Traveler's Call: Meeps basic recharge timer reduced to 8 seconds from 10.
+* Caretaker's Shrine: Uncharged shrine AP ratio increased to 30% AP from 20% AP. Fully-charged shrine AP ratio increased to 60% AP from 45% AP.
+* Magical Journey: Cooldown reduced to 20 / 19 / 18 / 17 / 16 seconds from 26 / 24 / 22 / 20 / 18.
+* Clicking on a Magical Journey portal is now more forgiving.
+* Bard will now score an assist if allies who use the portal score a kill shortly thereafter.
+* Clones (such as those created by Shaco, LeBlanc, Mordekaiser, and Yorick) can now be commanded to use the portal.
+* Tempered Fate: Neutral monsters will no longer have their health reset while in stasis.
+* V5.5: Added Trivia.
+
+[1] The text "Bard Champion Spotlight" refers to a video or article about the champion Bard that is often used to showcase their abilities and lore. It is not part of the main text and can be removed without affecting the meaning of the text.

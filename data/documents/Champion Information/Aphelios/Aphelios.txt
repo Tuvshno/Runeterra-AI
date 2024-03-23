@@ -1,0 +1,327 @@
+**Games**
+
+* Universe
+
+**—**
+
+**League of Legends**
+
+* **•**
+* League of Legends
+* **•**
+
+**Image**
+
+* Aphelios
+
+**Gameplay**
+
+**•**
+Cosmetics
+
+* **•**
+
+**Audio**
+
+**•**
+Patch history
+
+* **•**
+
+**Past versions**
+
+**Aphelios**
+
+* the Weapon of the Faithful
+* Release date: 2019-12-11
+* Last changed: V14.1
+
+**Class(es)**
+
+* Marksman
+* Legacy
+* Marksman
+
+**Position(s)**
+
+* Bottom
+
+**Resource**
+
+* Mana
+
+**Range type**
+
+* Ranged
+
+**Adaptive type**
+
+* Physical
+
+**Store price**
+
+* 4800
+* 880
+* Crafting
+* + 2880
+
+**Ratings**
+
+* Damage: 3
+* Toughness: 1
+* Control: 2
+* Mobility: 1
+* Utility: 1
+
+**Style**
+
+* Difficulty: Champion Spotlight
+
+**Aphelios Champion Spotlight**
+
+**Aphelios**
+
+* is a
+* champion
+* in
+* League of Legends
+* .
+
+[1]
+**Base statistics**
+
+* Health: 580 (+102)
+* Mana: 348 (+42)
+* Health regen. (per 5s): 3.25 (+0.55)
+* Mana regen. (per 5s): 6.5 (+0.4)
+* Armor: 26 (+4.2)
+* Attack damage: 55 (+2.3)
+* Magic resist.: 30 (+1.3)
+* Crit. damage: 175%
+* Move. speed: 325
+* Attack range: 550
+* Attack speed: Base AS: 0.64, Attack windup: 15.333%, AS ratio: N/A, Bonus AS: +2.1%
+* Unit radius: Gameplay radius: 65, Selection radius: 110, Pathing radius: 35, Acq. radius: 750
+
+**Special statistics**
+
+* ARAM: Nexus Blitz: One For All: URF: Ult Spellbook: Arena
+* Damage Dealt: +0%, Damage Received: -5%, Damage Dealt: +0%, Damage Received: +0%, Damage Dealt: +8%, Damage Received: +0%, Damage Dealt: +5%, Damage Received: +0%, Damage Dealt: -5%, Damage Received: +0%
+
+**Abilities**
+
+[ ]
+**Edit**
+
+* The Hitman and the Seer
+* The Hitman and the Seer
+* **Innate:**
+Aphelios
+has access to an arsenal of 5
+Moonstone Weapons
+, created by his sister
+Alune
+. He equips two weapons at any one time, one as his main weapon and one as his off-hand. Each weapon has a unique basic attack and passive effect. Aphelios begins the game with Calibrum as his main weapon and Severum in his off-hand, with Gravitum, Infernum, and Crescendum queued in reserve. The queue order can be rearranged based on weapon usage.
+* **Innate - Moonlight:** Weapons spawn with 50 Moonlight for ammunition, which is consumed on basic attacks or to cast his abilities. Abilities that cause Aphelios to attack do not cost additional Moonlight on top of their ability cost. Once his main weapon is exhausted of Moonlight, it is moved to the end of the queue and Aphelios equips the next available weapon from his reserve.
+* **Innate - Weapon Master:** Aphelios cannot improve his abilities with skill points. He starts the game with Phase and gains access to abilities at level 2. He gains access to Moonlight Vigil at level 6, which improves automatically at levels 11 and 16. Instead, Aphelios may spend his skill points to gain bonus attack damage, bonus attack speed, or lethality.
+
+[1] **Bonus Attack Damage:** 4.5 / 9 / 13.5 / 18.5 / 23.5 / 28.5
+* Bonus Attack Speed: 9 / 18 / 27 / 36 / 45 / 54%
+* Lethality: 5.5 / 11 / 16.5 / 22 / 27.5 / 33
+
+**Calibrum, the Sniper Rifle**
+
+* **Cost:** 1 Moonlight per attack
+* Aphelios gains 100 bonus attack range while Calibrum is his main weapon. Enemies damaged by Calibrum through an ability are marked for 4.5 seconds, revealing them for the duration. Aphelios's next basic attack against a marked target uses the current off-hand weapon and has 1800 range, increased missile speed, and a brief cast time that lasts shorter based on Aphelios's proximity to the target. The empowered attack will consume the marks from all targets, dealing 15 (± 20% bonus AD) bonus physical damage to the main target for each mark consumed. If Calibrum is the current off-hand weapon, the main weapon is used for the attack instead.
+
+[1] **Calibrum Details**
+
+* Moonshot Details
+* Tips & Tricks
+* Map-Specific Differences
+* Targeting input
+* Passive
+* Damage type
+* Type
+* Sub-type
+* Basic damage
+* Physical
+* Counters
+* Parries
+* Projectile
+* Blocked
+* See Notes
+* Notes
+* Crescendum's outgoing basic attack can bypass Yasuo's Wind Wall and Braum's Unbreakable, but cannot while returning.
+* Triggered Marks apply on-hit effects, stack Energized and trigger Runaan's Hurricane, but no other on-attack effects.
+* The increased basic attack range is drawn for Aphelios to differentiate it from his normal attack range.
+* Runaan's Hurricane bolts will use Calibrum's projectiles for Aphelios's attacks with Calibrum.
+* If the target becomes untargetable, dies, or is too far away or no longer in sight during the empowered attack's cast time, it will still fire despite the target being invalid.
+
+[1] (bug)
+
+**Moonshot**
+
+* **Cost:** 10 Moonlight + 60 Mana
+* **COOLDOWN:** 10 - 8 (based on level)
+* **CAST TIME:** 0.4
+* **TARGET RANGE:** 1450
+* **WIDTH:** 120
+* **SPEED:** 1850
+* Active: Aphelios fires a bolt of energy in the target direction that deals 60 - 160 (based on level) (± 42% - 60% bonus AD) (± 100% AP) physical damage to the first enemy hit.
+
+[1] **Moonshot Details**
+
+* Targeting input
+* Passive
+* Damage type
+* Type
+* Sub-type
+* Default damage
+* Physical
+* Counters
+* Spell shield
+* Projectile
+* Blocked
+* Blocked
+* Notes
+* Infernum's attack hit can be dodged or missed against the primary target.
+* Runaan's Hurricane bolts will use Infernum's projectiles when Aphelios attacks with Infernum.
+* The volley applies area damage and the follow-up attacks from the off-hand weapon deal basic damage.
+* This ability will cast from wherever the caster is at the start of the cast time.
+* The hitbox also includes a very small portion behind Aphelios's character model.
+* Aphelios is locked out of declaring attacks until the volley of attacks have been resolved.
+* The automatic attacks do not trigger any on-attack effects.
+* Pix does not increase the damage of the volley.
+* The volley of attacks won't deal any damage, if they are dodged, blocked, or if Aphelios is blinded.
+
+**Severum, the Scythe Pistol**
+
+* **Cost:** 1 Moonlight per attack
+* Basic attacks with Severum are non-projectile and have an uncancellable windup. Severum's attacks heal Aphelios for 2% - 7.1% (based on level) of the post-mitigation damage dealt, increased to 5% - 17.75% (based on level) for attacks from abilities. Healing from Severum in excess of Aphelios's maximum health is converted into a shield for an amount of up to 10 - 140 (based on level) (± 6% maximum health), lingering for up to 30 seconds.
+
+[1] **Severum Details**
+
+* Onslaught Details
+* Targeting input
+* Passive
+* Damage type
+* Type
+* Sub-type
+* Basic damage
+* Physical
+* Counters
+* Parries
+* Projectile
+* Not Blocked
+* Notes
+* Runaaan's Hurricane bolts will use Severum's attack animation instead of firing projectiles for Aphelios's attacks with Severum.
+* Targeting input
+* Auto
+* Damage type
+* Type
+* Sub-type
+* Minion Aggro
+* Physical
+* Drawn
+* Counters
+* Parries
+* Projectile
+* Blocked
+* See Notes
+* Notes
+* Severum's attacks are not intercepted, but the attacks from the off-hand weapon are during Onslaught.
+* Aphelios will also not perform the attacks while channeling Recall.
+* During Onslaught, Aphelios's attack range is reduced to 410 (by 140), and his attack commands instead issue movement commands to walk into the respective range of his target.
+* Onslaught's name is modified based on Aphelios's off-hand weapon: Precision Onslaught, Binding Onslaught, Incendiary Onslaught, Arcing Onslaught.
+* Onslaught's attacks stack Energized, but do not apply any other on-attack effects.
+* Crescendum will not deal damage if blocked by Wind Wall, but the stacks will still be gained.
+* Cosmetically, the Moonlight cost is consumed through the duration.
+
+**Gravitum, the Gravity Cannon**
+
+* **Cost:** 1 Moonlight per attack
+* Basic attacks with Gravitum slow enemies by 30% for 2.5 seconds, decaying to 10% after 0.7 seconds.
+
+[1] **Gravitum Details**
+
+* Binding Eclipse Details
+* Targeting input
+* Passive
+* Damage type
+* Type
+* Sub-type
+* Basic damage
+* Physical
+* Counters
+* Spell shield
+* Parries
+* Projectile
+* Not Blocked
+* Blocked
+* Blocked
+* Notes
+* Gravitum's debuff applies even if the target is immune to slows (via slow immunity or cc-immunity).
+* The target will be affected after losing their immunity.
+* Runaaan's Hurricane bolts will use Gravitum's projectiles when Aphelios attacks with Gravitum.
+
+[1] **Targeting input**
+
+* Passive
+
+**Damage type**
+
+* Type
+
+**Sub-type**
+
+* Basic damage
+* Physical
+
+**Counters**
+
+* Parries
+* Projectile
+* Blocked
+
+**See Notes**
+
+**Notes**
+
+* Crescendum's outgoing basic attack can bypass Yasuo's Wind Wall and Braum's Unbreakable, but cannot while returning.
+* Triggered Marks apply on-hit effects, stack Energized and trigger Runaaan's Hurricane, but no other on-attack effects.
+* The increased basic attack range is drawn for Aphelios to differentiate it from his normal attack range.
+* Runaaan's Hurricane bolts will use Calibrum's projectiles for Aphelios's attacks with Calibrum.
+* If the target becomes untargetable, dies, or is too far away or no longer in sight during the empowered attack's cast time, it will still fire despite the target being invalid.
+* (bug)
+
+**Phase**
+
+* **CAST TIME:** None
+* **STATIC COOLDOWN:** 0.8
+* Active: Aphelios switches between his main weapon and off-hand weapon over 0.25 seconds.
+
+**Weapon Queue System**
+
+* The icon of this ability reflects the next weapon that is in reserve.
+* Active: Aphelios receives a text prompt of the weapon Alune will create next.
+
+**Moonlight Vigil**
+
+* **COST:** 100 mana
+* **COOLDOWN:** 120 / 110 / 100 (based on level)
+* **CAST TIME:** 0.6
+* **TARGET RANGE:** 1300
+* **EFFECT RADIUS:** 300
+* **SPEED:** 1000
+* Active: Aphelios casts forth a lunar spotlight in the target direction that briefly grants sight of the area along its path and stops upon illuminating an enemy champion. Alune smites the area centered on the illuminated target, dealing 125 / 175 / 225 (based on level) (± 20% bonus AD) (± 100% AP) physical damage to enemy champions struck and locking-on to each target hit. After a delay, basic attacks will begin raining from the sky based on Aphelios's current main weapon, one upon each enemy locked-on by Moonlight Vigil. These attacks can critically strike for (50% + 18.75%) AD bonus physical damage. There is no range limit for locked-on targets.
+
+[1] **Calibrum:** Applies an empowered mark that deals 20 / 45 / 70 (based on level) additional physical damage per mark.
+
+[1] **Severum:** If at least one enemy is hit, Aphelios heals for 200 / 300 / 400 (based on level) health.
+
+[1] **Gravitum:** Enemies are slowed by 99% for the same duration.
+
+[1] **Infernum:** The initial blast deals an additional 50 / 100 / 150 (based on level) (± 40% bonus AD) physical damage. Attacks splash in a circle instead of a cone. Enemies will take damage from overlapping areas.
+
+[1] **Crescendum:** 3 additional spectral chakrams return to Aphelios from the first enemy hit, for a total of 4, on top of those from other enemies hit.

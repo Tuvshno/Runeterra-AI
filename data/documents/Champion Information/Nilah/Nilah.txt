@@ -1,0 +1,127 @@
+**Games**
+
+* Universe
+  * League of Legends
+    * •
+    * •
+    * Teamfight Tactics
+    * •
+    * Legends of Runeterra
+    * •
+    * Wild Rift
+
+**Image**
+
+Nilah
+
+**Gameplay**
+
+* Collection
+* Audio
+* Patch history
+* Past versions
+
+**Nilah**
+
+**Release date:** 2022-07-13
+
+**Last changed:** V14.2
+
+**Class(es):** Skirmisher, Legacy, Fighter, Assassin
+
+**Position(s):** Bottom
+
+**Resource:** Mana
+
+**Range type:** Melee
+
+**Adaptive type:** Physical
+
+**Store price:** 4800 (880 Gold, 2880 Gold for crafting)
+
+|
+
+**Crafting:** + 2880 Gold
+
+**Ratings:**
+
+* Damage: 3
+* Toughness: 1
+* Control: 1
+* Mobility: 3
+* Utility: 2
+
+**Style:** Difficulty: Nilah is a champion in League of Legends.
+[1]
+
+**Base statistics:**
+
+* Health: 570 (+101)
+* Mana: 350 (+35)
+* Health regen. (per 5s): 4
+* Mana regen. (per 5s): 0.7
+* Armor: 27 (+4.2)
+* Attack damage: 58 (+2)
+* Magic resist.: 32 (+2.05)
+* Crit. damage: 175%
+* Move. speed: 340
+* Attack range: 225
+* Attack speed: Base AS: 0.697, Attack windup: 22%, AS ratio: 0.67, Bonus AS: +3%
+* Unit radius: Gameplay radius: 65, Selection radius: 75, Pathing radius: 32, Acq. radius: 400
+
+**Special statistics:**
+
+* ARAM: Damage Dealt: -5%, Damage Received: +0%
+* Nexus Blitz: Not available
+* One For All: Damage Dealt: +0%, Damage Received: +0%
+* URF: Damage Dealt: +0%, Damage Received: +0%
+* Ult Spellbook: Damage Dealt: +0%, Damage Received: +0%
+* Arena: Damage Dealt: -5%, Damage Received: +0%
+
+**Abilities:**
+
+[
+]
+
+* **Joy Unending** (Passive)
+  * Innate: Whenever Nilah kills a minion, she and the nearest allied champion gain an additional 50% of the experience they would have lost due to sharing.
+  * Innate: Whenever a nearby allied champion uses an ability to heal or shield either Nilah or themselves, both they and Nilah receive a bonus amount equal to 7.5% of the healing or 15% of the shielding after a 0.5-second delay. Bonus shielding lasts as long as the shield that triggered the effect, up to a maximum duration of 4 seconds.
+  * Nilah will gain a portion of all healing and all shielding from nearby allies that activate either of the effects on themselves while she is within range of them. The same applies to allies that grant Nilah a heal or shield; they gain a portion of the heal or shield given to her by them, even if the heal or shield affects both units.
+  * Heal and shields granted by items, runes, and summoner spells will not trigger the increased amount.
+  * The heal and shield increases do not trigger from their own heal or shield.
+  * Nilah can receive a normal shield from nearby allies that gain physical or magic shields.
+  * The shield from Joy Unending is uncapped, but runes like Overheal will limit the shield.
+
+* **Formless Blade** (Q)
+  * Passive: Nilah gains 0% - 33% (based on critical strike chance) armor penetration. Her basic attacks and Formless Blade heal her for 0% - 15% (based on critical strike chance) of the post-mitigation damage dealt to champions, with healing in excess of her maximum health being converted to a shield that lasts 6 seconds.
+  * Active: Nilah cracks her whip-blade in a line in the target direction, dealing physical damage to all enemies struck, increased by 0% - 100% (based on critical strike chance). Formless Blade can hit structures. Casting Formless Blade during Slipstream causes a wave to be sent towards Nilah's location at the end of the dash, dealing the same damage to all enemies hit.
+  * If Formless Blade hits an enemy, Nilah's whip-blade becomes enhanced for the next 4 seconds, granting her 125 bonus attack range and 15% - 65% (based on level) bonus attack speed, and causing her basic attacks to strike in a cone, dealing 110% AD physical damage to enemies hit. Against secondary non-champion targets, this is reduced to 36.3% AD for minions and 11% AD for monsters.
+  * On-hit effects are only applied to the primary target.
+  * Mana cost: 30, Cooldown: 4 seconds, Range: 0 - 600 / -150 - 500, Width: 150, Cast Time: 0.25 seconds.
+
+* **Jubilant Veil** (W)
+  * Active: Nilah envelops herself in mist for 2.25 seconds, during which she becomes ghosted, gains 15% - 25% (based on level) bonus movement speed, dodges all non-turret basic attacks, and reduces all incoming magic damage taken by 25%.
+  * While active, touching allied champions also envelops them in the mist, granting them the same effects for 1.5 seconds.
+  * Mana cost: 60 / 45 / 30 / 15 / 0, Cooldown: 26 / 25 / 24 / 23 / 22 seconds, Cast Time: None.
+
+* **Slipstream** (E)
+  * Active: Nilah dashes a fixed distance towards or through the target unit, dealing physical damage to enemies she passes through.
+  * Nilah periodically stocks a Slipstream charge, up to a maximum of 2. Slipstream resets Nilah's basic attack timer. Formless Blade and Apotheosis can be cast during the dash.
+  * Cost: 30 mana + 1 charge, Static Cooldown: 0.5 seconds, Recharge: 22 / 19.5 / 17 / 14.5 / 12 seconds.
+  * Target Range: 550, Range: 450, Collision Radius: 150, Speed: 2200, Cast Time: None.
+
+* **Apotheosis** (R)
+  * Active: Nilah whirls her whip-blade over 1 second, dealing physical damage to nearby enemies every 0.25 seconds. Afterwards, she bursts to deal them 125 / 225 / 325 (+ 120% bonus AD) physical damage and pulls them 250 units towards her. Each hit slows targets by 10% for 3 seconds, refreshing on subsequent hits.
+  * Nilah heals herself and nearby allied champions for 30% - 45% (based on critical strike chance) of the post-mitigation damage dealt to champions, reduced to 10% against non-champions. Healing in excess of maximum health is converted to a shield that lasts 6 seconds.
+  * Nilah is unable to basic attack and cast her other abilities during Apotheosis, but she is still able to move.
+  * Mana cost: 80, Cooldown: 110 / 95 / 80 seconds, Effect Radius: 450 / 1500, Cast Time: None.
+
+**Trivia:**
+
+Nilah is one of 20 champions without a single ability power ratio on any ability: Aatrox, Camille, Darius, Dr. Mundo, Draven, Garen, Kayn, Kled, Naafiri, Olaf, Pyke, Riven, Samira, Sett, Talon, Urgot, Xayah, Yone, and Zed.
+
+**References:**
+
+* Nilah's profile page at LeagueOfLegends.com
+* League of Legends Wiki (Champions)
+* Cancelled Champions: Ao Shin, Avasha, Averdrian, CeeCee, Cyborg Cowboy, Eagle Rider, Gavid, Husk, Ivan, Omen, Priscilla, Rob Blackblade, Seth, Tabu, Tiki, Urf, and Well.

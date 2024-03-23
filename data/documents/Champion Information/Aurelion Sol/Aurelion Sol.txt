@@ -1,0 +1,488 @@
+**Games**
+
+* Universe
+
+**•**
+
+**League of Legends**
+
+**•**
+
+* Teamfight Tactics
+* Legends of Runeterra
+* Wild Rift
+
+**Image**
+
+**Aurelion Sol**
+
+**Gameplay**
+
+* Cosmetics
+* Audio
+* Development
+* Patch History
+* History
+* Trivia
+
+**Base statistics**
+
+| AurelionSol |
+| --- |
+| **Health** | 620 + 90 |
+| **Mana** | 530 + 40 |
+| **Health regeneration (per 5s)** | 5.5 + 0.55 |
+| **Mana regeneration (per 5s)** | 8 + 0.75 |
+| **Armor** | 22 + 4 |
+| **Attack damage** | 55 + 3.2 |
+| **Magic resist.** | 30 + 1.3 |
+| **Crit. damage** | 175% |
+| **Move. speed** | 335 |
+| **Attack range** | 550 |
+| **Attack speed (base AS)** | 0.625 |
+| **Attack windup** | 20% |
+| **AS ratio** | N/A |
+| **Bonus AS %** | +1.5 |
+| **Unit radius** | Gameplay radius |
+| **Selection radius** | 165 |
+| **Pathing radius** | 35 |
+| **Acq. radius** | 400 |
+
+**Special statistics**
+
+* ARAM
+* Nexus Blitz
+* One For All
+* URF
+* Ult Spellbook
+* Arena
+* Damage Dealt
+* +0%
+* Damage Received
+* +0%
+* Damage Dealt
+* +2%
+* Damage Received
+* -8%
+* Ability Haste
+* -20
+* Damage Dealt
+* +10%
+* Damage Received
+* -10%
+* Damage Dealt
+* +5%
+* Damage Received
+* +0%
+* Move Speed
+* +20%
+* Damage Dealt
+* +0%
+* Damage Received
+* +0%
+
+**Abilities**
+
+**[** ]**
+
+**Edit**
+
+**Cosmic Creator**
+
+**•**
+
+* Innate: Aurelion Sol's damaging abilities against enemies generate him permanent stacks of Stardust, which gradually augments his abilities.
+
+**Breath of Light**
+
+**•**
+
+* Cost: 15 / 17.5 / 20 / 22.5 / 25 Mana per 0.5 seconds
+* Cooldown: 3 seconds
+* Cast Time: none
+* Range: 750 − 920 (based on level)
+* Active: Aurelion Sol charges for up to 3.25 seconds to exhale a beam of starfire, during which he can steer the beam in the target direction. The beam collides with the first enemy hit to reveal them and deal magic damage every 0.125 seconds, reduced to 50% for other surrounding enemies hit by the beam.
+
+**Magic Damage per Tick:** 5.625 / 7.5 / 9.375 / 11.25 / 13.125 (+ 6.875% AP)
+
+**Reduced Damage per Tick:** 2.8125 / 3.75 / 4.6875 / 5.625 / 6.5625 (+ 3.4375% AP)
+
+* The beam will deal a burst of bonus magic damage for each full second that it damages the same enemy, and generates 2 Stardust if the target is a champion. The damage based on the target's health ratio is capped at 300 against monsters.
+
+**Bonus Magic Damage:** 55 / 65 / 75 / 85 / 95 (+ 30% AP)
+
+**Recast:** Aurelion Sol ends Breath of Light early.
+
+* At rank 5, Breath of Light's channel duration is increased to 160 seconds.
+* Breath of Light cannot be cast for 1 second if the channel is cancelled within the first 0.25 seconds.
+
+**Astral Flight**
+
+**•**
+
+* Cost: 50 / 55 / 60 / 65 / 70 Mana
+* Cooldown: 22 / 20.5 / 19 / 17.5 / 16 seconds
+* Cast Time: 0.4 seconds
+* Target Range: 1200 + 7.5 × Stardust
+* Speeds: 335 + 100% movement speed / 167.5 + 50% movement speed
+* Active: Aurelion Sol dashes in the target direction and resets Breath of Light's cooldown. While in flight, he has unobstructed vision and Breath of Light has no cooldown and maximum channel duration, but Astral Flight's dash speed is reduced by 50% during its channel.
+
+**Breath of Light Flat Damage Modifier:** 108 / 109 / 110 / 111 / 112%
+
+* Aurelion Sol will be knocked down by any immobilizing crowd control during the dash.
+* Astral Flight can be recast after 0.5 seconds during the dash, and does so automatically upon arrival.
+
+**Scoring a champion takedown within 3 seconds of damaging them reduces Astral Flight's current cooldown by 90% of its total cooldown.**
+
+* Astral Flight cannot be used in the first 15 seconds of the game.
+
+**Breath of Light's channel will be interrupted if Astral Flight ends or Singularity is cast during the flight, but the ability will automatically be cast afterwards.**
+
+**Singularity**
+
+**•**
+
+* Cost: 80 / 85 / 90 / 95 / 100 Mana
+* Cooldown: 12 seconds
+* Cast Time: 0.25 seconds
+* Target Range: 750 − 920 (based on level)
+* Effect Radius: √(275² + 16.93² × Stardust) / √(137.5² + 8.46² × Stardust) / √(275² + 16.93² × Stardust) / √(137.5² + 8.46² × Stardust)
+* Active: Aurelion Sol conjures a black hole at the target location after a 0.5-second delay that grants sight of the area and lasts for 5 seconds, dealing magic damage every 0.25 seconds to enemies within. Enemies in the black hole are dragged toward its center over the duration, and non-epic monster targets within the center that are below 5% (± 2.6%) of their maximum health are also executed. Additionally, non-champions affected have their movement speed reduced to 0.
+
+**Magic Damage per Tick:** 2.5 / 3.75 / 5 / 6.25 / 7.5 (+ 5% AP)
+
+**Total Magic Damage:** 50 / 75 / 100 / 125 / 150 (+ 100% AP)
+
+**Map-Specific Differences**
+
+* Singularity: On Howling Abyss, the cooldown is increased to 14 seconds.
+
+**Falling Star**
+
+**•**
+
+* Cost: 100 Mana
+* Cooldown: 120 / 110 / 100 seconds
+* Cast Time: none
+* Target Range: 1250
+* Effect Radius: √(275² + 16.93² × Stardust)
+* Active: Aurelion Sol calls down a star that strikes the target location after 1.25 seconds, dealing magic damage to enemies hit and stunning them for 1 second. This generates 5 Stardust for each enemy champion hit.
+
+**Once Falling Star has been learned, gathering 75 Stardust causes the next cast of Falling Star to transform into The Skies Descend instead, empowering the impact with new effects.**
+
+* Falling Star will cast at max range if cast within 200 units beyond that. During Astral Flight, it will do so at any range beyond the max.
+
+**The Skies Descend**
+
+**•**
+
+* Cost: 100 Mana
+* Cooldown: 120 / 110 / 100 seconds
+* Cast Time: none
+* Target Range: 1250
+* Effect Radius: 5000
+* Active: Aurelion Sol calls down a giant star that strikes the target location after 2 seconds, dealing 25% increased damage in a larger area and knocking up enemies hit for 1 second. Upon impact, a massive shockwave is unleashed which rapidly expands outward from the impact location over 3 seconds, dealing magic damage to enemy champions and epic monsters hit, slowing all enemies hit by 75% for 1 second, and revealing them for 1.5 seconds.
+
+**Magic Damage:** 150 / 250 / 350 (+ 60% AP)
+
+* The Skies Descend will cast at max range if cast within 200 units beyond that. During Astral Flight, it will do so at any range beyond the max.
+* Enemies hit by the star are immune to the shockwave.
+
+**Falling Star Details**
+
+* Aurelion Sol will transform Falling Star into The Skies Descend each time he gathers 75 Stardust from the last time he used the empowered cast, or once he has gathered that amount after learning the ability.
+* Stardust required for transformation is denoted by a progress bar over Falling Star in the HUD.
+* Falling Star will impact immediately upon colliding with projectile-intercepting effects.
+
+**Targeting input**
+
+* Location
+* Damage type
+* Type
+* Sub-type
+* Minion Aggro
+* Magic
+* Counters
+* Spell shield
+* Projectile
+* Blocked
+* See Notes
+
+**Map-Specific Differences**
+
+* Singularity: On Howling Abyss, differences are not listed.
+* Falling Star: Cooldown increased to 14 seconds.
+
+**Champion skins**
+
+* Original
+* Ashen Lord
+* Mecha
+* Inkshadow
+* Porcelain
+
+**Voice filter**
+
+* New SFX/VFX
+* New Animations/Recall
+
+**Chromas**
+
+* Mecha Aurelion Sol Chromas
+* Amethyst
+* Catseye
+* Obsidian
+* Pearl
+* Ruby
+* Sapphire
+* Storm Dragon
+
+**Loot eligible**
+
+* Ashen Lord
+* Evan 'Somnicidal' Monteiro (Infernal)
+* Xu 'Crow God' Cheng (Mecha)
+* Mecha
+* Zuoan Dong, Kudos Productions (Dragonmancers)
+* Porcelain
+* Francis Tneh, West Studio (Porcelain Protector)
+
+**New voiceover**
+
+* New SFX/VFX
+* New Animations/Recall
+
+**New SFX/VFX**
+
+* New voiceover
+
+**New Animations/Recall**
+
+**Patch history**
+
+[
+]
+
+For the expanded patch notes, see [here](https://leagueoflegends.fandom.com/wiki/Aurelion_Sol/Patch_History).
+
+**V14.4**
+
+* Breath of Light
+	+ Burst base damage reduced to 55 / 65 / 75 / 85 / 95 from 60 / 70 / 80 / 90 / 100.
+	+ Burst AP ratio reduced to 30% AP from 35% AP.
+
+**V14.3**
+
+* February 7th Hotfix
+	+ Breath of Light
+		- Stardust stack per champion burst reduced to 2 from 3.
+	+ Astral Flight
+		- Cooldown increased to 22 / 20.5 / 19 / 17.5 / 16 seconds from 15 / 14 / 13 / 12 / 11 seconds.
+	+ Breath of Light
+		- Bonus damage reduced to 8 / 9 / 10 / 11 / 12% from 18 / 20 / 22 / 24 / 26%.
+	+ Cosmic Creator
+		- Bug Fix: No longer can acquire Stardust stacks from Voidmites.
+	+ Breath of Light
+		- Mana cost per second reduced to 30 / 35 / 40 / 45 / 50 from 45 / 50 / 55 / 60 / 65.
+	+ Stardust stack per champion burst increased to 3 from 1.
+	+ Astral Flight
+		- Mana cost reduced to 50 / 55 / 60 / 65 / 70 from 80 / 85 / 90 / 95 / 100.
+	+ Cooldown reduced to 15 / 14 / 13 / 12 / 11 seconds from 22 / 20.5 / 19 / 17.5 / 16 seconds.
+	+ Breath of Light
+		- Bonus damage increased to 18 / 20 / 22 / 24 / 26% from 14 / 15.5 / 17 / 18.5 / 20%.
+	+ Singularity
+		- Stardust stacks per champion and epic monster takedown reduced to 2 from 5.
+		- Stardust stacks per large minion and monster takedown reduced to 2 from 3.
+
+**V13.21**
+
+* Breath of Light
+	+ Base damage per second increased to 45 / 60 / 75 / 90 / 105 from 15 / 25 / 35 / 45 / 55.
+	+ Removed: Damage per second is no longer increased by 30 − 80 (based on level).
+	+ Burst base damage increased to 60 / 70 / 80 / 90 / 100 from 40 / 50 / 60 / 70 / 80.
+	+ Removed: Burst damage is no longer increased by 20 − 30 (based on level).
+	+ Astral Flight
+		- Bug Fix: Dash is no longer immediately cancelled if used against a wall.
+
+**V13.15**
+
+* Singularity
+	+ Bug Fix: Casting it within 200 units of the cast range now automatically casts it at maximum range.
+	+ New Effect: Now casts at maximum range if cast beyond that during Astral Flight.
+	+ Bug Fix: Execution indicator is now properly displayed on enemy clones.
+	+ Bug Fix: Damage over time debuff is now properly removed regardless of which dimension (normal realm and Death Realm) the target is in.
+	+ Bug Fix: No longer deals damage to enemies in the area even after the effect had ended.
+
+**V13.8**
+
+* Falling Star
+	+ Bug Fix: On-hand VFX of Mecha Aurelion Sol and Storm Dragon Aurelion Sol now properly disappears after casting it.
+	+ Updated SFX for champion pick.
+	+ Updated SFX for Storm Dragon and Ashen Lord skins.
+	+ Bug Fix: Mecha Aurelion Sol SFX now properly play at the correct volumes.
+	+ Bug Fix: Now properly displays tooltips for his abilities in the death recap.
+	+ Bug Fix: Melee Aurelion Sol's Q now properly grants Stardust when cast on enemy champions.
+
+**V13.6**
+
+* Astral Flight
+	+ Bug Fix: Cooldown no longer resets from an enemy clone dying within Singularity's area.
+* Singularity
+	+ New Effect: Casting it within 200 units of the cast range now automatically casts it at maximum range.
+	+ New Effect: Now casts at maximum range if cast beyond that during Astral Flight.
+	+ Bug Fix: Execution indicator is now properly displayed on enemy clones.
+	+ Bug Fix: Damage over time debuff is now properly removed regardless of which dimension (normal realm and Death Realm) the target is in.
+	+ Bug Fix: No longer deals damage to enemies in the area even after the effect had ended.
+	+ Cooldown increased to 12 seconds at all ranks from 12 / 11.5 / 11 / 10.5 / 10 seconds.
+	+ AP ratio per tick reduced to 5% AP from 6.25% AP.
+	+ Total AP ratio reduced to 125% AP from 200% AP.
+	+ Stardust stack per epic monster reduced to 5 from 10.
+	+ Stardust stack per large monster reduced to 3 from 5.
+	+ The Skies Descend
+		- Slow reduced to 50% from 75%.
+
+**V13.3**
+
+* Breath of Light
+	+ Burst AP ratio reduced to 40% AP from 50% AP.
+	+ Singularity
+		- AP ratio per tick reduced to 6.25% AP from 10% AP.
+		- Maximum AP ratio reduced to 125% AP from 200% AP.
+	+ Stardust stack per epic monster reduced to 5 from 10.
+	+ Stardust stack per large monster reduced to 3 from 5.
+	+ The Skies Descend
+		- Slow reduced to 50% from 75%.
+* Falling Star
+	+ Bug Fix: Burst damage now properly draws the aggro of nearby enemy minions.
+	+ Bug Fix: Now properly casts automatically after being cancelled from Astral Flight ending or Singularity being cast during the flight.
+	+ Bug Fix: Damage against secondary targets is now properly reduced by half of the damage taken by the primary target.
+
+**V13.3**
+
+* Comprehensive Gameplay Update
+	+ Base attack damage reduced to 55 from 57.
+	+ Base armor increased to 22 from 19.
+	+ Base health reduced to 620 from 645.
+	+ Base health regeneration reduced to 5.55 from 7.
+	+ Base mana increased to 530 from 350.
+	+ Base mana regeneration increased to 8 from 6.
+	+ Attack speed growth increased to 1.5 from 1.32.
+	+ Health growth reduced to 105 from 106.
+	+ Health regeneration growth reduced to 0.55 from 0.6.
+	+ Mana growth reduced to 40 from 50.
+	+ Mana regeneration growth reduced to 0.75 from 0.8.
+	+ Move. speed increased to 335 from 325.
+
+**Cosmic Creator**
+
+* (Innate)
+* Innate: Aurelion Sol's damaging abilities against enemies grant him stacks of Stardust, which improve each of his abilities. The amount of Stardust collected by each ability may vary by target.
+
+**Breath of Light**
+
+* Q
+* Active: Aurelion Sol charges for up to 3.25 seconds to exhale a beam of starfire, during which he can steer the beam in the target direction. The beam collides with the first enemy hit, reveals them, and deals them 3.75 − 11.25 (based on level) (+ 1.875/3.125/4.375/5.625/6.875% AP) magic damage every 0.125 seconds, reduced to 50% for other surrounding enemies hit by the beam.
+
+**For each second that the beam continuously damages the same enemy, it bursts to deal 20 − 40 (based on level) (+ 40/50/60/70/80% AP) (± 0.031% of target's maximum health) bonus magic damage and grants 1 Stardust if the target is a champion.**
+
+**Recast:** Aurelion Sol ends Breath of Light early.
+
+* At rank 5, Breath of Light's channel duration lasts for as long as Aurelion Sol can pay its mana cost.
+* Mana Cost: 22.5/25/27.5/30/32.5 per 0.5 seconds.
+* Cooldown: 3 seconds.
+* Cast Time: None.
+* Range: 750 − 920 (based on level).
+
+**Astral Flight**
+
+* W
+* Active: Aurelion Sol dashes in the target direction and resets Breath of Light's cooldown. While in flight, he has unobstructed vision and Breath of Light has no cooldown and maximum channel duration, but Astral Flight's dash speed is reduced by 50% during its channel. Aurelion Sol will be knocked down by any immobilizing crowd control during the dash.
+
+**Astral Flight can be recast after 0.5 seconds during the dash, and does so automatically upon arrival. Scoring a champion takedown within 3 seconds of damaging them reduces Astral Flight's current cooldown by 90% of its total cooldown.**
+
+* Aurelion Sol will not dash if he is immobilized or grounded during the cast time. He can cast any of his abilities during the dash.
+* Breath of Light's channel will be interrupted if Astral Flight ends or Singularity is cast during the flight, but the ability will automatically be cast afterwards. Astral Flight will cast at max range if cast beyond that.
+
+**Mana Cost:** 80/85/90/95/100.
+
+**Cooldown:** 22/20.5/19/17.5/16 seconds.
+
+**Cast Time:** 0.4 seconds.
+
+**Range:** 1200 + 7.5 × Stardust.
+
+**Speed:** 335 + 100% movement speed / 167.5 + 50% movement speed.
+
+**Singularity**
+
+* E
+* Active: Aurelion Sol blasts the target location, conjuring a black hole after a 0.5-second delay that grants sight of the area, lasts for 5 seconds, and deals 2.5/3.75/5/6.25/7.5 (± 10% AP) magic damage every 0.25 seconds to enemies within. Enemies in the black hole are dragged toward its center over the duration. Non-epic monster targets within the center that are below 5% (± 2.6%) of their maximum health are also executed. Additionally, non-champions affected have their movement speed reduced to 0.
+
+**After Singularity ends, Aurelion Sol is granted 1 Stardust for each continuous second that enemy champions were inside it, and a varying amount of Stardust for enemies that died while within the area:**
+
+* Epic monsters grant 10 Stardust.
+* Champions and large monsters grant 5 Stardust.
+* Large minions grant 3 Stardust.
+* Small minions and monsters grant 1 Stardust.
+
+**Mana Cost:** 60/70/80/90/100.
+
+**Cooldown:** 12/11.5/11/10.5/10 seconds.
+
+**Cast Time:** 0.25 seconds.
+
+**Target Range:** 750 − 920 (based on level).
+
+**Effect Radius:** √(275² + 16.93² × Stardust) / √(137.5² + 8.46² × Stardust) / √(275² + 16.93² × Stardust) / √(137.5² + 8.46² × Stardust).
+
+**Falling Star**
+
+* R
+* Active: Aurelion Sol calls down a star to impact the target location after 1.25 seconds, dealing 150/250/350 (± 65% AP) magic damage to enemies hit and stunning them for 1.25 seconds. Falling Star grants 5 Stardust for each enemy champion hit.
+
+**Once Falling Star has been learned, gathering 75 Stardust causes the next cast of Falling Star to transform into The Skies Descend instead, empowering the impact with new effects.**
+
+**Mana Cost:** 100.
+
+**Cooldown:** 120/110/100 seconds.
+
+**Cast Time:** None, Target Range: 1250, Effect Radius: √(275² + 16.93² × Stardust).
+
+**The Skies Descend**
+
+* R (Enhanced)
+* Active: Aurelion Sol summons an enormous star to impact the target location after 2 seconds, dealing 25% increased damage, exploding in a larger radius, and knocking up enemies hit for 1.25 seconds. Upon impact, a massive shockwave is unleashed which rapidly expands outward from the impact location over 3 seconds, dealing 150/250/350 (± 60% AP) magic damage to enemy champions and epic monsters hit, slowing all enemies hit by 75% for 1 second and revealing them for 1.5 seconds.
+
+**Mana Cost:** 100.
+
+**Cooldown:** 120/110/100 seconds.
+
+**Cast Time:** None, Target Range: 1250, Effect Radius: √(388.91² + 21.85² × Stardust) / 5000.
+
+**Trivia**
+
+[
+]
+
+Aurelion Sol is one of 15 champions that have an ability that infinitely stacks an effect: Bard, Bel'Veth, Cho'Gath, Draven, Kindred, Nasus, Senna, Shyvana, Sion, Smolder, Swain, Sylas, Thresh, and Veigar. In Aurelion Sol's case, Stardust stacks gained through Cosmic Creator permanently increases Breath of Light's bonus magic damage, Astral Flight's range, Singularity's outer and inner radius and execution threshold, and Falling Star and The Skies Descend's effect radius.
+
+The Skies Descend was named after his champion spell of the same name in Legends of Runeterra.
+
+In 'Aurelion Sol: The Star Forger Returns' his hand gesture resembles the old Riot Games Inc. fist intro.
+
+A lot of his animations and visual effects were inspired by celestial objects and atoms.
+
+Aurelion Sol's lower body is not part of his in-game hitbox, which is why it is semi-transparent.
+
+Prior to his CGU, in Ultra Rapid Fire his Center of the Universe passive used to have 6 stars orbiting around him with increased speed, simply by leveling up.
+
+Interestingly, this is the only non-stat modification made to any champion in URF, suggesting this may have originally been an intended feature which was scrapped from the champion before release.
+
+The name of the concept character from which Aurelion Sol spurred from, Ao Shin, could be a reference to Ao Qin, the Dragon King of the South Sea.
+
+References
+
+[
+]
+
+↑ Aurelion Sol's profile page at LeagueOfLegends.com
