@@ -9,7 +9,8 @@ import remarkGfm from 'remark-gfm';
 import ReactMarkdown from 'react-markdown';
 import loadingGif from './assets/loading_1.gif'
 import unsealed from './assets/unsealed.webp'
-
+import { useToast } from "@/components/ui/use-toast"
+import { Toaster } from "@/components/ui/toaster"
 
 const App: React.FC = () => {
   const [inputMessage, setInputMessage] = React.useState<string>('');
@@ -19,6 +20,10 @@ const App: React.FC = () => {
   const [showWelcome, setShowWelcome] = React.useState(true);
 
   const [messageList, setMessageList] = React.useState<Array<{ role: string; content: string }>>([]);
+
+  const [showHeadsUp, setShowHeadsUp] = React.useState(true);
+
+  const { toast } = useToast()
 
   React.useEffect(() => {
     if (isLoading) {
@@ -46,6 +51,15 @@ const App: React.FC = () => {
     if (e instanceof KeyboardEvent && e.key === 'Enter' && !e.shiftKey) {
       e.preventDefault(); // Prevent default to avoid a newline being added in the textarea
     }
+    setIsLoading(true);
+    if (showHeadsUp) {
+      toast({
+        title: "Heads Up!",
+        description: "Your first message will may take longer than usual because the server may be booting up. Please wait.",
+      })
+
+      setShowHeadsUp(false)
+    }
 
     let textToSend = inputMessage;
     if (messageText) {
@@ -56,6 +70,8 @@ const App: React.FC = () => {
       setInputMessage(''); // Clear the input after sending
       setShowWelcome(false); // Hide the welcome message and suggestions
       await sendMessageAndStreamResponse(textToSend, messageList, setMessageList, scrollToBottom, setIsLoading);
+      setIsLoading(false);
+
     }
   };
 
@@ -86,7 +102,7 @@ const App: React.FC = () => {
             {messageList.map((msg, index) => (
               <div key={index}>
                 {msg.role == 'system' ? <div className='text-left px-4 pb-1 font-bold text-sm'>Runeterra AI</div> : <div className='text-left px-4 pb-1 font-bold text-sm'>Summoner</div>}
-                <ReactMarkdown className="markdown-content px-4 text-sm bg-gradient-to-b" remarkPlugins={[remarkGfm]}>
+                <ReactMarkdown className="markdown-content px-4 text-[14px]" remarkPlugins={[remarkGfm]}>
                   {msg.content}
                 </ReactMarkdown>
               </div>
@@ -140,12 +156,25 @@ const App: React.FC = () => {
                 onChange={handleInputChange}
                 placeholder="Type your message..."
                 onKeyDown={handleKeyDown}
+                disabled={isLoading}
+
               />
-              <Button className='ml-4' onClick={handleSendClick}>Send</Button>
+              <Button className='ml-4' onClick={handleSendClick} disabled={isLoading}>Send</Button>
+
+              {/* <Textarea
+                className='flex-1'
+                value={inputMessage}
+                onChange={handleInputChange}
+                placeholder="Type your message..."
+                onKeyDown={handleKeyDown}
+                disabled
+              />
+              <Button disabled className='ml-4' onClick={handleSendClick}>Send</Button> */}
             </div>
           </div>
         </Card>
       </div>
+      <Toaster />
     </ThemeProvider>
   );
 }
