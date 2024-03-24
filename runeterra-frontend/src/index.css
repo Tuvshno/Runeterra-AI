@@ -1,6 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
 @layer base {
   :root {
     --background: 0 0% 100%;
@@ -175,4 +176,13 @@ body {
   background-size: cover; /* This might need adjustment */
   /* Use 'cover' or a specific px value depending on how much you need to zoom */
   background-color: aqua;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }

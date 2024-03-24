@@ -23,7 +23,7 @@ Cho'Gath
 Corki
 Darius
 Diana
-Dr. Mundo
+DrMundo
 Draven
 Ekko
 Elise
@@ -46,13 +46,13 @@ Illaoi
 Irelia
 Ivern
 Janna
-Jarvan IV
+JarvanIV
 Jax
 Jayce
 Jhin
 Jinx
-K'Sante
-Kai'Sa
+KSante
+KaiSa
 Kalista
 Karma
 Karthus
@@ -61,12 +61,12 @@ Katarina
 Kayle
 Kayn
 Kennen
-Kha'Zix
+KhaZix
 Kindred
 Kled
-Kog'Maw
+KogMaw
 LeBlanc
-Lee Sin
+LeeSin
 Leona
 Lillia
 Lissandra
@@ -76,9 +76,9 @@ Lux
 Malphite
 Malzahar
 Maokai
-Master Yi
+MasterYi
 Milio
-Miss Fortune
+MissFortune
 Mordekaiser
 Morgana
 Naafiri
@@ -89,7 +89,7 @@ Neeko
 Nidalee
 Nilah
 Nocturne
-Nunu & Willump
+Nunu
 Olaf
 Orianna
 Ornn
@@ -100,9 +100,9 @@ Qiyana
 Quinn
 Rakan
 Rammus
-Rek'Sai
+RekSai
 Rell
-Renata Glasc
+RenataGlasc
 Renekton
 Rengar
 Riven
@@ -126,7 +126,7 @@ Soraka
 Swain
 Sylas
 Syndra
-Tahm Kench
+TahmKench
 Taliyah
 Talon
 Taric
@@ -135,14 +135,14 @@ Thresh
 Tristana
 Trundle
 Tryndamere
-Twisted Fate
+TwistedFate
 Twitch
 Udyr
 Urgot
 Varus
 Vayne
 Veigar
-Vel'Koz
+VelKoz
 Vex
 Vi
 Viego
@@ -153,7 +153,7 @@ Warwick
 Wukong
 Xayah
 Xerath
-Xin Zhao
+XinZhao
 Yasuo
 Yone
 Yorick

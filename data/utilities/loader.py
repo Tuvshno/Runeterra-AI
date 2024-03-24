@@ -1,6 +1,6 @@
 from llama_index.core.readers import SimpleDirectoryReader
 
-DATA_DIR = "..//documents/Champion Information/"  # directory containing the documents
+DATA_DIR = "..//documents/Runeterra Universe/"  # directory containing the documents
 
 
 def get_documents():

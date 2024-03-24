@@ -1,0 +1,94 @@
+Mageseekers
+
+General Information
+Leader(s)
+ Wisteria
+ Eldred
+Type
+Religious Order
+Purpose
+Containing magic within  Demacia
+Imprisoning mages
+Status
+Disbanded by royal decree
+
+The  Mageseekers were a  Demacian order tasked with containing magic within the country.
+
+
+Lore
+Despite Demacia being founded by mages and non-mages alike, there were those who seeked to gain power within the nation. Over time they would turn the people against magic, beginning Demacia's crusade against magic and lead to the creation of the Mageseekers. The Mageseekers were an organization tasked with hunting down mages, securing magical artifacts, and accompanying any magical envoys during their stay in the kingdom. If "magical affliction" is noticed in children, they were registered under the Laws of Stone and required to follow its tenets or were given the opportunity to work as Mageseekers themselves.  Sylas was one such Mageseeker, being convinced by his parents to give himself up to the order. His magical talents were proven useful in tracking down and securing numerous mages until an incident with a young mage's power caused the death of two Mageseekers and the mage, leading to his imprisonment.
+
+The late King  Jarvan III wrote a royal decree that would disband the Mageseekers and release the mages within their custody, but was assassinated before he could do so. His son,  Jarvan IV, found the letter and tore it up, blaming Sylas for his father's death. After the death of the king and Sylas's escape, the Mageseekers began to escalate their oppression of mages in Demacia. Sylas's rebellion waged guerilla warfare against the Mageseekers, raiding their outposts and freeing their prisoners. His army would lead an assault against the capital and slay Eldred Crownguard, the leader of the Mageseekers. Commander Wisteria would assume his post and pressured the new king to warrant the execution of mages. During one of these executions, Sylas's rebels intervened and revealed the truth about Demacia's origins and how people like the Mageseekers twisted it to gain more power. With their lies revealed, public favor turned against the Mageseekers and their growing zeal.
+
+After the Battle of Terbisia, King Jarvan IV followed through with his late father's wishes and disbanded the Mageseekers.
+
+Related Champions
+ Garen is the nephew of  Eldred, the leader of the Mageseekers. Fought  Sylas after his escape.
+ Jarvan IV is the king of Demacia and commands all military factions within Demacia, including the Mageseekers. After  Shyvana's departure, he realized the true threat of the Mageseekers and disbanded them.
+ Lux is the niece of  Eldred, the leader of the Mageseekers, and frequently visited  Sylas during his imprisonment.
+ Morgana aided Sylas in defeating the Mageseekers by giving him her blessing.
+ Shyvana was imprisoned by the Mageseekers prior to  Viego's invasion, leaving her disillusioned with Demacia and accepting her  ruination. After being freed, she left Demacia knowing that the Mageseekers would disapprove of her. However, after  Jarvan IV disbanded the Mageseekers, she returns to Demacia.
+ Sylas was a former Mageseeker, but was imprisoned by them after an incident resulted in the death of several Mageseekers. Years later, he would escape from his prison and lead a rebellion against them.
+ Sona was pursued by Mageseekers during a concert.
+Culture
+Clothing
+Mageseeker Masks: Mageseekers wear half-masks to signify they are acting on behalf of the throne of Demacia and not under their normal social or military roles. Mageseekers are not ashamed by what they do to keep Demacia safe from magic and thus do not conceal their identities.[1]
+ Petricite Graymarks: Badges used by Mageseekers to detect and nullify magic.
+Mageseeker Handbook
+Petricite Graymark
+
+The Mageseeker handbook is the main guide that all mageseekers must abide by.
+
+“	
+Long ago, the wild magicks of the Rune Wars brought all Runeterra to its knees. Thus, our order was created to protect our kingdom by ridding it of magic, whether abroad or within.[2]
+Arcane items have undeniable intrigue. But these objects of power are best left to the capable hands of our experts, and away from the well-meaning ignorance of our citizens.[3]
+Your petricite Graymark is your primary safeguard against magic, a symbol of our responsibilities, and a reminder to others of our authority. Honor it above all else.[4]
+
+Mageseeker Compounds
+A Mageseeker Compound with a Petricite Pillar
+
+The headquarters of the Mageseekers. They are protected by petricite obelisks that can absorb the magic of even the strongest mages. Notable compounds include: Clarion Cove, a lab where Chief Scientist Hesbeth conducted his experiments; Capelworth, an armory within a petricite tree that housed most of Demacia's arsenal; and Ternmoat, a spellcrafting lab where the Mageseekers sought to create their own petricite colossus. The Magseekers store their most dangerous artifacts within their vaults and imprison detained mages with their dungeons. Compounds also house the various experiments of the Mageseekers including: unstable spells stored within petricite, petricite colossi, and amalgamations between mages and animals.
+
+Failed Experiment
+Mystic Experiment
+Storm Experiment
+Nature Experiment
+Wind Experiment
+Giant's Helm
+
+Mageseeker Mages
+Despite persecuting magic, the Mageseekers had numerous mages within their ranks. Being a Mageseeker was the only way for a mage to be safely accepted as a citizen of Demacia. Many mages were recruited at a young age and indoctrinated with the philosophy of the Mageseekers, sometimes leading to great self-loathing. Young mages are supplied with petricite potions to temper their magical affliction and were mentored by the senior mages within the order. Those who refused to become Mageseekers or could not control their powers were imprisoned like every other mage. A notable mage who achieved high-standing in the order was Commander Wisteria, who succeeded Eldred as the leader of the Mageseekers after his death.
+
+Fire Mageseeker
+Ice Mageseeker
+Nature Mageseeker
+Wind Mageseeker
+Elite Fire Mageseeker
+Elite Ice Mageseeker
+Elite Nature Mageseeker
+Elite Wind Mageseeker
+Elite Storm Mageseeker
+Elite Mystic Mageseeker
+Government
+Members
+Notable Mageseekers
+Lord  Eldred †	Leader of the Mageseekers. Husband of High Marshal  Tianna Crownguard.
+Senior Adept  Hesbeth †	Head Scientist of the Mageseekers. Experimented with combining mages with animals and attempted to create a petricite colossus loyal to the Mageseekers.
+Senior Adept  Wisteria †	A Mageseeker Commander; Mentored by Killan alongside Sylas. Assumed leadership of the Mageseekers after Eldred was killed by Sylas.
+Adept Aldrich Lowe	A Mageseeker who wants all mages expunged in fear of another Rune War.
+Adept Arno	A Mageseeker that escorted the representative of Arbormark.
+Senior Adept Cadstone	A Mageseeker that escorted the representative of Arbormark.
+Adept Darian Houndell	A Mageseeker who arrested several elderly mages, but recommended their release since he did not see how detaining them benefited the community. His superior reported him for insubordination.
+Junior Adept  F. Falden	A Junior Mageseeker Inciter. Believes the game Tellstones is secretly magical conspiracy.
+Adept  Gideon	A former Mageseeker. Defected to Sylas' rebellion after they imprisoned his husband Benjiro, a mage.
+Adept Ingrid	A Mageseeker Investigator planted as a midwife to find unregistered mages.
+Senior Adept  Killan †	A Mageseeker who mentored Sylas and Wisteria. Helped Sylas escaped from the Great City. Later transformed into a monster by Hesbeth and was killed by Sylas.
+Adept Marsino †	A Mageseeker slain by young Sylas.
+Adept  Rayn	A young Mageseeker mentored by Wisteria. Defected to Sylas' rebellion after the battle of Terbisia. Possesses the magical ability to project one's fears.
+Adept  Sylas of Dregbourne	A former Mageseeker; Mentored by Killan alongside Wisteria. Currently a mage fugitive and revolutionary leader.
+Adept Vannis †	A Mageseeker slain by young Sylas.
+ Unnamed Adept	A Mageseeker tasked in collecting dangerous magical artifacts.
+ Unnamed Adept	A Mageseeker tasked at battling against mages.
+ Unnamed Adept	A Mageseeker tasked at investigating whereabouts of mages.
+ Unnamed Adept	A Mageseeker tasked at indoctrinating the crowd against mages.
+ 
