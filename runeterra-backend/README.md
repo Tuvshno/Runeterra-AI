@@ -1,4 +1,4 @@
-This is a [LlamaIndex](https://www.llamaindex.ai/) project using [FastAPI](https://fastapi.tiangolo.com/) bootstrapped with [`create-llama`](https://github.com/run-llama/LlamaIndexTS/tree/main/packages/create-llama).
+This is a [LlamaIndex](https://www.llamaindex.ai/) project using [FastAPI](https://fastapi.tiangolo.com/).
 
 ## Getting Started
 
@@ -19,8 +19,7 @@ Example `.env` file:
 OPENAI_API_KEY=<openai_api_key>
 ```
 
-Second, generate the embeddings of the documents in the `./data` directory (if this folder exists - otherwise, skip this step):
-
+Second, generate the embeddings of the documents in the `./data` directory:
 ```
 python app/engine/generate.py
 ```
@@ -48,11 +47,3 @@ The API allows CORS for all origins to simplify development. You can change this
 ```
 ENVIRONMENT=prod python main.py
 ```
-
-## Learn More
-
-To learn more about LlamaIndex, take a look at the following resources:
-
-- [LlamaIndex Documentation](https://docs.llamaindex.ai) - learn about LlamaIndex.
-
-You can check out [the LlamaIndex GitHub repository](https://github.com/run-llama/llama_index) - your feedback and contributions are welcome!
